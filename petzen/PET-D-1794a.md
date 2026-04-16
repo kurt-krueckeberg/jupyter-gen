@@ -1,0 +1,79 @@
+# 1794 Friderich Wilhelm Krückeberg-Croemer Burial
+
+## Family Relationship and Other Facts
+
+1794 Friderich Wilhelm Krückeberg Burial
+
+::: {list-table}
+:widths: 1 1 1 1 1 1
+:header-rows: 1
+
+* - Child
+  - Father
+  - Mother
+  - Date of Burial
+  - Age
+  - Residence
+* - Friderich Wilhelm Krückeberg
+  - Johann Heinrich Krückeberg
+  - Anne Catherine Crömer
+  - 29 May 1794
+  - 3 1/4  years old
+  - no. 19 Evesen
+:::
+
+## Citation
+
+The burial of Friderich Wilhelm Krückeberg-Croemer, on May 29 1794, is on
+[page 485](PET-D-1794a)
+
+```{important}
+Croemer is the same as Crömer and Krömer.
+```
+
+### Page 485
+
+Overview:
+
+```{image} images/petzen-band2-img230-overview.jpg
+:class: antora-self-link
+```
+
+Page 485, entry 16:
+
+```{image} images/petzen-band2-img230-entry16.jpg
+:class: antora-self-link
+```
+
+## Transliteration and Translation
+
+Transliteration of page 485, entry 16
+
+```{code-block} text
+
+16) d 29 ist beerdigt Friderich Wilhelm Kruckeberg:Croemer des Johann
+        Heinrich Krückebergs
+Heinrich Cromers aus Evesen no 19 mit seiner ehefrau
+Anne Catharine Sophie geb. Crömern erzeugter Sohn.
+Seine Krankheit war der Husten u. Schwächgen[?]  sein alter
+war 3 und 1/4 Jahr.
+
+16) the 29th [of May: see entry 14] Friderich Wilhelm Kruckeberg-Croemer was buried
+     the begotten son of Johann Heinrich
+     Krückebergs ["Krückebergs" is written above "Crömers"]
+     Cromers from Evesen no 19 and his wife
+     Anne Catharine Sophie née Crömer.
+     His illnes was coughing[literally: the cough] and [continuing weakness]. His age
+     was 3 and 1/4 years.
+```
+
+## Citations
+
+[PET-D-1794a] "Archion Protestant Kirchenbücher Portal", database
+with images, *Archion* ([http://www.archion.de/p/715d70f09b/: 10 October
+2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827 > Image 230 of 357](http://www.archion.de/p/715d70f09b/)
+
+

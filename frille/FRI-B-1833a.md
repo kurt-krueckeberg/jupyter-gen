@@ -1,0 +1,87 @@
+# 1833 Sophie Luise Leonore Bleeke Birth
+
+This record is from the
+[Landesarchiv
+NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
+Minden, Nr. B 168 Jg. 1831-1845.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763)
+
+```{image} images/carl-f-bleeke/sophie-luise-leonore-bleeke-1833-birth.png
+:class: antora-self-link
+```
+
+## Transliteration and Translation
+
+Transliteration of Sophie Luise Leonore Bleeke 1833 Birth
+
+```{eval-rst}
+.. flat-table::
+   :header-rows: 1
+
+   * - Geborene und Getaufte im Jarhe 1833
+   * - **Nro.**
+     - **Tauf-Name des Kindes.**
+     - **Tag und Stunde der Geburt in Buchstaben und Ziffern.**
+     - **Ob es ehelich oder unehelich.**
+     - **Vor- and Zuname des Vaters, auch Stand desselben**
+     - **Vor- und Zuname der Mutter.**
+     - **Wohnort der Eltern**
+     - **Tag der Taufe.**
+     - **Namen des Predigers, der es getauft.**
+     - **Name der Taufzeugen**
+   * -                8             
+     -                Sophie Luise Leonore Bleeke             
+     -                Vierten (4) März Morgs dreÿ (3) Uhr in Leeteln             
+     -                Ehelich             
+     -                Carl Friederich Bleeke Col. v[on]  No. 13 in Leeteln             
+     -                Marie Luise geb. Nie mann aus Todten- hausen.             
+     -                Leeteln No. 13             
+     -                Zehnten (10) März             
+     -                Schütz             
+     -                1) Sophie† Charlotte †Christine Wehmeier 2) Sophie Luise Friedericke Steinmeÿer             
+```
+
+```{important}
+The child’s name reads as **Johann Hartweg**. The **e** is clear and there is no dot above it; however, **Hartweg** is
+unattested as a given name in contemporary sources, while **Hartwig** is standard in Westphalia. Also the godfather’s
+given names includes **Harwig**. Did th scribe inadvertently write **Hartweg** for **Harwig**?
+```
+
+Translation  of Sophie Luise Leonore Bleeke 1833 Birth
+
+```{eval-rst}
+.. flat-table::
+   :header-rows: 1
+
+   * - Births and Baptims in 1833
+   * - **Num.**
+     - **Baptism-Name of the child.**
+     - **Day and Hour of the Birth (in words and numbers).**
+     - **Whether it is legitimate or illegitimate**
+     - **Given and Surname of the Father, and his Status.**
+     - **Given and Surname of the Mother.**
+     - **Dwelling Place of the Parents**
+     - **Baptism Day**
+     - **Name of the Pastor who baptized child.**
+     - **Baptismal Sponsors**
+   * - 8
+     - Sophie Luise Leonore Bleeke
+     - fourth (4) Marche three (3) a.m. in Leeteln
+     - legitimage
+     - Carl Friederich Bleeke colonist (farmstead holder) of No. 13 in Leeteln
+     - Marie Luise nee Niemann aus Todtenhausen.
+     - Leeteln No. 13
+     - tenth (10) March
+     - Schütz
+     - 1) Sophie† Charlotte †Christine Wehmeier 2) Sophie Luise Friedericke Steinmeier
+```
+
+## Citation
+
+Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed “Geborne und Getaufte im Jahr
+1833 Kirchspiel Frille königlich Preussichen Anteil” [sic.], Nr. 8, Sophie Luise Leonore Bleeke, born 4 March 1833,
+baptized 10 March 1833, son of Carl Friederich Bleeke and Marie Luise geb. Niemann; Landesarchiv Nordrhein-Westfalen,
+Abteilung Ostwestfalen-Lippe (Detmold), Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815–1833);
+digital images, Archivsuche – Archive in NRW (DFG-Viewer), Image 36 of 210 (accessed 18 September 2025);
+duplicate register; provenance: Land- und Stadt- bzw. Kreisgericht Minden.
+
+

@@ -1,0 +1,79 @@
+# 1827 Christine Luise Bleeke Birth
+
+This record is from
+[Landesarchiv NRW
+Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des
+Regierungsbezirks Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820)
+
+```{image} images/christian-f-bleeke/christine-luise-bleeke-1827-birth.png
+:class: antora-self-link
+```
+
+## Transliteration and Translation
+
+Transliteration of Christine Luise Bleeke 1827 Birth
+
+```{eval-rst}
+.. flat-table::
+   :header-rows: 1
+
+   * - Geborne und Getaufte im Jarhe 1827
+   * - **Nro.**
+     - **Tauf-Name des Kindes.**
+     - **Tag und Stunde der Geburt in Buchstaben und Ziffern.**
+     - **Ob es ehelich oder unehelich.**
+     - **Vor- and Zuname des Vaters, auch Stand desselben**
+     - **Vor- und Zuname der Mutter.**
+     - **Wohnort der Eltern**
+     - **Tag der Taufe.**
+     - **Namen des Predigers, der es getauft.**
+     - **Name der Taufzeugen**
+   * -                49             
+     -                Christine Luise Bleeke.             
+     -                Neunzehnten (19) Decbr. Abenbds fünf (5) Uhr zu Leeteln             
+     -                ehelich             
+     -                Christian Friederich Bleeke, Einlieger beÿ No. 11 in Leeteln             
+     -                Christine Luise Leonore Krükkeberg aus Berenbusch             
+     -                Leeteln             
+     -                drei und zwanzigsten (23) Decbr.             
+     -                Schütz             
+     -                Christine Marie Bleeke.             
+```
+
+Translation of Christine Luise Bleeke 1827 Birth
+
+```{eval-rst}
+.. flat-table::
+   :header-rows: 1
+
+   * - Births and Baptisms in the year 1827
+   * - **No.**
+     - **Baptismal name of the child.**
+     - **Day and hour of birth (in words and numbers)**
+     - **Whether legitimate or illegitimate**
+     - **Given and surname of the father, also his Status**
+     - **Given and surname of the mother**
+     - **Residence of the Parents**
+     - **Day of baptism**
+     - **Name of the minister**
+     - **Name of Godparents**
+   * - 49
+     - Christine Luise Bleeke
+     - nineteenth (19) Dec. five (5) p.m. at Leeteln
+     - legitimate
+     - Christian Friederich Bleeke, Einlieger at No. 11 in Leeteln
+     - Christine Luise Leonore Krükkeberg from Berenbusch
+     - Leeteln
+     - twenty third (23) December
+     - Schütz
+     - Christine Marie Bleeke
+```
+
+## Citation
+
+Evangelische Gemeinde Frille, Kreis Minden, "Geborne und Getaufte im Jahr 1827" [sic.], entry #49 for Christine Luise Bleeke,
+born 19 Dec. 1827, Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
+Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
+Digital images: Landesarchiv NRW, [https://www.archive.nrw.de (accessed 6 December 2025).](https://www.archive.nrw.de)
+
+

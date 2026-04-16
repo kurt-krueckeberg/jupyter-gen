@@ -1,0 +1,91 @@
+# 1833 Sophie Luise Kruckeberg Marriage
+
+This record is from the
+[Landesarchiv NRW Abteilung Ostwestfalen-Lippe
+P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763&mandant=10003)
+
+TODO: Change all; this  from other record:
+
+```{image} images/FRI-M-1833a.png
+:class: antora-self-link
+```
+
+Transliteration of 1833 Marriage of …​..??????
+
+```{eval-rst}
+.. flat-table::
+   :header-rows: 1
+
+   * - **Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne Nummer eingetragen werden.) im Jahr 1826.**
+   * - **Nro.**
+     - **Vor- und Zunamen des Bräutigum.**
+     - **Stand und Wohnort des Vaters**
+     - **Alter des Bräuti- gams.**
+     - **Ob Eltern oder Vormund die Einwilligung gegeben, und wie solches geschehen.**
+     - **Ob er schon verehelicht gewesen und wie die Ehe getrennt worden.**
+     - **Vor- und Zuname der Braut.**
+     - **Namen, Stand und Wohnort des Vaters der Braut.**
+     - **Alter der Braut.**
+     - **Ob Eltern oder Vormund die Ein- willingung gegeben, und wie solches geschehen.**
+     - **Ob sie schon verehelicht gewesen und wie die Ehe getrennt worden.**
+     - **Tag der Kopulation mit Buchstaben und Ziffern.**
+     - **Name des Predigers, der die Kopulation verrichtet.**
+   * -              7           
+     -              Christian Friede- rich Bleeke, Ein- lieger in Leeteln           
+     -              Christian Friederich Blee- ke Col[o]n No. 1[3] in Leeteln           
+     -              25 Ja.           
+     -              Mündig           
+     -              Unvereh- licht           
+     -              Luise Eleonore Krückeberg           
+     -              Jobst Heinrich Krückeberg colonist (farmstead holder) No. 10 in Bärenbusch           
+     -              30 Ja.           
+     -              Mündig           
+     -              Unvereh- licht           
+     -              Sechs und zwan- zigsten (26) Novemb.           
+     -              v. z. Pr. Schütz           
+```
+
+Translation of 1826 Marriage of Christian Friedrich Bleeke to Luise Leonore Krückeberg
+
+```{eval-rst}
+.. flat-table::
+   :header-rows: 1
+
+   * - Proclaimed (banns) and Married in the year 1820
+   * - **No.**
+     - **Groom’s first and last name.**
+     - **Father’s social status and place of residence**
+     - **Groom’s age.**
+     - **Whether parents or guardians gave their consent, and how this happened.**
+     - **Whether he was already married and how the marriage was dissolved.**
+     - **Bride’s first and last name.**
+     - **Name, social status, and place of residence of the bride’s father.**
+     - **Bride’s age.**
+     - **Whether parents or guardians gave their consent, and how this happened.**
+     - **Whether they were already married and how the marriage was dissolved.**
+     - **Date of marriage (in words and numbers).**
+     - **Name of the preacher performing the marriage.**
+   * - 7
+     - Christian Friederich Bleeke, Einlieger in Leeteln
+     - Christian Friederich Bleeke colonist (farmstead holder) No. 1[3] in Leeteln
+     - 25 years
+     - verbally
+     - unmarried
+     - Luise Eleonore Krückeberg
+     - Jobst Heinrich Krückeberg colonist (farmstead holder) No. 10 in Bärenbusch
+     - 30 years
+     - verbaly
+     - unmarried
+     - twenty six (26) Nov.
+     - v. z. Pr. Schütz
+```
+
+## Citation
+
+Evangelische Gemeinde Frille, Kreis Minden, “Aufgebotene und Getraute im Jahr 1826, Kirchspiel Frille,”
+entry for Christian Friederich Bleeke and Luise Eleonore Krückeberg, 26 Nov. 1826,
+Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
+Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
+Digital images: Landesarchiv NRW, [https://www.archive.nrw.de (accessed 6 December 2025).](https://www.archive.nrw.de)
+
+
