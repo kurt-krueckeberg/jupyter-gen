@@ -112,7 +112,7 @@ project:
       children:
         - file: buchholz/BUC-B-1804a.md
 
-    - file: krückeberg.md
+    - file: petzen/krückeberg.md
       children:
         - file: petzen/PET-B-1696a.md
         - file: petzen/PET-M-1727a.md
