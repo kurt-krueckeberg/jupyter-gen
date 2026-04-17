@@ -1,4 +1,5 @@
 # Build output
+build-errors.txt
 _build/
 _site/
 
