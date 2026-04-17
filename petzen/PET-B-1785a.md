@@ -1,0 +1,53 @@
+# 1785 Philippiine Louise Weiland Baptism
+
+## Citations
+
+Philippine Louis Weiland’s baptism is found on [image 34, page 62](PET-B-1785a)
+
+## Philippine Louise Weiland 1785
+
+On 10 July 1785 Philippina Louise Weiland was baptized, the daughter of Friederich Wilehlm Weilands from Evesen and his wife
+Philippine. The sponsor was Philippine Maria Beuken of Meinsen.
+
+### Image 34, 1785, page 62, entry 29
+
+This entry of the birth of Philippine Louise Weiland, in 1785, occurs on the left hand page, page 62.
+
+```{image} images/petzen-band2-img34.jpg
+:class: antora-self-link
+```
+
+Baptism entry no. 29 for Philippine Louise Weiland
+
+```{list-table}
+
+* - 
+                    62                 Getaufte Aoo 1785
+                  
+* - 29) d 10ten Jul: ist Philippina Louise Weilands
+    des Friederich Wilehlm Weilands aus Evesen
+    Einlieger mit seiner Frau Philippine Witwe
+    [Scheifer] ge[boren] Watermans erzeugte Tochteer
+    getauft. Gevatterin war Philippine
+    Maria Beuken Meinsen gebürtig[native; by birth]
+```
+
+Baptism entry no. 29 for Philippine Louise Weiland
+
+```{list-table}
+
+* - 
+                    62                 Baptisms Anno 1785
+                  
+* - 29) On 10th Jul: Philippina Louise Weilands was baptized
+    the conceived daughter of Friederich Wilehlm Weilands from Evesen
+    a free farm laborer and his wife Philippine widow[widowed]
+    [Scheifer] née Waterman.
+    Godmother was Philippine
+    Maria Beuke Meinsen native-born
+```
+
+## Citations
+
+[PET-B-1785a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/5d50809b33/: 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 34 of 357](http://www.archion.de/p/5d50809b33/)
+

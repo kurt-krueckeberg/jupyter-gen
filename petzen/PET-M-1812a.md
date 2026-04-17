@@ -1,0 +1,252 @@
+# 1812 Marie Philippine Krückeberg Marriage
+
+## Family Relationship and Other Facts
+
+May 10, 1812 Marriage
+
+```{list-table}
+:header-rows: 1
+
+* - 
+  - Name
+  - Address (at time of marriage)
+  - Age
+  - Religion
+* - **Groom**
+  - Friedrich Wilhelm Raulfing
+  - No. 13 Bärenbusch
+    (assumed. See note)
+  - 23
+  - Lutheran
+* - **Bride**
+  - Maria Philippine Krückeberg
+  - no. 10 Bärenbusch
+    (assumed. See Note)
+  - 18
+  - Lutheran
+* - **Groom’s Father**
+  - Albert Raulfing (deceased)
+  - No. 13 Bärenbusch
+  - 
+  - 
+* - **Bride’s Father**
+  - Johann Heinrich Krückeberg
+  - 10 in Bärenbusch
+  - 
+  - 
+```
+
+```{note}
+In 19th-century German church records:
+
+- Individuals were often identified by village and house number associated with the head of household — usually the father.
+- This applied to both deceased and living fathers, and often included professions (like "Leibzüchter") or inheritance status
+(like "Anerbe").
+- Even if the son or daughter still lived at that house, the address is still formally associated with the father in these
+records.
+```
+
+Nachträge for Groom Friedrich Wilhelm Raulfing
+
+```{list-table}
+:header-rows: 1
+
+* - Birth
+  - Death
+* - 13 July 1788
+  - 5 Dec. 1859
+```
+
+Nachträge for Bride Marie Philippine Krückeberg
+
+```{list-table}
+:header-rows: 1
+
+* - Birth
+  - Death
+* - 1794 in Steinbergen
+  - 14 Feb. 1866
+```
+
+Facts for Groom Friedrich Wilhelm Raulfing’s Father
+
+```{list-table}
+:header-rows: 1
+
+* - Name
+  - Status
+  - Address
+* - Albert Raulfing
+  - Deceased
+  - no. 13 Bärenbusch
+```
+
+Facts for Bride Marie Philippine Krückeberg’s Father
+
+```{list-table}
+:header-rows: 1
+
+* - Name
+  - Address
+  - Status
+* - Johann Heinrich Krückeberg
+  - 10 in Bärenbusch
+  - Pensioner allowed to live on the property
+```
+
+## Citation
+
+The marriage record is on [image 27, on pages 48 and 49](PET-M-1812a)
+
+## Pages 48 and 49
+
+Page 48 portion:
+
+```{image} images/petzen-band2-img27-left-2.jpg
+:class: antora-self-link
+```
+
+Page 49 portion:
+
+```{image} images/petzen-band2-img27-right-2.jpg
+:class: antora-self-link
+```
+
+```{note}
+- **hinterlassen** — is a verb meaning: to leave something to somebody, to bequesth something, to leave somebody a legacy of
+something; to leave hind. As an adjective is can mean "bereaved" or "survivor (of someone deceased)". **hinterlassener** would
+be the adjective form used for a male survior: ein hinterlassener Sohn (a surviving son).
+- **Anerbe** — is defined in [dict.cc as:](https://www.dict.cc/?s=Anerbe)
+  - principal heir[to a landed estate]
+  - single heir.
+    **Anerbe** comes from **Anerbenrecht**, which is:
+    "inheritance law keeping farms intact (in northern Germany and old Bavaria)." — from Thode’s German-English Genealogical Dictionary
+    Chatgpt explained how **Anerbenrecht** operated in Schaumburg-Lippe:
+    > In 1826, in Schaumburg-Lippe, "Anerbe" had a specific legal and social meaning
+    > rooted in German inheritance practices. Here’s what it meant in your context:
+    >
+    > - Anerbe refers to the designated heir (often the eldest son, but not always) who
+    > inherits the entire farm or family estate.
+    > - This was part of the tradition of Anerbenrecht (hereditary right of
+    > succession), which was common in rural parts of Germany, especially in northern
+    > and central regions like Schaumburg-Lippe.
+    > - Instead of dividing property among all children (which would fragment farms
+    > into uselessly small plots), one heir (the "Anerbe") would inherit the main
+    > estate to keep it intact. Other siblings were typically given monetary
+    > settlements or other smaller arrangements ("Abfindung").
+    > - The Anerbe took on responsibility for supporting aging parents and sometimes
+    > helping siblings until they could establish themselves elsewhere.
+    >
+    > In a Kirchenbuch entry, if someone is called an "Anerbe," it likely signals
+    > that:
+    >
+    > - He was the successor to a farmstead or property.
+    > - He had a certain social and financial standing in the village.
+    > - His status could affect marriage prospects, taxes, and legal responsibilities.
+- **Benner** — Thode’s defines this as: cooper.
+- **Leibzüchtner**(male)/**Leibzüchtnerin**(female) — Thode’s definition is: "person on life estate". He defines Leibzucht as: "life annuity; pension; life estate".
+See this more detailed explantion: [What is a Lieftucht/Leibzucht?.](https://christofspannhoff.wordpress.com/2015/04/17/was-ist-eine-lieftuchtleibzucht/)
+```
+
+Marriage entry No. 3.
+
+```{list-table}
+:header-rows: 1
+
+* - Zahl
+  - Name, Stand, Religion
+    und Eltern des Bräutigams
+  - Name, Religion
+    Geburts u. Wohnort
+    der Braut
+  - Zeit und Ort
+    der Proclamation
+  - Zeit u. Ort
+    der Kopulation
+  - der kopu
+    lirende
+    Prädiger
+  - Kopulations
+    Zeugen
+  - Bemerkungen
+* - 3.
+  - Junggeselle Friedrich Wil-
+    helm Raulfing, [Sohn] des verstor-
+    benen Albert Raulfing n. 13
+    in Bärenbusch hinlerlaßener
+    Sohn und Anerbe Luth. Conf.
+    und jetzt 23 Jahre alt
+    geb. 13.7.88 gestr. 5.12.59
+  - Jungfrau Marie Phi-
+    lippine Krückebergs Tochter des Johann Hein-
+    rich Krückeberg Leib
+    züchters aus n.10 in Bären
+    busch. Luth. Conf. u. jetzt
+    18 Jahr alt. geb. 1794 in Steinbergen
+    gest 14.2.66
+  - Sind in der Kirche zu
+    Petzen proclamiert
+    d. 8ten 15ten 28[29?] März
+  - u. Kopuliert d. 10ten
+    Maÿ
+  - von dem zeitigen
+    Prädiger Stille
+  - in Gegenwart
+    der Beichentende
+    des Küster
+    Crömer
+  - [empty of text]
+```
+
+Marriage entry No. 3.
+
+```{list-table}
+:header-rows: 1
+
+* - No.
+  - Name, Occupation, Religion,
+    Parents des Bräutigums
+  - Name, Religion
+    Birthplace and Residence
+    of the Bride
+  - Time and Place
+    of the Proclamation
+  - Time and Place
+    of the Marriage
+  - The offi-
+    ciating Minister
+  - Marriage Witnesses
+  - Remarks
+* - 3.
+  - Bachelor Friedrich Wil-
+    helm Raulfing, surviving son and Anerbe of the late
+    Albert Raulfing n. 13
+    in Bärenbusch. Luth. Conf.
+    and now 23 years old
+    born 7/13/88 died 12/5/59
+  - Maiden Marie Phi- 
+    lippine Krückeberg daughter of Johann Hein-
+    rich Krückeberg on life estate
+    from.10 in Bären
+    busch. Luth. Conf. and now
+    18 years old. born. 1794 in Steinbergen
+    died 14.2.66
+  - Were announced in the church at
+    Petzen proclamiert
+    d. 8th, 15thn 28th March
+  - and married the 10th
+    May
+  - by the current
+    pastor Stille
+  - in presence
+    of the Confessing
+    and of the parish clerk/sacristan
+    Crömer
+  - [empty of text]
+```
+
+## Citations
+
+[PET-M-1812a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/e8f8a097b9/: 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 27 of 357](http://www.archion.de/p/e8f8a097b9/)
+

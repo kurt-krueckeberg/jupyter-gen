@@ -1,0 +1,87 @@
+# 1731 Heinrich Arend Vahlsing Death
+
+## Citation
+
+The 3 Jan. 1730 burial record of Heinrich (Arends) Vahlsing is found on
+[image 147](PET-D-1730a)
+
+## Image
+
+```{image} images/petzen-band1b-img147.png
+:class: antora-self-link
+```
+
+## Transliteration and Translation
+
+Transliteration
+
+```{code-block} text
+
+Anno 1731
+
+den 3t. Januarÿ ist Henrich Vahlsing gewesener
+32 jähriger Schäfer auß dem Hochgr[äflichen]
+Vorwerde Höckersau begraben seines alters 63 Jahr
+```
+
+:::{admonition} Hochgräflichen Vorwerde Höckersau
+
+**Meaning in context**
+
+In this 1731 Petzen death record, **“Hochgräflichen Vorwerde Höckersau”**
+refers to a **manorial outlying farm (Vorwerk) belonging to the high
+comital (i.e., ruling count’s) estate**, located at or called
+**Höckersau***.
+
+A precise breakdown:
+
+- **Hochgräflich(en)** — Literally “high-comital.” This denotes ownership by the **reigning Graf
+(Count)** of Schaumburg-Lippe. In parish records, this adjective signals
+**sovereign or comital domain property**, not a private noble or peasant
+holding.
+- **Vorwerde / Vorwerk** — An **outlying estate or farm** administratively
+attached to a main manor or domain (often supplying grain, livestock, or
+labor). Vorwerke were commonly staffed by shepherds, farmhands, and
+overseers rather than independent farmers.
+- **Höckersau** — The **specific place-name** of that Vorwerk. In
+Schaumburg-Lippe usage, such names often designated a small settlement,
+estate complex, or cleared area associated with comital landholding.
+
+Henrich Vahlsing was a **shepherd employed at the comital Vorwerk
+Höckersau***, i.e., a shepherd in service to the **Count’s domain**, not a
+village farmer or householder in Petzen itself.
+
+**Smooth English rendering**
+
+A historically faithful translation would be:
+
+> “from the **High-Comital Vorwerk of Höckersau**”
+
+or slightly more explanatory:
+
+> “from the **comital outlying estate (Vorwerk) at Höckersau**”
+
+This phrasing accurately conveys **status (sovereign ownership)**,
+**function (estate farm)**, and **location (Höckersau)** as understood in
+early-18th-century Schaumburg-Lippe records.
+
+See [Höckersau-Sandfurt](https://www.meyersgaz.org/place/10808032)
+
+:::
+
+Translation
+
+```{code-block} text
+
+On January 3rd, Henrich Vahlsing — a shepherd of 32 years’ standing from
+the High-Comital estate farm at Höckersau — was buried, aged 63 years.
+```
+
+## Citations
+
+[PET-D-1730a] "Archion Protestant Kirchenbücher Portal", database
+with images, *Archion* ([https://www.archion.de/p/1ebf0fad1a/: 8 Jan.
+2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getrauten und Gestorbenen 1641-1784, image 147 of 239](https://www.archion.de/p/1ebf0fad1a/)
+

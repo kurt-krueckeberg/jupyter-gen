@@ -1,0 +1,120 @@
+# 1828 Christian Friederich Bleeke Birth
+
+This record is from the
+[Landesarchiv
+NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
+Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
+
+```{image} images/carl-f-bleeke/christian-friederich-bleeke-1828-birth.png
+:class: antora-self-link
+```
+
+## Transliteration and Translation
+
+Transliteration of Christian Friederich Bleeke 1828 Birth
+
+```{list-table}
+:header-rows: 1
+
+* - Geborene und Getaufte im Jarhe 1828
+* - **Nro.**
+  - **Tauf-Name
+    des Kindes.**
+  - **Tag und Stunde
+    der Geburt
+    in
+    Buchstaben und Ziffern.**
+  - **Ob es
+    ehelich
+    oder
+    unehelich.**
+  - **Vor- and Zuname
+    des Vaters,
+    auch Stand desselben**
+  - **Vor- und Zuname
+    der
+    Mutter.**
+  - **Wohnort
+    der
+    Eltern**
+  - **Tag
+    der
+    Taufe.**
+  - **Namen des Predigers,
+    der es getauft.**
+  - **Name der Taufzeugen**
+* - 
+                  9
+                
+  - 
+                  Christian Friederich
+    Bleeke
+                
+  - 
+                  Acht und zwanzigsten
+    (28t) Februar Abds
+    Zehn (10) Uhr zu Leeteln
+                
+  - 
+                  Ehelich
+                
+  - 
+                  Carl Friederich
+    Bleeke Col No. 13
+                
+  - 
+                  Marie Luise geb.
+    Niemann
+                
+  - 
+                  Leeteln
+                
+  - 
+                  Zweiten (2t)
+    März
+                
+  - 
+                  Schütz
+                
+  - 
+                  Johann Heinrich Blee-
+    ke
+                
+```
+
+Translation of Christian Friederich Bleeke 1828 Birth
+
+```{list-table}
+:header-rows: 1
+
+* - Births and Baptims in 1828
+* - **Num.**
+  - **Baptism-Name of the child.**
+  - **Day and Hour of the Birth (in words and numbers).**
+  - **Whether it is legitimate or illegitimate**
+  - **Given and Surname of the Father, and his Status.**
+  - **Given and Surname of the Mother.**
+  - **Dwelling Place of the Parents**
+  - **Baptism Day**
+  - **Name of the Pastor who baptized child.**
+  - **Baptismal Sponsors**
+* - 9
+  - Christian Friederich Bleeke
+  - twenty eighth (28th) Feb. ten (10) p.m. at Leeteln
+  - legitimate
+  - Carl Friederich Bleeke Col No. 13
+  - Marie Luise nee Niemann
+  - Leeteln
+  - second (2nd) March
+  - Schütz
+  - Johann Heinrich Bleeke
+```
+
+## Citation
+
+Evangelische Gemeinde Frille, Kreis Minden, “Geborne und Getaufte im Jahr 1828 Kirchspiel Frille”, entry #9 for
+Christian Friederich Bleeke, 28 Feb. 1828,
+Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
+Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
+Digital images: Landesarchiv NRW, [https://www.archive.nrw.de (accessed 6 December 2025).](https://www.archive.nrw.de)
+

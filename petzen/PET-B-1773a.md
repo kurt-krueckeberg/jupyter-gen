@@ -1,0 +1,77 @@
+# 1773 Anna Maria Philippina Blecken Baptism
+
+## Family Relationships
+
+Child of Johann Heinrich Bleke and Anna Maria Elisabeth Möller
+
+```{list-table}
+:header-rows: 1
+
+* - Child
+  - Baptism Date
+  - Family Residence
+  - Father
+  - Mother
+* - Anna Maria Phlippina
+  - [11 July 1773](PET-B-1773a.md)
+  - no. 11 Evesen
+  - Johann Heinrich Blecken
+  - Anna Maarie Elisabeth Möller
+```
+
+Sponsors
+
+```{list-table}
+:header-rows: 1
+
+* - Name
+  - Residence
+* - Annne Engel Möller
+  - Heßen
+* - Christine Hartman
+  - no. 9 Evesen
+```
+
+## Citation
+
+The July 11, 1773, baptism record for Anna Philippine Maria Blecken appears on
+[image 238](PET-B-1773a)[Archion.de.](https://archion.de)
+
+## Image
+
+```{image} images/petzen-band1a-img238.jpg
+:class: antora-self-link
+```
+
+## Transliteration and Translation
+
+Transliteration
+
+```{code-block} text
+
+d 11t Jul: ist getaufft Anna Maria Philippina Blecken Johann Heinrich
+Blecken aus Evesen No. 11 mit seiner Ehefrau Anna Maria Elisabeth geb.
+Möllern. Die Gevatterinnen waren Anne Engel Möllern aus Heßen und Sophia
+Christine Hartmans aus Evesen No. 9
+```
+
+Translation
+
+```{code-block} text
+
+On the 11th of July, Anna Maria Philippina was baptized, the daughter of
+Johann Heinrich Blecken of Evesen no. 11 and his wife Anna Maria Elisabeth,
+née Möller.
+
+The godmothers were Anna Engel Möller of Heßen and Sophia Christine
+Hartmann, of Evesen no. 9.
+```
+
+## Citations
+
+[PET-B-1773a] "Archion Protestant Kirchenbücher Portal", database
+with images, *Archion* ([https://www.archion.de/p/e7f03cfa7c/: 2 February
+2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen  Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 238 of 322](https://www.archion.de/p/e7f03cfa7c/)
+
