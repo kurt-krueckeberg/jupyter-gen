@@ -1,0 +1,51 @@
+.Transliteration of Carl Friederich Bleeke 1821 Birth Record
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+10+^s|Geborene und Getaufte im Jarhe 1821
+
+s|Nro.
+s|Tauf-Name
+des Kindes.
+s|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+s|Ob es
+ehelich
+oder
+unehelich.
+s|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+s|Vor- und Zuname
+der
+Mutter.
+s|Wohnort
+der
+Eltern
+s|Tag
+der
+Taufe.
+s|Namen des Predigers,
+der es getauft.
+s|Name der Taufzeugen
+
+|15
+|Christian Friederich Bleeke
+|der Siebensten (7) Maÿ
+Nachmittags fünf (5)
+Uhr zu Wietersheim N. 27
+|ehelich
+|Johann Heinrich
+Bleeke Col. No. 27
+zu Wietersheim
+|Christine Marie
+Schwier aus
+Wietersheim
+|Wietersheim 
+No. 27
+|d 13 Maÿ
+|Schütz
+|Carl Friederich
+Bleeke aus Leeteln
+|===

@@ -13,103 +13,18 @@ Regierungsbezirks Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/ar
 
 Transliteration of Christine Luise Bleeke 1827 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborne und Getaufte im Jarhe 1827
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                  49
-                
-  - 
-                  Christine Luise
-    Bleeke.
-                
-  - 
-                  Neunzehnten (19) Decbr.
-    Abenbds fünf (5) Uhr
-    zu Leeteln
-                
-  - 
-                  ehelich
-                
-  - 
-                  Christian Friederich
-    Bleeke, Einlieger beÿ
-    No. 11 in Leeteln
-                
-  - 
-                  Christine Luise
-    Leonore Krükkeberg aus Berenbusch
-                
-  - 
-                  Leeteln
-                
-  - 
-                  drei und
-    zwanzigsten
-    (23) Decbr.
-                
-  - 
-                  Schütz
-                
-  - 
-                  Christine Marie
-    Bleeke.
-                
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1827a-table-01.html"></div>
 ```
 
 Translation of Christine Luise Bleeke 1827 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Births and Baptisms in the year 1827
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Name of Godparents**
-* - 49
-  - Christine Luise Bleeke
-  - nineteenth (19) Dec. five (5) p.m. at Leeteln
-  - legitimate
-  - Christian Friederich Bleeke, Einlieger at No. 11 in Leeteln
-  - Christine Luise Leonore Krükkeberg from Berenbusch
-  - Leeteln
-  - twenty third (23) December
-  - Schütz
-  - Christine Marie Bleeke
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1827a-table-02.html"></div>
 ```
 
 ## Citation

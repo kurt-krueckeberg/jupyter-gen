@@ -13,108 +13,18 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 
 Transliteration of Carl Friederich Wilhelm 1825 Birth Record
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborene und Getaufte im Jarhe 1825
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                  47
-                
-  - 
-                  Carl Friederich
-    Wilh. Bleeke
-                
-  - 
-                  dreißigten (30) Novbr.
-    Morgens sechs (6) Uhr
-     zu Leeteln
-                
-  - 
-                  ehelich
-                
-  - 
-                  Johann Heinrich
-    Bleeke colonist (farmstead holder) No. 16 in
-    Leeteln
-                
-  - 
-                  Christine Marie
-    geb. Schwier aus
-    Wietersheim
-                
-  - 
-                  Leeteln
-                
-  - 
-                  vier (4)
-    December
-                
-  - 
-                  Schütz
-                
-  - 
-                  Christian Fried. Bleeke
-    Fried: Wilm: Schildmeier
-                
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1825a-table-01.html"></div>
 ```
 
 Translation of Carl Friederich Wilhelm 1825 Birth Record
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Born and Baptized in the year 1825
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Baptismal witnesses**
-* - 47
-  - Carl Friederich Wilh. Bleeke
-  - thirtieth (30) Nov.
-    6 o’clock a.m. in Leeteln
-  - legitimate
-  - Johann Heinrich
-    Bleeke colonist (farmstead holder) No. 16 in
-    Leeteln
-  - Christine Marie nee Schwier from Wietersheim
-  - Leeteln
-  - four (4)
-    December
-  - Schütz
-  - Christian Fried. Bleeke
-    Fried: Wilm: Schildmeier
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1825a-table-02.html"></div>
 ```
 
 ## Citation

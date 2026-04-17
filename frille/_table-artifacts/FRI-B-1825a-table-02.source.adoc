@@ -1,0 +1,32 @@
+.Translation of Carl Friederich Wilhelm 1825 Birth Record
+[cols="1,4,4,2,4,4,3,2,3,5"]
+|===
+10+^s|Born and Baptized in the year 1825
+
+s|No.
+s|Baptismal name of the child.
+s|Day and hour of birth (in words and numbers)
+s|Whether legitimate or illegitimate
+s|Given and surname of the father, also his Status
+s|Given and surname of the mother
+s|Residence of the Parents
+s|Day of baptism
+s|Name of the minister
+s|Baptismal witnesses
+
+|47
+|Carl Friederich Wilh. Bleeke
+|thirtieth (30) Nov.
+6 o'clock a.m. in Leeteln
+|legitimate
+|Johann Heinrich
+Bleeke colonist (farmstead holder) No. 16 in
+Leeteln
+|Christine Marie nee Schwier from Wietersheim
+|Leeteln
+|four (4)
+December
+|Schütz
+|Christian Fried. Bleeke
+Fried: Wilm: Schildmeier
+|===

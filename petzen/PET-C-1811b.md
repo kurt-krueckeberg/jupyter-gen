@@ -34,57 +34,18 @@ on [pages 438 and 439, entry 28,](PET-C-1811b)
 
 page 438 entry 28
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - 438   Verzeichnis der am Sonntage Quasimodogeniti 1811 in der          Kirche zu Petzen Confirmirten aus dem [Leÿß?/Leüß?] Schaumb. Lipp.   439
-* - **Zahl**
-  - **Namen des Kindes**
-  - **Name des Vaters**
-  - **Name der Mutter**
-  - **Wohort der
-    Vaters u. der
-    Mutter**
-  - **Geburtszeit u.
-    Geburtsort
-    des
-    Kindes**
-  - **Bermerkungen**
-* - 28
-  - Christine Louise Krückeberg
-  - Johann Heinrich Krückeberg
-  - Anne Sophie geb. Crömers
-  - Evesen n. 19
-  - d. 26. Aprl. 1798
-  - 
+```{raw} html
+<div data-include-html="_table-artifacts/PET-C-1811b-table-02.html"></div>
 ```
 
 page 438 entry 28
 
-```{list-table}
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - 
-                  438   List of those confirmed on Sunday Quasimodogeniti 1811 in the                  Church at Petzen from [Leÿß?/Leüß?] Schaumburg Lippe   439
-                
-* - **No.**
-  - **Name of the Child**
-  - **Name of the Father Vaters**
-  - **Name of the Mother Mutter**
-  - **Dwelling of the
-    Father and the
-    Mother**
-  - **Birth time and
-    Place
-    of the
-    Childs**
-  - **Remarks**
-* - 28
-  - Christine Louise Krückeberg
-  - Johann Heinrich Krückeberg
-  - Anne Sophie born Crömers
-  - Evesen n. 19
-  - 26th Apr. 1798
-  - 
+```{raw} html
+<div data-include-html="_table-artifacts/PET-C-1811b-table-03.html"></div>
 ```
 
 ## Citations

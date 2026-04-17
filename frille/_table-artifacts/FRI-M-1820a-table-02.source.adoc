@@ -1,0 +1,33 @@
+.Translation of 1820 Marriage of Carl Friederich Bleeke to Marie Luise Niemann
+[cols="1,4,3,2,3,3,4,4,2,3,3,3,4"]
+|===
+13+^s|Proclaimed (banns) and Married in the year 1820
+
+s|No.
+s|Groom's first and last name.
+s|Father's social status and place of residence
+s|Groom's age.
+s|Whether parents or guardians gave their consent, and how this happened.
+s|Whether he was already married and how the marriage was dissolved.
+s|Bride's first and last name.
+s|Name, social status, and place of residence of the bride's father.
+s|Bride's age.
+s|Whether parents or guardians gave their consent, and how this happened.
+s|Whether they were already married and how the marriage was dissolved.
+s|Date of marriage (in words and numbers).
+s|Name of the preacher performing the marriage.
+
+|4
+|Carl Friederich Bleeke, Anerbe from No 13 in Leteln
+|colonist (farmstead holder) Christian Friederich Bleeke of No 13 in Leteln
+|25 years
+|Parents have given their verbal consent
+|Bachelor
+|Marie Luise Niemann from Todtenhausen
+|Johann Heinrich Niemann colonist (farmstead holder) of No 35 in Todtenhausen
+|24 years
+|Parents have tacitly consented
+|Unmarried, pregnant by her fiancé
+|on twelfeth of March (12), by the minister
+|Schütz
+|===

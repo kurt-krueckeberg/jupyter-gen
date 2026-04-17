@@ -1,0 +1,31 @@
+.Translation of Christine Marie Bleeke 1828 Birth Record
+[cols="1,4,4,2,4,4,3,2,3,5"]
+|===
+10+^s|Born and Baptized in the year 1828
+
+s|No.
+s|Baptismal name of the child.
+s|Day and hour of birth (in words and numbers)
+s|Whether legitimate or illegitimate
+s|Given and surname of the father, also his Status
+s|Given and surname of the mother
+s|Residence of the Parents
+s|Day of baptism
+s|Name of the minister
+s|Baptismal witnesses
+
+|28
+|Chritine Marie
+Bleeke
+|fourteenth (14th) Aug. six (6) o'clock a.m. in Leeteln
+|legitimate
+|Johann Heinrich Philipp Bleeke
+colonist (farmstead holder) No 16 in Leeteln
+|Christine Marie nee Schwier from Wietersheim
+|seventeenth (17) August
+|Leeteln
+|Schütz
+|Christine Marie Leonore Schildtmeier
+Anne Sophie Dorothea
+Schwier
+|===

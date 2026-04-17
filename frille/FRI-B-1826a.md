@@ -13,127 +13,18 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 
 Transliteration of Marie Christine Bleeke 1826 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborene und Getaufte im Jarhe 1826
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                  4
-                
-  - 
-                  Marie Christine
-    Bleeke
-                
-  - 
-                  Funfzehnten Januar
-    Abds neun (9) Uhr zu
-    Leeteln
-                
-  - 
-                  ehelich
-                
-  - 
-                  Carl Friederich Blee-
-    ke Col. v[on] N. 13 in Lee-
-    teln
-                
-  - 
-                  Marie Luise Nie-
-    mann aus Todten-
-    hausen
-                
-  - 
-                  Leeteln
-                
-  - 
-                  Zwei und zwan-
-    zigten (22) Jan.
-                
-  - 
-                  Schütz
-                
-  - 
-                  Christine Wilhelmine
-    Niemann aus Todten-
-    hausen
-                
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1826a-table-01.html"></div>
 ```
 
 Translation of Marie Christine Bleeke 1826 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Birth and Baptims in 1826
-* - **Num.**
-  - **Baptism-Name
-    of the child.**
-  - **Day and Hour
-    of the Birth
-    in letters and numbers.**
-  - **Whether it is
-    legitimate
-    or
-    illegitimate**
-  - **Given and Surname
-    of the Father,
-    and his Status.**
-  - **Given and Surname
-    of the
-    Mother.**
-  - **Dwelling Place
-    of the
-    Parents**
-  - **Baptism Day**
-  - **Name of the Pastor who
-    baptized child.**
-  - **Baptismal Sponsors**
-* - 4
-  - Marie Christine
-    Bleeke
-  - fifteenth January
-    evening nine (9) o’clock in
-    Leeteln
-  - legitimate
-  - Carl Friederich Blee-
-    ke colonist (farmstead holder). of N. 13 in Lee-
-    teln
-  - Marie Luise Nie-
-    mann from Todten-
-    hausen
-  - Leeteln
-  - Twenty second
-    (22) Jan.
-  - Schütz
-  - Christine Wilhelmine
-    Niemann from Todten-
-    hausen
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1826a-table-02.html"></div>
 ```
 
 ## Citation

@@ -13,109 +13,18 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 
 Transliteration of Christine Marie Bleeke 1828 Birth Record
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborene und Getaufte im Jarhe 1828
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                  28
-                
-  - 
-                  Chritine Marie
-    Bleeke
-                
-  - 
-                  Vierzehnten (14t) Aug:
-    Morgs[Morgens] sechs (6) Uhr in
-    Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Johann Heinrich
-    Philipp Bleeke
-    Col. No 16 in Leeteln
-                
-  - 
-                  Christine Marie
-    geb. Schwier aus
-    Wietersheim
-                
-  - 
-                  Siebzehnten
-    (17) August
-                
-  - 
-                  Leeteln
-                
-  - 
-                  Schütz
-                
-  - 
-                  Christine Marie Leono-
-    re Schildtmeÿer
-    Anne Sophie Dorothea
-    Schwier
-                
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1828b-table-01.html"></div>
 ```
 
 Translation of Christine Marie Bleeke 1828 Birth Record
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Born and Baptized in the year 1828
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Baptismal witnesses**
-* - 28
-  - Chritine Marie
-    Bleeke
-  - fourteenth (14th) Aug. six (6) o’clock a.m. in Leeteln
-  - legitimate
-  - Johann Heinrich Philipp Bleeke
-    colonist (farmstead holder) No 16 in Leeteln
-  - Christine Marie nee Schwier from Wietersheim
-  - seventeenth (17) August
-  - Leeteln
-  - Schütz
-  - Christine Marie Leonore Schildtmeier
-    Anne Sophie Dorothea
-    Schwier
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1828b-table-02.html"></div>
 ```
 
 ## Citation

@@ -1,0 +1,34 @@
+.Translation  of Johann Hartweg Gottlieb Leberecht Bleeke 1830 Birt
+[cols="1,4,4,2,4,4,3,2,3,5"]
+|===
+10+^s|Births and Baptims in 1830
+
+s|Num.
+s|Baptism-Name of the child.
+s|Day and Hour of the Birth (in words and numbers).
+s|Whether it is legitimate or illegitimate
+s|Given and Surname of the Father, and his Status.
+s|Given and Surname of the Mother.
+s|Dwelling Place of the Parents
+s|Baptism Day
+s|Name of the Pastor who baptized child.
+s|Baptismal Sponsors
+
+|65
+|Johann Hartweg Gottlieb Leberecht Bleeke footnote:hartweg-name[The manuscript reads *Hartweg* (clear *e* without tittle); however, *Hartweg* is
+unattested as a given name in contemporary sources, while *Hartwig* is standard in Westphalia. Indexed under **Hartwig**.]
+|Neunzehnten (9t) Decbr.
+Abds neun (9) Uhr
+in Leeteln
+|Ehelich
+|Carl Friederich Blee-
+ke colonist (farmstead holder) of No. 13 in
+Leeteln
+|Marie Luise geb.
+Niemann aus Todtenhausen
+|Leeteln
+|Neunzehnten (19) Decbr
+|Schütz
+|Johann Hartwig Wehmeÿer Schul[lehrer] in Leeteln
+
+|===

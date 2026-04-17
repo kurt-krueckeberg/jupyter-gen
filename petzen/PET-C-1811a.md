@@ -4,23 +4,10 @@
 
 14 April 1811 Confirmant’s Family Group
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - 
-  - Name or Address
-  - Child’s Birthdate
-  - Date of Confirmation
-* - **Father**
-  - Jobst Heinrch Kruckeberg
-* - **Mother**
-  - Anne Christine Philippine née Tegtmeier
-* - **Child/Confirmant**
-  - Anne Christine Lenore Krückeberg
-  - Feb. 14, 1798
-  - April 7, 1811
-* - **Address**
-  - no. 10 Bärenbusch
+```{raw} html
+<div data-include-html="_table-artifacts/PET-C-1811a-table-01.html"></div>
 ```
 
 ## Citation

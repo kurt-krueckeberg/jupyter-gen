@@ -13,106 +13,18 @@ Regierungsbezirks Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/ar
 
 Transliteration of Sophie Christine Leonore Bleeke 1830 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborne und Getaufte im Jarhe 1830
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                  41
-                
-  - 
-                  Sophie Christine
-    Leonore Bleeke
-                
-  - 
-                  Sieben and zwanzigsten
-    (27t) Julÿ Morgs sechs
-    (6) Uhr in Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Christian Friederich
-    Bleeke Tagelöhner und
-    Einlieg[er] beÿ N: 16
-                
-  - 
-                  Christine Luise
-    geb. Krückeberg
-    aus Bärenbusch
-                
-  - 
-                  Leeteln
-                
-  - 
-                  Einsten
-    (1) August
-                
-  - 
-                  Schütz
-                
-  - 
-                  Marie Leonore Stahlhut
-    Sophie Luise Steinmeÿer
-    Sophie Dorothea Krückeberg
-                
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1830b-table-01.html"></div>
 ```
 
 Translation of Sophie Christine Leonore Bleeke 1830 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Births and Baptisms in the year 1830
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Name of Godparents**
-* - 41
-  - Sophie Christine Leonore Bleeke
-  - twenty seventh (27) July six (6) p.m. in Leeteln
-  - legitimate
-  - Christian Friederich Bleeke Tagelöhner and Einlieg[er] at N. 16
-  - Christine Luise nee Krückeberg from Bärenbusch
-  - Leeteln
-  - first (1) August
-  - Schütz
-  - Marie Leonore Stahlhut
-    Sophie Luise Steinmeÿer
-    Sophie Dorothea Krückeberg
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1830b-table-02.html"></div>
 ```
 
 ## Citation

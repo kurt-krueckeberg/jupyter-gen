@@ -1,0 +1,39 @@
+.Translation of Carl Heinrich Bleeke 1818 Birth Record
+[cols="1,4,4,2,4,4,3,2,3,5"]
+|===
+10+^s|Born and Baptized in the year 1818
+
+s|No.
+s|Baptismal name of the child.
+s|Day and hour of birth (in words and numbers)
+s|Whether legitimate or illegitimate
+s|Given and surname of the father, also his Status
+s|Given and surname of the mother
+s|Residence of the Parents
+s|Day of baptism
+s|Name of the minister
+s|Baptismal witnesses
+
+|16
+|Carl Heinrich Bleeke
+|twenty seven (27) April at No. 27 in Wietersheim
+|illegitimate
+1t child
+1t son
+|Johann Heinrich
+Bleeke N. 13 in
+Leeteln
+|Christian Marie
+Schwier at
+N. 27 in Wietersheim.
+|Leeteln
+and 
+Wietersheim
+|thirtieth
+(30) April
+and the pastor
+|Schütz
+|Johann Friederich
+Gottlieb Schwier
+No. 27 Wietersheim
+|===

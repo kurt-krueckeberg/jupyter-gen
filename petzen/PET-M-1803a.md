@@ -55,56 +55,18 @@ This marriage occurred on March 13, 1803. It is on [image 12, page 19, entry 4](
 
 Carl Friedrich Gottlieb Krückeberg Marriage in 1803, image 12, page 19, entry 4
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Zahl
-  - Nahmen des Bräutigams
-  - Ortschaft
-  - Sh
-  - Nahmen der Braut
-  - Ortschaft
-  - N.:
-* - Note: The first three entries on page are not shown omitted
-* - 4
-  - am 13ten Marz
-    Jggs Carl Fried: Gottlieb
-       Krückeberg
-    get. 18.4.79 gest. 13.5.38
-  - Berenb[usch]
-  - 10
-  - Jgfr Philippine Eleonore
-       Werkmeister
-     get. 4.5.83 gest. 16.12.40
-  - Evesen
-  - 11
+```{raw} html
+<div data-include-html="_table-artifacts/PET-M-1803a-table-03.html"></div>
 ```
 
 Carl Friedrich Gottlieb Krückeberg Marriage in 1803, image 12, page 19, entry 4
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Number
-  - Name of Groom
-  - Village
-  - Sh[uncertain?]
-  - Name of Bride
-  - Village
-  - N.
-* - Note: The first three entries on page are not shown omitted
-* - 4
-  - on 13th March
-    Bachelor Carl Fried: Gottlieb
-    Krückeberg
-    baptized 4/18/79 died 5/13/38
-  - Berenb[usch]
-  - 10
-  - Maiden Philippine Eleonore
-        Werkmeister
-      baptized. 5/4/83  died. 12/16/40
-  - Evesen
-  - 11
+```{raw} html
+<div data-include-html="_table-artifacts/PET-M-1803a-table-04.html"></div>
 ```
 
 ## Citations

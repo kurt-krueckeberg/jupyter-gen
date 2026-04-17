@@ -1,0 +1,55 @@
+.Transliteration of Christine Friederike Marie Leonore Bleeke 1835 Birth
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+10+^s|Geborene und Getaufte im Jarhe 1835
+
+s|Nro.
+s|Tauf-Name
+des Kindes.
+s|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+s|Ob es
+ehelich
+oder
+unehelich.
+s|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+s|Vor- und Zuname
+der
+Mutter.
+s|Wohnort
+der
+Eltern
+s|Tag
+der
+Taufe.
+s|Namen des Predigers,
+der es getauft.
+s|Name der Taufzeugen
+
+|8
+|Christine Friedrike
+Marie Leonoe Blee-
+ke
+|Zwanzigsten (20) Febru-
+ar Abds sieben (7)
+Uhr in Leeteln
+|Ehelich
+|Carl Friedrich Blee-
+ke Col. v. No. 13
+in Leeteln
+|Marie Luise geb.
+Niemann aus
+Todtenhasuen
+|Leeteln
+|Einsten (1)
+März
+|Schütz
+|Friederike Wehmeÿer
+Maire Siemon
+Leonore Meÿer
+Leonore v. Behrend
+|===

@@ -1,0 +1,50 @@
+.Transliteration of Johann Hartweg Gottlieb Leberecht Bleeke 1830 Birth
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+10+^s|Geborene und Getaufte im Jarhe 1830
+
+s|Nro.
+s|Tauf-Name
+des Kindes.
+s|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+s|Ob es
+ehelich
+oder
+unehelich.
+s|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+s|Vor- und Zuname
+der
+Mutter.
+s|Wohnort
+der
+Eltern
+s|Tag
+der
+Taufe.
+s|Namen des Predigers,
+der es getauft.
+s|Name der Taufzeugen
+
+|65
+|Johann Hartweg Gott-
+lieb Leberecht Bleeke
+|Neunzehnten (9t) Decbr.
+Abds neun (9) Uhr
+in Leeteln
+|Ehelich
+|Carl Friederich Blee-
+ke Col. v[on] No. 13 in
+Leeteln
+|Marie Luise geb.
+Niemann aus Todtenhausen
+|Leeteln
+|Neunzehnten (19) Decbr
+|Schütz
+|Johann Hartwig
+Wehmeÿer Schul[ehrer?] in Leeteln
+|===

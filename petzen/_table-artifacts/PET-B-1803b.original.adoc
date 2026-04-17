@@ -1,0 +1,151 @@
+= 1803 Sophie Caroline Krückeberg Birth
+:page-role: wide
+
+== Family Relationship and Other Facts
+
+.Family Relationship 
+[%header,width="55%"cols="1,3,1,1"]
+|===
+|||Child's Birthdate|Child's Baptism Date
+
+|*Father*|Johann Heinrich Krückeberg, Hausherr 2+|
+
+|*Mother*|Catharine Sophie Krömer 2+|
+
+|*Child*|Sophie Caroline|21 Juy 1803|31 July 1803
+
+|*Residence*|No. 19 Evesen 2+|
+|===
+
+.Baptism Sponsors
+[%header,width="40%"]
+|===
+|Name|Location
+
+|Sophie Ernestine Wilharm|Evesen 
+|===
+
+[NOTE]
+====
+Sophie Ernestine Wilharm was the second wife of Hans Heinrich
+Wilharm, with whom a xref:nla:146:doc1.adoc[Jobst Heinrich Krückeberg lodged
+at no. 11 Evesen] while working as a tailor. However, the Jobst Heinrich
+Krückeberg, who mentioned in a petition before the Rentkammer on September
+29, 1808, that he was living as a tenant at the Wilharms in Evesen:
+
+____
+Up to now I have lived as a tenant with Wilharm No. 11
+in Evesen, but I now wish to establish myself independently. 
+____
+
+was, according to a xref:nla:146:doc2.adoc[Report by the Administrative offices of Bückeburg and
+Arensburg], born in Evesen. Their report said:
+
+____
+The tenant Jobst Henrich Krückeberg, as well as his wife, was born
+in Evesen. His father later became Ackervogt (agricultural bailiff) at
+Arensburg...
+____
+
+Hans Heinrich Wilharm was a
+baptismal sponsor of xref:PET-B-1807a.adoc[Carl Friedrich Krückeberg] in
+1807.
+====
+
+== Citation
+
+The birth is recorded on image 82, entry 23, on <<PET-B-1803b, image 82>> pages 158 159 of the Petzen Kirchenbuch 
+"Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827". It spans across both pages 158 and 159.
+The birth month of **Jul** is written on page 159 slightly above the text of entry 22.
+
+== Overview of Pages 158 and 159
+
+This is an overview showing the header for pages 158 and 159:
+ 
+image::petzen-band2-img82-overview.jpg[title="Header page 156 portion (Click to enlarge)",link=self]
+
+[sidebar]
+****
+[NOTE]
+.Abbreviations Used in the Header
+====
+By comparing this page with prior pages, it is clear the page header contains two words that are an abbreviation in the
+adjective form for Schauburg-Lippe: **Schaumburg-Lippischen**.
+
+They appear immediately before **Dortschaften** written as: **Schumb Lipp**
+
+The other word before thes two-word abbreviation for Schauburg-Lippe is uncertain. Perhaps it is a governmental or religious
+administrative term. 
+====
+****
+
+== Transliteration and Translation of Page Header for Pages 158 and 159
+
+[caption="Transliteration: "]
+.page header
+[cols="l",%autowidth,frame="none",options="noheader"]
+|===
+|158                                        1803                                  1803                               159
+    Geborene aus den [uncertain] Schumb Lipp  Dorfschaften             Geborene aus den im[rest uncertain] Schumb Lipp  Dorfschaften  
+|===
+
+[caption="Translation: "]
+.page header
+[cols="l",%autowidth,frame="none",options="noheader"]
+|===
+|158                                        1803                                  1803                               159
+    Births from the [uncertain] Schaumburg-Lippe Villages               Births from the  [uncertain] Schaumburg-Lippe Villages      
+|===
+
+== Birth Entry 23, Page 158
+
+image::petzen-band2-img82-entry23-158.jpg[title="Entry 23, page 158 portion (Click to enlarge)",link=self]
+
+== Birth Entry 23, Page 159
+
+image::petzen-band2-img82-entry23-159.jpg[title="Entry 23, page 159 portion (Click to enlarge)",link=self]
+
+== Transliteration and Translation of Entry 23
+
+[caption="Transliteration: "]
+.birth of Sophie Caroline Krückeberg in 1803
+[%header,cols="1,5,5,3,3,1,5,3,3,5",frame="none"]
+|===
+|No |Namen des Kindes |Namen des Vaters |Stand |Ort|N |Namen der Mutter |gebo. |get. |Namen der Gewattern 
+
+|23
+|Sophie Caroline
+|Joh Heinr: Krückeberg
+|Hausherr
+|Evesen
+|19
+|Catha:Soph:geb: Krömer
+|Jul 21
+|Jul 31
+|Soph: Ernestine Wilharm aus Evesen
+|===
+
+[caption="Translation: "]
+.birth of Sophie Caroline Krückeberg in 1803
+[%header,cols="1,5,5,3,3,1,5,3,3,5",frame="none"]
+|===
+|No.|Child's Name|Father's Name|Occupation[Status]|Location|Nr|Mother's name|birth.|bap.|Names of bap. witnesses 
+
+|23
+|Sophie Caroline
+|Johann Heinrich Krückeberg
+|Hausherr
+|Evesen
+|19
+|Catha[rine] Soph[ie] née Krömer
+|21
+|31
+|Sophie Ernestine Wilharm from Evesen
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[PET-B-1803b]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/037f8d4ae2/, http://www.archion.de/p/10fd9445da/ : 10 October 2023),
+path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357

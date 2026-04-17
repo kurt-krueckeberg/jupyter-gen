@@ -23,44 +23,10 @@ The middle of the left page shown below has the year of **1802**; this the year 
 
 Marriage entry number 6, page 18
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - 18                Getraute im Jahre 1801.1802 (Marriages in the years 1801. 1802)
-* - **An
-    Zahl**
-  - **Nahmen des Bräutigams**
-  - **Ortschaft**
-  - **Nr**
-  - **Nahmen der Braut**
-  - **Ortschaft**
-  - **No.**
-* - On
-    No
-  - Name of Groom
-  - Village
-  - Nr
-  - Name of Bride
-  - Village
-  - No.
-* - 6
-  - am 28ten März
-    Jggs: Albrecht Weyland
-  - Petzen
-  - [?]
-  - Wittwe Anne Marg: Weyland
-      gebor: Vogt in Meissen
-  - Meinsen
-  - 21
-* - 6
-  - on 28th March
-    bachelor:  Albrecht Weyland
-  - Petzen
-  - [?]
-  - Widow Anne Marg: Weyland
-    born: Vogt in Meissen
-  - Evesen
-  - 21
+```{raw} html
+<div data-include-html="_table-artifacts/PET-M-1802a-table-01.html"></div>
 ```
 
 ## Citations

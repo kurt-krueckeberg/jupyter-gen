@@ -1,0 +1,27 @@
+.Translation of Christian Friederich Bleeke 1828 Birth
+[cols="1,4,4,2,4,4,3,2,3,5"]
+|===
+10+^s|Births and Baptims in 1828
+
+s|Num.
+s|Baptism-Name of the child.
+s|Day and Hour of the Birth (in words and numbers).
+s|Whether it is legitimate or illegitimate
+s|Given and Surname of the Father, and his Status.
+s|Given and Surname of the Mother.
+s|Dwelling Place of the Parents
+s|Baptism Day
+s|Name of the Pastor who baptized child.
+s|Baptismal Sponsors
+
+|9
+|Christian Friederich Bleeke
+|twenty eighth (28^th^) Feb. ten (10) p.m. at Leeteln
+|legitimate
+|Carl Friederich Bleeke Col No. 13 
+|Marie Luise nee Niemann
+|Leeteln
+|second (2^nd^) March
+|Schütz
+|Johann Heinrich Bleeke
+|===

@@ -4,26 +4,10 @@
 
 Family Relationship
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - 
-  - 
-  - Child’s Birthdate
-  - Child’s Baptism Date
-* - **Father**
-  - Johann Heinrich Krückeberg, Hausherr
-  - 
-* - **Mother**
-  - Catharine Sophie Krömer
-  - 
-* - **Child**
-  - Sophie Caroline
-  - 21 Juy 1803
-  - 31 July 1803
-* - **Residence**
-  - No. 19 Evesen
-  - 
+```{raw} html
+<div data-include-html="_table-artifacts/PET-B-1803b-table-01.html"></div>
 ```
 
 Baptism Sponsors

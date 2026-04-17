@@ -12,104 +12,18 @@ NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstand
 
 Transliteration of Marie Luise Eleonore Bleeke 1833 Birth Record
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborene und Getaufte im Jarhe 1833
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                  48
-                
-  - 
-                  Marie Luise Leonore
-    Bleeke
-                
-  - 
-                  fünfzehnten (15) Novembr
-    Morgens zweÿ (2) Uhr in
-    Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Johann Heinrich
-    Bleeke Col. N: 16 in
-    Leeteln
-                
-  - 
-                  Christine Marie
-    Schwier aus Wie-
-    tersheim
-                
-  - 
-                  Leeteln
-                
-  - 
-                  Fünf u zwan-
-    zigten (25)
-    Novbr.
-                
-  - 
-                  Schütz
-                
-  - 
-                  Marie Luise Bleeke
-    Christine Luise Schwier
-                
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1833c-table-01.html"></div>
 ```
 
 Translation of Marie Luise Eleonore Bleeke 1833 Birth Record
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Born and Baptized in the year 1833
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Baptismal witnesses**
-* - 48
-  - Marie Luise Leonore
-  - on the fifteenth (15) of November
-  - legitimate
-  - Johann Heinrich
-  - Christine Marie
-  - Leeteln
-  - twenty-fifth (25) of November
-  - Schütz
-  - Marie Luise Bleeke; Christine Luise Schwier
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1833c-table-02.html"></div>
 ```
 
 ## Citation

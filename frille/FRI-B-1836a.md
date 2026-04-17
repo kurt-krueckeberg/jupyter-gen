@@ -11,106 +11,18 @@ Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/ar
 
 Transliteration of Christian Heinrich Bleeke 1836 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborne und Getaufte im Jarhe 1836
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                8
-              
-  - 
-                Christian Heinrich
-    Bleeke
-              
-  - 
-                Acht und zwanzigsten (28)
-    Januar Mittages vier (4)
-    Uhr in Leeteln
-              
-  - 
-                Ehelich
-              
-  - 
-                Christian Friedrich Ble-
-    ke Ein. beÿ N: 17 in
-    Leeteln
-              
-  - 
-                Christine Luise geb.
-    Krückeberg aus Bee-
-    renbusch
-              
-  - 
-                Leeteln
-              
-  - 
-                Ein und dreißig-
-    sten (31) Janu-
-    ar
-              
-  - 
-                Schütz
-              
-  - 
-                1. Johann Heinrich Krückeberg
-    2. Christian Ko[hlm]eier
-              
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1836a-table-01.html"></div>
 ```
 
 Translation of Christian Heinrich Bleeke 1836 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Born and Baptized in the year 1836
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Baptismal witnesses**
-* - 8
-  - Christian Heinrich Bleeke
-  - twenty eight (28) January four (4) p.m. in Leeteln
-  - legitimate
-  - Christian Friedrich Bleke resident at No. 17 in Leeteln
-  - Christine Luise nee Krückeberg from Beerenbusch
-  - Leeteln
-  - thirty one (31) January
-  - Schütz
-  - 1. Johann Heinrich Krückeberg
-    
-    2. Christian Ko[hlm]eier
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1836a-table-02.html"></div>
 ```
 
 ## Citation

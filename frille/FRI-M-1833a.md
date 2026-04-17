@@ -12,136 +12,18 @@ TODO: Change all; this  from other record:
 
 Transliteration of 1833 Marriage of …​..??????
 
-```{list-table}
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - **Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
-    Nummer eingetragen werden.) im Jahr 1826.**
-* - **Nro.**
-  - **Vor- und Zunamen
-    des
-    Bräutigum.**
-  - **Stand
-    und Wohnort des Vaters**
-  - **Alter des Bräuti-
-    gams.**
-  - **Ob Eltern oder
-    Vormund die Einwilligung gegeben,
-    und wie solches geschehen.**
-  - **Ob er schon
-    verehelicht gewesen
-    und wie die Ehe getrennt
-    worden.**
-  - **Vor- und Zuname
-    der
-    Braut.**
-  - **Namen,
-    Stand und Wohnort
-    des
-    Vaters der Braut.**
-  - **Alter
-    der
-    Braut.**
-  - **Ob Eltern oder
-    Vormund die Ein-
-    willingung gegeben,
-    und wie solches
-    geschehen.**
-  - **Ob sie schon
-    verehelicht gewesen
-    und wie
-    die Ehe getrennt
-    worden.**
-  - **Tag der Kopulation
-    mit
-    Buchstaben und Ziffern.**
-  - **Name des Predigers,
-    der
-    die Kopulation verrichtet.**
-* - 
-                7
-              
-  - 
-                Christian Friede-
-    rich Bleeke, Ein-
-    lieger in Leeteln
-              
-  - 
-                Christian
-    Friederich Blee-
-    ke Col[o]n No. 1[3]
-    in Leeteln
-              
-  - 
-                25 Ja.
-              
-  - 
-                Mündig
-              
-  - 
-                Unvereh-
-    licht
-              
-  - 
-                Luise Eleonore
-    Krückeberg
-              
-  - 
-                Jobst Heinrich
-    Krückeberg colonist (farmstead holder) No.
-    10 in Bärenbusch
-              
-  - 
-                30 Ja.
-              
-  - 
-                Mündig
-              
-  - 
-                Unvereh-
-    licht
-              
-  - 
-                Sechs und zwan-
-    zigsten (26)
-    Novemb.
-              
-  - 
-                v. z. Pr. Schütz
-              
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-M-1833a-table-01.html"></div>
 ```
 
 Translation of 1826 Marriage of Christian Friedrich Bleeke to Luise Leonore Krückeberg
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Proclaimed (banns) and Married in the year 1820
-* - **No.**
-  - **Groom’s first and last name.**
-  - **Father’s social status and place of residence**
-  - **Groom’s age.**
-  - **Whether parents or guardians gave their consent, and how this happened.**
-  - **Whether he was already married and how the marriage was dissolved.**
-  - **Bride’s first and last name.**
-  - **Name, social status, and place of residence of the bride’s father.**
-  - **Bride’s age.**
-  - **Whether parents or guardians gave their consent, and how this happened.**
-  - **Whether they were already married and how the marriage was dissolved.**
-  - **Date of marriage (in words and numbers).**
-  - **Name of the preacher performing the marriage.**
-* - 7
-  - Christian Friederich Bleeke, Einlieger in Leeteln
-  - Christian Friederich Bleeke colonist (farmstead holder) No. 1[3] in Leeteln
-  - 25 years
-  - verbally
-  - unmarried
-  - Luise Eleonore Krückeberg
-  - Jobst Heinrich Krückeberg colonist (farmstead holder) No. 10 in Bärenbusch
-  - 30 years
-  - verbaly
-  - unmarried
-  - twenty six (26) Nov.
-  - v. z. Pr. Schütz
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-M-1833a-table-02.html"></div>
 ```
 
 ## Citation

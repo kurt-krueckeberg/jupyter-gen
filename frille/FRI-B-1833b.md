@@ -13,110 +13,18 @@ Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/ar
 
 Transliteration of Philippine Luise Leonore Bleeke 1833 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborne und Getaufte im Jarhe 1833
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                  19
-                
-  - 
-                  Philippine Luise Leo-
-    nre Bleeke
-                
-  - 
-                  Ein un zwanzigten (21)
-    Maÿ Morgens neun (9) Uhr
-    in Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Christian Friedrich
-    Bleeke Tagelöhner und
-    Ein[wohner?]. beÿ N: 17 in Leeteln
-                
-  - 
-                  Christian Marie
-    Krückeberg aus
-    Leeteln
-                
-  - 
-                  Leeteln beÿ
-    N. 17
-                
-  - 
-                  Sieben und
-    zwanzig (27)
-    Maÿ
-                
-  - 
-                  Schütz
-                
-  - 
-                  1. Sophie Luise Simon
-    2. Christine Marie Backemeyer
-    3. Philippine Caroline Krückeberg
-                
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1833b-table-01.html"></div>
 ```
 
 Translation of Philippine Luise Leonore Bleeke 1833 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Births and Baptisms in the year 1833
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Baptismal witnesses**
-* - 19
-  - Philippine Luise Leonre Bleeke
-  - twenty one (21) May nine (9) a.m. in Leeteln
-  - legitimate
-  - Christian Friedrich Bleeke day-laborer and resident at No. 17 in Leeteln
-  - Christian Marie Krückeberg from Leeteln
-  - Leeteln at N. 17
-  - twenty seven (27) May
-  - Schütz
-  - 1. Sophie Luise Simon
-    
-    2. Christine Marie Backemeyer
-    
-    3. Philippine Caroline Krückeberg
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1833b-table-02.html"></div>
 ```
 
 ## Citation

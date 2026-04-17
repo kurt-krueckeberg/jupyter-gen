@@ -1,0 +1,29 @@
+.Translation of Carl Friederich Bleeke 1823 Birth
+[cols="1,4,4,2,4,4,3,2,3,5"]
+|===
+10+^s|Births and Baptims in 1823
+
+s|Num.
+s|Baptism-Name of the child.
+s|Day and Hour of the Birth (in words and numbers).
+s|Whether it is legitimate or illegitimate
+s|Given and Surname of the Father, and his Status.
+s|Given and Surname of the Mother.
+s|Dwelling Place of the Parents
+s|Baptism Day
+s|Name of the Pastor who baptized child.
+s|Baptismal Sponsors
+
+|39
+|Carl Fried: Bleeke
+|twelfeth (12) October
+eleven (11) p.m. at Leeteln
+|legitimage
+|Carl Fried: Bleeke No. 13 Leeteln
+|Marie Luise Niemann
+|Leeteln No. 13
+|nineteenth (19) October
+|Schütz
+|Carl Fried: Hartmann from Frille
+
+|===

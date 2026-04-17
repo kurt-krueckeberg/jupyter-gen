@@ -1,0 +1,42 @@
+.Translation of Carl Friederich Bleeke 1825 Death
+[cols="1,5,4,1,1,1,4,3,3,4,2,3"]
+|===
+12+^s|Deaths in 1825
+
+<s|Num.
+^s|Given and Surname of the Deceased, (for children the name and status of the father, too).
+^s|Status of the Deceased.
+^s|Age +
+  Years.
+^s|Age +
+  Months.
+^s|Age +
+  Days.
+^s|If the deceased had a spouse +
+and adult or underage surviving children.
+^s|Day and Hour +
+   of Death
+(in words and numbers).
+^s|Illness from which he died
+^s|Whether the deceased received the help of a licensed physician or surgeon at all, or only within the last 48 hours.
+^s|Day of Burial
+^s|Graveyard where buried
+
+|14
+|Carl Friederich Bleeke  
+third son of Johann  
+Heinrich Bleeke, colonist at No. 16  
+in Leteln
+|
+|1
+|10
+|
+|the father  
+and siblings
+|Eleventh (11) of May  
+evening seven (7) o’clock in Frille
+|measles
+|No physician gave help
+|Fifteenth (15) of May
+|Frille
+|===

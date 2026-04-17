@@ -1,0 +1,11 @@
+.Family Relationship Information
+[%header,width="55%",cols="2,3,1,2"]
+|===
+||Name|Age|Burial
+
+|*Family* 3+|Krückebergs at Berenbusch
+
+|*Daughteer*|Louisa Eleonore (born blind)|10|Jan. 26, 1757
+
+|*Residence* 3+|Berenbusch
+|===

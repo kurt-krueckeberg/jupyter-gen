@@ -12,105 +12,18 @@ NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstand
 
 Transliteration of Christine Sophie Eleonore Bleeke 1831 Birth Record
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborene und Getaufte im Jarhe 1831
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                  28
-                
-  - 
-                  Christine Sophie
-    Leonore Bleeke
-                
-  - 
-                  Vierzehnten (14)
-    August Nachts zwölf
-    (12) Uhr in Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Johann Heinrich
-    Bleeke Col.  No. 16
-    in Leeteln
-                
-  - 
-                  Christein Marie
-    geb. Schwier
-    aus Wietersheim
-                
-  - 
-                  Leeteln
-                
-  - 
-                  Eins und
-    zwanzigisten
-    August
-                
-  - 
-                  Schütz
-                
-  - 
-                  Christine Luise
-    Leonore Bleeke
-                
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1831a-table-01.html"></div>
 ```
 
 Translation of Christine Sophie Eleonore Bleeke 1831 Birth Record
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Born and Baptized in the year 1831
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Baptismal witnesses**
-* - 28
-  - Christine Sophie
-    Leonore Bleeke
-  - fourteenth (14) August 12 a.m. Uhr in Leeteln
-  - legitimate
-  - Johann Heinrich Bleeke colonist (farmstead holder) No. 16 in Leeteln
-  - Christein Marie nee Schwier from Wietersheim
-  - Leeteln
-  - 21st August
-  - Schütz
-  - Christine Luise Leonore Bleeke
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1831a-table-02.html"></div>
 ```
 
 ## Citation

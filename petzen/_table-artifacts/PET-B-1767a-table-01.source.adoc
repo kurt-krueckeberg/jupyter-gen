@@ -1,0 +1,13 @@
+.Family Relationship 
+[%header,width="55%"]
+|===
+|||Baptism Date
+
+|*Father* 2+|Johann Heinrich Kruckeberg
+
+|*Mother* 2+|Anne Christine Elisabeth née Seeger
+
+|*Child* |Johann Heinrich Wilhelm|5 Jul. 1767
+
+|*Residence* 2+|Berenbusch
+|===

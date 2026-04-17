@@ -13,73 +13,10 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 
 Transliteration of Johann Hartweg Gottlieb Leberecht Bleeke 1830 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborene und Getaufte im Jarhe 1830
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                  65
-                
-  - 
-                  Johann Hartweg Gott-
-    lieb Leberecht Bleeke
-                
-  - 
-                  Neunzehnten (9t) Decbr.
-    Abds neun (9) Uhr
-    in Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Carl Friederich Blee-
-    ke Col. v[on] No. 13 in
-    Leeteln
-                
-  - 
-                  Marie Luise geb.
-    Niemann aus Todtenhausen
-                
-  - 
-                  Leeteln
-                
-  - 
-                  Neunzehnten (19) Decbr
-                
-  - 
-                  Schütz
-                
-  - 
-                  Johann Hartwig
-    Wehmeÿer Schul[ehrer?] in Leeteln
-                
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1830a-table-01.html"></div>
 ```
 
 ```{important}
@@ -90,35 +27,10 @@ given names includes **Harwig**. Did th scribe inadvertently write **Hartweg** f
 
 Translation  of Johann Hartweg Gottlieb Leberecht Bleeke 1830 Birt
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Births and Baptims in 1830
-* - **Num.**
-  - **Baptism-Name of the child.**
-  - **Day and Hour of the Birth (in words and numbers).**
-  - **Whether it is legitimate or illegitimate**
-  - **Given and Surname of the Father, and his Status.**
-  - **Given and Surname of the Mother.**
-  - **Dwelling Place of the Parents**
-  - **Baptism Day**
-  - **Name of the Pastor who baptized child.**
-  - **Baptismal Sponsors**
-* - 65
-  - Johann Hartweg Gottlieb Leberecht Bleeke The manuscript reads **Hartweg** (clear **e** without tittle); however, **Hartweg** is unattested as a given name in contemporary sources, while **Hartwig** is standard in Westphalia. Indexed under **Hartwig**.
-  - Neunzehnten (9t) Decbr.
-    Abds neun (9) Uhr
-    in Leeteln
-  - Ehelich
-  - Carl Friederich Blee-
-    ke colonist (farmstead holder) of No. 13 in
-    Leeteln
-  - Marie Luise geb.
-    Niemann aus Todtenhausen
-  - Leeteln
-  - Neunzehnten (19) Decbr
-  - Schütz
-  - Johann Hartwig Wehmeÿer Schul[lehrer] in Leeteln
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1830a-table-02.html"></div>
 ```
 
 ## Citation

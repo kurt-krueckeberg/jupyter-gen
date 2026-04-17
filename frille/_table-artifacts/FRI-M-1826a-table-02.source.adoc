@@ -1,0 +1,33 @@
+.Translation of 1826 Marriage of Christian Friedrich Bleeke to Luise Leonore Krückeberg
+[cols="1,4,3,2,3,3,4,4,2,3,3,3,4"]
+|===
+13+^s|Proclaimed (banns) and Married in the year 1820
+
+s|No.
+s|Groom's first and last name.
+s|Father's social status and place of residence
+s|Groom's age.
+s|Whether parents or guardians gave their consent, and how this happened.
+s|Whether he was already married and how the marriage was dissolved.
+s|Bride's first and last name.
+s|Name, social status, and place of residence of the bride's father.
+s|Bride's age.
+s|Whether parents or guardians gave their consent, and how this happened.
+s|Whether they were already married and how the marriage was dissolved.
+s|Date of marriage (in words and numbers).
+s|Name of the preacher performing the marriage.
+
+|7
+|Christian Friederich Bleeke, Einlieger in Leeteln
+|Christian Friederich Bleeke colonist (farmstead holder) No. 1[3] in Leeteln
+|25 years
+|verbally
+|unmarried
+|Luise Eleonore Krückeberg
+|Jobst Heinrich Krückeberg colonist (farmstead holder) No. 10 in Bärenbusch
+|30 years
+|verbaly
+|unmarried
+|twenty six (26) Nov.
+|v. z. Pr. Schütz
+|===

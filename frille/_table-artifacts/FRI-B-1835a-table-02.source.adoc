@@ -1,0 +1,31 @@
+.Translation  of Christine Friederike Marie Leonore Bleeke 1835 Birth
+[cols="1,4,4,2,4,4,3,2,3,5a"]
+|===
+10+^s|Births and Baptims in 1835
+
+s|Num.
+s|Baptism-Name of the child.
+s|Day and Hour of the Birth (in words and numbers).
+s|Whether it is legitimate or illegitimate
+s|Given and Surname of the Father, and his Status.
+s|Given and Surname of the Mother.
+s|Dwelling Place of the Parents
+s|Baptism Day
+s|Name of the Pastor who baptized child.
+s|Baptismal Sponsors
+
+
+|8
+|Christine Friedrike Marie Leonoe Bleeke
+|Zwanzigsten (20) Frebruary seven (7) p.m. in Leeteln
+|legitimate
+|Carl Friedrich Bleeke colonist (farmstead holder) of No. 13 in Leeteln
+|Marie Luise nee Niemann from Todtenhasuen
+|Leeteln
+|first (1) March
+|Schütz
+|Friederike Wehmeÿer +
+Maire Siemon +
+Leonore Meÿer +
+Leonore v. Behrend
+|===

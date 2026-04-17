@@ -13,102 +13,18 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 
 Transliteration of Carl Friederich Bleeke 1823 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborene und Getaufte im Jarhe 1823
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                  39
-                
-  - 
-                  Carl Fried: Bleeke
-                
-  - 
-                  zwölften (12) October
-    Nachts elf (11) Uhr zu
-    Leeteln.
-                
-  - 
-                  ehelich
-                
-  - 
-                  Carl Fried: Bleeke
-    No. 13 Leeteln
-                
-  - 
-                  Marie Luise Nie-
-    mann
-                
-  - 
-                  Leeteln
-    No. 13
-                
-  - 
-                  Neunzehnten
-    (19) October
-                
-  - 
-                  Schütz
-                
-  - 
-                  Carl Fried: Hartmann
-    aus Frille
-                
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1823a-table-01.html"></div>
 ```
 
 Translation of Carl Friederich Bleeke 1823 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Births and Baptims in 1823
-* - **Num.**
-  - **Baptism-Name of the child.**
-  - **Day and Hour of the Birth (in words and numbers).**
-  - **Whether it is legitimate or illegitimate**
-  - **Given and Surname of the Father, and his Status.**
-  - **Given and Surname of the Mother.**
-  - **Dwelling Place of the Parents**
-  - **Baptism Day**
-  - **Name of the Pastor who baptized child.**
-  - **Baptismal Sponsors**
-* - 39
-  - Carl Fried: Bleeke
-  - twelfeth (12) October
-    eleven (11) p.m. at Leeteln
-  - legitimage
-  - Carl Fried: Bleeke No. 13 Leeteln
-  - Marie Luise Niemann
-  - Leeteln No. 13
-  - nineteenth (19) October
-  - Schütz
-  - Carl Fried: Hartmann from Frille
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1823a-table-02.html"></div>
 ```
 
 ## Citation

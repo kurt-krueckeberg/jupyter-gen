@@ -1,0 +1,54 @@
+.Transliteration of Christine Marie Bleeke 1828 Birth Record
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+10+^s|Geborene und Getaufte im Jarhe 1828
+
+s|Nro.
+s|Tauf-Name
+des Kindes.
+s|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+s|Ob es
+ehelich
+oder
+unehelich.
+s|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+s|Vor- und Zuname
+der
+Mutter.
+s|Wohnort
+der
+Eltern
+s|Tag
+der
+Taufe.
+s|Namen des Predigers,
+der es getauft.
+s|Name der Taufzeugen
+
+|28
+|Chritine Marie
+Bleeke
+|Vierzehnten (14t) Aug:
+Morgs[Morgens] sechs (6) Uhr in
+Leeteln
+|Ehelich
+|Johann Heinrich
+Philipp Bleeke
+Col. No 16 in Leeteln
+|Christine Marie
+geb. Schwier aus
+Wietersheim
+|Siebzehnten
+(17) August
+|Leeteln
+|Schütz
+|Christine Marie Leono-
+re Schildtmeÿer
+Anne Sophie Dorothea
+Schwier
+|===

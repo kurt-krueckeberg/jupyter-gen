@@ -11,103 +11,18 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 
 Transliteration of Carl Friederich Bleeke 1823 Birth Record
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborene und Getaufte im Jarhe 1823
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                29
-              
-  - 
-                Carl Fried. Bleeke
-              
-  - 
-                siebzehnten (17) Juli Mor-
-    gens (9) neun Uhr zu
-    Leeteln
-              
-  - 
-                ehelich
-              
-  - 
-                Johann Heinrich
-    Bleeke, Col. No. 16 in Lee-
-    teln
-              
-  - 
-                Christine Marie geb.
-    Schwier aus Wieters-
-    heim
-              
-  - 
-                Leeteln
-    No. 16
-              
-  - 
-                zwanzigten
-    (20)  Julius
-              
-  - 
-                Schütz
-              
-  - 
-                Christian Fried. Bleeke
-    aus Leeteln
-              
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1823b-table-01.html"></div>
 ```
 
 Translation of Carl Friederich Bleeke 1823 Birth Record
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Born and Baptized in the year 1823
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Baptismal witnesses**
-* - 29
-  - Carl Fried. Bleeke
-  - on the seventeenth (17) of July at 9 o’clock in the morning in Leeteln
-  - legitimate
-  - Johann Heinrich Bleeke, colonist (farmstead holder), No. 16 in Leeteln
-  - Christine Marie née Schwier from Wietersheim
-  - Leeteln No. 16
-  - twentieth (20) of July
-  - Schütz
-  - Christian Fried. Bleeke of Leeteln
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1823b-table-02.html"></div>
 ```
 
 ## Citation

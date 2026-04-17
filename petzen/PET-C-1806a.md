@@ -4,31 +4,10 @@
 
 Confirmand’s Family Relationships
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - 
-  - 
-  - Child’s Birthplace
-  - Residence of the Father or the Mother
-  - Birthdate
-  - Date of Confirmation
-* - **Child/Confirmant**
-  - Philippine Louise Leonore
-  - Evesen
-  - No. 19 Evesen
-  - 21 April 1793
-  - 20 March 30 1806
-* - **Father**
-  - Johann Heinrch Kruckeberg
-  - 
-  - No. 19 Evesen
-  - 
-* - **Mother**
-  - Anne Cathrine Sophie née Krömer
-  - 
-  - No. 19 Evesen
-  - 
+```{raw} html
+<div data-include-html="_table-artifacts/PET-C-1806a-table-01.html"></div>
 ```
 
 ## Citation
@@ -61,20 +40,18 @@ images.](https://www.archion.de)
 
 Header for Pages 426 and 427
 
-```{list-table}
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - 
-                  426   Register der am Sonntage Quasimodogeniti  1806         in der Kirche zu Petzen Konfirmirten Kinder      427
-                
+```{raw} html
+<div data-include-html="_table-artifacts/PET-C-1806a-table-02.html"></div>
 ```
 
 Header for Pages 426 and 427
 
-```{list-table}
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - 
-                  426   Register of Confirmed Children on the Sunday Quadimodogeniti 1806           in the Church at Petzen     427
-                
+```{raw} html
+<div data-include-html="_table-artifacts/PET-C-1806a-table-03.html"></div>
 ```
 
 ## Transliteration and Translation of Entry 12

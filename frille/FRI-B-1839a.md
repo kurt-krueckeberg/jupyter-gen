@@ -11,114 +11,18 @@ Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/ar
 
 Transliteration of Heinrich Friederich Christian Bleeke 1839 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborne und Getaufte im Jarhe 1839
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                31
-              
-  - 
-                Heinrich Friederich
-    Christian Bleeke
-              
-  - 
-                Achtzehnten (18)
-    Julÿ Abends zehn
-    (10) Uhr in Leeteln
-              
-  - 
-                Ehelich
-              
-  - 
-                Christian Friede-
-    rich Bleeke E[in]
-    beÿ No. 13 in Leeteln
-              
-  - 
-                Christian Luise
-    geb. Krücke-
-    berg aus Beeren-
-    busch
-              
-  - 
-                Leeteln
-              
-  - 
-                Ein und
-    zwanzigten
-    (21) Julÿ
-              
-  - 
-                Schütz
-              
-  - 
-                1) Heinrich [Röseme]
-    2) Heinrich Rödenbeck
-    3) Friederich Heine
-    4) Heinrich Steinkamper
-    5) Heinrich Frodemann
-    6) Fried. Marks.
-              
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1839a-table-01.html"></div>
 ```
 
 Translation of Heinrich Friederich Christian Bleeke 1839 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Born and Baptized in the year 1839
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Baptismal witnesses**
-* - 31
-  - Heinrich Friederich Christian Bleeke
-  - Eighteenth (18) July ten (10) p.m. in Leeteln
-  - legitimate
-  - Christian Friederich Bleeke Ein[lieger] at No. 13 in Leeteln
-  - Christian Luise nee Krückeberg fromu Beerenbusch
-  - Leeteln
-  - Twenty first (21) July
-  - Schütz
-  - 1) Heinrich [Röseme]
-    2) Heinrich Rödenbeck
-    3) Friederich Heine
-    4) Heinrich Steinkamper
-    5) Heinrich Frodemann
-    6) Fried. Marks.
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1839a-table-02.html"></div>
 ```
 
 ## Citation

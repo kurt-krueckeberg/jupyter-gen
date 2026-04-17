@@ -146,74 +146,18 @@ Pages 176-177 Header
 
 Johann Heinrich Krückeberg Baptism
 
-```{list-table}
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - 
-                  176         Getaufte im Kirchspiele Petzen                            im Jahr 1806                            177
-                
-* - **N.**
-  - **Name des Kindes**
-  - **Zahl**
-  - **Geburtzeit
-    u. Geburtsort**
-  - **Taufzeit und
-    Taufort des Kindes**
-  - **Name, Stand, Re,
-    ligion u. Geburts
-    ort des Vaters**
-  - **Name, Religion
-    u. Geburtsort
-    der Mutter**
-  - **Wohnort
-    der Eltern**
-  - **Taufzeugen
-    des Kindes**
-* - 22
-  - Johan Heinrich Krückeberg
-  - das 4ten Kind u. erster Sohn
-    erster Ehe
-  - ist geboren d. 12ten Augt. in
-    Bärenbusch. nachmittags 4 Uhr
-  - wurde getauft d. 17ten Augt in der Kirche zu Petzen
-  - Jobst Heinrich Krückeberg, aus, Nr. 10 in Bärenbusch, Luthr. Confession Schuster Amtsmeister
-  - Christine Philippine Leonore geb. Tegtmeiern  aus Meinsen, Lutheraner Confession
-  - No. 10. in Bärenbusch
-  - Carl Friedrich Gottlieb Krückeberg Einlieger in Bärenbush C Friedrich Tegtmeier aus Meinsen
+```{raw} html
+<div data-include-html="_table-artifacts/PET-B-1806a-table-06.html"></div>
 ```
 
 Johann Heinrich Krückeberg Baptism
 
-```{list-table}
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - 
-                  176         Baptisms in the Petzen Parish                            in the year 1806                            177
-                
-* - **N.**
-  - **Child’s Name**
-  - **Num.**
-  - **Birth time
-     and Place**
-  - **Baptism Time and
-     Place of the Child**
-  - **Name, Re-
-     ligion and Birth place
-     of the Father**
-  - **Name, Religion
-     and Birth Place
-     of the Mother**
-  - **Parent’s
-     Residence**
-  - **Baptismal Witnesses
-     of the Child**
-* - 22
-  - Johan Heinrich Krückeberg
-  - the 4th child and first son of the first marriage
-  - born the 12th Aug. in Bärenbusch. Afternoon at 4 o’clock
-  - was baptized the 17th Aug. in the Petzen church
-  - Jobst Heinrich Krückeberg, from N. 10 in Bärenbusch, Luthr. Confession, Schoemaker Guild Master
-  - Christine Philippine Leonore born Tegtmeiern from Meinsen, of the Lutheran Confession
-  - Nov. 10. in Bärenbusch
-  - Carl Friedrich Gottlieb Krückeberg farm laborer in Bärenbush C Friedrich Tegtmeier from Meinsen
+```{raw} html
+<div data-include-html="_table-artifacts/PET-B-1806a-table-07.html"></div>
 ```
 
 ## Citations

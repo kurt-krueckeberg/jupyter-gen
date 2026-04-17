@@ -4,19 +4,10 @@
 
 Family Relationship Information
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - 
-  - Name
-  - Age
-  - Burial
-* - **Individual**
-  - Anna Maria Krückeberg
-  - 56
-  - May 8, 1757
-* - **Residence**
-  - Berenbusch
+```{raw} html
+<div data-include-html="_table-artifacts/PET-D-1757b-table-01.html"></div>
 ```
 
 [.narrow[

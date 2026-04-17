@@ -1,0 +1,53 @@
+.Transliteration of Sophie Christine Leonore Bleeke 1830 Birth
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,2l,5l"]
+|===
+10+^s|Geborne und Getaufte im Jarhe 1830
+
+s|Nro.
+s|Tauf-Name
+des Kindes.
+s|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+s|Ob es
+ehelich
+oder
+unehelich.
+s|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+s|Vor- und Zuname
+der
+Mutter.
+s|Wohnort
+der
+Eltern
+s|Tag
+der
+Taufe.
+s|Namen des Predigers,
+der es getauft.
+s|Name der Taufzeugen
+
+|41
+|Sophie Christine
+Leonore Bleeke
+|Sieben and zwanzigsten
+(27t) Julÿ Morgs sechs
+(6) Uhr in Leeteln
+|Ehelich
+|Christian Friederich
+Bleeke Tagelöhner und
+Einlieg[er] beÿ N: 16
+|Christine Luise
+geb. Krückeberg
+aus Bärenbusch
+|Leeteln
+|Einsten 
+(1) August
+|Schütz
+|Marie Leonore Stahlhut
+Sophie Luise Steinmeÿer
+Sophie Dorothea Krückeberg
+|===

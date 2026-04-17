@@ -1,0 +1,32 @@
+.Translation of Philippine Luise Leonore Bleeke 1833 Birth
+[cols="1,4,4,2,4,4,3,2,2,5"]
+|===
+10+^s|Births and Baptisms in the year 1833
+
+s|No.
+s|Baptismal name of the child.
+s|Day and hour of birth (in words and numbers)
+s|Whether legitimate or illegitimate
+s|Given and surname of the father, also his Status
+s|Given and surname of the mother
+s|Residence of the Parents
+s|Day of baptism
+s|Name of the minister
+s|Baptismal witnesses
+
+|19
+|Philippine Luise Leonre Bleeke
+|twenty one (21) May nine (9) a.m. in Leeteln 
+|legitimate
+|Christian Friedrich Bleeke day-laborer and resident at No. 17 in Leeteln
+|Christian Marie Krückeberg from Leeteln
+|Leeteln at N. 17
+|twenty seven (27) May
+|Schütz
+<|
+1. Sophie Luise Simon
+
+2. Christine Marie Backemeyer
+
+3. Philippine Caroline Krückeberg
+|===

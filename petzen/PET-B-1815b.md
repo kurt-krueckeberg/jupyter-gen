@@ -25,93 +25,18 @@ See discussion of **Einlieger/Einlinger** at [Image 82.](PET-B-1803b.md)
 
 Heinrich Wilhelm Weiland Baptism and Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - 266         Geboren im Kirchspiele Petzen (births in Petzen church parish)               im Jahr (in the year) 1815                            267
-* - **Zahl**
-  - **Name des Kindes**
-  - **Zahl**
-  - **Geburtzeit
-    u. Geburtsort**
-  - **Taufzeit u.
-    Taufort**
-  - **Name, Stand Religion
-    u. Geburtsrt des Vaters**
-  - **Name, Religion
-    u. Geburtsort der
-    Mutter**
-  - **Wohnort
-    der
-    Eltern**
-  - **Taufzeugen**
-* - 37
-  - Heinrich Wilehlm
-    Weiland
-  - des 6ten Kind u.
-    2ten Sohn
-  - ist geboren d.
-    11ten Decbr Abends
-    7. Uhr in Evesen
-  - u. wurde getauft
-    d. 17ten. Decbr in der Kirche
-  - Friedrich Wilhelm
-    Weiland n. 20 in Evesen
-    Luth. Conf.
-  - Anne Catharine geb.
-    Drinckuths aus n. 1 in
-    Wülpke
-  - wohnen
-    auf n. 20
-    in Evesen
-  - Johann Henrich Sieckmann
-    Einlieger in Bärenbusch
+```{raw} html
+<div data-include-html="_table-artifacts/PET-B-1815b-table-01.html"></div>
 ```
 
 Heinrich Wilhelm Weiland Baptism and Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - 266         Geboren im Kirchspiele Petzen (births in Petzen church parish)               im Jahr (in the year) 1815                            267
-* - Number
-  - Child’s Name
-  - Number
-  - Birth time
-    and Place
-  - Baptism Time
-    and
-    Place
-  - Name, Job, Religion
-    and Birth place of Father
-  - Name, Religion
-    and Birth Place of
-    Mother
-  - Residence
-    of
-    Parents
-  - Baptism Witnesses
-* - 37
-  - Heinrich Wilehlm
-    Weiland
-  - the 6th child and
-    2nd son
-  - born the
-    11th Dec. at
-    7 p.m. in Evesen
-  - was baptized
-    on 17th Dec. in the church
-  - Friedrich Wilhelm
-    Weiland n. 20 in Evesen
-    Luth. Conf.
-  - Anne Catharine born
-    Drinckuths from n. 1 in
-    Wülpke
-  - live at
-    n. 20
-    in Evesen
-  - Johann Henrich Sieckmann
-    farm laborer in Bärenbusch
+```{raw} html
+<div data-include-html="_table-artifacts/PET-B-1815b-table-02.html"></div>
 ```
 
 ## Citations

@@ -13,75 +13,10 @@ Minden, Nr. B 168 Jg. 1831-1845.](https://www.archive.nrw.de/archivsuche?link=VE
 
 Transliteration of Sophie Luise Leonore Bleeke 1833 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborene und Getaufte im Jarhe 1833
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                  8
-                
-  - 
-                  Sophie Luise Leonore
-    Bleeke
-                
-  - 
-                  Vierten (4) März Morgs
-    dreÿ (3) Uhr in Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Carl Friederich Bleeke
-    Col. v[on]  No. 13 in Leeteln
-                
-  - 
-                  Marie Luise geb. Nie
-    mann aus Todten-
-    hausen.
-                
-  - 
-                  Leeteln No. 13
-                
-  - 
-                  Zehnten (10)
-    März
-                
-  - 
-                  Schütz
-                
-  - 
-                  1) Sophie† Charlotte †Christine
-    Wehmeier
-    2) Sophie Luise Friedericke
-    Steinmeÿer
-                
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1833a-table-01.html"></div>
 ```
 
 ```{important}
@@ -92,31 +27,10 @@ given names includes **Harwig**. Did th scribe inadvertently write **Hartweg** f
 
 Translation  of Sophie Luise Leonore Bleeke 1833 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Births and Baptims in 1833
-* - **Num.**
-  - **Baptism-Name of the child.**
-  - **Day and Hour of the Birth (in words and numbers).**
-  - **Whether it is legitimate or illegitimate**
-  - **Given and Surname of the Father, and his Status.**
-  - **Given and Surname of the Mother.**
-  - **Dwelling Place of the Parents**
-  - **Baptism Day**
-  - **Name of the Pastor who baptized child.**
-  - **Baptismal Sponsors**
-* - 8
-  - Sophie Luise Leonore Bleeke
-  - fourth (4) Marche three (3) a.m. in Leeteln
-  - legitimage
-  - Carl Friederich Bleeke colonist (farmstead holder) of No. 13 in Leeteln
-  - Marie Luise nee Niemann aus Todtenhausen.
-  - Leeteln No. 13
-  - tenth (10) March
-  - Schütz
-  - 1) Sophie† Charlotte †Christine Wehmeier
-    2) Sophie Luise Friedericke Steinmeier
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1833a-table-02.html"></div>
 ```
 
 ## Citation

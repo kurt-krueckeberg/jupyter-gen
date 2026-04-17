@@ -1,0 +1,29 @@
+.Translation of Christian Heinrich Bleeke 1836 Birth
+[cols="1,4,4,2,4,4,3,2,3,5"]
+|===
+10+^s|Born and Baptized in the year 1836
+
+s|No.
+s|Baptismal name of the child.
+s|Day and hour of birth (in words and numbers)
+s|Whether legitimate or illegitimate
+s|Given and surname of the father, also his Status
+s|Given and surname of the mother
+s|Residence of the Parents
+s|Day of baptism
+s|Name of the minister
+s|Baptismal witnesses
+
+|8
+|Christian Heinrich Bleeke
+|twenty eight (28) January four (4) p.m. in Leeteln
+|legitimate
+|Christian Friedrich Bleke resident at No. 17 in Leeteln
+|Christine Luise nee Krückeberg from Beerenbusch
+|Leeteln
+|thirty one (31) January
+|Schütz
+<|1. Johann Heinrich Krückeberg
+
+2. Christian Ko[hlm]eier
+|===

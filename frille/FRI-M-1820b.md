@@ -13,142 +13,18 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 
 Transliteration of 1820 Johann Heinrich Philip Bleeke Marriage to Christine Marie Schwier
 
-```{list-table}
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - **Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
-    Nummer eingetragen werden.) im Jahr 1820.**
-* - **Nro.**
-  - **Vor- und Zunamen
-    des
-    Bräutigum.**
-  - **Stand
-    und Wohnort des Vaters**
-  - **Alter des Bräuti-
-    gams.**
-  - **Ob Eltern oder
-    Vormund die Einwilligung gegeben,
-    und wie solches geschehen.**
-  - **Ob er schon
-    verehelicht gewesen
-    und wie die Ehe getrennt
-    worden.**
-  - **Vor- und Zuname
-    der
-    Braut.**
-  - **Namen,
-    Stand und Wohnort
-    des
-    Vaters der Braut.**
-  - **Alter
-    der
-    Braut.**
-  - **Ob Eltern oder
-    Vormund die Ein-
-    willingung gegeben,
-    und wie solches
-    geschehen.**
-  - **Ob sie schon
-    verehelicht gewesen
-    und wie
-    die Ehe getrennt
-    worden.**
-  - **Tag der Kopulation
-    mit
-    Buchstaben und Ziffern.**
-  - **Name des Predigers,
-    der
-    die Kopulation verrichtet.**
-* - 
-                  9
-                
-  - 
-                  Johann Hein.
-    Bleeke
-                
-  - 
-                  Christian
-    Friederick
-    Bleeke zu
-    No 13 in Leteln
-                
-  - 
-                  22 Jahr
-                
-  - 
-                  Ausdrück-
-    lich und per-
-    sönlich
-                
-  - 
-                  Jungge-
-    selle
-                
-  - 
-                  Christine
-    Marie Schwier
-                
-  - 
-                  Christian
-    Friederich
-    Schwier colonist (farmstead holder)
-    No 27 in Wietersheim
-                
-  - 
-                  22 Jahr
-                
-  - 
-                  Stillschwei-
-    gend
-                
-  - 
-                  Unverheÿra-
-    thet, aber [von?]
-    ihrem Bräutigam
-    einen 2 jährigen
-    Sohn
-                
-  - 
-                  den neunten
-    (9) Julius
-                
-  - 
-                  Schütz
-                
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-M-1820b-table-01.html"></div>
 ```
 
 Translation of 1820 Johann Heinrich Philip Bleeke Marriage to Christine Marie Schwier
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Proclaimed (banns) and Married in the year 1820
-* - **No.**
-  - **Groom’s first and last name.**
-  - **Father’s social status and place of residence**
-  - **Groom’s age.**
-  - **Whether parents or guardians gave their consent, and how this happened.**
-  - **Whether he was already married and how the marriage was dissolved.**
-  - **Bride’s first and last name.**
-  - **Name, social status, and place of residence of the bride’s father.**
-  - **Bride’s age.**
-  - **Whether parents or guardians gave their consent, and how this happened.**
-  - **Whether they were already married and how the marriage was dissolved.**
-  - **Date of marriage (in words and numbers).**
-  - **Name of the preacher performing the marriage.**
-* - 9
-  - Johann Hein.  Bleeke
-  - Christian
-    Friederick Bleeke at No 13 in Leteln
-  - 22 years
-  - Consent given expressly and in person
-  - bachelor
-  - Christine Marie Schwier
-  - Christian Friederich Schwier colonist (farmstead holder) No 27 in Wietersheim
-  - 22 Jahr
-  - by tacit consent
-  - unmarried, but has a two-year-old son with her bridegroom
-  - ninth (9) July
-  - Schütz
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-M-1820b-table-02.html"></div>
 ```
 
 ## Citation

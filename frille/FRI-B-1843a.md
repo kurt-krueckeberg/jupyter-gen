@@ -11,80 +11,10 @@ Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/ar
 
 Transliteration of Christine Marie Leonore Bleeke 1843 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborne und Getaufte im Jarhe 1843
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                56
-              
-  - 
-                Christine Marie
-    Leonore Bleeke
-              
-  - 
-                Vier und zwanzig-
-    sten (24) Decb.
-    Abds zwölf (12) Uhr
-    in Leteln
-              
-  - 
-                Ehelich
-              
-  - 
-                Christian Friederich
-    Bleeke Ein[lieger] bei N 3
-    in Leteln u Tagelöhn[er]
-              
-  - 
-                Christine Luise
-    geb. Krücke-
-    berg
-              
-  - 
-                Leteln
-              
-  - 
-                Ein und
-    drießigsten
-    (31) December
-              
-  - 
-                Schütz
-              
-  - 
-                Christine Sophie Leonore Backemeier
-    
-    Christine Marie Leonore Schäkel
-    
-    Christine Sophoe Luise Steinkämper
-              
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1843a-table-01.html"></div>
 ```
 
 :::{admonition} Explanation of terms
@@ -97,30 +27,10 @@ Transliteration of Christine Marie Leonore Bleeke 1843 Birth
 
 Translation of Christine Marie Leonore Bleeke 1843 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Born and Baptized in the year 1843
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Baptismal witnesses**
-* - 56
-  - Christine Marie Leonore Bleeke
-  - twenty four (24) December twelve (12) p.m. in Leteln
-  - legitimate
-  - Christian Friederich Bleeke Ein[lieger] at N 3 in Leteln and Tagelöhn[er]
-  - Christine Luise geb. Krückeberg
-  - Leteln
-  - thirty one (31) December
-  - Schütz
-  - Christine Sophie Leonore Backemeier
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1843a-table-02.html"></div>
 ```
 
 ## Citation

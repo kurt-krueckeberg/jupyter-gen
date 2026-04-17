@@ -1,0 +1,29 @@
+.Translation  of Sophie Luise Leonore Bleeke 1833 Birth
+[cols="1,4,4,2,4,4,3,2,3,5"]
+|===
+10+^s|Births and Baptims in 1833
+
+s|Num.
+s|Baptism-Name of the child.
+s|Day and Hour of the Birth (in words and numbers).
+s|Whether it is legitimate or illegitimate
+s|Given and Surname of the Father, and his Status.
+s|Given and Surname of the Mother.
+s|Dwelling Place of the Parents
+s|Baptism Day
+s|Name of the Pastor who baptized child.
+s|Baptismal Sponsors
+
+
+|8
+|Sophie Luise Leonore Bleeke
+|fourth (4) Marche three (3) a.m. in Leeteln
+|legitimage
+|Carl Friederich Bleeke colonist (farmstead holder) of No. 13 in Leeteln
+|Marie Luise nee Niemann aus Todtenhausen.
+|Leeteln No. 13
+|tenth (10) March
+|Schütz
+|1) Sophie† Charlotte †Christine Wehmeier
+2) Sophie Luise Friedericke Steinmeier
+|===

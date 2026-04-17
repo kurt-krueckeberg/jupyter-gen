@@ -13,109 +13,18 @@ Minden, Nr. B 168 Jg. 1831-1845.](https://www.archive.nrw.de/archivsuche?link=VE
 
 Transliteration of Christine Friederike Marie Leonore Bleeke 1835 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Geborene und Getaufte im Jarhe 1835
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
-    der Geburt
-    in
-    Buchstaben und Ziffern.**
-  - **Ob es
-    ehelich
-    oder
-    unehelich.**
-  - **Vor- and Zuname
-    des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
-    der
-    Mutter.**
-  - **Wohnort
-    der
-    Eltern**
-  - **Tag
-    der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
-* - 
-                  8
-                
-  - 
-                  Christine Friedrike
-    Marie Leonoe Blee-
-    ke
-                
-  - 
-                  Zwanzigsten (20) Febru-
-    ar Abds sieben (7)
-    Uhr in Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Carl Friedrich Blee-
-    ke Col. v. No. 13
-    in Leeteln
-                
-  - 
-                  Marie Luise geb.
-    Niemann aus
-    Todtenhasuen
-                
-  - 
-                  Leeteln
-                
-  - 
-                  Einsten (1)
-    März
-                
-  - 
-                  Schütz
-                
-  - 
-                  Friederike Wehmeÿer
-    Maire Siemon
-    Leonore Meÿer
-    Leonore v. Behrend
-                
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1835a-table-01.html"></div>
 ```
 
 Translation  of Christine Friederike Marie Leonore Bleeke 1835 Birth
 
-```{list-table}
-:header-rows: 1
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-* - Births and Baptims in 1835
-* - **Num.**
-  - **Baptism-Name of the child.**
-  - **Day and Hour of the Birth (in words and numbers).**
-  - **Whether it is legitimate or illegitimate**
-  - **Given and Surname of the Father, and his Status.**
-  - **Given and Surname of the Mother.**
-  - **Dwelling Place of the Parents**
-  - **Baptism Day**
-  - **Name of the Pastor who baptized child.**
-  - **Baptismal Sponsors**
-* - 8
-  - Christine Friedrike Marie Leonoe Bleeke
-  - Zwanzigsten (20) Frebruary seven (7) p.m. in Leeteln
-  - legitimate
-  - Carl Friedrich Bleeke colonist (farmstead holder) of No. 13 in Leeteln
-  - Marie Luise nee Niemann from Todtenhasuen
-  - Leeteln
-  - first (1) March
-  - Schütz
-  - Friederike Wehmeÿer
-    Maire Siemon
-    Leonore Meÿer
-    Leonore v. Behrend
+```{raw} html
+<div data-include-html="_table-artifacts/FRI-B-1835a-table-02.html"></div>
 ```
 
 ## Citation
