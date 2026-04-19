@@ -1,0 +1,40 @@
+# Bleekes in Frille Parish
+
+The Bleeke church records are from these sources:
+
+1. These [Archion.de Frille volumes:](https:archion.de)
+  - Verzeichnis der Getauften, Getrauten, Gestorbenen 1664-1757
+  - Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804
+2. These **Landesarchiv NRW, Abteilung Ostwestfalen-Lippe** Frille Kirchenbuchduplikate:
+  - [Landesarchiv
+NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
+Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
+  - [Landesarchiv
+NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
+Minden, Nr. B 168 Jg. 1831-1845.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763)
+3. The [online PDF of the 1814-1848 church register of the](http://hdl.handle.net/2374.UC/753629)**Nord deutschlische
+lutheranische Kirche** (**German Evangelical Lutheran and Reformed Church**) found in the Archives and Rare Books
+Library, University of Cincinnati.
+4. TIF images of the church register of Immanuel Lutheran Church, Decatur, Indiana, received from the church.
+
+## Frille KirchenbuchDuplikanten
+
+The Frille duplicate church registers in the Landesarchiv NRW Abteilung Ostwestfalen-Lippe have been examined for
+the marriage records for Carl Friedrich Bleeke (1794-1853), Johann Heinrich Philip Bleeke (1797-1883) and
+Christian Friedrich Bleeke (1880-1889). The birth records of their children
+have also been examined.
+
+### How to Navigate to Frille Church Register Duplicates in NRW Detmold Archive
+
+From: [https:archivsuche](https://www.archive.nrw.de/archivsuche)
+
+1. [Landesarchiv NRW Abteilung Ostwestfalen-Lippe →](https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_a6fa801b-a7f8-46ae-b87c-3e1930f294b5)
+2. [Personenstandsarchiv Westfalen-Lippe →](https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_16ffdb05-f60a-47fa-848e-747a9921bb33)
+3. [Kirchenbuchduplikate, Zivilstands-, Juden- und Dissidentenregister →](https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_1c3f1fff-65fb-4bd0-9f6f-d53fbee4e471)
+4. [Regierrungsbezirk
+Detmold →](https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_ca036f68-be9a-4699-bd76-e0028956cae9)
+5. [P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden →](https://www.archive.nrw.de/archivsuche?link=BESTAND-Best_9f7d2003-c149-40fb-a2a1-41bef6f521cd)
+6. [Frille, Kreis Minden →](https://www.archive.nrw.de/archivsuche?link=KLASSIFIKATION-Klas_2b89c798-9570-4e76-bea3-1eab6f4b3e03)
+  - [Zivilstandregister](https://www.archive.nrw.de/archivsuche?link=KLASSIFIKATION-Klas_68ffc783-c858-4ae3-909d-c58597fdc708)
+  - [Kirchenbuchduplikate](https://www.archive.nrw.de/archivsuche?link=KLASSIFIKATION-Klas_2b647820-98c2-4c4c-9b86-03e1b356d9c8)
+

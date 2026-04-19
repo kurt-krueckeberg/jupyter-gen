@@ -1,0 +1,9 @@
+.Family Relationship Information
+[%header,width="55%",cols="2,3,1,2"]
+|===
+||Name|Age|Burial
+
+|*Individual*|Anna Maria Krückeberg|56|May 8, 1757
+
+|*Residence* 3+|Berenbusch
+|===
