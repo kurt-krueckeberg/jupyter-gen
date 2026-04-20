@@ -279,6 +279,8 @@ project:
 #      articles: intro.md
 site:
   template: book-theme
-  # options:
+  options:
+    logo: _static/krueckeberg-myst-style.svg
+    logo_dark: _static/krueckeberg-myst-style-dark.svg
   #   favicon: favicon.ico
   #   logo: site_logo.png
