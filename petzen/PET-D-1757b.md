@@ -9,14 +9,13 @@
   - Age
   - Residence
   - Burial
-* - **Individual**
-  - Anna Maria Krückeberg
+* - Anna Maria Krückeberg
   - 56
   - Berenbusch
+  - May 8, 1757
 ```
 
-[.narrow[
-== Citation
+## Citation
 
 The May 8, 1757, burial of Anna Maria Krückeberg from Berenbusch appears on [image 178](PET-D-1757b)
 

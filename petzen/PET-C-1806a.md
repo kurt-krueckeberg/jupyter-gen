@@ -22,9 +22,11 @@
 * - Name
   - Birth Place
   - Birthdate
-* - Confirmation Date
-  - Philippine Louise Leonore
+  - Confirmation Date
+* - Philippine Louise Leonore
   - no. 19 Evesen
+  - 21 April 1793
+  - 20 March 30 1806
 ```
 
 ## Citation

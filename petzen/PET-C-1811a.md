@@ -11,12 +11,12 @@
 * - **Father**
   - Jobst Heinrch Kruckeberg
   - no. 10 Berenbusch
-* - 
-  - **Mother**
+* - **Mother**
   - Anne Christine Philippine née Tegtmeier
-* - no. 10 Berenbusch
-  - 
-  - **Child/Confirmant**
+  - no. 10 Berenbusch
+* - **Child/Confirmant**
+  - Anne Christine Lenore Krückeberg
+  - no. 10 Berenbusch
 ```
 
 ```{list-table} Child’s Birth and Confirmation Dates
