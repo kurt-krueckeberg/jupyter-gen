@@ -280,7 +280,7 @@ project:
 site:
   template: book-theme
   options:
-    logo: _static/krueckeberg-myst-style.svg
-    logo_dark: _static/krueckeberg-myst-style-dark.svg
+    logo: _static/krueckeberg-myst.svg
+    logo_dark: _static/krueckeberg-myst-dark.svg
   #   favicon: favicon.ico
   #   logo: site_logo.png
