@@ -55,50 +55,26 @@ Translation of page header: **Deaths in 1825**.
     auf welchem
       er
     begraben worden.
-* - 
-                  14
-                
-  - 
-                  Carl Friederich Bleeke
+* - 14
+  - Carl Friederich Bleeke
     dritter Sohn des Johann
     Heinr: Bleeke Col von N. 16
     in Leeteln
-                
   - 
-                  
-                
+  - 1
+  - 10
   - 
-                  1
-                
-  - 
-                  10
-                
-  - 
-                  
-                
-  - 
-                  der Vater
+  - der Vater
     und Geschwister
-                
-  - 
-                  Elften (11) Maÿ
+  - Elften (11) Maÿ
     Abds sieben (7)
     Uhr zu Frille
-                
-  - 
-                  Masern
-                
-  - 
-                  Kein Arzt
+  - Masern
+  - Kein Arzt
     gebe
-                
-  - 
-                  Fünfzehten (15)
+  - Fünfzehten (15)
        Maÿ
-                
-  - 
-                  Frille
-                
+  - Frille
 ```
 
 ```{list-table} Translation of Carl Friederich Bleeke 1825 Death
