@@ -280,7 +280,7 @@ project:
 site:
   template: book-theme
   options:
-    logo: _static/krueckeberg-myst.svg
-    logo_dark: _static/krueckeberg-myst-dark.svg
+    logo: _static/krueckeberg-genealogy-myst-style-light.svg
+    logo_dark: _static/krueckeberg-genealogy-myst-style-dark.svg
   #   favicon: favicon.ico
   #   logo: site_logo.png
