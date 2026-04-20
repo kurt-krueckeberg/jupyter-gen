@@ -2,12 +2,28 @@
 
 ## Family Relationship and Other Facts
 
-Family Relationship
+```{list-table} Family Relationship
+:header-rows: 1
 
-<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
+* - Role
+  - Name
+* - Residence
+  - **Father**
+* - Johann Heinrich Krückeberg, Hausherr
+  - no. 19 Evesen
+* - **Mother**
+  - Catharine Sophie Krömer
+```
 
-```{raw} html
-<div data-include-html="_table-artifacts/PET-B-1803b-table-01.html"></div>
+```{list-table} Child’s Birth Date and Place and Baptism Dates
+:header-rows: 1
+
+* - Name
+  - Residence
+  - Child’s Birthdate
+* - Child’s Baptism Date
+  - Sophie Caroline Krückeberg
+  - No. 19 Evesen
 ```
 
 ```{list-table} Baptism Sponsors

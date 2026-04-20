@@ -9,12 +9,109 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 :class: antora-self-link
 ```
 
-Transliteration of 1820 Marriage of Carl Friederich Bleeke to Marie Luise Niemann
+```{list-table} **Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
+Nummer eingetragen werden.) im Jahr 1820.**
 
-<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
-
-```{raw} html
-<div data-include-html="_table-artifacts/FRI-M-1820a-table-01.html"></div>
+* - **Nro.**
+  - **Vor- und Zunamen
+    des
+    Bräutigum.**
+  - **Stand
+    und Wohnort des Vaters**
+  - **Alter des Bräuti-
+    gams.**
+  - **Ob Eltern oder
+    Vormund die Einwilligung gegeben,
+    und wie solches geschehen.**
+  - **Ob er schon
+    verehelicht gewesen
+    und wie die Ehe getrennt
+    worden.**
+  - **Vor- und Zuname
+    der
+    Braut.**
+  - **Namen,
+    Stand und Wohnort
+    des
+    Vaters der Braut.**
+  - **Alter
+    der
+    Braut.**
+  - **Ob Eltern oder
+    Vormund die Ein-
+    willingung gegeben,
+    und wie solches
+    geschehen.**
+  - **Ob sie schon
+    verehelicht gewesen
+    und wie
+    die Ehe getrennt
+    worden.**
+  - **Tag der Kopulation
+    mit
+    Buchstaben und Ziffern.**
+  - **Name des Predigers,
+    der
+    die Kopulation verrichtet.**
+* - 
+                4
+              
+  - 
+                Carl Friederich
+    Bleeke, Anerbe
+    von No 13 in Leteln
+              
+  - 
+                colonist (farmstead holder) Christian Friederich
+    Bleeke auf
+    No 13 in Le-
+    teln
+              
+  - 
+                25 Jahr
+              
+  - 
+                Eltern haben
+    mündlich ihr
+    Einwilligung
+    gegeben
+              
+  - 
+                Jungge-
+    selle
+              
+  - 
+                Marie Luise
+    Niemann aus
+    Todtenhausen
+              
+  - 
+                Johann Heinrich
+    Niemann Col. auf
+    No 35 in Todten-
+    hausen
+              
+  - 
+                24 Jahr
+              
+  - 
+                Eltern haben
+    stillschweigend eingewilligt
+              
+  - 
+                Unverheÿra-
+    thet, schwan-
+    ger von ihrem
+    Verlobten
+              
+  - 
+                am zwölften(12)
+    März, auf
+    den Pfarrer
+              
+  - 
+                Schütz
+              
 ```
 
 ```{list-table} Proclaimed (banns) and Married in the year 1820

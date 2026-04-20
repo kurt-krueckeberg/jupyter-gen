@@ -4,12 +4,27 @@
 
 The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 
-Family Relationship
+```{list-table} Family Relationship
+:header-rows: 1
 
-<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
+* - Role
+  - Name
+  - Residence
+* - Baptism Date
+  - **Father**
+  - Johann Heinrich Kruckeberg
+* - Berenbusch
+  - **Mother**
+  - Anne Christine Elisabeth née Seeger
+```
 
-```{raw} html
-<div data-include-html="_table-artifacts/PET-B-1767a-table-01.html"></div>
+```{list-table}
+:header-rows: 1
+
+* - Name
+  - Baptism Date
+* - Johann Heinrich Wilhelm
+  - 5 Jul. 1767
 ```
 
 ```{list-table} Baptism Sponsors

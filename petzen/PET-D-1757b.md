@@ -2,12 +2,17 @@
 
 ## Family Group and Other Facts
 
-Family Relationship Information
+```{list-table} Family Relationship Information
+:header-rows: 1
 
-<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
-
-```{raw} html
-<div data-include-html="_table-artifacts/PET-D-1757b-table-01.html"></div>
+* - Name
+  - Age
+  - Residence
+  - Burial
+* - **Individual**
+  - Anna Maria Krückeberg
+  - 56
+  - Berenbusch
 ```
 
 [.narrow[

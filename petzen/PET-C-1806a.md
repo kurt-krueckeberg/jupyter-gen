@@ -2,12 +2,29 @@
 
 ## Family Relationship and Other Facts
 
-Confirmand’s Family Relationships
+```{list-table} Confirmand’s Family Relationships
+:header-rows: 1
 
-<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
+* - Role
+  - Name
+  - Residence of the Father or the Mother
+* - **Father**
+  - Johann Heinrch Kruckeberg
+  - No. 19 Evesen
+* - **Mother**
+  - Anne Cathrine Sophie née Krömer
+  - No. 19 Evesen
+```
 
-```{raw} html
-<div data-include-html="_table-artifacts/PET-C-1806a-table-01.html"></div>
+```{list-table}
+:header-rows: 1
+
+* - Name
+  - Birth Place
+  - Birthdate
+* - Confirmation Date
+  - Philippine Louise Leonore
+  - no. 19 Evesen
 ```
 
 ## Citation
@@ -37,22 +54,6 @@ images.](https://www.archion.de)
 ```
 
 ## Transliteration and Translation of Header for Pages 426 and 427
-
-Header for Pages 426 and 427
-
-<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
-
-```{raw} html
-<div data-include-html="_table-artifacts/PET-C-1806a-table-02.html"></div>
-```
-
-Header for Pages 426 and 427
-
-<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
-
-```{raw} html
-<div data-include-html="_table-artifacts/PET-C-1806a-table-03.html"></div>
-```
 
 ## Transliteration and Translation of Entry 12
 

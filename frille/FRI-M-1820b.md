@@ -11,12 +11,106 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 
 ## Transliteration and Translation
 
-Transliteration of 1820 Johann Heinrich Philip Bleeke Marriage to Christine Marie Schwier
+```{list-table} **Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
+Nummer eingetragen werden.) im Jahr 1820.**
 
-<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
-
-```{raw} html
-<div data-include-html="_table-artifacts/FRI-M-1820b-table-01.html"></div>
+* - **Nro.**
+  - **Vor- und Zunamen
+    des
+    Bräutigum.**
+  - **Stand
+    und Wohnort des Vaters**
+  - **Alter des Bräuti-
+    gams.**
+  - **Ob Eltern oder
+    Vormund die Einwilligung gegeben,
+    und wie solches geschehen.**
+  - **Ob er schon
+    verehelicht gewesen
+    und wie die Ehe getrennt
+    worden.**
+  - **Vor- und Zuname
+    der
+    Braut.**
+  - **Namen,
+    Stand und Wohnort
+    des
+    Vaters der Braut.**
+  - **Alter
+    der
+    Braut.**
+  - **Ob Eltern oder
+    Vormund die Ein-
+    willingung gegeben,
+    und wie solches
+    geschehen.**
+  - **Ob sie schon
+    verehelicht gewesen
+    und wie
+    die Ehe getrennt
+    worden.**
+  - **Tag der Kopulation
+    mit
+    Buchstaben und Ziffern.**
+  - **Name des Predigers,
+    der
+    die Kopulation verrichtet.**
+* - 
+                  9
+                
+  - 
+                  Johann Hein.
+    Bleeke
+                
+  - 
+                  Christian
+    Friederick
+    Bleeke zu
+    No 13 in Leteln
+                
+  - 
+                  22 Jahr
+                
+  - 
+                  Ausdrück-
+    lich und per-
+    sönlich
+                
+  - 
+                  Jungge-
+    selle
+                
+  - 
+                  Christine
+    Marie Schwier
+                
+  - 
+                  Christian
+    Friederich
+    Schwier colonist (farmstead holder)
+    No 27 in Wietersheim
+                
+  - 
+                  22 Jahr
+                
+  - 
+                  Stillschwei-
+    gend
+                
+  - 
+                  Unverheÿra-
+    thet, aber [von?]
+    ihrem Bräutigam
+    einen 2 jährigen
+    Sohn
+                
+  - 
+                  den neunten
+    (9) Julius
+                
+  - 
+                  Schütz
+                
 ```
 
 ```{list-table} Proclaimed (banns) and Married in the year 1820

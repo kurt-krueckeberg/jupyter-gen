@@ -10,12 +10,101 @@ TODO: Change all; this  from other record:
 :class: antora-self-link
 ```
 
-Transliteration of 1833 Marriage of …​..??????
+```{list-table} **Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
+Nummer eingetragen werden.) im Jahr 1826.**
 
-<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
-
-```{raw} html
-<div data-include-html="_table-artifacts/FRI-M-1833a-table-01.html"></div>
+* - **Nro.**
+  - **Vor- und Zunamen
+    des
+    Bräutigum.**
+  - **Stand
+    und Wohnort des Vaters**
+  - **Alter des Bräuti-
+    gams.**
+  - **Ob Eltern oder
+    Vormund die Einwilligung gegeben,
+    und wie solches geschehen.**
+  - **Ob er schon
+    verehelicht gewesen
+    und wie die Ehe getrennt
+    worden.**
+  - **Vor- und Zuname
+    der
+    Braut.**
+  - **Namen,
+    Stand und Wohnort
+    des
+    Vaters der Braut.**
+  - **Alter
+    der
+    Braut.**
+  - **Ob Eltern oder
+    Vormund die Ein-
+    willingung gegeben,
+    und wie solches
+    geschehen.**
+  - **Ob sie schon
+    verehelicht gewesen
+    und wie
+    die Ehe getrennt
+    worden.**
+  - **Tag der Kopulation
+    mit
+    Buchstaben und Ziffern.**
+  - **Name des Predigers,
+    der
+    die Kopulation verrichtet.**
+* - 
+                7
+              
+  - 
+                Christian Friede-
+    rich Bleeke, Ein-
+    lieger in Leeteln
+              
+  - 
+                Christian
+    Friederich Blee-
+    ke Col[o]n No. 1[3]
+    in Leeteln
+              
+  - 
+                25 Ja.
+              
+  - 
+                Mündig
+              
+  - 
+                Unvereh-
+    licht
+              
+  - 
+                Luise Eleonore
+    Krückeberg
+              
+  - 
+                Jobst Heinrich
+    Krückeberg colonist (farmstead holder) No.
+    10 in Bärenbusch
+              
+  - 
+                30 Ja.
+              
+  - 
+                Mündig
+              
+  - 
+                Unvereh-
+    licht
+              
+  - 
+                Sechs und zwan-
+    zigsten (26)
+    Novemb.
+              
+  - 
+                v. z. Pr. Schütz
+              
 ```
 
 ```{list-table} Proclaimed (banns) and Married in the year 1820
