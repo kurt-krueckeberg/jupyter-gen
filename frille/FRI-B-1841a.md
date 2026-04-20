@@ -9,34 +9,39 @@ Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/ar
 :class: antora-self-link
 ```
 
-```{list-table} Geborne und Getaufte im Jarhe 1841
+Transliteration of page header: **Geborne und Getaufte im Jarhe 1841**.
 
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
+Translation of page header: **Born and Baptized in the year 1841**.
+
+```{list-table} Transliteration of Christine Sophie Leonore Bleeke 1841 Birth
+:header-rows: 1
+
+* - Nro.
+  - Tauf-Name
+    des Kindes.
+  - Tag und Stunde
     der Geburt
     in
-    Buchstaben und Ziffern.**
-  - **Ob es
+    Buchstaben und Ziffern.
+  - Ob es
     ehelich
     oder
-    unehelich.**
-  - **Vor- and Zuname
+    unehelich.
+  - Vor- and Zuname
     des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
+    auch Stand desselben
+  - Vor- und Zuname
     der
-    Mutter.**
-  - **Wohnort
+    Mutter.
+  - Wohnort
     der
-    Eltern**
-  - **Tag
+    Eltern
+  - Tag
     der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
+    Taufe.
+  - Namen des Predigers,
+    der es getauft.
+  - Name der Taufzeugen
 * - 
                 16
               
@@ -79,18 +84,19 @@ Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/ar
               
 ```
 
-```{list-table} Born and Baptized in the year 1841
+```{list-table} Translation of Christine Sophie Leonore Bleeke 1841 Birth
+:header-rows: 1
 
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Baptismal witnesses**
+* - No.
+  - Baptismal name of the child.
+  - Day and hour of birth (in words and numbers)
+  - Whether legitimate or illegitimate
+  - Given and surname of the father, also his Status
+  - Given and surname of the mother
+  - Residence of the Parents
+  - Day of baptism
+  - Name of the minister
+  - Baptismal witnesses
 * - 16
   - Christine Sophie Leonore Bleeke
   - seventh (7) April Five (5) p.m. in Leeteln

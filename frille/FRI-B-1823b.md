@@ -9,87 +9,95 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 :class: antora-self-link
 ```
 
-```{list-table} Geborene und Getaufte im Jarhe 1823
+## Transliteration and Translation
 
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
+Transliteration of page header: **Geborene und Getaufte im Jarhe 1823**.
+
+Translation of page header: **Born and Baptized in the year 1823**.
+
+```{list-table} Transliteration of Carl Friederich Bleeke 1823 Birth Record
+:header-rows: 1
+
+* - Nro.
+  - Tauf-Name
+    des Kindes.
+  - Tag und Stunde
     der Geburt
     in
-    Buchstaben und Ziffern.**
-  - **Ob es
+    Buchstaben und Ziffern.
+  - Ob es
     ehelich
     oder
-    unehelich.**
-  - **Vor- and Zuname
+    unehelich.
+  - Vor- and Zuname
     des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
+    auch Stand desselben
+  - Vor- und Zuname
     der
-    Mutter.**
-  - **Wohnort
+    Mutter.
+  - Wohnort
     der
-    Eltern**
-  - **Tag
+    Eltern
+  - Tag
     der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
+    Taufe.
+  - Namen des Predigers,
+    der es getauft.
+  - Name der Taufzeugen
 * - 
-                29
-              
+                  29
+                
   - 
-                Carl Fried. Bleeke
-              
+                  Carl Fried. Bleeke
+                
   - 
-                siebzehnten (17) Juli Mor-
+                  siebzehnten (17) Juli Mor-
     gens (9) neun Uhr zu
     Leeteln
-              
+                
   - 
-                ehelich
-              
+                  ehelich
+                
   - 
-                Johann Heinrich
+                  Johann Heinrich
     Bleeke, Col. No. 16 in Lee-
     teln
-              
+                
   - 
-                Christine Marie geb.
+                  Christine Marie geb.
     Schwier aus Wieters-
     heim
-              
+                
   - 
-                Leeteln
+                  Leeteln
     No. 16
-              
+                
   - 
-                zwanzigten
+                  zwanzigten
     (20)  Julius
-              
+                
   - 
-                Schütz
-              
+                  Schütz
+                
   - 
-                Christian Fried. Bleeke
+                  Christian Fried. Bleeke
     aus Leeteln
-              
+                
 ```
 
-```{list-table} Born and Baptized in the year 1823
+```{list-table} Translation of Carl Friederich Bleeke 1823 Birth Record
+:header-rows: 1
 
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Baptismal witnesses**
+* - No.
+  - Baptismal name of the child.
+  - Day and hour of birth (in words and numbers)
+  - Whether legitimate or illegitimate
+  - Given and surname of the father, also his Status
+  - Given and surname of the mother
+  - Residence of the Parents
+  - Day of baptism
+  - Name of the minister
+  - Baptismal witnesses
 * - 29
   - Carl Fried. Bleeke
   - on the seventeenth (17) of July at 9 o’clock in the morning in Leeteln

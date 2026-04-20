@@ -11,45 +11,50 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 
 ## Transliteration and Translation
 
-```{list-table} Gestorbene im Jahr 1825
+Transliteration of page header: **Gestorbene im Jahr 1825**.
 
-* - **Nro.**
-  - **Vor- und Zunamen
+Translation of page header: **Deaths in 1825**.
+
+```{list-table} Transliteration of Carl Friederich Bleeke 1825 Death
+:header-rows: 1
+
+* - Nro.
+  - Vor- und Zunamen
         des
      Verstorbenen,
      (bei Kindern auch Namen und Stand
-                  des Vaters).**
-  - **Stand des Verstorbenen.**
-  - **Alter
-      Jahr.**
-  - **Alter
-      Monat.**
-  - **Alter
-      Tage.**
-  - **Ob der Verstorbene einen
+                  des Vaters).
+  - Stand des Verstorbenen.
+  - Alter
+      Jahr.
+  - Alter
+      Monat.
+  - Alter
+      Tage.
+  - Ob der Verstorbene einen
     Gatten und majorenne
            oder
-    minorennne Kinder hinterlassen.**
-  - **Tag und Stunde
+    minorennne Kinder hinterlassen.
+  - Tag und Stunde
        des Todes
     in Buchstaben und
-       Ziffern.**
-  - **Krankheit,
+       Ziffern.
+  - Krankheit,
      woran er
-    gestorben.**
-  - **Ob der Verstorbene
+    gestorben.
+  - Ob der Verstorbene
     überhaupt oder nur in
     den letzten 48 Studen
     die Hülfe eines appro-
     birten Arztes oder Mund-
-    arztes genossen hat.**
-  - **Tag
+    arztes genossen hat.
+  - Tag
      des
-    Begrabnisses**
-  - **Kirchhof,
+    Begrabnisses
+  - Kirchhof,
     auf welchem
       er
-    begraben worden.**
+    begraben worden.
 * - 
                   14
                 
@@ -96,26 +101,27 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
                 
 ```
 
-```{list-table} Deaths in 1825
+```{list-table} Translation of Carl Friederich Bleeke 1825 Death
+:header-rows: 1
 
-* - **Num.**
-  - **Given and Surname of the Deceased, (for children the name and status of the father, too).**
-  - **Status of the Deceased.**
-  - **Age
-      Years.**
-  - **Age
-      Months.**
-  - **Age
-      Days.**
-  - **If the deceased had a spouse
-    and adult or underage surviving children.**
-  - **Day and Hour
+* - Num.
+  - Given and Surname of the Deceased, (for children the name and status of the father, too).
+  - Status of the Deceased.
+  - Age
+      Years.
+  - Age
+      Months.
+  - Age
+      Days.
+  - If the deceased had a spouse
+    and adult or underage surviving children.
+  - Day and Hour
        of Death
-    (in words and numbers).**
-  - **Illness from which he died**
-  - **Whether the deceased received the help of a licensed physician or surgeon at all, or only within the last 48 hours.**
-  - **Day of Burial**
-  - **Graveyard where buried**
+    (in words and numbers).
+  - Illness from which he died
+  - Whether the deceased received the help of a licensed physician or surgeon at all, or only within the last 48 hours.
+  - Day of Burial
+  - Graveyard where buried
 * - 14
   - Carl Friederich Bleeke
     third son of Johann

@@ -10,41 +10,29 @@ The birth of a stillborn daughter of Heinrich Wilhelm Weiland is entry 17 on [im
 :class: antora-self-link
 ```
 
-```{list-table} 260 Geboren im Kirchspiele Petzen (Births in the Petzen Parish) im Jahr 1815 261
+Page header transliteration: **Geboren im Kirchspiele Petzen im Jahr 1815**.
 
-* - **Zahl**
-  - **Name des Kindes**
-  - **Zahl**
-  - **Geburtzeit
-    u. Geburtsort**
-  - **Taufzeit u.
-    Taufort**
-  - **Name, Stand Religion
-    u. Geburtsrt des Vaters**
-  - **Name, Religion
+Page header trasnlations: **Births in the Petzen parish in 1815**.
+
+```{list-table} Pages 260-261 Stillborn Weiland
+:header-rows: 1
+
+* - Zahl
+  - Name des Kindes
+  - Zahl
+  - Geburtzeit
+    u. Geburtsort
+  - Taufzeit u.
+    Taufort
+  - Name, Stand Religion
+    u. Geburtsrt des Vaters
+  - Name, Religion
     u. Geburtsort der
-    Mutter**
-  - **Wohnort
+    Mutter
+  - Wohnort
     der
-    Eltern**
-  - **Taufzeugen**
-* - **Number**
-  - **Child’s Name**
-  - **Number**
-  - **Birth time
-    and Place**
-  - **Baptism Time
-    and
-    Place**
-  - **Name, Job, Religion
-    and Birth place of Father**
-  - **Name, Religion
-    and Birth Place of
-    Mother**
-  - **Residence
-    of
-    Parents**
-  - **Baptism Witnesses**
+    Eltern
+  - Taufzeugen
 * - 1.
   - Ein todtgeborene Töchterchen
   - des 5ten Kind
@@ -64,6 +52,28 @@ The birth of a stillborn daughter of Heinrich Wilhelm Weiland is entry 17 on [im
     auf n. 20
     in Evesen
   - [empty of text]
+```
+
+```{list-table} Pages 260-261 Stillborn Weiland
+:header-rows: 1
+
+* - Number
+  - Child’s Name
+  - Number
+  - Birth time
+    and Place
+  - Baptism Time
+    and
+    Place
+  - Name, Job, Religion
+    and Birth place of Father
+  - Name, Religion
+    and Birth Place of
+    Mother
+  - Residence
+    of
+    Parents
+  - Baptism Witnesses
 * - 1.
   - a stillborn little daugher
   - the 5th child

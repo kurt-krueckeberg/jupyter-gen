@@ -9,49 +9,54 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 :class: antora-self-link
 ```
 
-```{list-table} **Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne Nummer eingetragen werden.) im Jahr 1826.**
+Transliteration of page header: **Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne Nummer eingetragen werden.) im Jahr 1826.**
 
-* - **Nro.**
-  - **Vor- und Zunamen
+Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
+
+```{list-table} Transliteration of 1826 Marriage of Christian Friedrich Bleeke to Luise Leonore Krückeberg
+:header-rows: 1
+
+* - Nro.
+  - Vor- und Zunamen
     des
-    Bräutigum.**
-  - **Stand
-    und Wohnort des Vaters**
-  - **Alter des Bräuti-
-    gams.**
-  - **Ob Eltern oder
+    Bräutigum.
+  - Stand
+    und Wohnort des Vaters
+  - Alter des Bräuti-
+    gams.
+  - Ob Eltern oder
     Vormund die Einwilligung gegeben,
-    und wie solches geschehen.**
-  - **Ob er schon
+    und wie solches geschehen.
+  - Ob er schon
     verehelicht gewesen
     und wie die Ehe getrennt
-    worden.**
-  - **Vor- und Zuname
+    worden.
+  - Vor- und Zuname
     der
-    Braut.**
-  - **Namen,
+    Braut.
+  - Namen,
     Stand und Wohnort
     des
-    Vaters der Braut.**
-  - **Alter
+    Vaters der Braut.
+  - Alter
     der
-    Braut.**
-  - **Ob Eltern oder
+    Braut.
+  - Ob Eltern oder
     Vormund die Ein-
     willingung gegeben,
     und wie solches
-    geschehen.**
-  - **Ob sie schon
+    geschehen.
+  - Ob sie schon
     verehelicht gewesen
     und wie
     die Ehe getrennt
-    worden.**
-  - **Tag der Kopulation
+    worden.
+  - Tag der Kopulation
     mit
-    Buchstaben und Ziffern.**
-  - **Name des Predigers,
+    Buchstaben und Ziffern.
+  - Name des Predigers,
     der
-    die Kopulation verrichtet.**
+    die Kopulation verrichtet.
 * - 
                 7
               
@@ -105,21 +110,22 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
               
 ```
 
-```{list-table} Proclaimed (banns) and Married in the year 1820
+```{list-table} Translation of 1826 Marriage of Christian Friedrich Bleeke to Luise Leonore Krückeberg
+:header-rows: 1
 
-* - **No.**
-  - **Groom’s first and last name.**
-  - **Father’s social status and place of residence**
-  - **Groom’s age.**
-  - **Whether parents or guardians gave their consent, and how this happened.**
-  - **Whether he was already married and how the marriage was dissolved.**
-  - **Bride’s first and last name.**
-  - **Name, social status, and place of residence of the bride’s father.**
-  - **Bride’s age.**
-  - **Whether parents or guardians gave their consent, and how this happened.**
-  - **Whether they were already married and how the marriage was dissolved.**
-  - **Date of marriage (in words and numbers).**
-  - **Name of the preacher performing the marriage.**
+* - No.
+  - Groom’s first and last name.
+  - Father’s social status and place of residence
+  - Groom’s age.
+  - Whether parents or guardians gave their consent, and how this happened.
+  - Whether he was already married and how the marriage was dissolved.
+  - Bride’s first and last name.
+  - Name, social status, and place of residence of the bride’s father.
+  - Bride’s age.
+  - Whether parents or guardians gave their consent, and how this happened.
+  - Whether they were already married and how the marriage was dissolved.
+  - Date of marriage (in words and numbers).
+  - Name of the preacher performing the marriage.
 * - 7
   - Christian Friederich Bleeke, Einlieger in Leeteln
   - Christian Friederich Bleeke colonist (farmstead holder) No. 1[3] in Leeteln

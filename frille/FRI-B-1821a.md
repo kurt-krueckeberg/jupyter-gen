@@ -11,34 +11,39 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 
 ## Transliteration and Translation
 
-```{list-table} Geborene und Getaufte im Jarhe 1821
+Transliteration of page header: **Geborene und Getaufte im Jarhe 1821**.
 
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
+Translation of page header: **Born and Baptized in the year 1821**.
+
+```{list-table} Transliteration of Carl Friederich Bleeke 1821 Birth Record
+:header-rows: 1
+
+* - Nro.
+  - Tauf-Name
+    des Kindes.
+  - Tag und Stunde
     der Geburt
     in
-    Buchstaben und Ziffern.**
-  - **Ob es
+    Buchstaben und Ziffern.
+  - Ob es
     ehelich
     oder
-    unehelich.**
-  - **Vor- and Zuname
+    unehelich.
+  - Vor- and Zuname
     des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
+    auch Stand desselben
+  - Vor- und Zuname
     der
-    Mutter.**
-  - **Wohnort
+    Mutter.
+  - Wohnort
     der
-    Eltern**
-  - **Tag
+    Eltern
+  - Tag
     der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
+    Taufe.
+  - Namen des Predigers,
+    der es getauft.
+  - Name der Taufzeugen
 * - 
                   15
                 
@@ -79,18 +84,19 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
                 
 ```
 
-```{list-table} Born and Baptized in the year 1821
+```{list-table} Translation of Carl Friederich Bleeke 1821 Birth Record
+:header-rows: 1
 
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Baptismal witnesses**
+* - No.
+  - Baptismal name of the child.
+  - Day and hour of birth (in words and numbers)
+  - Whether legitimate or illegitimate
+  - Given and surname of the father, also his Status
+  - Given and surname of the mother
+  - Residence of the Parents
+  - Day of baptism
+  - Name of the minister
+  - Baptismal witnesses
 * - 15
   - Christian Friederich Bleeke
   - seventh (7) of May

@@ -11,34 +11,39 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 
 ## Transliteration and Translation
 
-```{list-table} Geborene und Getaufte im Jarhe 1828
+Transliteration of page header: **Geborene und Getaufte im Jarhe 1828**.
 
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
+Translation of page header: **Births and Baptims in 1828**.
+
+```{list-table} Transliteration of Christian Friederich Bleeke 1828 Birth
+:header-rows: 1
+
+* - Nro.
+  - Tauf-Name
+    des Kindes.
+  - Tag und Stunde
     der Geburt
     in
-    Buchstaben und Ziffern.**
-  - **Ob es
+    Buchstaben und Ziffern.
+  - Ob es
     ehelich
     oder
-    unehelich.**
-  - **Vor- and Zuname
+    unehelich.
+  - Vor- and Zuname
     des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
+    auch Stand desselben
+  - Vor- und Zuname
     der
-    Mutter.**
-  - **Wohnort
+    Mutter.
+  - Wohnort
     der
-    Eltern**
-  - **Tag
+    Eltern
+  - Tag
     der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
+    Taufe.
+  - Namen des Predigers,
+    der es getauft.
+  - Name der Taufzeugen
 * - 
                   9
                 
@@ -78,18 +83,19 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
                 
 ```
 
-```{list-table} Births and Baptims in 1828
+```{list-table} Translation of Christian Friederich Bleeke 1828 Birth
+:header-rows: 1
 
-* - **Num.**
-  - **Baptism-Name of the child.**
-  - **Day and Hour of the Birth (in words and numbers).**
-  - **Whether it is legitimate or illegitimate**
-  - **Given and Surname of the Father, and his Status.**
-  - **Given and Surname of the Mother.**
-  - **Dwelling Place of the Parents**
-  - **Baptism Day**
-  - **Name of the Pastor who baptized child.**
-  - **Baptismal Sponsors**
+* - Num.
+  - Baptism-Name of the child.
+  - Day and Hour of the Birth (in words and numbers).
+  - Whether it is legitimate or illegitimate
+  - Given and Surname of the Father, and his Status.
+  - Given and Surname of the Mother.
+  - Dwelling Place of the Parents
+  - Baptism Day
+  - Name of the Pastor who baptized child.
+  - Baptismal Sponsors
 * - 9
   - Christian Friederich Bleeke
   - twenty eighth (28th) Feb. ten (10) p.m. at Leeteln

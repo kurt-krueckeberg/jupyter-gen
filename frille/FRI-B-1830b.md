@@ -11,34 +11,39 @@ Regierungsbezirks Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/ar
 
 ## Transliteration and Translation
 
-```{list-table} Geborne und Getaufte im Jarhe 1830
+Transliteration of page header: **Geborne und Getaufte im Jarhe 1830**.
 
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
+Translation of page header: **Births and Baptisms in the year 1830**.
+
+```{list-table} Transliteration of Sophie Christine Leonore Bleeke 1830 Birth
+:header-rows: 1
+
+* - Nro.
+  - Tauf-Name
+    des Kindes.
+  - Tag und Stunde
     der Geburt
     in
-    Buchstaben und Ziffern.**
-  - **Ob es
+    Buchstaben und Ziffern.
+  - Ob es
     ehelich
     oder
-    unehelich.**
-  - **Vor- and Zuname
+    unehelich.
+  - Vor- and Zuname
     des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
+    auch Stand desselben
+  - Vor- und Zuname
     der
-    Mutter.**
-  - **Wohnort
+    Mutter.
+  - Wohnort
     der
-    Eltern**
-  - **Tag
+    Eltern
+  - Tag
     der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
+    Taufe.
+  - Namen des Predigers,
+    der es getauft.
+  - Name der Taufzeugen
 * - 
                   41
                 
@@ -81,18 +86,19 @@ Regierungsbezirks Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/ar
                 
 ```
 
-```{list-table} Births and Baptisms in the year 1830
+```{list-table} Translation of Sophie Christine Leonore Bleeke 1830 Birth
+:header-rows: 1
 
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Name of Godparents**
+* - No.
+  - Baptismal name of the child.
+  - Day and hour of birth (in words and numbers)
+  - Whether legitimate or illegitimate
+  - Given and surname of the father, also his Status
+  - Given and surname of the mother
+  - Residence of the Parents
+  - Day of baptism
+  - Name of the minister
+  - Name of Godparents
 * - 41
   - Sophie Christine Leonore Bleeke
   - twenty seventh (27) July six (6) p.m. in Leeteln

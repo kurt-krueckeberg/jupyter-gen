@@ -10,34 +10,39 @@ NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstand
 
 ## Transliteration and Translation
 
-```{list-table} Geborene und Getaufte im Jarhe 1831
+Transliteration of page header: **Geborene und Getaufte im Jarhe 1831**.
 
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
+Translation of page header: **Born and Baptized in the year 1831**.
+
+```{list-table} Transliteration of Christine Sophie Eleonore Bleeke 1831 Birth Record
+:header-rows: 1
+
+* - Nro.
+  - Tauf-Name
+    des Kindes.
+  - Tag und Stunde
     der Geburt
     in
-    Buchstaben und Ziffern.**
-  - **Ob es
+    Buchstaben und Ziffern.
+  - Ob es
     ehelich
     oder
-    unehelich.**
-  - **Vor- and Zuname
+    unehelich.
+  - Vor- and Zuname
     des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
+    auch Stand desselben
+  - Vor- und Zuname
     der
-    Mutter.**
-  - **Wohnort
+    Mutter.
+  - Wohnort
     der
-    Eltern**
-  - **Tag
+    Eltern
+  - Tag
     der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
+    Taufe.
+  - Namen des Predigers,
+    der es getauft.
+  - Name der Taufzeugen
 * - 
                   28
                 
@@ -80,18 +85,19 @@ NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstand
                 
 ```
 
-```{list-table} Born and Baptized in the year 1831
+```{list-table} Translation of Christine Sophie Eleonore Bleeke 1831 Birth Record
+:header-rows: 1
 
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Baptismal witnesses**
+* - No.
+  - Baptismal name of the child.
+  - Day and hour of birth (in words and numbers)
+  - Whether legitimate or illegitimate
+  - Given and surname of the father, also his Status
+  - Given and surname of the mother
+  - Residence of the Parents
+  - Day of baptism
+  - Name of the minister
+  - Baptismal witnesses
 * - 28
   - Christine Sophie
     Leonore Bleeke

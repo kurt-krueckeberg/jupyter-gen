@@ -5,12 +5,17 @@
 This is prospectively [Anna Louisa Eleonore Kruekeberg who was born
 26 October 1746. She would have been 10 years old by 26 January 1757.](PET-B-1746a.md)
 
-Family Relationship Information
+```{list-table} Family Relationship Information
+:header-rows: 1
 
-<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
-
-```{raw} html
-<div data-include-html="_table-artifacts/PET-D-1757a-table-01.html"></div>
+* - Family Information
+  - Deceased Daughter’s Name
+  - Age
+  - Burial
+* - Krückebergs at Berenbusch
+  - Louisa Eleonore (born blind)
+  - 10
+  - Jan. 26, 1757
 ```
 
 ## Citation

@@ -11,94 +11,101 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 
 ## Transliteration and Translation
 
-```{list-table} Geborene und Getaufte im Jarhe 1818
+### Page Header
 
-* - **Nro.**
-  - **Tauf-Name
-    des Kindes.**
-  - **Tag und Stunde
+Transliteration: **Geborene und Getaufte im Jarhe 1818**
+
+Translation: **Born and Baptized in the year 1818**
+
+```{list-table} Transliteration of Carl Heinrich Bleeke 1818 Birth Record
+:header-rows: 1
+
+* - Nro.
+  - Tauf-Name
+    des Kindes.
+  - Tag und Stunde
     der Geburt
     in
-    Buchstaben und Ziffern.**
-  - **Ob es
+    Buchstaben und Ziffern.
+  - Ob es
     ehelich
     oder
-    unehelich.**
-  - **Vor- and Zuname
+    unehelich.
+  - Vor- and Zuname
     des Vaters,
-    auch Stand desselben**
-  - **Vor- und Zuname
+    auch Stand desselben
+  - Vor- und Zuname
     der
-    Mutter.**
-  - **Wohnort
+    Mutter.
+  - Wohnort
     der
-    Eltern**
-  - **Tag
+    Eltern
+  - Tag
     der
-    Taufe.**
-  - **Namen des Predigers,
-    der es getauft.**
-  - **Name der Taufzeugen**
+    Taufe.
+  - Namen des Predigers,
+    der es getauft.
+  - Name der Taufzeugen
 * - 
-                  16
-                
+                    16
+                  
   - 
-                  Carl Heinrich Bleeke
-                
+                    Carl Heinrich Bleeke
+                  
   - 
-                  Sieben und zwanzig-
+                    Sieben und zwanzig-
     sten (27) April auf
     No. 27 in Wieters-
     heim
-                
+                  
   - 
-                  unehelich
+                    unehelich
     1t Kind
     1t Sohn
-                
+                  
   - 
-                  Johann Heinrich
+                    Johann Heinrich
     Bleeke N: 13 in
     Leeteln
-                
+                  
   - 
-                  Christian Marie
+                    Christian Marie
     Schwier auf
     N: 27 in Wieters-
     heim.
-                
+                  
   - 
-                  Leeteln
+                    Leeteln
     und
     Wietersheim
-                
+                  
   - 
-                  Dreißigsten
+                    Dreißigsten
     (30) April
     u. .d. Pfarer
-                
+                  
   - 
-                  Schütz
-                
+                    Schütz
+                  
   - 
-                  Johann Friederich
+                    Johann Friederich
     Gottlieb Schwier
     No. 27 Wietersheim
-                
+                  
 ```
 
-```{list-table} Born and Baptized in the year 1818
+```{list-table} Translation of Carl Heinrich Bleeke 1818 Birth Record
 
-* - **No.**
-  - **Baptismal name of the child.**
-  - **Day and hour of birth (in words and numbers)**
-  - **Whether legitimate or illegitimate**
-  - **Given and surname of the father, also his Status**
-  - **Given and surname of the mother**
-  - **Residence of the Parents**
-  - **Day of baptism**
-  - **Name of the minister**
-  - **Baptismal witnesses**
+* - No.
+  - Baptismal name of the child.
+  - Day and hour of birth (in words and numbers)
+  - Whether legitimate or illegitimate
+  - Given and surname of the father, also his Status
+  - Given and surname of the mother
+  - Residence of the Parents
+  - Day of baptism
+  - Name of the minister
+  - Baptismal witnesses
 * - 16
   - Carl Heinrich Bleeke
   - twenty seven (27) April at No. 27 in Wietersheim
