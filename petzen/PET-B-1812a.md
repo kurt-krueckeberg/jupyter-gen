@@ -107,7 +107,7 @@ because it did not exist until circa 1810, when Jobst Heinrich Krückeberg was g
 new Stätte no. 18 Berenbusch. See {external+nla:doc}`nla:146:doc1.xml. <146/doc1>`
 ```
 
-```{list-table} 244         Geboren im Kirchspiele Petzen (Births in the Parish of Petzen)                           im Jahr 1812                            245
+```{list-table} 244 Geboren im Kirchspiele Petzen (Births in the Parish of Petzen) im Jahr 1812 245
 
 * - **Zahl**
   - **Name des Kindes**
@@ -175,7 +175,7 @@ new Stätte no. 18 Berenbusch. See {external+nla:doc}`nla:146:doc1.xml. <146/doc
     in Röcke
 ```
 
-```{list-table} 244         Geboren im Kirchspiele Petzen (Births in the Parish of Petzen)                           im Jahr 1812                            245
+```{list-table} 244 Geboren im Kirchspiele Petzen (Births in the Parish of Petzen) im Jahr 1812 245
 
 * - **Number**
   - **Child’s Name**

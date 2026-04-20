@@ -2,7 +2,7 @@
 
 ## Family Relationship and Other Facts
 
-```{list-table} Family Relationship  Facts for October 12, 1790 Marriage
+```{list-table} Family Relationship Facts for October 12, 1790 Marriage
 :header-rows: 1
 
 * - 

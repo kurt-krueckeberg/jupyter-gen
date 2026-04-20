@@ -23,7 +23,7 @@ for a Weiland baptism.
 See discussion of **Einlieger/Einlinger** at [Image 82.](PET-B-1803b.md)
 ```
 
-```{list-table} 266         Geboren im Kirchspiele Petzen (births in Petzen church parish)               im Jahr (in the year) 1815                            267
+```{list-table} 266 Geboren im Kirchspiele Petzen (births in Petzen church parish) im Jahr (in the year) 1815 267
 
 * - **Zahl**
   - **Name des Kindes**
@@ -64,7 +64,7 @@ See discussion of **Einlieger/Einlinger** at [Image 82.](PET-B-1803b.md)
     Einlieger in Bärenbusch
 ```
 
-```{list-table} 266         Geboren im Kirchspiele Petzen (births in Petzen church parish)               im Jahr (in the year) 1815                            267
+```{list-table} 266 Geboren im Kirchspiele Petzen (births in Petzen church parish) im Jahr (in the year) 1815 267
 
 * - Number
   - Child’s Name

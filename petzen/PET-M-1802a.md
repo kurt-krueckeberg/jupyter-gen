@@ -21,7 +21,7 @@ The middle of the left page shown below has the year of **1802**; this the year 
 :class: antora-self-link
 ```
 
-```{list-table} 18                Getraute im Jahre 1801.1802 (Marriages in the years 1801. 1802)
+```{list-table} 18 Getraute im Jahre 1801.1802 (Marriages in the years 1801. 1802)
 
 * - **An
     Zahl**

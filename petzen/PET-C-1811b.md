@@ -30,7 +30,7 @@ on [pages 438 and 439, entry 28,](PET-C-1811b)
 
 ## Transliterations and Translations
 
-```{list-table} 438   Verzeichnis der am Sonntage Quasimodogeniti 1811 in der          Kirche zu Petzen Confirmirten aus dem [Leÿß?/Leüß?] Schaumb. Lipp.   439
+```{list-table} 438 Verzeichnis der am Sonntage Quasimodogeniti 1811 in der Kirche zu Petzen Confirmirten aus dem [Leÿß?/Leüß?] Schaumb. Lipp. 439
 
 * - **Zahl**
   - **Namen des Kindes**
@@ -53,7 +53,7 @@ on [pages 438 and 439, entry 28,](PET-C-1811b)
   - 
 ```
 
-```{list-table} 438   List of those confirmed on Sunday Quasimodogeniti 1811 in the                  Church at Petzen from [Leÿß?/Leüß?] Schaumburg Lippe   439
+```{list-table} 438 List of those confirmed on Sunday Quasimodogeniti 1811 in the Church at Petzen from [Leÿß?/Leüß?] Schaumburg Lippe 439
 
 * - **No.**
   - **Name of the Child**

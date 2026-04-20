@@ -10,8 +10,7 @@ TODO: Change all; this  from other record:
 :class: antora-self-link
 ```
 
-```{list-table} **Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
-Nummer eingetragen werden.) im Jahr 1826.**
+```{list-table} **Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne Nummer eingetragen werden.) im Jahr 1826.**
 
 * - **Nro.**
   - **Vor- und Zunamen

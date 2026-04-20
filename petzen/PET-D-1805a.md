@@ -2,7 +2,7 @@
 
 ## Family Relationship and Other Facts
 
-```{list-table} Family Relationship  and Other Facts
+```{list-table} Family Relationship and Other Facts
 :header-rows: 1
 
 * - Deceased

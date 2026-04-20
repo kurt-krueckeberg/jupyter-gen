@@ -11,8 +11,7 @@ Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VE
 
 ## Transliteration and Translation
 
-```{list-table} **Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
-Nummer eingetragen werden.) im Jahr 1820.**
+```{list-table} **Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne Nummer eingetragen werden.) im Jahr 1820.**
 
 * - **Nro.**
   - **Vor- und Zunamen

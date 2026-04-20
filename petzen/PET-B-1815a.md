@@ -10,7 +10,7 @@ The birth of a stillborn daughter of Heinrich Wilhelm Weiland is entry 17 on [im
 :class: antora-self-link
 ```
 
-```{list-table} 260         Geboren im Kirchspiele Petzen (Births in the Petzen Parish)             im Jahr 1815                            261
+```{list-table} 260 Geboren im Kirchspiele Petzen (Births in the Petzen Parish) im Jahr 1815 261
 
 * - **Zahl**
   - **Name des Kindes**

@@ -2,7 +2,7 @@
 
 ## Family Relationship and Other Facts
 
-```{list-table} Family Relationship  Facts
+```{list-table} Family Relationship Facts
 :header-rows: 1
 
 * - Father
@@ -134,7 +134,7 @@ Pages 176-177 Header
 
 ## Transliteration and Translation of Entry 22
 
-```{list-table} 176         Getaufte im Kirchspiele Petzen                            im Jahr 1806                            177
+```{list-table} 176 Getaufte im Kirchspiele Petzen im Jahr 1806 177
 
 * - **N.**
   - **Name des Kindes**
@@ -166,7 +166,7 @@ Pages 176-177 Header
   - Carl Friedrich Gottlieb Krückeberg Einlieger in Bärenbush C Friedrich Tegtmeier aus Meinsen
 ```
 
-```{list-table} 176         Baptisms in the Petzen Parish                            in the year 1806                            177
+```{list-table} 176 Baptisms in the Petzen Parish in the year 1806 177
 
 * - **N.**
   - **Child’s Name**

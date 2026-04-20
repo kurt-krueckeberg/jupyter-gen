@@ -39,7 +39,7 @@ The date following the name of the father, his address and religion is apparentl
 This seems to be the date of his death, and it is likely prefixed with **ges** for *getstorben(deceased)*.
 ```
 
-```{list-table} 244         Geboren im Kirchspiele Petzen (Births in the Parish of Petzen)                           im Jahr 1812                            245
+```{list-table} 244 Geboren im Kirchspiele Petzen (Births in the Parish of Petzen) im Jahr 1812 245
 
 * - **Zahl**
   - **Name des Kindes**
@@ -106,7 +106,7 @@ This seems to be the date of his death, and it is likely prefixed with **ges** f
     in Röcke
 ```
 
-```{list-table} 244         Geboren im Kirchspiele Petzen (Births in the Parish of Petzen)                           im Jahr 1812                            245
+```{list-table} 244 Geboren im Kirchspiele Petzen (Births in the Parish of Petzen) im Jahr 1812 245
 
 * - **Number**
   - **Child’s Name**
