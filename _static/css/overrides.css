@@ -1,7 +1,14 @@
-.article-grid > *,
-.article-left-grid > *,
-.article-center-grid > * {
-  grid-column: page;
-  max-width: 75rem;
-  width: 100%;
+@media (min-width: 1280px) {
+  main.article-grid > article.article-grid > :not(.lg\:col-margin-right) {
+    grid-column: body / page;
+  }
+
+  main.article-grid > article.article-grid > .lg\:col-margin-right {
+    grid-column: page-end / screen-end;
+    margin-left: 1rem !important;
+  }
+
+  main.article-grid > article.article-grid > .lg\:col-margin-right .myst-outline {
+    max-width: 18rem;
+  }
 }

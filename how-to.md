@@ -1,6 +1,15 @@
-# How to Overrride book theme's CSS
+# Various Explanations
 
-## Explanation
+
+## MyST Templates Repo
+
+[MyST Templates](https://github.com/myst-templates#templates)
+
+See also
+
+[MyST Grod-System](https://jupyter-book.github.io/myst-theme/?path=/docs/components-grid-system--docs)
+
+## How to Overrride book theme's CSS
 
 https://chatgpt.com/share/69e6bce8-1238-83ea-9963-46463b11408e
 
@@ -95,7 +104,7 @@ So the short, source-based answer is: **override the default grid placement
 from `body` to `page`**. That is the selector and the setting you were
 looking for.
 
-## Further Details
+### Further Details
 
 This is he difference between body, page, and max-width with a tiny ASCII diagram.Ö
 
