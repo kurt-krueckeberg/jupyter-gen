@@ -9,7 +9,15 @@ See also
 [MyST Grid-System](https://jupyter-book.github.io/myst-theme/?path=/docs/components-grid-system--docs)
 
 
-## How to View Built html Project
+## `_static` changes
+
+The CSS code to increase the content area width and to add shadow borders
+to images is in `_static/css/overrides.css`.
+
+The sites logo is in the .svg files in `_static`.
+
+
+## How to View Built html Website
 
 ```bash
 ~/jup main ❯ jupyter book build --hml

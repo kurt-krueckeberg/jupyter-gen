@@ -17,11 +17,20 @@
  * 'display-image.js' */
 img.image-override,
 .image-override img {
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.20);
   border-radius: 4px;
   background: white;
   padding: 6px;
   max-width: 100%;
   height: auto;
-  cursor: zoom-in;
+}
+
+@media (prefers-color-scheme: dark) {
+  img.image-override,
+  .image-override img {
+    box-shadow:
+      0 0 0 1px rgba(255, 255, 255, 0.10),
+      0 6px 16px rgba(0, 0, 0, 0.55);
+    background: #1f1f1f;
+  }
 }
