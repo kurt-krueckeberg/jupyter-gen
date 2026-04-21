@@ -279,6 +279,9 @@ project:
 #      articles: intro.md
 site:
   template: book-theme
+  actions:
+    - title: Krückeberg Genealogy
+      url: http://localhost:8000
   options:
     logo: _static/krueckeberg-genealogy-myst-style-light.svg
     logo_dark: _static/krueckeberg-genealogy-myst-style-dark.svg
