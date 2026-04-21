@@ -27,6 +27,6 @@ while IFS= read -r -d '' file; do
   script_src="${prefix}${DEST_REL}"
 
   if ! grep -Fq "$DEST_REL" "$file"; then
-    sed -i '/<\/head>/i\  <script src="'"$script_src"'"></script>' "$file"
+    sed -i '/<\/body>/i\  <script src="'"$script_src"'"></script>' "$file"
   fi
 done

@@ -1,16 +1,33 @@
-document.addEventListener(
-  "click",
-  (event) => {
-    const img = event.target.closest("img.image-override, .image-override img");
-    if (!img) return;
+function bindImageOverrideClicks(root = document) {
+  root.querySelectorAll("img.image-override, .image-override img").forEach((img) => {
+    if (img.dataset.imageOverrideBound === "true") return;
+    img.dataset.imageOverrideBound = "true";
 
-    const src = img.currentSrc || img.getAttribute("src");
-    if (!src) return;
+    img.style.cursor = "zoom-in";
 
-    event.preventDefault();
-    event.stopPropagation();
+    img.addEventListener("click", () => {
+      const src = img.currentSrc || img.getAttribute("src");
+      if (!src) return;
+      window.open(src, "_blank", "noopener,noreferrer");
+    });
+  });
+}
 
-    window.open(src, "_blank", "noopener,noreferrer");
-  },
-  true
-);
+function initImageOverrideClicks() {
+  bindImageOverrideClicks(document);
+
+  const observer = new MutationObserver(() => {
+    bindImageOverrideClicks(document);
+  });
+
+  observer.observe(document.body, {
+    childList: true,
+    subtree: true,
+  });
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initImageOverrideClicks);
+} else {
+  initImageOverrideClicks();
+}
