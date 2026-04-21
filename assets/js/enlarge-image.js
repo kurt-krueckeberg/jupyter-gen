@@ -1,22 +1,12 @@
-document.addEventListener("DOMContentLoaded", () => {
-  function findImageInContainer(el) {
-    if (!el) return null;
-    if (el.tagName === "IMG") return el;
-    return el.querySelector("img");
-  }
-
-  function makeClickable(container) {
-    const img = findImageInContainer(container);
+function wireImageOverrides(root = document) {
+  root.querySelectorAll('img.image-override, .image-override img').forEach((img) => {
     if (!img) return;
-
-    const src = img.getAttribute("src");
-    if (!src) return;
-
-    // Do not wrap twice
+    if (img.dataset.imageOverrideProcessed === "true") return;
     if (img.closest("a")) return;
 
-    // Prevent re-processing
-    if (img.dataset.imageOverrideProcessed) return;
+    const src = img.currentSrc || img.getAttribute("src");
+    if (!src) return;
+
     img.dataset.imageOverrideProcessed = "true";
 
     const link = document.createElement("a");
@@ -27,11 +17,24 @@ document.addEventListener("DOMContentLoaded", () => {
 
     img.parentNode.insertBefore(link, img);
     link.appendChild(img);
+  });
+}
 
-    img.style.cursor = "zoom-in";
-  }
+function initImageOverrides() {
+  wireImageOverrides(document);
 
-  // Only target intended elements
-  document.querySelectorAll("img.image-override").forEach(makeClickable);
-  document.querySelectorAll(".image-override").forEach(makeClickable);
-});
+  const observer = new MutationObserver(() => {
+    wireImageOverrides(document);
+  });
+
+  observer.observe(document.body, {
+    childList: true,
+    subtree: true,
+  });
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initImageOverrides);
+} else {
+  initImageOverrides();
+}
