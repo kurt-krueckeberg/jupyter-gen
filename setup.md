@@ -137,3 +137,7 @@ python3 -m http.server 8000 --directory ~/jup/_build/html
 ```bash
 http://localhost:8000
 ```
+
+## Referencing Other Jupyter Book 2 Sites
+
+See [this link](https://jupyterbook.org/stable/get-started/cross-reference/?utm_source=chatgpt.com). 
