@@ -24,7 +24,7 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827".](https//:archion.de)
 ## Image
 
 ```{image} images/petzen-band2-img285.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

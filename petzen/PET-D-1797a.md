@@ -17,7 +17,7 @@ no. 11 Evesen.](PET-M-1797a.md)
 ## Image of Death and Burial Record
 
 ```{image} images/petzen-band2-img235.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

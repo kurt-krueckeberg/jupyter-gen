@@ -9,7 +9,7 @@ The stillborn son of Johann Heinrich Weiland’s is on [image 34 page 63 on Arch
 ## Image 34, page 63, entry 38
 
 ```{image} images/petzen-band2-img34-right.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

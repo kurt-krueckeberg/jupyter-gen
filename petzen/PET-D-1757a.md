@@ -26,7 +26,7 @@ of the "Krückebergs at Berenbusch" appears on [image 178](PET-D-1757a)
 ## Image of Burial Record
 
 ```{image} images/petzen-band1b-img178-left.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

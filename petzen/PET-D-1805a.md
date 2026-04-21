@@ -47,7 +47,7 @@ pages 512 and 513](PET-D-1805a)[Archion
 ## Image of Pages 512 and 513
 
 ```{image} images/petzen-band2-img243-overview.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation of Header for Pages 512 and 513
@@ -67,13 +67,13 @@ pages 512 and 513](PET-D-1805a)[Archion
 ## Image of Page 512 Entry 8
 
 ```{image} images/petzen-band2-img243-512.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Image of Page 513 Entry 8
 
 ```{image} images/petzen-band2-img243-513.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation of Pages 512 and 513

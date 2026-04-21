@@ -7,7 +7,7 @@ The baptism/birth of Carl Friedrich Bleke[Bleeke] occurred on 18 March 1739. It 
 ## Images
 
 ```{image} images/frille-band1-img128.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration and Translation

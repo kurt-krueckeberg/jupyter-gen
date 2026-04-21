@@ -9,13 +9,13 @@ The baptism Charlotte Loyse[Louise] Heiniette Bleecke occurred on 18 July 1760. 
 The baptism and birth year of 1760 is written on page 13  (of the baptism pages), just below the middle of the page, on image 9:
 
 ```{image} images/frille-band2-img9-13.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 The birth and baptism of Charlotte Loyse(Louise) Heinriette Bleeckeis recorded on entry number 33 on [page 16](FRI-B-1760a)
 
 ```{image} images/frille-band2-img11-16.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration and Translation

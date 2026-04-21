@@ -42,7 +42,7 @@ The March 24, 1765 baptism of Jobst Heinrich Krückeberg is on
 ### Page Header
 
 ```{image} images/petzen-band1a-img211-header.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Baptism Entry
@@ -50,7 +50,7 @@ The March 24, 1765 baptism of Jobst Heinrich Krückeberg is on
 Below is the image of the baptism record for Jobst Heinrich Krückeberg, who was born in 1765.
 
 ```{image} images/petzen-band1a-img211.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

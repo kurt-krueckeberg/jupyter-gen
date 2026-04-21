@@ -10,13 +10,13 @@ Johann Heinrich Philip Bleeke’s baptism and birth is recorded on page 154 of o
 The baptims year 1797 is written at the top of page 248 (of the baptism pages), which is on image 133:
 
 ```{image} images/frille-band2-img133-248.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Johann Heinrich Philip Bleeke’s baptism is entry 46 on page 254 (of the baptism pages):
 
 ```{image} images/frille-band2-img136-254.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration and Translation

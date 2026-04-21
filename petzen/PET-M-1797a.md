@@ -47,7 +47,7 @@ is found on [image 10](PET-M-1797a)[Archion digital images of the Petzen](https:
 ## Images of Marriage Record
 
 ```{image} images/petzen-band2-img10.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

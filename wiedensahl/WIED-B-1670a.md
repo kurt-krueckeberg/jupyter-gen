@@ -6,7 +6,7 @@ The 1670 baptism entry is found on [image 47](WIED-B-1670a)*Kirchenbuch
 1666-1703*.
 
 ```{image} images/wiedensahl-1670-img47.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

@@ -10,7 +10,7 @@ Petzen Parish) 1641-1784".
 ## Image
 
 ```{image} images/petzen-band1a-img136.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

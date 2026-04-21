@@ -38,13 +38,13 @@ The confirmation of Chrisinte Louise Krückeberg, on 14 April 1811, on the
 ### Header Pages 438 Header
 
 ```{image} images/petzen-band2-img207-438-entry20.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Page 439 Header
 
 ```{image} images/petzen-band2-img207-439-entry20.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Pages 438 and 439, entries 19 and 20

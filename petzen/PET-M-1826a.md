@@ -104,7 +104,7 @@ The marriage record is on [image 355, pages 736 and 737,](PET-M-1826a)*Verzeichn
 Konfirmierten, Getrauten und Gestorbenen 1785-1827*.
 
 ```{image} images/petzen-band2-img355-header.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Marriage Record
@@ -112,11 +112,11 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827*.
 The marriage record is entry #8 on poages 736 and 737.
 
 ```{image} images/petzen-band2-img355-736.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/petzen-band2-img355-737.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration Header for pages 736 and 737

@@ -7,7 +7,7 @@ The baptism of is Johann Tönnis Kuhlmann is on [image 58](PET-B-1679a)
 ## Image
 
 ```{image} images/petzen-band1a-img58.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

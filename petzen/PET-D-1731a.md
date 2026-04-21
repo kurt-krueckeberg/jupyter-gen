@@ -8,7 +8,7 @@ The 3 Jan. 1730 burial record of Heinrich (Arends) Vahlsing is found on
 ## Image
 
 ```{image} images/petzen-band1b-img147.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

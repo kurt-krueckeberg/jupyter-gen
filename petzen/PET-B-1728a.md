@@ -57,7 +57,7 @@ page where the list of the baptisms for 1728 begin.
 ## Baptism Record
 
 ```{image} images/petzen-band1a-img140.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 :::{admonition} Explanations

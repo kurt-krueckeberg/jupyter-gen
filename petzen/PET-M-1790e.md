@@ -5,7 +5,7 @@
 The marriage entry for  Anna Maria Weiland is on the [image 6, page 6, entry 8](image6-page7)
 
 ```{image} images/petzen-band2-img6-page7.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{note}

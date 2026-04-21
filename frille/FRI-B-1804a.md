@@ -9,13 +9,13 @@ Marie Louise Bleeke’s baptism and birth is recorded on [page 317, entry 43](FR
 The baptism year of 1804 is written on the top of page 302 (of the baptism pages), which on image 168:
 
 ```{image} images/frille-band2-img168-302.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 The baptism entry for Marie Louise Bleeke is entry 44, on page 317 (of the baptism pages), on image 170:
 
 ```{image} images/frille-band2-img170-317.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration and Translation

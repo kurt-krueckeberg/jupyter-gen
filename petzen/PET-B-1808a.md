@@ -8,7 +8,7 @@ pages 192-193](PET-B-1808a)
 ## Image, Transliteration and Translation
 
 ```{image} images/petzen-band2-img99.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

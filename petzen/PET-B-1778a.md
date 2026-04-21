@@ -7,11 +7,11 @@ The stillbirth of the little son of Johann Christian Weiland in 1778 is on [imag
 ## Image 259
 
 ```{image} images/petzen-band1a-img259-overview.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/petzen-band1a-img259.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{note}

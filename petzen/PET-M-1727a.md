@@ -28,7 +28,7 @@ The September 28, 1728, marriage of Johann Henrich Krückeberg to Anna Maria Vah
 ## Image of Marriage Record
 
 ```{image} images/petzen-band1b-img36.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

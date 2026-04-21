@@ -74,19 +74,19 @@ The death of Johann Heinrich Krückeberg Death in 1822 is found on
 Header and Column Headings:
 
 ```{image} images/petzen-band2-img313-header.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page 652:
 
 ```{image} images/petzen-band2-img313-652.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page 653:
 
 ```{image} images/petzen-band2-img313-653.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation of Pages 652 and 653

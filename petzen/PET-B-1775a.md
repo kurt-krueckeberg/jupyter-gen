@@ -19,7 +19,7 @@ their child is born.
 ## Image
 
 ```{image} images/petzen-band1a-img243-blecken-right-page.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

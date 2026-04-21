@@ -37,7 +37,7 @@ The baptism of Rudolphina Margaretha Elisabeth Krückeberg is on [image 144](PET
 ## Image 144
 
 ```{image} images/petzen-band1a-img144.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

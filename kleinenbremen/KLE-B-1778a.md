@@ -8,7 +8,7 @@ pages 192-193](KLE-B-1778a)
 ## Image, Transliteration and Translation
 
 ```{image} images/kleinenbremen-11-aug-1778.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

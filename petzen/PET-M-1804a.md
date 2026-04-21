@@ -8,11 +8,11 @@ Lauen is found on [image 13, page 20, entry 3,](PET-M-1804a)
 ## Image
 
 ```{image} images/petzen-band2-img13-heading.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/petzen-band2-img13.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

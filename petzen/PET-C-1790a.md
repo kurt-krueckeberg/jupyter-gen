@@ -11,7 +11,7 @@ The confirmation of Friderich Wilhelm Weiland, in 1790, on Quasimodogeniti
 Image 190 shows the recorded name of Christina Krückebergen of Berenbusch listed as entry 10 among those confirmed in 1789:
 
 ```{image} images/petzen-band2-img190-fwweiland.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{list-table} Page 405

@@ -9,13 +9,13 @@ Christian Fridrich Bleeke’s marriage in 1793 to Anne Margarthe Volckening is o
 Overview of pages 52 and 53 showing the marriages of two Bleekes:
 
 ```{image} images/frille-band2-img202-52-53.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 View of marriage of Christian Fridrich Bleeke, page 53 (of the pages of marriage records):
 
 ```{image} images/frille-band2-img202-53.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration and Translation

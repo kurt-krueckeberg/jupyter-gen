@@ -55,11 +55,11 @@ The death and burial record is on [image 300](PET-D-1819a)
 The header and column headings for pages 626 and 627:
 
 ```{image} images/petzen-band2-img300-header-left.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/petzen-band2-img300-header-right.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration
@@ -79,11 +79,11 @@ Translation
 ### The Record
 
 ```{image} images/petzen-band2-img300-left.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/petzen-band2-img300-right.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Pages 626 and 627 header

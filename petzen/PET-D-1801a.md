@@ -53,7 +53,7 @@ The death of Sophie Marie Krückeberg, March 17, 1801, [image
 ### Pages 504 and 505
 
 ```{image} images/petzen-band2-img239.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration and Translation

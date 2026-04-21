@@ -7,7 +7,7 @@ The confirmation is found on [image 310](PET-C-1755b)
 ## Image 310
 
 ```{image} images/petzen-band1a-img310-left.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{note}
@@ -36,7 +36,7 @@ No page number is written on this page.
 The confirmation entry for Johann Heinrich Krückeberg from Berenbusch is on the [310th image, page 18, of Confirmati](image310-right)
 
 ```{image} images/petzen-band1a-img310-right.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{note}

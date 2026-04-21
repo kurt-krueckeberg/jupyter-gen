@@ -21,7 +21,7 @@ This confirmation entry is on the [319th image](PET-C-1778a)
 ## Image of Jobst Heinrich Krückeberg Confirmation 1778
 
 ```{image} images/petzen-band1a-img319.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

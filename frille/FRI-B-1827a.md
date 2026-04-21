@@ -6,7 +6,7 @@ Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsreg
 Regierungsbezirks Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820)
 
 ```{image} images/christian-f-bleeke/christine-luise-bleeke-1827-birth.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

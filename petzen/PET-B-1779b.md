@@ -44,7 +44,7 @@ his baptism entry) baptism is on [image 264, right page, entry no.
 ## Baptism Record
 
 ```{image} images/petzen-band1a-img264.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 :::{admonition} Meaning of Hofmeister and "au" Suffix in Höckersau

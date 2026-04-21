@@ -7,7 +7,7 @@ Transliteration and Translation of page 85 Header
 90                                 Getauft(Baptized) 1790
 
 ```{image} images/petzen-band2-img48-left.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{note}

@@ -22,7 +22,7 @@ This confirmation entry is on the [320th image on Archion](PET-C-1781a)
 ## Image of Confirmation
 
 ```{image} images/petzen-band1a-img320.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

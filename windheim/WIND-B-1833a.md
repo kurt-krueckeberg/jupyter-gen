@@ -18,7 +18,7 @@ The baptism record is on [image 182, pages 178 and 179,](image182)*Taufen
 The image below shows the page and column headings for pages 178 and 179:
 
 ```{image} images/windheim-band4-header-img182.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 This is the transliteration of the top-most header that spans pages 178 and 179
@@ -28,13 +28,13 @@ This is the transliteration of the top-most header that spans pages 178 and 179
 The registerd information extends across both the left and right page. The left page image is below:
 
 ```{image} images/windheim-band4-img182-left-side.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 And this is the right page, page 179:
 
 ```{image} images/windheim-band4-img182-right-side.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 The translitration of old German script into contemporary latin-based German is below.

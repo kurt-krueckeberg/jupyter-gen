@@ -33,7 +33,7 @@
 ## Image
 
 ```{image} images/petzen-band1b-img65.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Citation

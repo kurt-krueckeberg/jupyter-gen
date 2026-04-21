@@ -3,7 +3,7 @@
 The baptism record is on [page 42, of volume 1](CIN-B-1837a)
 
 ```{image} images/vol1-page42.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{note}

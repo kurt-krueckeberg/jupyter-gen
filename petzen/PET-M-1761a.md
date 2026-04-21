@@ -28,7 +28,7 @@ The June 14, 1761, marriage of Johann Henirch Krückeberg to Anne Christine Elis
 ## Image of Marriage Record
 
 ```{image} images/petzen-band1b-img52.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

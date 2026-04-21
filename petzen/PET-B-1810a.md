@@ -7,7 +7,7 @@ The baptism record of Carl Heinrich Wilharm is found on [image 112](PET-B-1810a)
 ## Image of Baptism Record
 
 ```{image} images/petzen-band2-img113.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

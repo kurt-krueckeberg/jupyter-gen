@@ -39,7 +39,7 @@ pages 158 and 159. The birth month](https://www.archion.de)**Decbr** is written 
 This is an overview showing the header for pages 158 and 159:
 
 ```{image} images/petzen-band2-img82-overview.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{note}
@@ -73,13 +73,13 @@ Translation of page header
 ## Image of Birth Entry 40, Page 158
 
 ```{image} images/petzen-band2-img82-entry40-158.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Image of Birth Entry 40, Page 159
 
 ```{image} images/petzen-band2-img82-entry40-159.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation of Entry 40

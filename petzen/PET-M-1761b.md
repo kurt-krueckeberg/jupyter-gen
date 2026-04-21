@@ -29,7 +29,7 @@ Deierberg on [image 52](PET-M-1761b)
 ## Image of Marriage Record
 
 ```{image} images/petzen-band1b-img52-weiland.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

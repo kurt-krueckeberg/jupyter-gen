@@ -8,7 +8,7 @@ Getauften und Konfirmierten 1641-1784".
 ## Image
 
 ```{image} images/petzen-band1a-img129.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

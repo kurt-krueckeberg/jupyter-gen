@@ -9,7 +9,7 @@ The baptism of Hand Heinrich Weiland is on [image 1153](PET-B-1736b)
 The enhanced image is below:
 
 ```{image} images/petzen-band1a-img153-left-page-weiland.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 The year **1736** appears on the previous image, image number 152, toward the bottom of the left-hand page, where the baptisms

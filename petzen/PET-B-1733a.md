@@ -18,7 +18,7 @@
 ## Image 149
 
 ```{image} images/petzen-band1a-img149.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Citation

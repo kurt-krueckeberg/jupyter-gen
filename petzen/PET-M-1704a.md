@@ -23,7 +23,7 @@ Eberding is on [image 27](image27)
 ## Image
 
 ```{image} images/petzen-band1b-img27.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

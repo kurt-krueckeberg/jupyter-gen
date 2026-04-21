@@ -39,7 +39,7 @@ The 29 Aug 1760 baptism record for Hans Heinrich Wilharm is on
 ## Images of Marriage Record
 
 ```{image} images/petzen-band1a-img202.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

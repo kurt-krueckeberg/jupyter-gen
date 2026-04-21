@@ -8,7 +8,7 @@ The burial record for Johann Heinrich Blecke[n] is found on [image 2323](PET-D-1
 ## Image
 
 ```{image} images/petzen-band1b-img223.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

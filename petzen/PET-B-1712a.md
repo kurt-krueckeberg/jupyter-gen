@@ -8,13 +8,13 @@ Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 ## Image
 
 ```{image} images/petzen-band1a-img120-original-right-page-bleek.png
-:class: antora-self-link
+:class: image-override
 ```
 
 This is it enhanced:
 
 ```{image} images/petzen-band1a-img120-right-page-bleek.png
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration

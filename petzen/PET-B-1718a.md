@@ -7,7 +7,7 @@ The baptism of Anna Ilhabe Bleeck is on [image 126](image126)
 ## Image
 
 ```{image} images/petzen-band1a-img126-bleeck.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

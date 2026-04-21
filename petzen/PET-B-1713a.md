@@ -8,7 +8,7 @@ The baptism of Catherina Margarethe Bleeck  is found on image
 ## Image
 
 ```{image} images/petzen-band1a-img121.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration

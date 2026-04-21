@@ -31,6 +31,6 @@ can be hard to distinguish, but it is very uncommon for **R** to start a word.
 In the image below, **todtgeboren Tochter** — literally *dead-born daughter* — refers to a stillbirth. *todt* in contemporary German there is no "t": *tod*.
 
 ```{image} ../petzen/images/petzen-band2-img68-line17.jpg
-:class: antora-self-link
+:class: image-override
 ```
 

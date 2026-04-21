@@ -76,17 +76,17 @@ The marriage record is on [image 348, on pages 722 and 723](PET-M-1822a)
 The header and column headings for pages 722 and 723:
 
 ```{image} images/petzen-band2-img348-heading.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### The Marriage Record
 
 ```{image} images/petzen-band2-img348-722.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/petzen-band2-img348-723.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Pages 722 and 723 header

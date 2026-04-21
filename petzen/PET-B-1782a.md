@@ -43,11 +43,11 @@ the left or right pages.
 ```
 
 ```{image} images/petzen-band1a-img279-overview.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/petzen-band1a-img279-entry2.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

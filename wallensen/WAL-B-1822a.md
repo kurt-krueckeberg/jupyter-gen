@@ -3,7 +3,7 @@
 The birth record for Heinrich Friedrich August Krückeberg of Thüste is found on [image 114](WAL-B-1822a)
 
 ```{image} images/wallensen-krichenbuch-1807-1848-img114.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{list-table} Page Header, Column Heading and Entry 13

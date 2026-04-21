@@ -9,11 +9,11 @@ entry 7,](PET-M-1804b)
 ## Images
 
 ```{image} images/petzen-band2-img13-heading.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/petzen-band2-img13.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

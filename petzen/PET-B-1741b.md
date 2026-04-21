@@ -3,7 +3,7 @@
 ## Image
 
 ```{image} images/petzen-band1a-img163-möller.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Citation

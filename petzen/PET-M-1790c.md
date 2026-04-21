@@ -44,13 +44,13 @@ The marriage is recorded on the [5 image, page 5, entry 13](PET-M-1790c)
 The header spans pages 4 and 5:
 
 ```{image} images/petzen-band2-img5-header.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page 5:
 
 ```{image} images/petzen-band2-img5-2.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 The transliteration of the header for page 5 and marriage entries 8, 10 and 13 are below:

@@ -3,7 +3,7 @@
 The confirmation is recorded on [page 172, of the PDF of volume 1](CIN-B-1840b)
 
 ```{image} images/vol1-page172.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 The page heading:

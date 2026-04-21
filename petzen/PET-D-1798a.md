@@ -25,7 +25,7 @@ The death of Heinrich Töns Werkmeister, October 17, 1801, [image
 ## Image
 
 ```{image} images/petzen-band2-img236.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration and Translation

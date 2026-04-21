@@ -30,7 +30,7 @@ The baptism entry is found on [image 152](PET-B-1736a)
 ## Baptism Record
 
 ```{image} images/petzen-band1a-img152-krueckeberg.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 :::{admonition} Explanations

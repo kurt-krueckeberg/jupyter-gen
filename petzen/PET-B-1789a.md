@@ -10,13 +10,13 @@ Below is an overview of both pages 84 and 85, showing page 84 covers 1788 and pa
 month of January for the first entry of page 85.
 
 ```{image} images/petzen-band2-img45-overview.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Below is entry 6, from page 85, in the year 1789.
 
 ```{image} images/petzen-band2-img45-85.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration of entry 6

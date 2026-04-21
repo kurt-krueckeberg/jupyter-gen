@@ -9,7 +9,7 @@ Sophia Elonora Weiland’s baptism is on [image 261](PET-B-1778c)
 ## Baptism Record
 
 ```{image} images/petzen-band1a-img261-right.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{code-block} text

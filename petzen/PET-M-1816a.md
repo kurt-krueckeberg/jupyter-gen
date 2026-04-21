@@ -96,13 +96,13 @@ This marriage is found on [image 339, on pages 704 and 705](PET-M-1816a)
 ## Pages 704 and 705
 
 ```{image} images/petzen-band2-img339-704.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page 705 heading portion:
 
 ```{image} images/petzen-band2-img339-705.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration of pages 704 and 705 header
@@ -153,13 +153,13 @@ This marriage is found on [image 339, on pages 704 and 705](PET-M-1816a)
 Page heading on page 704:
 
 ```{image} images/petzen-band2-img339-704.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page 705 heading portion:
 
 ```{image} images/petzen-band2-img339-705.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration of pages 704 and 705 header

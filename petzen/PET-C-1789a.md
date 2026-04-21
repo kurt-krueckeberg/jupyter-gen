@@ -25,7 +25,7 @@ Image 190 shows the recorded name of Christina Krückebergen of Berenbusch
 listed as entry 10 among those confirmed in 1789:
 
 ```{image} images/petzen-band2-img190-405.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

@@ -3,7 +3,7 @@
 ## Christine Maria Weiland 1789
 
 ```{image} images/petzen-band2-img46-87.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration and Translation

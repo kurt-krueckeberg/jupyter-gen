@@ -29,7 +29,7 @@ Anna Maria Elisabeth Moeller is on [image 58](PET-M-1770a)[Archion.de.](htttps:/
 ## Image of Marriage Record
 
 ```{image} images/petzen-band1b-img61.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

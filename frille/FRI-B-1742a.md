@@ -8,7 +8,7 @@ appears on [image 131, on the right  page, entry #450](FRI-B-1742a)
 ## Image
 
 ```{image} images/frille-band1-img131.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

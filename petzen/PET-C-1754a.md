@@ -8,7 +8,7 @@ The confirmation of Anna Ilsabey (Elisabeth) Möller is on
 ## Image
 
 ```{image} images/petzen-band1a-img309.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

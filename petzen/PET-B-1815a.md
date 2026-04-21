@@ -7,7 +7,7 @@ The birth of a stillborn daughter of Heinrich Wilhelm Weiland is entry 17 on [im
 ## Image, Transliteration and Translation
 
 ```{image} images/petzen-band2-img133.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page header transliteration: **Geboren im Kirchspiele Petzen im Jahr 1815**.

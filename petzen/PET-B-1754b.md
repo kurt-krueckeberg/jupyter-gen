@@ -11,7 +11,7 @@ The birth of Heinrich Wilhelm Bleeke from Evesen also appears on this image, on 
 ## Image
 
 ```{image} images/petzen-band1a-img191-left-1754.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

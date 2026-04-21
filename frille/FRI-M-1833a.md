@@ -7,7 +7,7 @@ P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Min
 TODO: Change all; this  from other record:
 
 ```{image} images/FRI-M-1833a.png
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration of page header: **Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne Nummer eingetragen werden.) im Jahr 1826.**

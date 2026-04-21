@@ -35,7 +35,7 @@ Confirmed of the Petzen Parish, 1641-1784".
 ## Baptism Record
 
 ```{image} images/petzen-band1a-img180.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

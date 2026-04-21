@@ -41,11 +41,11 @@ The birth is recorded on [image 70 on Archion](PET-B-1798a)
 Header:
 
 ```{image} images/petzen-band2-img70-header-134.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/petzen-band2-img70-header-135.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration of header for pages 134-135
@@ -58,11 +58,11 @@ Transliteration of header for pages 134-135
 ### Image of pages 134 and 135, entry 12
 
 ```{image} images/petzen-band2-img70-134.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/petzen-band2-img70-135.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{note}

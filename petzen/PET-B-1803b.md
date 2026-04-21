@@ -69,7 +69,7 @@ The birth is recorded on image 82, entry 23, on [image 82](PET-B-1803b)**Jul** i
 This is an overview showing the header for pages 158 and 159:
 
 ```{image} images/petzen-band2-img82-overview.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 :::{admonition} Sidebar
@@ -105,13 +105,13 @@ administrative term.
 ## Birth Entry 23, Page 158
 
 ```{image} images/petzen-band2-img82-entry23-158.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Birth Entry 23, Page 159
 
 ```{image} images/petzen-band2-img82-entry23-159.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation of Entry 23

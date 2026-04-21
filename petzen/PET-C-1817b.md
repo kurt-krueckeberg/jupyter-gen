@@ -27,7 +27,7 @@ known as **Sonntag Qadsimodogeniti**, appears on [image 211](PET-C-1817b)
 **Sophia Caroline Krückeberg** is the 9th Mädchen (girl) listed.
 
 ```{image} images/petzen-band2-img211-447-3.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration of Header

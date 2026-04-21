@@ -27,7 +27,7 @@ appears on [image 167](PET-D-1747a)
 ## Image of Burial Record
 
 ```{image} images/petzen-band1b-img167.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

@@ -38,7 +38,7 @@ images.](https://www.archion.de)
 ## Header for Pages 426 and 427
 
 ```{image} images/petzen-band2-img201-overview.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Entry 12 Pages 426 and 427
@@ -46,13 +46,13 @@ images.](https://www.archion.de)
 ### Entry 12 Page 426
 
 ```{image} images/petzen-band2-img201-426.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Entry 12 Page 427
 
 ```{image} images/petzen-band2-img201-427.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation of Header for Pages 426 and 427

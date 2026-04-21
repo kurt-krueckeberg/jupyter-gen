@@ -85,19 +85,19 @@ Weiland are on [image 125, pages 244 and 245](PET-B-1812a)
 Overview:
 
 ```{image} images/petzen-band2-img125-overview.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page 244:
 
 ```{image} images/petzen-band2-img125-244.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page 245:
 
 ```{image} images/petzen-band2-img125-245.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{important}

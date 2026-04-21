@@ -50,7 +50,7 @@ the marriage is actually given on the page 18 above entry 6 as **Am 11 April
 ## Image or Record
 
 ```{image} images/petzen-band2-img12-right1.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

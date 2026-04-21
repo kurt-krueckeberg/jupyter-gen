@@ -23,7 +23,7 @@ This is the transliteration of the top-most header that spans pages 178 and 179
 1833 Geborene und Getaufte im (1831 Births and Baptisms in the)            Kirchspiel Windheim - 1831 (in the parish Windheim 1831) 153
 
 ```{image} images/windheim-band4-img156.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 The translitration of old German script into contemporary latin-based German is below.

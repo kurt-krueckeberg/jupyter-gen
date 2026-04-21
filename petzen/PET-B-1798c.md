@@ -9,13 +9,13 @@ The baptism record Anne Marie Christine Wilharm is found on [image 71](PET-B-179
 ### Left Page
 
 ```{image} images/petzen-band2-img71-wilharm-left.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Right Page
 
 ```{image} images/petzen-band2-img71-wilharm-right.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

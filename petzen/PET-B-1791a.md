@@ -33,13 +33,13 @@ This baptism is recorded on [image 52 on Archion](PET-B-1791a)
 ## Image of Baptism Recrd
 
 ```{image} images/petzen-band2-img52-header.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Entry of Baptism
 
 ```{image} images/petzen-band2-img52-left.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

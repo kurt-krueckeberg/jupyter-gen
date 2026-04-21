@@ -24,7 +24,7 @@ The confirmation of Johann Heinrich Krückeberg is on [image 212](PET-C-1820a)**
 Page 448, Knaben (boys) are listed in top-right column:
 
 ```{image} images/petzen-band2-img212-1.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

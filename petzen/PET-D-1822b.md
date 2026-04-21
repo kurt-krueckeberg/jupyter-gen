@@ -99,19 +99,19 @@ The death of Jobst Heinrich Krückeberg, on October 21, 1822, is recorded on [im
 Page overview:
 
 ```{image} images/petzen-band2-img314-header.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page 654:
 
 ```{image} images/petzen-band2-img314-654.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page 655:
 
 ```{image} images/petzen-band2-img314-655.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation of Pages 654 and 655

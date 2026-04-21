@@ -8,7 +8,7 @@ Anna Elisabeth Becker is on [image 25](image25)
 ## Image
 
 ```{image} images/petzen-band1b-img25.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

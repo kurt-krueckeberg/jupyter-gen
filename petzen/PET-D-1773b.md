@@ -36,7 +36,7 @@ appears on [image 210](PET-D-1773b)
 ## Transliteration and Translation
 
 ```{image} images/petzen-band1b-img210.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration

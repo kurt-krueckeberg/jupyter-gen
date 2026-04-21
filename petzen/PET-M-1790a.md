@@ -27,13 +27,13 @@ Anna Catharine Sophia Krömer from Evesen No 19. The marriage is entry 8 on
 Header:
 
 ```{image} images/petzen-band2-img5-header.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 The marriage of Johann Heinrich Kruckeberg is recorded are on page 5 on entry 8:
 
 ```{image} images/petzen-band2-img5-1.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{note}

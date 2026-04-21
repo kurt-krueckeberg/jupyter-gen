@@ -47,7 +47,7 @@ The birth month **April** appears on image 70, page 135, near the bottom of the 
 date) and "get" (baptism date).
 
 ```{image} images/petzen-band2-img70-135-bottom.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Birth Entry 24 on Page 136
@@ -56,13 +56,13 @@ Image 71  continues the births for April of 1798. The birth and baptism entry fo
 is the third entry from the top.
 
 ```{image} images/petzen-band2-img71-136.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Birth Entry 24 on Page 137
 
 ```{image} images/petzen-band2-img71-137.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation of Entry 14 on Pages 136 and 137

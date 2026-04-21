@@ -28,7 +28,7 @@ The January 29, 1758, marriage of Johan Henirch Krückeberg to Ilse Margarethe R
 ## Image of Marriage Record
 
 ```{image} images/petzen-band1b-img50.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

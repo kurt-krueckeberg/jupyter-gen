@@ -23,7 +23,7 @@ The October 7, 1770, baptism of Johann Heinrich Blecken is on
 ## Image
 
 ```{image} images/petzen-band1a-img231-blecken.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

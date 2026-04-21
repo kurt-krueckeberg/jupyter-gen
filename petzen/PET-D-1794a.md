@@ -33,13 +33,13 @@ Croemer is the same as Crömer and Krömer.
 Overview:
 
 ```{image} images/petzen-band2-img230-overview.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page 485, entry 16:
 
 ```{image} images/petzen-band2-img230-entry16.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

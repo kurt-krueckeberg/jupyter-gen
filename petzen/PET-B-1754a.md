@@ -8,7 +8,7 @@ page](image190)
 ## Image 190
 
 ```{image} images/petzen-band1a-img190-right.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

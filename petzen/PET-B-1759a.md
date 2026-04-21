@@ -35,7 +35,7 @@ The baptism of Ilse Margaretha Krückeberg is on [image 200, right page, first e
 ## Image of Ilse Margaretha Krückeberg Baptism 1759
 
 ```{image} images/petzen-band1a-img200.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

@@ -36,7 +36,7 @@ The baptism appears on [image 174](PET-B-1746a)
 The baptism is on the bottom of the left-hand page, the pages being unnumbered.
 
 ```{image} images/petzen-band1a-img174-left.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

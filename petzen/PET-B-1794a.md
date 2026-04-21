@@ -38,13 +38,13 @@ accompanies her marriage record, which is on [image 27, on pages 48 and 49](PET-
 Page 48 portion:
 
 ```{image} images/petzen-band2-img27-left-2.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page 49 portion:
 
 ```{image} images/petzen-band2-img27-right-2.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{note}

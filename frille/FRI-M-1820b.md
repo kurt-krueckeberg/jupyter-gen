@@ -6,7 +6,7 @@ NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstand
 Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
 
 ```{image} images/johann-heinrich-philip-bleeke-marriage.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

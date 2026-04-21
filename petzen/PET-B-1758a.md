@@ -7,7 +7,7 @@ The baptism of Jobst Heinrich Weiland is on [image 199, left page, first entry](
 ## Image
 
 ```{image} images/petzen-band1a-img199.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

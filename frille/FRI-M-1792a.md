@@ -9,13 +9,13 @@ Carl Fridrich Bleeke’s marriage in 1792 to Anne Marie Rieckmann is on [image 2
 Overview of pages 52 and 53 showing the marriages of two Bleekes:
 
 ```{image} images/frille-band2-img202-52-53.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 View of marriage of Carl Fridrich Bleeke, page 52 (of the pages devoted to listing marriages):
 
 ```{image} images/frille-band2-img202-52.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration and Translation

@@ -7,7 +7,7 @@ those forming a new church, the Norddeutsche Evangelisch-Lutherische Kirche (the
 which later built a new church building at ????[footnote  Rau].
 
 ```{image} ../north-german-lutheran/images/vol2-page17.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Discovery of Bleekes Cincinnati Church

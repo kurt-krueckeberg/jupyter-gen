@@ -38,7 +38,7 @@ née Schakel from Päpinghausen is on [image 61](PET-M-1773a)
 ## Image of Marriage Record
 
 ```{image} images/petzen-band1b-img61.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

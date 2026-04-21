@@ -22,7 +22,7 @@ No page numbers are written on these pages.
 ```
 
 ```{image} images/petzen-band1a-img310-left.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

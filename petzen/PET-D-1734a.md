@@ -33,7 +33,7 @@ The image below excerpts three burial entries for 14 February 1734. The 2nd reco
 for an unnamed Krückeberg.
 
 ```{image} images/petzen-band1b-img150.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Töchterlein and Söhnlein

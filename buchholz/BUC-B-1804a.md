@@ -9,13 +9,13 @@ The birth record is on [image 198](BUC-B-1804a)*Taufen 1760-1820, Abendmahl 1839
 Left page:
 
 ```{image} images/buchholz-band2-image198-left-page.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Right page:
 
 ```{image} images/buchholz-band2-image198-right-page.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Birth Record

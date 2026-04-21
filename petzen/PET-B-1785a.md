@@ -14,7 +14,7 @@ Philippine. The sponsor was Philippine Maria Beuken of Meinsen.
 This entry of the birth of Philippine Louise Weiland, in 1785, occurs on the left hand page, page 62.
 
 ```{image} images/petzen-band2-img34.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{list-table} Baptism entry no. 29 for Philippine Louise Weiland

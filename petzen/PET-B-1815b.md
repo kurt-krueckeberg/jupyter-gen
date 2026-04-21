@@ -14,7 +14,7 @@ for a Weiland baptism.
 ## Images of Pages 266 and 267
 
 ```{image} images/petzen-band2-img137.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

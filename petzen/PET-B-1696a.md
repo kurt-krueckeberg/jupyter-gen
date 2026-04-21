@@ -8,7 +8,7 @@ Parish, 1641-1784".
 ## Image of Baptism Record
 
 ```{image} images/petzen-band1a-img89.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

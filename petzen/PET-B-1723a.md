@@ -7,7 +7,7 @@ The baptism of Johann Daniel Bleeck is on [image 132](image132)
 ## Baptism Record
 
 ```{image} images/petzen-band1a-img132.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

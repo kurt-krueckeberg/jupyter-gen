@@ -57,7 +57,7 @@ The marriage record is on [image 27, on pages 48 and 49](PET-M-1812d)[Archion.de
 ## Image
 
 ```{image} images/petzen-band2-img27-vogt.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

@@ -35,7 +35,7 @@ one in Berenbusch.
 The baptism entry is found on [image 167, year 1744, fourth entry for January](PET-B-1744a)
 
 ```{image} images/petzen-band1a-img167.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{note}

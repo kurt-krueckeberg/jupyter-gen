@@ -19,19 +19,19 @@ The birth and baptism of Caroline Dorothee Krückeberg and Ernst Heinrich Weilan
 Overview:
 
 ```{image} images/petzen-band2-img125-overview.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page 244:
 
 ```{image} images/petzen-band2-img125-244.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page 245:
 
 ```{image} images/petzen-band2-img125-245.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{important}

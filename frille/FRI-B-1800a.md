@@ -10,13 +10,13 @@ It is on [image 152](FRI-B-1800a)th of the year.
 The baptism year of 1800 is written on the top of page 275 (of the baptism pages), which on image 148:
 
 ```{image} images/frille-band2-img148-275.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 The baptism entry fo Christian Friderich Bleeke is on page 283 (of the baptism pages), which is on image 152:
 
 ```{image} images/frille-band2-img152-283.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration and Translation

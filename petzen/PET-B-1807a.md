@@ -149,7 +149,7 @@ The birth and baptism of Carl Friedrich Krückeberg is [on image 96, pages 186 a
 ## Image of Pages 186 and 187
 
 ```{image} images/petzen-band2-img96-overview.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation of Header for Pages 186 and 187
@@ -171,13 +171,13 @@ Translation of Header for Pages 186 and 187
 ## Entry 20, Page 186
 
 ```{image} images/petzen-band2-img96-186.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Entry 20, Page 187
 
 ```{image} images/petzen-band2-img96-187.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation of Entry 20

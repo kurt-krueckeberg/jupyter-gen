@@ -42,7 +42,7 @@ The marriage of Hans Heinrich Wilharm and Anne Marie Philippine Blecke is
 the 4th marriage of 1796:
 
 ```{image} images/petzen-band2-img8.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

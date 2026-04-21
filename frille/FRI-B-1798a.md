@@ -7,7 +7,7 @@ The baptism of Christine Marie Schwier occured on 13 May 1798. It is [image 138,
 ## Images
 
 ```{image} images/frille-band2-img138.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

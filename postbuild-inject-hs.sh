@@ -2,7 +2,7 @@
 set -euo pipefail
 
 BUILD_DIR="_build/html"
-JS_NAME="antora-self-link.js"
+JS_NAME="enlarge-image.js"
 JS_SOURCE="assets/js/$JS_NAME"
 
 cp "$JS_SOURCE" "$BUILD_DIR/$JS_NAME"

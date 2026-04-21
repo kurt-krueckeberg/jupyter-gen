@@ -7,7 +7,7 @@ The baptism Maria Eleonore Bleecke occurred on 24 ovembery 1767. It appears on [
 ## Images
 
 ```{image} images/frille-band2-img33-61.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration and Translation

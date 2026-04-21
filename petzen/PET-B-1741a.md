@@ -22,7 +22,7 @@ The baptism entry is found on [image 163](PET-B-1741a)**1741** appears two pages
 ## Image of Baptism Record
 
 ```{image} images/petzen-band1a-img163.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

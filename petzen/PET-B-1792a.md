@@ -83,7 +83,7 @@ Translation of page 105 header
 ### Page 105, entry 9
 
 ```{image} images/petzen-band2-img55-105.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{important}

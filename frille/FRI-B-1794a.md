@@ -9,13 +9,13 @@ Carl Fridrich Bleeke’s birth and baptism is recorded on [page 229](FRI-B-1794a
 The birth year 1794 is written in the upper right corner of image 121:
 
 ```{image} images/frille-band2-img121-225.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 The birth and baptism of Carl Fridrich Bleeke is recorded on entry number 38 on [page 229](FRI-B-1794a)
 
 ```{image} images/frille-band2-img123-229.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration and Translation

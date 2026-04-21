@@ -7,7 +7,7 @@ Sophia Ernestina Bleken’s baptism, on 11 September 1778, is on [image 261](PET
 ## Baptism Record
 
 ```{image} images/petzen-band1a-img261-left.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

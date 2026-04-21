@@ -37,7 +37,7 @@ The confirmation of Philippine Caroline Christine Krückeberg Confirmation in 18
 ## Overview of Pages 420 and 421
 
 ```{image} images/petzen-band2-img198-overview.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Translation and Transliteration of Header for Pages 420 and 421

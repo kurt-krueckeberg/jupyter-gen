@@ -8,7 +8,7 @@ The birth of Philippine Sophie Weiland is entry 26 on [image
 ## Image
 
 ```{image} images/petzen-band2-img88.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

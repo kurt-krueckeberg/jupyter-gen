@@ -38,7 +38,7 @@ is on [image 37](PET-M-1728a)
 ## Image of Marriage Record
 
 ```{image} images/petzen-band1b-img37.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

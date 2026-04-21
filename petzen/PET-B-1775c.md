@@ -10,7 +10,7 @@ The December 17, 1775, baptism record for Anna Ilse Blecken appears on
 The baptismal record is below.
 
 ```{image} images/petzen-band1a-img247-blecken.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

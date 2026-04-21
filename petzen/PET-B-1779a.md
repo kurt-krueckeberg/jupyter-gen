@@ -7,7 +7,7 @@ Sophia Margaretha Weiland’s baptism is on [image 262, right page, entry no. 5]
 The FamilySearch Tree-IDS [??TODO????].
 
 ```{image} images/petzen-band1a-img262-1779.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{list-table} 1779 Baptism of Sophia Margaretha Weiland

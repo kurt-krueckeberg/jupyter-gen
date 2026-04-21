@@ -9,7 +9,7 @@ The baptism appears on [image 173](PET-B-1746b)[Archion.de.](https://archion.de)
 ## Baptism Entry
 
 ```{image} images/petzen-band1a-img173.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

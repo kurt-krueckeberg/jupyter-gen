@@ -101,7 +101,7 @@ The baptism of Johann Heinrich Krückeberg is image [91 of 357 of the Archion.de
 ## Image of Pages 176 and 177
 
 ```{image} images/petzen-band2-img91-overview.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation of Header for Pages 176 and 177
@@ -123,13 +123,13 @@ Pages 176-177 Header
 ## Entry 22, Page 176
 
 ```{image} images/petzen-band2-img91-176.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Entry 22, Page 177
 
 ```{image} images/petzen-band2-img91-177.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation of Entry 22

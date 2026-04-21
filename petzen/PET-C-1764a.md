@@ -21,7 +21,7 @@ The confirmation entry is on [image 313](PET-C-1764a)th entry for 1764, of the P
 ## Image of Confirmation Record
 
 ```{image} images/petzen-band1a-img313.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{note}

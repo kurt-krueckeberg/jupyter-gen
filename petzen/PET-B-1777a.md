@@ -40,7 +40,7 @@ The baptism of Friderich Wilhelm Weiland is on [image 253](PET-B-1777a)
 The baptismal record is shown below:
 
 ```{image} images/petzen-band1a-img253.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

@@ -28,7 +28,7 @@ Below is the page header and the start of the list of Knaben (boys) confirmed on
 Quadimodogeniti (the 1st Sunday After Easter), 1816.
 
 ```{image} images/petzen-band2-img211-446-header.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration of Header
@@ -58,7 +58,7 @@ Boys
 Sophie Wilhelmine Krückeberg is the 9th Mädchen (girl) listed onm page 446.
 
 ```{image} images/petzen-band2-img211-446.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration of Entries 8, 9 and 10

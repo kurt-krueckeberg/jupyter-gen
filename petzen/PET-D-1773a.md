@@ -33,7 +33,7 @@ appears on [image 210](PET-D-1773a)
 ## Image of Burial Record
 
 ```{image} images/petzen-band1b-img210.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

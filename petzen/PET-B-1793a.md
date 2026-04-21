@@ -43,19 +43,19 @@ This entry appears on [image 59, page 113](PET-B-1793a)[page 114, on image 60](i
 Header:
 
 ```{image} images/petzen-band2-img59-header.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page 113:
 
 ```{image} images/petzen-band2-img59-113.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Page 114:
 
 ```{image} images/petzen-band2-img60-114.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration of page 113, entry 16

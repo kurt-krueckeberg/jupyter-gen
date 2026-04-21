@@ -34,7 +34,7 @@ page, entry no. 10](PET-B-1775b)
 ## Image of Baptism
 
 ```{image} images/petzen-band1a-img246.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

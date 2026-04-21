@@ -36,7 +36,7 @@ The July 11, 1773, baptism record for Anna Philippine Maria Blecken appears on
 ## Image
 
 ```{image} images/petzen-band1a-img238.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

@@ -7,7 +7,7 @@ The death of Johann Fridirch Bleecke occurred on 22 April 1795. It is [image 313
 ## Images
 
 ```{image} images/frille-band2-img313-185.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration and Translation

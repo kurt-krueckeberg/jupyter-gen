@@ -38,11 +38,11 @@ The birth is recorded on image 81, on pages [156 and 157](PET-B-1803a)
 ## Header for Pages 156 and 157
 
 ```{image} images/petzen-band2-img81-156-header.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/petzen-band2-img81-157-header.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation of header for pages 156 and 157
@@ -74,7 +74,7 @@ Births in the [ministered-to?] Schaumb[urg] Lippe villages               Births 
 ### Birth Entry 4 Page 156
 
 ```{image} images/petzen-band2-img81-156.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Birth Entry 4 Page 157
@@ -82,7 +82,7 @@ Births in the [ministered-to?] Schaumb[urg] Lippe villages               Births 
 The birth month of **Jan** is written on page 157 above the entries.
 
 ```{image} images/petzen-band2-img81-157.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{important}

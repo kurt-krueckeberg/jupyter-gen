@@ -9,11 +9,11 @@ Getrauten und Gestorbenen 1785-1827*.
 ## Image
 
 ```{image} images/petzen-band2-img247-1.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/petzen-band2-img247-2.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

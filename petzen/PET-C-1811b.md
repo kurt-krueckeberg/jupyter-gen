@@ -25,7 +25,7 @@ The confirmation of Christine Louise Krückeberg, on the 1st Sunday After Easter
 on [pages 438 and 439, entry 28,](PET-C-1811b)
 
 ```{image} images/petzen-band2-img207-entry28.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliterations and Translations

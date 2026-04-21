@@ -5,7 +5,7 @@
 The baptism of Anna Maria Weiland is on [image 176, right page, fourth entry](PET-B-1748a)
 
 ```{image} images/petzen-band1a-img176.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{note}

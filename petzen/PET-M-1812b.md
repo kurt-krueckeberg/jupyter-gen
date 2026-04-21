@@ -80,13 +80,13 @@ The February 23, 1812, marriage record is on [image 27, on pages 48 and 49](PET-
 Heading page 48:
 
 ```{image} images/petzen-band2-img27-left-1.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Heading page 49:
 
 ```{image} images/petzen-band2-img27-right-1.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration of page header

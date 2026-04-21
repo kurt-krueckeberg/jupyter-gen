@@ -18,25 +18,25 @@ Jobst Heinrich Weiland was married on September 21, 1808.
 The complete heading spans acroos both the left and right sides of pages 28 and 29. Below is the heading of page 28 and its column headings
 
 ```{image} images/petzen-band2-img17-top-left.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Below are the right hand portion of the page header and its colums headings from page 29:
 
 ```{image} images/petzen-band2-img17-top-right.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 The marriage is entry three. The page 28 protion:
 
 ```{image} images/petzen-band2-img17-left.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 The continuation of marriage entry onto page 29:
 
 ```{image} images/petzen-band2-img17-right.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 Header for pages 28 and 29
