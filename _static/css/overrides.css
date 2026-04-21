@@ -1,0 +1,7 @@
+.article-grid > *,
+.article-left-grid > *,
+.article-center-grid > * {
+  grid-column: page;
+  max-width: 75rem;
+  width: 100%;
+}
