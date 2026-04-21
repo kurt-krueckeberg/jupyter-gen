@@ -37,7 +37,16 @@ npm install
 npm run build
 ```
 
-2. Change this theme file:
+2. Change a book theme file.
+
+The .adoc to .md converter `convert2jupbook2.py` added the class
+**image-override** to every image directive:
+
+``` {figure}
+:class: image-override
+```
+
+which this new version of the theme file below will detect.
 
 ```bash
 # 3. Replace the contents of entry.client.tsx with the working code
