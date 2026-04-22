@@ -277,7 +277,6 @@ project:
 #      template: lapreprint-typst
 #      articles: intro.md
 site:
-# template: book-theme
   template: ../myst-theme/.deploy/book/template.yml
 # actions:
 #   - title: Krückeberg Genealogy
