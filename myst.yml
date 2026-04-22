@@ -3,7 +3,7 @@ version: 1
 project:
   id: 4da9cb15-177c-41f5-8c4e-6a24b4e87eab
   title: Krückeberg Genealogy
-  description: Research into the genealogy of the KRückebergs of Adams CO, Indiana
+  description: Research into the genealogy of the Krückebergs of Adams CO, Indiana
   keywords:
     - jupyter-book
   authors:
