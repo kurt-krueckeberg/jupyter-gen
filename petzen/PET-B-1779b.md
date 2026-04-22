@@ -44,7 +44,7 @@ his baptism entry) baptism is on [image 264, right page, entry no.
 ## Baptism Record
 
 ```{image} images/petzen-band1a-img264.jpg
-:class: image-override
+:class: antora-self-link
 ```
 
 :::{admonition} Meaning of Hofmeister and "au" Suffix in Höckersau
@@ -57,10 +57,11 @@ A *Hofmeister* is defined in Thode’s German-English Genealogical Dictionary as
 "adminstrator of a manorial estate; child's tutor"
 ```
 
-In the entry, Otto Rösener is the *Hofmeister auf der Hockersaue*. "Hocker Aue" also appears in image 274 in the
-baptism record of [Johanna Sophie
-Charlotte Kruckebergen. Her godmother](PET-B-1782a.md#johanna-sophie-charlotte-krückeberg-baptims-1782)**Johanna Sophie Margedalenna Wilkeningen** is described as: "von der
-Hockerers Aue".
+In the entry, Otto Rösener is the *Hofmeister auf der Hockersaue*. "Hocker
+Aue" also appears in image 274 in the baptism record of
+[Johanna Sophie Charlotte Kruckebergen. Her
+godmother](PET-B-1782a.md)**Johanna Sophie Margedalenna Wilkeningen** is described as: "von
+der Hockerers Aue".
 ```
 
 ```{note}
