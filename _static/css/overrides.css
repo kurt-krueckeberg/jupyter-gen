@@ -1,4 +1,4 @@
-/* Widens content area
+/* Widens content area */
 @media (min-width: 1280px) {
   main.article-grid > article.article-grid > :not(.lg\:col-margin-right) {
     grid-column: body / page;
@@ -13,7 +13,7 @@
     max-width: 18rem;
   }
 }
-*/
+
 
 /* creates a shadow-obrder for images and allows a hook for
  * 'display-image.js' */
