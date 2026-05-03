@@ -3,7 +3,7 @@
 This record is from the
 [Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
+Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003).
 
 ```{image} images/carl-f-bleeke/christian-friederich-bleeke-1828-birth.png
 :class: image-override
@@ -44,43 +44,23 @@ Translation of page header: **Births and Baptims in 1828**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                  9
-                
-  - 
-                  Christian Friederich
+* - 9
+  - Christian Friederich
     Bleeke
-                
-  - 
-                  Acht und zwanzigsten
+  - Acht und zwanzigsten
     (28t) Februar Abds
     Zehn (10) Uhr zu Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Carl Friederich
+  - Ehelich
+  - Carl Friederich
     Bleeke Col No. 13
-                
-  - 
-                  Marie Luise geb.
+  - Marie Luise geb.
     Niemann
-                
-  - 
-                  Leeteln
-                
-  - 
-                  Zweiten (2t)
+  - Leeteln
+  - Zweiten (2t)
     März
-                
-  - 
-                  Schütz
-                
-  - 
-                  Johann Heinrich Blee-
+  - Schütz
+  - Johann Heinrich Blee-
     ke
-                
 ```
 
 ```{list-table} Translation of Christian Friederich Bleeke 1828 Birth
@@ -114,5 +94,5 @@ Evangelische Gemeinde Frille, Kreis Minden, “Geborne und Getaufte im Jahr 1828
 Christian Friederich Bleeke, 28 Feb. 1828,
 Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
 Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
-Digital images: Landesarchiv NRW, [https://www.archive.nrw.de (accessed 6 December 2025).](https://www.archive.nrw.de)
+Digital images: Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
 

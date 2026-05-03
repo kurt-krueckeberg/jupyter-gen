@@ -48,7 +48,8 @@ certainly Johann Heinrich Krückeberg (†1759).
 ## Citation
 
 The death of Sophie Marie Krückeberg, March 17, 1801, [image
-239, on page 504](PET-D-1801a)
+239, on page 504](#PET-D-1801a), of the Petzen Kirchenbuch "Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ### Pages 504 and 505
 
@@ -115,7 +116,9 @@ The death of Sophie Marie Krückeberg, March 17, 1801, [image
 
 ## Citations
 
-[PET-D-1801a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/b7f0f6db65/: 13 Julz 2025),
+(PET-D-1801a)=
+
+[PET-D-1801a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/b7f0f6db65/ : 13 Julz 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis
 der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 239 of 357](https://www.archion.de/p/b7f0f6db65/)
 

@@ -2,7 +2,7 @@
 
 ## Citations
 
-Philippine Louis Weiland’s baptism is found on [image 34, page 62](PET-B-1785a)
+Philippine Louis Weiland’s baptism is found on [image 34, page 62](#PET-B-1785a) of Petzen Kirchenbuch volume 2.
 
 ## Philippine Louise Weiland 1785
 
@@ -19,9 +19,7 @@ This entry of the birth of Philippine Louise Weiland, in 1785, occurs on the lef
 
 ```{list-table} Baptism entry no. 29 for Philippine Louise Weiland
 
-* - 
-                    62                 Getaufte Aoo 1785
-                  
+* - 62                 Getaufte Aoo 1785
 * - 29) d 10ten Jul: ist Philippina Louise Weilands
     des Friederich Wilehlm Weilands aus Evesen
     Einlieger mit seiner Frau Philippine Witwe
@@ -32,9 +30,7 @@ This entry of the birth of Philippine Louise Weiland, in 1785, occurs on the lef
 
 ```{list-table} Baptism entry no. 29 for Philippine Louise Weiland
 
-* - 
-                    62                 Baptisms Anno 1785
-                  
+* - 62                 Baptisms Anno 1785
 * - 29) On 10th Jul: Philippina Louise Weilands was baptized
     the conceived daughter of Friederich Wilehlm Weilands from Evesen
     a free farm laborer and his wife Philippine widow[widowed]
@@ -45,5 +41,7 @@ This entry of the birth of Philippine Louise Weiland, in 1785, occurs on the lef
 
 ## Citations
 
-[PET-B-1785a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/5d50809b33/: 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 34 of 357](http://www.archion.de/p/5d50809b33/)
+(PET-B-1785a)=
+
+[PET-B-1785a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/5d50809b33/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 34 of 357](http://www.archion.de/p/5d50809b33/)
 

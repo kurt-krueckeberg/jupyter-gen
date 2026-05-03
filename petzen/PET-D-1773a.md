@@ -22,13 +22,15 @@
 ```{important}
 This is the first time that **no. 10** Berenbusch occurs. Johann Heinrich was very likely
 the active Stätte holder of no. 10 Berenbusch. By 1802, when Johann Heinrich, who is then
-a widower, remarries, his **Stand** in the [1802 marriage record is](PET-M-1802b.md)**Leibzüchter**
+a widower, remarries, his **Stand** in the [1802 marriage record](PET-M-1802b.md)
+is **Leibzüchter**
 ```
 
 ## Citation
 
 The August 27, 1773, burial of the stillborn sone of Johann Heinrich Krückeberg from No. 10 Berenbusch,
-appears on [image 210](PET-D-1773a)
+appears on [image 210](#PET-D-1773a), on the right-hand page of the Petzen "Verzeichnis der Getrauten und Gestorbenen,
+1641-1784".
 
 ## Image of Burial Record
 
@@ -59,6 +61,8 @@ On  Aug[ust] 27 the stillborn son of Johann Heinrich Krückeberg from Berenbush
 ```
 
 ## Citations
+
+(PET-D-1773a)=
 
 [PET-D-1773a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/67abb81b75/:
 23 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche

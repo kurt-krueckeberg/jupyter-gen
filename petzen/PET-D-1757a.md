@@ -3,7 +3,7 @@
 ## Family Group and Other Facts
 
 This is prospectively [Anna Louisa Eleonore Kruekeberg who was born
-26 October 1746. She would have been 10 years old by 26 January 1757.](PET-B-1746a.md)
+26 October 1746](PET-B-1746a.md). She would have been 10 years old by 26 January 1757.
 
 ```{list-table} Family Relationship Information
 :header-rows: 1
@@ -21,7 +21,9 @@ This is prospectively [Anna Louisa Eleonore Kruekeberg who was born
 ## Citation
 
 The January 16, 1757, burial of the born-blind Louisa Eleonore Krückeberg
-of the "Krückebergs at Berenbusch" appears on [image 178](PET-D-1757a)
+of the "Krückebergs at Berenbusch" appears on [image 178](#PET-D-1757a),
+on the left-hand page, of the Petzen "Verzeichnis der Getrauten und
+Gestorbenen, 1641-1784".
 
 ## Image of Burial Record
 
@@ -51,7 +53,9 @@ d 28th Jan. Louisa Eleonore Krückeberg
 
 ## Citations
 
-[PET-D-1757a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/b7729c7fe1/:
+(PET-D-1757a)=
+
+[PET-D-1757a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/b7729c7fe1/ :
 18 July 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 178 of 239](https://www.archion.de/p/b7729c7fe1/)
 

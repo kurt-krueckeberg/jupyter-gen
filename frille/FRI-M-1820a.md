@@ -3,7 +3,7 @@
 This record is from the
 [Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
+Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003).
 
 ```{image} images/carl-friedrich-bleeke-1820-marriage.png
 :class: image-override
@@ -57,65 +57,39 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
   - Name des Predigers,
     der
     die Kopulation verrichtet.
-* - 
-                4
-              
-  - 
-                Carl Friederich
+* - 4
+  - Carl Friederich
     Bleeke, Anerbe
     von No 13 in Leteln
-              
-  - 
-                colonist (farmstead holder) Christian Friederich
+  - colonist (farmstead holder) Christian Friederich
     Bleeke auf
     No 13 in Le-
     teln
-              
-  - 
-                25 Jahr
-              
-  - 
-                Eltern haben
+  - 25 Jahr
+  - Eltern haben
     mündlich ihr
     Einwilligung
     gegeben
-              
-  - 
-                Jungge-
+  - Jungge-
     selle
-              
-  - 
-                Marie Luise
+  - Marie Luise
     Niemann aus
     Todtenhausen
-              
-  - 
-                Johann Heinrich
+  - Johann Heinrich
     Niemann Col. auf
     No 35 in Todten-
     hausen
-              
-  - 
-                24 Jahr
-              
-  - 
-                Eltern haben
+  - 24 Jahr
+  - Eltern haben
     stillschweigend eingewilligt
-              
-  - 
-                Unverheÿra-
+  - Unverheÿra-
     thet, schwan-
     ger von ihrem
     Verlobten
-              
-  - 
-                am zwölften(12)
+  - am zwölften(12)
     März, auf
     den Pfarrer
-              
-  - 
-                Schütz
-              
+  - Schütz
 ```
 
 ```{list-table} Translation of 1820 Marriage of Carl Friederich Bleeke to Marie Luise Niemann
@@ -154,5 +128,5 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
 Evangelische Gemeinde Frille, Kreis Minden, "Aufgebotene und Getraute im Jahr 1820", entry #4 for Carl Friederich Bleeke
 and Marie Luise Niemann, married 12 March 1820, Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv
 Westfalen-Lippe, Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold. Digital images:
-Landesarchiv NRW, [https://www.archive.nrw.de (accessed 6 December 2025).](https://www.archive.nrw.de)
+Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
 

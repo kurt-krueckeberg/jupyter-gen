@@ -2,7 +2,8 @@
 
 ## Citation
 
-The baptism of Jobst Heinrich Weiland is on [image 199, left page, first entry](image199)
+The baptism of Jobst Heinrich Weiland is on [image 199, left page, first entry](#PET-B-1758a) from the
+"Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"
 
 ## Image
 
@@ -22,5 +23,7 @@ The baptism of Jobst Heinrich Weiland is on [image 199, left page, first entry](
 
 ## Citations
 
-[PET-B-1758a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/aeb69c46c5/: 2 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 200 of 322](https://www.archion.de/p/aeb69c46c5/)
+(PET-B-1758a)=
+
+[PET-B-1758a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/aeb69c46c5/ : 2 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 200 of 322](https://www.archion.de/p/aeb69c46c5/)
 

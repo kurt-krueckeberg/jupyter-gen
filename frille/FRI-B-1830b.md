@@ -44,46 +44,26 @@ Translation of page header: **Births and Baptisms in the year 1830**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                  41
-                
-  - 
-                  Sophie Christine
+* - 41
+  - Sophie Christine
     Leonore Bleeke
-                
-  - 
-                  Sieben and zwanzigsten
+  - Sieben and zwanzigsten
     (27t) Julÿ Morgs sechs
     (6) Uhr in Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Christian Friederich
+  - Ehelich
+  - Christian Friederich
     Bleeke Tagelöhner und
     Einlieg[er] beÿ N: 16
-                
-  - 
-                  Christine Luise
+  - Christine Luise
     geb. Krückeberg
     aus Bärenbusch
-                
-  - 
-                  Leeteln
-                
-  - 
-                  Einsten
+  - Leeteln
+  - Einsten
     (1) August
-                
-  - 
-                  Schütz
-                
-  - 
-                  Marie Leonore Stahlhut
+  - Schütz
+  - Marie Leonore Stahlhut
     Sophie Luise Steinmeÿer
     Sophie Dorothea Krückeberg
-                
 ```
 
 ```{list-table} Translation of Sophie Christine Leonore Bleeke 1830 Birth

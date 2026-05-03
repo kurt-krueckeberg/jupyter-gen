@@ -4,7 +4,7 @@ On 19 September 1790, Jobst Heinrich Weiland from Berenbush No 1 married Anna Ca
 
 ## Citation
 
-The marriage is on [page 5, entry 10](PET-M-1790b)
+The marriage is on [page 5, entry 10](#PET-M-1790b) of Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ### Image of Marriage Record
 
@@ -66,8 +66,10 @@ Translation
 
 ## Citations
 
+(PET-M-1790b)=
+
 [PET-M-1790b] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([http://www.archion.de/p/68ee336254/: 22
+with images, *Archion* ([http://www.archion.de/p/68ee336254/ : 22
 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
 Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und

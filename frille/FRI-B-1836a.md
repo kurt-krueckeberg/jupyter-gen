@@ -42,46 +42,26 @@ Translation of page header: **Born and Baptized in the year 1836**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                8
-              
-  - 
-                Christian Heinrich
+* - 8
+  - Christian Heinrich
     Bleeke
-              
-  - 
-                Acht und zwanzigsten (28)
+  - Acht und zwanzigsten (28)
     Januar Mittages vier (4)
     Uhr in Leeteln
-              
-  - 
-                Ehelich
-              
-  - 
-                Christian Friedrich Ble-
+  - Ehelich
+  - Christian Friedrich Ble-
     ke Ein. beÿ N: 17 in
     Leeteln
-              
-  - 
-                Christine Luise geb.
+  - Christine Luise geb.
     Krückeberg aus Bee-
     renbusch
-              
-  - 
-                Leeteln
-              
-  - 
-                Ein und dreißig-
+  - Leeteln
+  - Ein und dreißig-
     sten (31) Janu-
     ar
-              
-  - 
-                Schütz
-              
-  - 
-                1. Johann Heinrich Krückeberg
+  - Schütz
+  - 1. Johann Heinrich Krückeberg
     2. Christian Ko[hlm]eier
-              
 ```
 
 ```{list-table} Translation of Christian Heinrich Bleeke 1836 Birth

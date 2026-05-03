@@ -33,7 +33,8 @@
 ## Citation
 
 The confirmation of Chrisinte Louise Krückeberg, on 14 April 1811, on the
-2nd Sunday after Easter(Qadsimodogeniti) is entry 20, on [pages 438 and 439](PET-C-1811a)
+2nd Sunday after Easter(Qadsimodogeniti) is entry 20, on [pages 438 and 439](#PET-C-1811a), on entry #20, of Petzen Kirchenbuch "Verzeichnis der
+Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ### Header Pages 438 Header
 
@@ -117,5 +118,7 @@ Translation of page header
 
 ## Citations
 
-[PET-C-1811a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/e703e9ca32/: 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 207 of 357](http://www.archion.de/p/e703e9ca32/)
+(PET-C-1811a)=
+
+[PET-C-1811a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/e703e9ca32/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 207 of 357](http://www.archion.de/p/e703e9ca32/)
 

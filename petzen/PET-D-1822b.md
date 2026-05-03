@@ -92,7 +92,8 @@ The pastor could have written simply “Schuster”. The fact that he did not, i
 
 ## Citation
 
-The death of Jobst Heinrich Krückeberg, on October 21, 1822, is recorded on [image 314, on pages 654 and 654](PET-D-1822b)
+The death of Jobst Heinrich Krückeberg, on October 21, 1822, is recorded on [image 314, on pages 654 and 654](#PET-D-1822b) of Petzen Kirchenbuch:
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 ## Death Record Pages 654 and 655
 
@@ -174,7 +175,9 @@ Translation of Page Header
 
 ## Citations
 
-[PET-D-1822b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/591dfa54f9/:
+(PET-D-1822b)=
+
+[PET-D-1822b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/591dfa54f9/ :
 25 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 314 of 357](http://www.archion.de/p/591dfa54f9/)
 

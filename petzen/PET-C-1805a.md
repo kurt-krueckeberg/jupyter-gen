@@ -26,13 +26,15 @@
 ```{important}
 The birthdate given for Philippine Caroline Christine in her confirmation record, of
 9 Sept. 1791, is incorrect. No one name Krückeberg was baptized in September in the Petzen
-parish. Philippine Caroline Christine’s baptism occurred on [3 Feb. 1792,
-and she was born on 1 Feb. 1792.](PET-B-1792a.md)
+parish. Philippine Caroline Christine’s baptism occurred on [3 Feb. 1792](PET-B-1792a.md),
+and she was born on 1 Feb. 1792.
 ```
 
 ## Citation
 
-The confirmation of Philippine Caroline Christine Krückeberg Confirmation in 1805 is on [image 192](PET-C-1805a)[Archion.de database of Kirchenbücher digital images.](https://www.archion.de)
+The confirmation of Philippine Caroline Christine Krückeberg Confirmation in 1805 is on [image 192](#PET-C-1805a),
+page 420, entry 13, of the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827" in the [Archion.de](https://www.archion.de) database of Kirchenbücher digital images.
 
 ## Overview of Pages 420 and 421
 
@@ -43,13 +45,11 @@ The confirmation of Philippine Caroline Christine Krückeberg Confirmation in 18
 ## Translation and Transliteration of Header for Pages 420 and 421
 
 ```{code-block} text
-:class: bordered
 
 420            Register der am 21. Apr, 1805 in  der                        Kirche zu Petzen Konfirmirten Kinder                 421
 ```
 
 ```{code-block} text
-:class: bordered
 
 420            Register of those Children on 21. Apr, 1805                  Confirmed in the Petzen Church                       421
 ```
@@ -96,5 +96,7 @@ The confirmation of Philippine Caroline Christine Krückeberg Confirmation in 18
 
 ## Citations
 
-[PET-C-1805a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/c70f7cb090/: 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 198 of 357](http://www.archion.de/p/c70f7cb090/)
+(PET-C-1805a)=
+
+[PET-C-1805a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/c70f7cb090/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 198 of 357](http://www.archion.de/p/c70f7cb090/)
 

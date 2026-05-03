@@ -67,7 +67,9 @@ farm and now lived under the terms of the Leibgeding.
 ## Citation
 
 The death of Johann Heinrich Krückeberg Death in 1822 is found on
-[image 313, on pages 652 and 652](PET-D-1822a)
+[image 313, on pages 652 and 652](#PET-D-1822a) of Petzen Kirchenbuch
+volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827".
 
 ### Pages 652 and 653
 
@@ -101,11 +103,11 @@ Transliteration of Page Header
 ```{note}
 *Leibzüchter*  is an unusual word. It has only occurred in one other record
 of interest: the [marriage of Anna Marie Weiland in
-1791 to Heinrich Tellermann. It is defined in Ernest Thode’s](PET-M-1790e.md)*German
+1791 to Heinrich Tellermann](PET-M-1790e.md). It is defined in Ernest Thode’s *German
 English Genealogical Dictionary*, and a definition is also given in this
 online
 [Old
-German Word List:](https://writinghistory.de/wp-content/uploads/2019/05/Glossary-of-Old-German-Words.pdf)
+German Word List](https://writinghistory.de/wp-content/uploads/2019/05/Glossary-of-Old-German-Words.pdf):
 
 Leibzüchter(in)
 : person on life estate (Thode’s German English
@@ -161,6 +163,8 @@ source)
 
 ## Citations
 
-[PET-D-1822a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/f57385caa9/: 25 October 2023), path: Niedersachsen > Niedersächsisches
+(PET-D-1822a)=
+
+[PET-D-1822a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/f57385caa9/ : 25 October 2023), path: Niedersachsen > Niedersächsisches
 Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 5 of 357](http://www.archion.de/p/f57385caa9/)
 

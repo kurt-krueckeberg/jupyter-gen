@@ -2,7 +2,7 @@
 
 ## Citation
 
-The baptism of Anna Maria Weiland is on [image 176, right page, fourth entry](PET-B-1748a)
+The baptism of Anna Maria Weiland is on [image 176, right page, fourth entry](#PET-B-1748a) from the "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"
 
 ```{image} images/petzen-band1a-img176.jpg
 :class: image-override
@@ -35,5 +35,7 @@ would be women.
 
 ## Citations
 
-[PET-B-1748a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/5d388eb41a/: 8 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 176 of 322](https://www.archion.de/p/5d388eb41a/)
+(PET-B-1748a)=
+
+[PET-B-1748a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/5d388eb41a/ : 8 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 176 of 322](https://www.archion.de/p/5d388eb41a/)
 

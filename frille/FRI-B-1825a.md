@@ -3,7 +3,7 @@
 This record is from the
 [Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
+Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003).
 
 ```{image} images/jhp-bleeke/carl-friederich-wilhelm-bleeke-1825-birth.png
 :class: image-override
@@ -44,45 +44,25 @@ Translation of page header: **Born and Baptized in the year 1825**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                  47
-                
-  - 
-                  Carl Friederich
+* - 47
+  - Carl Friederich
     Wilh. Bleeke
-                
-  - 
-                  dreißigten (30) Novbr.
+  - dreißigten (30) Novbr.
     Morgens sechs (6) Uhr
      zu Leeteln
-                
-  - 
-                  ehelich
-                
-  - 
-                  Johann Heinrich
+  - ehelich
+  - Johann Heinrich
     Bleeke colonist (farmstead holder) No. 16 in
     Leeteln
-                
-  - 
-                  Christine Marie
+  - Christine Marie
     geb. Schwier aus
     Wietersheim
-                
-  - 
-                  Leeteln
-                
-  - 
-                  vier (4)
+  - Leeteln
+  - vier (4)
     December
-                
-  - 
-                  Schütz
-                
-  - 
-                  Christian Fried. Bleeke
+  - Schütz
+  - Christian Fried. Bleeke
     Fried: Wilm: Schildmeier
-                
 ```
 
 ```{list-table} Translation of Carl Friederich Wilhelm 1825 Birth Record
@@ -120,5 +100,5 @@ Translation of page header: **Born and Baptized in the year 1825**.
 Evangelische Gemeinde Frille, Kreis Minden, “Gebohrne im Jahre 1825”, entry #15 for Carl Friederich Wilhelm Bleeke, born 30 Nov. 1825,
 Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
 Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
-Digital images: Landesarchiv NRW, [https://www.archive.nrw.de (accessed 6 December 2025).](https://www.archive.nrw.de)
+Digital images: Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
 

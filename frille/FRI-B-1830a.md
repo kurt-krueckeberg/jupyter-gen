@@ -3,7 +3,7 @@
 This record is from the
 [Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
+Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003).
 
 ```{image} images/carl-f-bleeke/johann-hartweg-gottlieb-lebrecht-bleeke.png
 :class: image-override
@@ -44,43 +44,23 @@ Translation of page header: **Births and Baptims in 1830**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                  65
-                
-  - 
-                  Johann Hartweg Gott-
+* - 65
+  - Johann Hartweg Gott-
     lieb Leberecht Bleeke
-                
-  - 
-                  Neunzehnten (9t) Decbr.
+  - Neunzehnten (9t) Decbr.
     Abds neun (9) Uhr
     in Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Carl Friederich Blee-
+  - Ehelich
+  - Carl Friederich Blee-
     ke Col. v[on] No. 13 in
     Leeteln
-                
-  - 
-                  Marie Luise geb.
+  - Marie Luise geb.
     Niemann aus Todtenhausen
-                
-  - 
-                  Leeteln
-                
-  - 
-                  Neunzehnten (19) Decbr
-                
-  - 
-                  Schütz
-                
-  - 
-                  Johann Hartwig
+  - Leeteln
+  - Neunzehnten (19) Decbr
+  - Schütz
+  - Johann Hartwig
     Wehmeÿer Schul[ehrer?] in Leeteln
-                
 ```
 
 ```{list-table} Translation of Johann Hartweg Gottlieb Leberecht Bleeke 1830 Birt

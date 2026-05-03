@@ -31,7 +31,8 @@
 ## Citation
 
 The July 11, 1773, baptism record for Anna Philippine Maria Blecken appears on
-[image 238](PET-B-1773a)[Archion.de.](https://archion.de)
+[image 238](#PET-B-1773a) of the Petzen "Verzeichnis der Getauften und Konfirmierten
+1641-1784" on [Archion.de](https://archion.de).
 
 ## Image
 
@@ -65,8 +66,10 @@ Hartmann, of Evesen no. 9.
 
 ## Citations
 
+(PET-B-1773a)=
+
 [PET-B-1773a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/e7f03cfa7c/: 2 February
+with images, *Archion* ([https://www.archion.de/p/e7f03cfa7c/ : 2 February
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen  Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 238 of 322](https://www.archion.de/p/e7f03cfa7c/)

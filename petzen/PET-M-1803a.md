@@ -41,7 +41,8 @@ On March 13, 1803 Carl Friedrich Gottlieb Krückeberg married Philippine Eleonor
 
 ## Citation
 
-This marriage occurred on March 13, 1803. It is on [image 12, page 19, entry 4](PET-M-1803a)
+This marriage occurred on March 13, 1803. It is on [image 12, page 19, entry 4](#PET-M-1803a), of the Petzen Kirchenbuch
+"Verzeiches der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ```{image} images/petzen-band2-img12-right2.jpg
 :class: image-override
@@ -99,6 +100,8 @@ This marriage occurred on March 13, 1803. It is on [image 12, page 19, entry 4](
 
 ## Citations
 
-[PET-M-1803a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/60a0c24411/: 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+(PET-M-1803a)=
+
+[PET-M-1803a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/60a0c24411/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 12 of 357](http://www.archion.de/p/60a0c24411/)
 

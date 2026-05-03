@@ -42,51 +42,31 @@ Translation of page header: **Born and Baptized in the year 1839**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                31
-              
-  - 
-                Heinrich Friederich
+* - 31
+  - Heinrich Friederich
     Christian Bleeke
-              
-  - 
-                Achtzehnten (18)
+  - Achtzehnten (18)
     Julÿ Abends zehn
     (10) Uhr in Leeteln
-              
-  - 
-                Ehelich
-              
-  - 
-                Christian Friede-
+  - Ehelich
+  - Christian Friede-
     rich Bleeke E[in]
     beÿ No. 13 in Leeteln
-              
-  - 
-                Christian Luise
+  - Christian Luise
     geb. Krücke-
     berg aus Beeren-
     busch
-              
-  - 
-                Leeteln
-              
-  - 
-                Ein und
+  - Leeteln
+  - Ein und
     zwanzigten
     (21) Julÿ
-              
-  - 
-                Schütz
-              
-  - 
-                1) Heinrich [Röseme]
+  - Schütz
+  - 1) Heinrich [Röseme]
     2) Heinrich Rödenbeck
     3) Friederich Heine
     4) Heinrich Steinkamper
     5) Heinrich Frodemann
     6) Fried. Marks.
-              
 ```
 
 ```{list-table} Translation of Heinrich Friederich Christian Bleeke 1839 Birth

@@ -3,7 +3,8 @@
 ## Citation
 
 The 3 Jan. 1730 burial record of Heinrich (Arends) Vahlsing is found on
-[image 147](PET-D-1730a)
+[image 147](#PET-D-1730a) of the Petzen Kirchenbuch "Verzeichnis der
+Getrauten und Gestorbenen 1641-1784".
 
 ## Image
 
@@ -79,8 +80,10 @@ the High-Comital estate farm at Höckersau — was buried, aged 63 years.
 
 ## Citations
 
+(PET-D-1730a)=
+
 [PET-D-1730a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/1ebf0fad1a/: 8 Jan.
+with images, *Archion* ([https://www.archion.de/p/1ebf0fad1a/ : 8 Jan.
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getrauten und Gestorbenen 1641-1784, image 147 of 239](https://www.archion.de/p/1ebf0fad1a/)

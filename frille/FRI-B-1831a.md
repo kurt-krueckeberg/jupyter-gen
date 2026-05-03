@@ -2,7 +2,7 @@
 
 This record is from the
 [Landesarchiv
-NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763)
+NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763).
 
 ```{image} images/jhp-bleeke/christine-sophie-eleonore-bleeke-1831-birth.png
 :class: image-override
@@ -43,46 +43,26 @@ Translation of page header: **Born and Baptized in the year 1831**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                  28
-                
-  - 
-                  Christine Sophie
+* - 28
+  - Christine Sophie
     Leonore Bleeke
-                
-  - 
-                  Vierzehnten (14)
+  - Vierzehnten (14)
     August Nachts zwölf
     (12) Uhr in Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Johann Heinrich
+  - Ehelich
+  - Johann Heinrich
     Bleeke Col.  No. 16
     in Leeteln
-                
-  - 
-                  Christein Marie
+  - Christein Marie
     geb. Schwier
     aus Wietersheim
-                
-  - 
-                  Leeteln
-                
-  - 
-                  Eins und
+  - Leeteln
+  - Eins und
     zwanzigisten
     August
-                
-  - 
-                  Schütz
-                
-  - 
-                  Christine Luise
+  - Schütz
+  - Christine Luise
     Leonore Bleeke
-                
 ```
 
 ```{list-table} Translation of Christine Sophie Eleonore Bleeke 1831 Birth Record

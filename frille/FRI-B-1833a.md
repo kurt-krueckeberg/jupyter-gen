@@ -3,7 +3,7 @@
 This record is from the
 [Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1831-1845.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763)
+Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763).
 
 ```{image} images/carl-f-bleeke/sophie-luise-leonore-bleeke-1833-birth.png
 :class: image-override
@@ -44,45 +44,25 @@ Translation of page header: **Births and Baptims in 1833**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                  8
-                
-  - 
-                  Sophie Luise Leonore
+* - 8
+  - Sophie Luise Leonore
     Bleeke
-                
-  - 
-                  Vierten (4) März Morgs
+  - Vierten (4) März Morgs
     dreÿ (3) Uhr in Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Carl Friederich Bleeke
+  - Ehelich
+  - Carl Friederich Bleeke
     Col. v[on]  No. 13 in Leeteln
-                
-  - 
-                  Marie Luise geb. Nie
+  - Marie Luise geb. Nie
     mann aus Todten-
     hausen.
-                
-  - 
-                  Leeteln No. 13
-                
-  - 
-                  Zehnten (10)
+  - Leeteln No. 13
+  - Zehnten (10)
     März
-                
-  - 
-                  Schütz
-                
-  - 
-                  1) Sophie† Charlotte †Christine
+  - Schütz
+  - 1) Sophie† Charlotte †Christine
     Wehmeier
     2) Sophie Luise Friedericke
     Steinmeÿer
-                
 ```
 
 ```{list-table} Translation of Sophie Luise Leonore Bleeke 1833 Birth

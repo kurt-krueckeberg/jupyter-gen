@@ -3,7 +3,7 @@
 ## Volumes
 
 The Petzen volumes reside at the Bückeburg regional department of the Lower Saxony state archives. Digital images of their pages are available on
-[archion.de, the Protestant Kirchenbücher portal:](https://www.archion.de)
+[archion.de](https://www.archion.de), the Protestant Kirchenbücher portal:
 
 - Verzeichnis der Getauften und Konfirmierten 1641-1784
 - Verzeichnis der Getrauten und Gestorbenen 1641-1784

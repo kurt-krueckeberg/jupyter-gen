@@ -44,48 +44,28 @@ Translation of page header: **Births and Baptisms in the year 1833**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                  19
-                
-  - 
-                  Philippine Luise Leo-
+* - 19
+  - Philippine Luise Leo-
     nre Bleeke
-                
-  - 
-                  Ein un zwanzigten (21)
+  - Ein un zwanzigten (21)
     Maÿ Morgens neun (9) Uhr
     in Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Christian Friedrich
+  - Ehelich
+  - Christian Friedrich
     Bleeke Tagelöhner und
     Ein[wohner?]. beÿ N: 17 in Leeteln
-                
-  - 
-                  Christian Marie
+  - Christian Marie
     Krückeberg aus
     Leeteln
-                
-  - 
-                  Leeteln beÿ
+  - Leeteln beÿ
     N. 17
-                
-  - 
-                  Sieben und
+  - Sieben und
     zwanzig (27)
     Maÿ
-                
-  - 
-                  Schütz
-                
-  - 
-                  1. Sophie Luise Simon
+  - Schütz
+  - 1. Sophie Luise Simon
     2. Christine Marie Backemeyer
     3. Philippine Caroline Krückeberg
-                
 ```
 
 ```{list-table} Translation of Philippine Luise Leonore Bleeke 1833 Birth

@@ -61,7 +61,7 @@
 :header-rows: 1
 
 * - Baptism
-* - [4 May 1783](petzen-band1a-image287)
+* - [4 May 1783](PET-B-1783a.md)
 ```
 
 ```{list-table} Baptismal Sponsors
@@ -78,7 +78,9 @@
 ## Citation
 
 The birth and baptism of Caroline Dorothee Krückeberg and Ernst Heinrich
-Weiland are on [image 125, pages 244 and 245](PET-B-1812a)
+Weiland are on [image 125, pages 244 and 245](#PET-B-1812a) of the Petzen
+Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen 1785-1827.
 
 ## Pages 244 and 245
 
@@ -104,7 +106,7 @@ Page 245:
 The column **Name, Stand Religion u. Geburtsort des Vaters** (Name, Status, Religion and Birthplace of the Father)
 obviously has the current residence of the family. The family could not have been born at no. 18 Berenbusch
 because it did not exist until circa 1810, when Jobst Heinrich Krückeberg was granted tenancy rights to the
-new Stätte no. 18 Berenbusch. See {external+nla:doc}`nla:146:doc1.xml. <146/doc1>`
+new Stätte no. 18 Berenbusch. See [nla:146:doc1.xml]({external+nla:doc}`146/doc1`).
 ```
 
 ```{list-table} 244 Geboren im Kirchspiele Petzen (Births in the Parish of Petzen) im Jahr 1812 245
@@ -246,5 +248,7 @@ new Stätte no. 18 Berenbusch. See {external+nla:doc}`nla:146:doc1.xml. <146/doc
 
 ## Citations
 
-[PET-B-1812a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/466353a0e4/: 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 125 of 357](https://www.archion.de/p/466353a0e4/)
+(PET-B-1812a)=
+
+[PET-B-1812a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/466353a0e4/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 125 of 357](https://www.archion.de/p/466353a0e4/)
 

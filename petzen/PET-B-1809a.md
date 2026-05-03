@@ -2,7 +2,7 @@
 
 ## Citation
 
-The birth and baptism of Wilhelmine Leonore Weiland is on [image 108, pages 210 and 211](image108)
+The birth and baptism of Wilhelmine Leonore Weiland is on [image 108, pages 210 and 211](#PET-B-1809a), of the Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ## Pages 201 and 211
 
@@ -104,5 +104,7 @@ The birth and baptism of Wilhelmine Leonore Weiland is on [image 108, pages 210 
 
 ## Citations
 
-[PET-B-1809a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/fa860508cd/: 5 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 115 of 357](https://www.archion.de/p/fa860508cd/)
+(PET-B-1809a)=
+
+[PET-B-1809a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/fa860508cd/ : 5 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 115 of 357](https://www.archion.de/p/fa860508cd/)
 

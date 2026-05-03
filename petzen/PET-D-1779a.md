@@ -2,8 +2,9 @@
 
 ## Citation
 
-The burial record for Johann Heinrich Blecke[n] is found on [image 2323](PET-D-1779a)*Verzeichnis der Getrauten und Gestorbenen, 1641-1784* found on
-[Archion.de.](https://archion.de)
+The burial record for Johann Heinrich Blecke[n] is found on [image 2323](#PET-D-1779a)
+of the *Verzeichnis der Getrauten und Gestorbenen, 1641-1784* found on
+[Archion.de](https://archion.de).
 
 ## Image
 
@@ -31,8 +32,10 @@ Translation
 
 ## Citations
 
+(PET-D-1779a)=
+
 [PET-D-1779a] "Archion Protestant Kirchenbücher Portal", database
-  with images, *Archion* ([https://www.archion.de/p/3ae6300214/: 2 February
+  with images, *Archion* ([https://www.archion.de/p/3ae6300214/ : 2 February
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 223 239](https://www.archion.de/p/3ae6300214/)

@@ -2,7 +2,7 @@
 
 This record is from the
 [Landesarchiv
-NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763)
+NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763).
 
 ```{image} images/jhp-bleeke/marie-luise-eleonore-bleeke-1833-birth.png
 :class: image-override
@@ -43,46 +43,26 @@ Translation of page header: **Born and Baptized in the year 1833**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                  48
-                
-  - 
-                  Marie Luise Leonore
+* - 48
+  - Marie Luise Leonore
     Bleeke
-                
-  - 
-                  fünfzehnten (15) Novembr
+  - fünfzehnten (15) Novembr
     Morgens zweÿ (2) Uhr in
     Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Johann Heinrich
+  - Ehelich
+  - Johann Heinrich
     Bleeke Col. N: 16 in
     Leeteln
-                
-  - 
-                  Christine Marie
+  - Christine Marie
     Schwier aus Wie-
     tersheim
-                
-  - 
-                  Leeteln
-                
-  - 
-                  Fünf u zwan-
+  - Leeteln
+  - Fünf u zwan-
     zigten (25)
     Novbr.
-                
-  - 
-                  Schütz
-                
-  - 
-                  Marie Luise Bleeke
+  - Schütz
+  - Marie Luise Bleeke
     Christine Luise Schwier
-                
 ```
 
 ```{list-table} Translation of Marie Luise Eleonore Bleeke 1833 Birth Record

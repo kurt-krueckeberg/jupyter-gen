@@ -86,7 +86,7 @@ records.
 
 ## Citation
 
-The marriage record is on [image 27, on pages 48 and 49](PET-M-1812a)
+The marriage record is on [image 27, on pages 48 and 49](#PET-M-1812a) of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 ## Pages 48 and 49
 
@@ -106,7 +106,7 @@ Page 49 portion:
 - **hinterlassen** — is a verb meaning: to leave something to somebody, to bequesth something, to leave somebody a legacy of
 something; to leave hind. As an adjective is can mean "bereaved" or "survivor (of someone deceased)". **hinterlassener** would
 be the adjective form used for a male survior: ein hinterlassener Sohn (a surviving son).
-- **Anerbe** — is defined in [dict.cc as:](https://www.dict.cc/?s=Anerbe)
+- **Anerbe** — is defined in [dict.cc](https://www.dict.cc/?s=Anerbe) as:
   - principal heir[to a landed estate]
   - single heir.
     **Anerbe** comes from **Anerbenrecht**, which is:
@@ -135,7 +135,7 @@ be the adjective form used for a male survior: ein hinterlassener Sohn (a surviv
     > - His status could affect marriage prospects, taxes, and legal responsibilities.
 - **Benner** — Thode’s defines this as: cooper.
 - **Leibzüchtner**(male)/**Leibzüchtnerin**(female) — Thode’s definition is: "person on life estate". He defines Leibzucht as: "life annuity; pension; life estate".
-See this more detailed explantion: [What is a Lieftucht/Leibzucht?.](https://christofspannhoff.wordpress.com/2015/04/17/was-ist-eine-lieftuchtleibzucht/)
+See this more detailed explantion: [What is a Lieftucht/Leibzucht?](https://christofspannhoff.wordpress.com/2015/04/17/was-ist-eine-lieftuchtleibzucht/).
 ```
 
 ```{list-table} Marriage entry No. 3.
@@ -233,6 +233,8 @@ See this more detailed explantion: [What is a Lieftucht/Leibzucht?.](https://chr
 
 ## Citations
 
-[PET-M-1812a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/e8f8a097b9/: 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+(PET-M-1812a)=
+
+[PET-M-1812a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/e8f8a097b9/ : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 27 of 357](http://www.archion.de/p/e8f8a097b9/)
 

@@ -42,50 +42,30 @@ Translation of page header: **Born and Baptized in the year 1843**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                56
-              
-  - 
-                Christine Marie
+* - 56
+  - Christine Marie
     Leonore Bleeke
-              
-  - 
-                Vier und zwanzig-
+  - Vier und zwanzig-
     sten (24) Decb.
     Abds zwölf (12) Uhr
     in Leteln
-              
-  - 
-                Ehelich
-              
-  - 
-                Christian Friederich
+  - Ehelich
+  - Christian Friederich
     Bleeke Ein[lieger] bei N 3
     in Leteln u Tagelöhn[er]
-              
-  - 
-                Christine Luise
+  - Christine Luise
     geb. Krücke-
     berg
-              
-  - 
-                Leteln
-              
-  - 
-                Ein und
+  - Leteln
+  - Ein und
     drießigsten
     (31) December
-              
-  - 
-                Schütz
-              
-  - 
-                Christine Sophie Leonore Backemeier
+  - Schütz
+  - Christine Sophie Leonore Backemeier
     
     Christine Marie Leonore Schäkel
     
     Christine Sophoe Luise Steinkämper
-              
 ```
 
 ```{list-table} Translation of Christine Marie Leonore Bleeke 1843 Birth

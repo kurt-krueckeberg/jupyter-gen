@@ -3,7 +3,9 @@
 ## Citation
 
 The December 17, 1775, baptism record for Anna Ilse Blecken appears on
-[image 247](image247)
+[image 247](#PET-B-1775c), on the right-hand page, entry #43, the third entry
+from the top, of the Petzen "Verzeichnis der Getauften und Konfirmierten
+1641-1784".
 
 ## Baptism Record
 
@@ -39,6 +41,9 @@ Elisabeth Bruns from Evesen by the bridge.
 
 ## Citations
 
-[PET-B-1775c] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/476ca0655c/: 13 May 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
+(PET-B-1775c)=
+
+[PET-B-1775c] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/476ca0655c/
+ : 13 May 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 247 of 322, right page, third entry from top.](https://www.archion.de/p/476ca0655c/)
 

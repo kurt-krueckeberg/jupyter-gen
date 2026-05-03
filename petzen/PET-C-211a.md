@@ -2,8 +2,8 @@
 
 ## Citations
 
-- The confirmation of XXX XXX Krückeberg in 1816 on the 1st Sunday After Easter(Quadsimodogeniti) is on [page 438, entry 20](image211-448)
-- The confirmation of XXX XXX Krückeberg  in 1817 on the 1st Sunday After Easter(Qadsimodogeniti) is on [page 438, entry 28](image207-449)
+- The confirmation of XXX XXX Krückeberg in 1816 on the 1st Sunday After Easter(Quadsimodogeniti) is on [page 438, entry 20](image211-448) of Petzen Kirchenbuch volume 2.
+- The confirmation of XXX XXX Krückeberg  in 1817 on the 1st Sunday After Easter(Qadsimodogeniti) is on [page 438, entry 28](image207-449) of Petzen Kirchenbuch volume 2.
 
 ## Krückeberg Confirmation 1816
 

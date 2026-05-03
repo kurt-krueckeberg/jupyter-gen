@@ -3,7 +3,7 @@
 This record is from the
 [Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
+Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003).
 
 ```{image} images/jhp-bleeke/carl-heinrich-bleeke-1818-birth.png
 :class: image-override
@@ -46,52 +46,32 @@ Translation: **Born and Baptized in the year 1818**
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                    16
-                  
-  - 
-                    Carl Heinrich Bleeke
-                  
-  - 
-                    Sieben und zwanzig-
+* - 16
+  - Carl Heinrich Bleeke
+  - Sieben und zwanzig-
     sten (27) April auf
     No. 27 in Wieters-
     heim
-                  
-  - 
-                    unehelich
+  - unehelich
     1t Kind
     1t Sohn
-                  
-  - 
-                    Johann Heinrich
+  - Johann Heinrich
     Bleeke N: 13 in
     Leeteln
-                  
-  - 
-                    Christian Marie
+  - Christian Marie
     Schwier auf
     N: 27 in Wieters-
     heim.
-                  
-  - 
-                    Leeteln
+  - Leeteln
     und
     Wietersheim
-                  
-  - 
-                    Dreißigsten
+  - Dreißigsten
     (30) April
     u. .d. Pfarer
-                  
-  - 
-                    Schütz
-                  
-  - 
-                    Johann Friederich
+  - Schütz
+  - Johann Friederich
     Gottlieb Schwier
     No. 27 Wietersheim
-                  
 ```
 
 ```{list-table} Translation of Carl Heinrich Bleeke 1818 Birth Record

@@ -3,7 +3,7 @@
 This record is from the
 [Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
+Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003).
 
 ```{image} images/jhp-bleeke/carl-friedrich-bleeke-1823-birth.png
 :class: image-override
@@ -44,45 +44,25 @@ Translation of page header: **Born and Baptized in the year 1823**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                  29
-                
-  - 
-                  Carl Fried. Bleeke
-                
-  - 
-                  siebzehnten (17) Juli Mor-
+* - 29
+  - Carl Fried. Bleeke
+  - siebzehnten (17) Juli Mor-
     gens (9) neun Uhr zu
     Leeteln
-                
-  - 
-                  ehelich
-                
-  - 
-                  Johann Heinrich
+  - ehelich
+  - Johann Heinrich
     Bleeke, Col. No. 16 in Lee-
     teln
-                
-  - 
-                  Christine Marie geb.
+  - Christine Marie geb.
     Schwier aus Wieters-
     heim
-                
-  - 
-                  Leeteln
+  - Leeteln
     No. 16
-                
-  - 
-                  zwanzigten
+  - zwanzigten
     (20)  Julius
-                
-  - 
-                  Schütz
-                
-  - 
-                  Christian Fried. Bleeke
+  - Schütz
+  - Christian Fried. Bleeke
     aus Leeteln
-                
 ```
 
 ```{list-table} Translation of Carl Friederich Bleeke 1823 Birth Record
@@ -115,5 +95,5 @@ Translation of page header: **Born and Baptized in the year 1823**.
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Gebohrne u Getaufte im Jahre
 1823" [sic], entry #29 for Carl Fried. Bleeke, born 10 July 1823, Kirchenbuchduplikat, B 168 (GHT 1815–1830),
 Personenstandsarchiv Westfalen-Lippe, Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
-Digital images: Landesarchiv NRW, [https://www.archive.nrw.de (accessed 6 December 2025).](https://www.archive.nrw.de)
+Digital images: Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
 

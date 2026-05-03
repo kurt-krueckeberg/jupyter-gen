@@ -42,46 +42,26 @@ Translation of page header: **Born and Baptized in the year 1841**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                16
-              
-  - 
-                Christine Sophie
+* - 16
+  - Christine Sophie
     Leonore Bleeke
-              
-  - 
-                Sieben (7) April Abds
+  - Sieben (7) April Abds
     Fünf (5) Uhr in
     Leeteln
-              
-  - 
-                Ehelich
-              
-  - 
-                Christian Friederich
+  - Ehelich
+  - Christian Friederich
     Bleeke Ein. bei N. 3
     in Leeteln
-              
-  - 
-                Christine Luise
+  - Christine Luise
     geb. Krückeberg
     aus Berenbusch
-              
-  - 
-                Leeteln
-              
-  - 
-                Zwölften
+  - Leeteln
+  - Zwölften
     (12)
     April
-              
-  - 
-                Schütz
-              
-  - 
-                1) Marie Lenore Schildmeier
+  - Schütz
+  - 1) Marie Lenore Schildmeier
     2) Christine Sophie H[?]menah
-              
 ```
 
 ```{list-table} Translation of Christine Sophie Leonore Bleeke 1841 Birth

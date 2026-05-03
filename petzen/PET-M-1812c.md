@@ -4,7 +4,7 @@
 
 In 1812 Philippine Louise Weiland, illegitimate daughter of Jobst Heinrich Weiland, married Friedrich Wilkening.
 
-This is found on [image28](PET-M-1812c)
+This is found on [image28](#PET-M-1812c) of the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ## Philippine Louise Weiland 1812
 
@@ -34,158 +34,96 @@ Translation of page header
 
 ```{list-table} Marriage entry No. 1.
 
-* - 
-                  Zahl
-                
-  - 
-                  Name, Stand, Religion
+* - Zahl
+  - Name, Stand, Religion
     u. Eltern des Bräutigams
-                
-  - 
-                  Name, Religion
+  - Name, Religion
     Geburt u. Wohnort
     der Braut
-                
-  - 
-                  Zeit u. Ort
+  - Zeit u. Ort
     der Proclamation
-                
-  - 
-                  Zeit u. Ort
+  - Zeit u. Ort
     der Kopulation
-                
-  - 
-                  der kopu
+  - der kopu
     lirende
      Prädiger
-                
-  - 
-                  Kopulations
+  - Kopulations
       Zeugen
-                
-  - 
-                  Bemerkungen
-                
-* - 
-                  1.
-                
-  - 
-                  Junggeselle Friedrich
+  - Bemerkungen
+* - 1.
+  - Junggeselle Friedrich
     Wilhelm Wilkening
     Sohn des Friedrich Gottlieb
     Wilkening, Schneider from n. 21
     in Röcke, Luth. Conf. u. jetzt
     25 Jarhe alt.
-                
-  - 
-                  Jungfrau Philippine Louise Wei-
+  - Jungfrau Philippine Louise Wei-
     lands, uneheliche Tochter
     des Jobst Heinrich Wei-
     land, Einliengers in Petzen
     Luth. Conf. u. jetzt
     24 Jahr alt
     +27. Jan 1850
-                
-  - 
-                  sind in der Kirche zu
+  - sind in der Kirche zu
     Petzen procalmiert
     d. 3ten 10ten u. 18ten März
-                
-  - 
-                  u. Kopuliert d. 31. Maÿ
-                
-  - 
-                  von dem
+  - u. Kopuliert d. 31. Maÿ
+  - von dem
     zeitigen Pre
     diger Stille
-                
-  - 
-                  In Gegenwart
+  - In Gegenwart
       des Küsters Crömer
       u. der Beichentende
-                
-  - 
-                  der Brat war von dem
+  - der Brat war von dem
       Bräutigum vorher geschwächt[uncertain]
-                
 ```
 
 ```{list-table} Marriage entry No. 1.
 
-* - 
-                  No.
-                
-  - 
-                  Name, Occupation, Religion,
+* - No.
+  - Name, Occupation, Religion,
     Parents des Bräutigums
-                
-  - 
-                  Name, Religion
+  - Name, Religion
     Birth and Residence
     of the Bride
-                
-  - 
-                  Time and Place
+  - Time and Place
     of the Proclamation
-                
-  - 
-                  Time and Place
+  - Time and Place
     of the Marriage
-                
-  - 
-                  The offi-
+  - The offi-
     ciating Minister
-                
-  - 
-                  Marriage Witnesses
-                
-  - 
-                  Remarks
-                
-* - 
-                  1.
-                
-  - 
-                  Bachelor Friedrich
+  - Marriage Witnesses
+  - Remarks
+* - 1.
+  - Bachelor Friedrich
     Wilhelm Wilkening, tailor from n. 21
     in Röcke. Luth. Conf. and now
     25 zears old
-                
-  - 
-                  Maiden Philippine Louise Wei-
+  - Maiden Philippine Louise Wei-
     land, illegitimate daughter
     des Jobst Heinrich Wei-
     land, free agricultural laborer in Petzen
     Luth. Conf. and now
     24 years old.
     +27 Jan 1850
-                
-  - 
-                  Marriage bann proclaimed in the church at
+  - Marriage bann proclaimed in the church at
     Petzen
     d. 3rd 10th and 18th March
-                
-  - 
-                  and married the 31rd May
-                
-  - 
-                  by the
+  - and married the 31rd May
+  - by the
     current pastor
     Stille
-                
-  - 
-                  in the prescence
+  - in the prescence
       of the parish clerk/sacristan Crömer
       and the Confessing
-                
-  - 
-                  the bride war previously [uncertain: weakened?, enfeebled?]
+  - the bride war previously [uncertain: weakened?, enfeebled?]
       by the groom
-                
 ```
 
 ## Citations
 
-[PET-M-1812c] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/9c5e2c60a5/: 7 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+(PET-M-1812c)=
+
+[PET-M-1812c] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/9c5e2c60a5/ : 7 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 28 of 357](http://www.archion.de/p/9c5e2c60a5/)
 

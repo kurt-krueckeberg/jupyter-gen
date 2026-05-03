@@ -3,7 +3,7 @@
 This record is from the
 [Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
+Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003).
 
 ```{image} images/jhp-bleeke/christine-marie-bleeke-1828-birth.png
 :class: image-override
@@ -44,47 +44,27 @@ Translation of page header: **Born and Baptized in the year 1828**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                  28
-                
-  - 
-                  Chritine Marie
+* - 28
+  - Chritine Marie
     Bleeke
-                
-  - 
-                  Vierzehnten (14t) Aug:
+  - Vierzehnten (14t) Aug:
     Morgs[Morgens] sechs (6) Uhr in
     Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Johann Heinrich
+  - Ehelich
+  - Johann Heinrich
     Philipp Bleeke
     Col. No 16 in Leeteln
-                
-  - 
-                  Christine Marie
+  - Christine Marie
     geb. Schwier aus
     Wietersheim
-                
-  - 
-                  Siebzehnten
+  - Siebzehnten
     (17) August
-                
-  - 
-                  Leeteln
-                
-  - 
-                  Schütz
-                
-  - 
-                  Christine Marie Leono-
+  - Leeteln
+  - Schütz
+  - Christine Marie Leono-
     re Schildtmeÿer
     Anne Sophie Dorothea
     Schwier
-                
 ```
 
 ```{list-table} Translation of Christine Marie Bleeke 1828 Birth Record
@@ -121,5 +101,5 @@ Translation of page header: **Born and Baptized in the year 1828**.
 Evangelische Gemeinde Frille, Kreis Minden, "Geborne und Getaufte im Jahre 1828 Kirchspiel Frille", entry #28,
 Christine Marie Bleeke, born 14 Aug. 1828, Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
 Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
-Digital images: Landesarchiv NRW, [https://www.archive.nrw.de (accessed 6 December 2025).](https://www.archive.nrw.de)
+Digital images: Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
 

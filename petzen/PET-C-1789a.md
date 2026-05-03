@@ -17,7 +17,8 @@
 ## Citation
 
 The confirmation of Christina Krückeberg, on 19 April 1789, on
-Quasimodogeniti (the 1st Sunday After Easter), is found on [page 415 entry 10](PET-C-1789a)
+Quasimodogeniti (the 1st Sunday After Easter), is found on [page 415 entry 10](#PET-C-1789a) of Petzen Kirchenbuch volume Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenden 1785-1827.
 
 ## Image of Confirmation
 
@@ -31,7 +32,6 @@ listed as entry 10 among those confirmed in 1789:
 ## Transliteration and Translation
 
 ```{code-block} text
-:class: bordered
 
                      Confirmati                                    405
 
@@ -57,8 +57,10 @@ Translation
 
 ## Citations
 
+(PET-C-1789a)=
+
 [PET-C-1789a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([http://www.archion.de/p/e8f6dc75b2/: 10 October
+with images, *Archion* ([http://www.archion.de/p/e8f6dc75b2/ : 10 October
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen

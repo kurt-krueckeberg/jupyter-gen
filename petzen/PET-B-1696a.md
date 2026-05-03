@@ -2,7 +2,8 @@
 
 ## Citation
 
-The baptism of Hans Otto is on [image 89](PET-B-1696a)nd entry from the "Register of Baptism and Confirmed of the Petzen
+The baptism of Hans Otto is on [image 89](#PET-B-1696a), right-hand page,
+2nd entry from the "Register of Baptism and Confirmed of the Petzen
 Parish, 1641-1784".
 
 ## Image of Baptism Record
@@ -39,7 +40,9 @@ Godparent: Notmaÿer in Berenbusch.
 
 ## Citations
 
-[PET-B-1696a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/7a8b7e3792/: 2 May 2025),
+(PET-B-1696a)=
+
+[PET-B-1696a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/7a8b7e3792/ : 2 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784,
 image 89 of 322, right hand page](https://www.archion.de/p/7a8b7e3792/)
 

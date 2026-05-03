@@ -46,7 +46,8 @@ was her daugher’s father. We don’t have a baptism record yet.
 ## Citation
 
 On January 6, 1819, Philippine Dorothee Krückeberg, nee Beucken (or Beucke) died and was buried on January 9, 1819.
-The death and burial record is on [image 300](PET-D-1819a)
+The death and burial record is on [image 300](#PET-D-1819a), entry #1, of the Petzen Kirchenbuch "Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ## The Record
 
@@ -162,7 +163,9 @@ labor, or they might have been "living in" as hired hands or with family.
 
 ## Citations
 
+(PET-D-1819a)=
+
 [PET-D-1819a] "Archion Protestant Kirchenbücher Portal", database with images,
-([https://www.archion.de/p/52b5179fd4/: 13 July 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+([https://www.archion.de/p/52b5179fd4/ : 13 July 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 300 of 357](https://www.archion.de/p/52b5179fd4/)
 

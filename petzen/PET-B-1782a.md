@@ -33,7 +33,8 @@ The **"n"** on "Schäkeln" may be a inflected ending appended to the actual name
 
 ## Reference
 
-Johanna Sophie Charlotte Krückeberg’s baptism is on [image 279, left page, entry no. 2](PET-B-1782a)
+Johanna Sophie Charlotte Krückeberg’s baptism is on [image 279, left page, entry no. 2](#PET-B-1782a) from the
+"database with images (Register of Baptism and Confirmed of the Petzen Parish, 1641-1784)"
 
 ## Image of Johanna Sophie Charlotte Krückeberg Baptism 1782
 
@@ -70,13 +71,13 @@ Sophie Charlotte Röseners aus Petzen
 :::{admonition} Meaning of **-aue** Suffix
 
 Thode’s German-Enlgish Genealogical Dictionary defines **-aue** as a suffix
-meaning **meadow**.  [dict.cc define](https://www.dict.cc/?s=Aue)**Aue**
+meaning **meadow**.  [dict.cc](https://www.dict.cc/?s=Aue) define **Aue**
 as a poetic, old regional word meaning: **meadow[piece of low ground near a
 river]**.
 
 In this entry **"aue"** occurs as the suffix in **Höckersaue**, while in the
-[1779 Carl Friderich Gottlieb Krückeberg baptism record
-it appears as](PET-B-1779b.md)**au**, **Höckersau**.
+[1779 Carl Friderich Gottlieb Krückeberg](PET-B-1779b.md) baptism record
+it appears as **au**, **Höckersau**.
 
 :::
 
@@ -95,6 +96,8 @@ from Petzen
 ```
 
 ## Citations
+
+(PET-B-1782a)=
 
 [PET-B-1782a] "Archion Protestant Kirchenbücher Portal", database with
 images, *Archion* ([http://www.archion.de/p/e0eb15fb3e/: 31 October 2023),

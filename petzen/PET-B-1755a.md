@@ -3,7 +3,7 @@
 ## Citation
 
 This is the baptism record of Henrich Wilhelm Bleeke is found on
-[image 191](PET-B-1755d)rd entry from top, of the
+[image 191](#PET-B-1755d), the right page, 3rd entry from top, of the
 "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784".
 
 ## Baptism Record
@@ -36,8 +36,10 @@ d 2nd March Henrich Wilhelm Bleeke, the son of the
 
 ## Citations
 
+(PET-B-1755d)=
+
 [PET-B-1755d] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/880bdf5c0a/: 15 May
+with images, *Archion* ([https://www.archion.de/p/880bdf5c0a/ : 15 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 191 of 322,

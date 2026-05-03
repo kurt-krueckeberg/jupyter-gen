@@ -3,7 +3,7 @@
 This record is from the
 [Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
+Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003).
 
 ```{image} images/jhp-bleeke/christian-friedrich-bleeke-1821-birth.png
 :class: image-override
@@ -44,44 +44,24 @@ Translation of page header: **Born and Baptized in the year 1821**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                  15
-                
-  - 
-                  Christian Friederich Bleeke
-                
-  - 
-                  der Siebensten (7) Maÿ
+* - 15
+  - Christian Friederich Bleeke
+  - der Siebensten (7) Maÿ
     Nachmittags fünf (5)
     Uhr zu Wietersheim N. 27
-                
-  - 
-                  ehelich
-                
-  - 
-                  Johann Heinrich
+  - ehelich
+  - Johann Heinrich
     Bleeke Col. No. 27
     zu Wietersheim
-                
-  - 
-                  Christine Marie
+  - Christine Marie
     Schwier aus
     Wietersheim
-                
-  - 
-                  Wietersheim
+  - Wietersheim
     No. 27
-                
-  - 
-                  d 13 Maÿ
-                
-  - 
-                  Schütz
-                
-  - 
-                  Carl Friederich
+  - d 13 Maÿ
+  - Schütz
+  - Carl Friederich
     Bleeke aus Leeteln
-                
 ```
 
 ```{list-table} Translation of Carl Friederich Bleeke 1821 Birth Record
@@ -121,5 +101,5 @@ Translation of page header: **Born and Baptized in the year 1821**.
 “Evangelische Gemeinde Frille, Kreis Minden, Gebohrne im Jahre 1821 in Kirchspiel Frille” [sic],
 entry #15, Christian Friederich Bleeke, 7 May 1821, Kirchenbuchduplikat, B 168 (GHT 1815–1830),
 Personenstandsarchiv Westfalen-Lippe, Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
-Digital images: Landesarchiv NRW, [https://www.archive.nrw.de (accessed 6 December 2025).](https://www.archive.nrw.de)
+Digital images: Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
 

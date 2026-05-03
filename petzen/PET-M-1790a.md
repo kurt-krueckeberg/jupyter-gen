@@ -20,7 +20,9 @@
 
 On 2 August 1790, Johann Heinrich Krückeberg from Berenbusch No 10 married
 Anna Catharine Sophia Krömer from Evesen No 19. The marriage is entry 8 on
-[image 5](PET-M-1790a)
+[image 5](#PET-M-1790a), entry 8, of the Petzen Kirchenbuch volume
+"Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827".
 
 ## Images of Marriage Record
 
@@ -76,5 +78,7 @@ Translation
 
 ## Citations
 
-[PET-M-1790a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/68ee336254/: 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 5 of 357](http://www.archion.de/p/68ee336254/)
+(PET-M-1790a)=
+
+[PET-M-1790a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/68ee336254/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 5 of 357](http://www.archion.de/p/68ee336254/)
 

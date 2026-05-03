@@ -34,7 +34,9 @@
 
 ## Anne Chritine Eleonore Krückeberg
 
-The birth is recorded on [image 70 on Archion](PET-B-1798a)
+The birth is recorded on [image 70 on Archion](#PET-B-1798a), entry #12,
+of the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen 1785-1827". The entries span both pages 134 and 135.
 
 ### Pages 134-135
 
@@ -123,5 +125,7 @@ written incorrectly.
 
 ## Citations
 
-[PET-B-1798a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/bb92e92f82/: 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 70 of 357](http://www.archion.de/p/bb92e92f82/)
+(PET-B-1798a)=
+
+[PET-B-1798a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/bb92e92f82/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 70 of 357](http://www.archion.de/p/bb92e92f82/)
 

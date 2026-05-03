@@ -54,13 +54,13 @@ Krückeberg, as grandmother)”** most plausibly refers to **Ilse Anna Maria
 Elisabeth née Schakeln**, the second wife of Johann Heinrich Krückeberg,
 Jobst Heinrich Kruückeberg’s father. She was the stepmother of Jobst
 Heinrich Krückeberg (whose mother, Anna Christine Elisabeth Seeger,
-[died when he was eight), and therefore the social
-(step-)grandmother of his daughter baptized in 1792.](PET-D-1773b.md)
+[died](PET-D-1773b.md) when he was eight), and therefore the social
+(step-)grandmother of his daughter baptized in 1792.
 ```
 
 ## Citations
 
-This entry appears on [image 55, page 105](PET-B-1792a)
+This entry appears on [image 55, page 105](#PET-B-1792a) of Petzen Kirchenbuch volume 2.
 
 ## Philippine Caroline Christine Krueckebergen 1792
 
@@ -120,6 +120,8 @@ died 10/26/1870
 
 ## Citations
 
-[PET-B-1792a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/75e10a88e0/: 17 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+(PET-B-1792a)=
+
+[PET-B-1792a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/75e10a88e0/ : 17 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 55 of 357](http://www.archion.de/p/75e10a88e0/)
 

@@ -44,45 +44,25 @@ Translation of page header: **Births and Baptisms in the year 1827**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                  49
-                
-  - 
-                  Christine Luise
+* - 49
+  - Christine Luise
     Bleeke.
-                
-  - 
-                  Neunzehnten (19) Decbr.
+  - Neunzehnten (19) Decbr.
     Abenbds fünf (5) Uhr
     zu Leeteln
-                
-  - 
-                  ehelich
-                
-  - 
-                  Christian Friederich
+  - ehelich
+  - Christian Friederich
     Bleeke, Einlieger beÿ
     No. 11 in Leeteln
-                
-  - 
-                  Christine Luise
+  - Christine Luise
     Leonore Krükkeberg aus Berenbusch
-                
-  - 
-                  Leeteln
-                
-  - 
-                  drei und
+  - Leeteln
+  - drei und
     zwanzigsten
     (23) Decbr.
-                
-  - 
-                  Schütz
-                
-  - 
-                  Christine Marie
+  - Schütz
+  - Christine Marie
     Bleeke.
-                
 ```
 
 ```{list-table} Translation of Christine Luise Bleeke 1827 Birth
@@ -115,5 +95,5 @@ Translation of page header: **Births and Baptisms in the year 1827**.
 Evangelische Gemeinde Frille, Kreis Minden, "Geborne und Getaufte im Jahr 1827" [sic.], entry #49 for Christine Luise Bleeke,
 born 19 Dec. 1827, Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
 Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
-Digital images: Landesarchiv NRW, [https://www.archive.nrw.de (accessed 6 December 2025).](https://www.archive.nrw.de)
+Digital images: Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
 

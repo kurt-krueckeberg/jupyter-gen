@@ -31,7 +31,8 @@ Steinbergen, although a search of the 1796 Steinbergen parish register did not l
 ## Citation
 
 There is no separate birth record for the birth of Marie Philippine Krückeberg, rather her birth is mentioned in the Nachtrag (addenda) that
-accompanies her marriage record, which is on [image 27, on pages 48 and 49](PET-B-1794a)
+accompanies her marriage record, which is on [image 27, on pages 48 and 49](#PET-B-1794a) of the Petzen "Verzeichnis der Getauften, Konfirmierten,
+Getrauten und Gestorbenen 1785-1827".
 
 ## Pages 48 and 49
 
@@ -51,7 +52,7 @@ Page 49 portion:
 - **hinterlassen** — is a verb meaning: to leave something to somebody, to bequesth something, to leave somebody a legacy of
 something; to leave hind. As an adjective is can mean "bereaved" or "survivor (of someone deceased)". **hinterlassener** would
 be the adjective form used for a male survior: ein hinterlassener Sohn (a surviving son).
-- **Anerbe** — is defined in [dict.cc as:](https://www.dict.cc/?s=Anerbe)
+- **Anerbe** — is defined in [dict.cc](https://www.dict.cc/?s=Anerbe) as:
   - principal heir[to a landed estate]
   - single heir.
     **Anerbe** comes from **Anerbenrecht**, which is:
@@ -83,7 +84,7 @@ be the adjective form used for a male survior: ein hinterlassener Sohn (a surviv
 
 See this more detailed explantion:
 [What is a
-Lieftucht/Leibzucht?.](https://christofspannhoff.wordpress.com/2015/04/17/was-ist-eine-lieftuchtleibzucht/)
+Lieftucht/Leibzucht?](https://christofspannhoff.wordpress.com/2015/04/17/was-ist-eine-lieftuchtleibzucht/).
 ```
 
 ```{list-table} Marriage entry No. 3.
@@ -181,6 +182,8 @@ Lieftucht/Leibzucht?.](https://christofspannhoff.wordpress.com/2015/04/17/was-is
 
 ## Citations
 
-[PET-B-1794a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/e8f8a097b9/: 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+(PET-B-1794a)=
+
+[PET-B-1794a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/e8f8a097b9/ : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 27 of 357](http://www.archion.de/p/e8f8a097b9/)
 

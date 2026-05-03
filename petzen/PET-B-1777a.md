@@ -33,7 +33,7 @@ FamilySearch Tree id:
 
 ## Citation
 
-The baptism of Friderich Wilhelm Weiland is on [image 253](PET-B-1777a)
+The baptism of Friderich Wilhelm Weiland is on [image 253](#PET-B-1777a) of the Petzen Kirchenbuch: Verzeichnis der Getauften und Konfirmierten 1641-1784.
 
 ## Image
 
@@ -74,5 +74,7 @@ Translation
 
 ## Citations
 
-[PET-B-1777a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/9269143a62/: 22 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 253 of 322](https://www.archion.de/p/9269143a62/)
+(PET-B-1777a)=
+
+[PET-B-1777a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/9269143a62/ : 22 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 253 of 322](https://www.archion.de/p/9269143a62/)
 

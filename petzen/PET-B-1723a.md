@@ -2,7 +2,9 @@
 
 ## Citation
 
-The baptism of Johann Daniel Bleeck is on [image 132](image132)
+The baptism of Johann Daniel Bleeck is on [image 132](#image132), right
+hand page. of the "Verzeichnis der Getauften und Konfirmierten (Register of
+Baptism and Confirmed of the Petzen Parish) 1641-1784".
 
 ## Baptism Record
 
@@ -30,8 +32,10 @@ Translationn
 
 ## Citations
 
+(image132)=
+
 [image132] "Archion Protestant Kirchenbücher Portal", database with
-images, *Archion* ,([https://www.archion.de/p/8e090f5b1a/: 15 May 2025)
+images, *Archion* ,([https://www.archion.de/p/8e090f5b1a/ : 15 May 2025)
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 132 of 322](https://www.archion.de/p/8e090f5b1a/)

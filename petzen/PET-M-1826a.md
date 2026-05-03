@@ -65,7 +65,7 @@ Anerbenrecht
 
 — from Thode’s German-English Genealogical Dictionary
 
-See German wikipedia article on [Anerbenrecht.](https://de.wikipedia.org/wiki/Anerbenrecht)
+See German wikipedia article on [Anerbenrecht](https://de.wikipedia.org/wiki/Anerbenrecht).
 
 Anerbe
 : 
@@ -100,7 +100,7 @@ that:
 
 ## Citation
 
-The marriage record is on [image 355, pages 736 and 737,](PET-M-1826a)*Verzeichnis der Getauften,
+The marriage record is on [image 355, pages 736 and 737,](#PET-M-1826a) of the Petzen Kirchenbuch *Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827*.
 
 ```{image} images/petzen-band2-img355-header.jpg
@@ -170,6 +170,8 @@ Transliteration Header for pages 736 and 737
 
 ## Citations
 
-[PET-M-1826a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/de0cff4510/: 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+(PET-M-1826a)=
+
+[PET-M-1826a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/de0cff4510/ : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 355 of 357](http://www.archion.de/p/de0cff4510/)
 

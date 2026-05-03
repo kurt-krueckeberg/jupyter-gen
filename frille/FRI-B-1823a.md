@@ -3,7 +3,7 @@
 This record is from the
 [Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
+Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003).
 
 ```{image} images/carl-f-bleeke/carl-friederich-bleeke-1823-birth.png
 :class: image-override
@@ -44,43 +44,23 @@ Translation of page header: **Births and Baptims in 1823**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                  39
-                
-  - 
-                  Carl Fried: Bleeke
-                
-  - 
-                  zwölften (12) October
+* - 39
+  - Carl Fried: Bleeke
+  - zwölften (12) October
     Nachts elf (11) Uhr zu
     Leeteln.
-                
-  - 
-                  ehelich
-                
-  - 
-                  Carl Fried: Bleeke
+  - ehelich
+  - Carl Fried: Bleeke
     No. 13 Leeteln
-                
-  - 
-                  Marie Luise Nie-
+  - Marie Luise Nie-
     mann
-                
-  - 
-                  Leeteln
+  - Leeteln
     No. 13
-                
-  - 
-                  Neunzehnten
+  - Neunzehnten
     (19) October
-                
-  - 
-                  Schütz
-                
-  - 
-                  Carl Fried: Hartmann
+  - Schütz
+  - Carl Fried: Hartmann
     aus Frille
-                
 ```
 
 ```{list-table} Translation of Carl Friederich Bleeke 1823 Birth
@@ -114,5 +94,5 @@ Translation of page header: **Births and Baptims in 1823**.
 Evangelische Gemeinde Frille, Kreis Minden, “Gebohrne u. Getaufte im Jahr 1823", entry #39 for "Carl Fried: Bleeke",
 12 Oct. 1823, Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
 Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
-Digital images: Landesarchiv NRW, [https://www.archive.nrw.de (accessed 6 December 2025).](https://www.archive.nrw.de)
+Digital images: Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
 

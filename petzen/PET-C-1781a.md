@@ -17,7 +17,7 @@
 
 ## Citation
 
-This confirmation entry is on the [320th image on Archion](PET-C-1781a)
+This confirmation entry is on the [320th image on Archion](#PET-C-1781a) of Petzen Kirchenbuch "database with images".
 
 ## Image of Confirmation
 
@@ -46,6 +46,8 @@ Translation
 ```
 
 ## Citations
+
+(PET-C-1781a)=
 
 [PET-C-1781a] "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* ([http://www.archion.de/p/24d49d81bd/: 29 October

@@ -2,7 +2,7 @@
 
 ## Citation
 
-The entry for the marriage Abrecht Weyland is on [image 12, page 18, on Archion](PET-M-1802a)
+The entry for the marriage Abrecht Weyland is on [image 12, page 18, on Archion](#PET-M-1802a) of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 ## Page 18
 
@@ -61,6 +61,8 @@ The middle of the left page shown below has the year of **1802**; this the year 
 
 ## Citations
 
-[PET-M-1802a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/60a0c24411/: 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+(PET-M-1802a)=
+
+[PET-M-1802a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/60a0c24411/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 12 of 357](http://www.archion.de/p/60a0c24411/)
 

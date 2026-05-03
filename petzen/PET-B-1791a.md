@@ -28,7 +28,7 @@
 
 ## Citation
 
-This baptism is recorded on [image 52 on Archion](PET-B-1791a)
+This baptism is recorded on [image 52 on Archion](#PET-B-1791a) of Petzen Kirchenbuch volume 2.
 
 ## Image of Baptism Recrd
 
@@ -56,7 +56,6 @@ Heinrich Krückeberg aus Berenbusch
 ```
 
 ```{code-block} text
-:class: bordered
 
 12) One 25th Apr. Friderich Wilhelm Krückeberg was baptized,
 the begotten son of Johann Heinrich Krückebergs from Evesen Num.
@@ -66,6 +65,8 @@ Crömer. Godfather was Johann Heinrich Krückeberg from Berenbusch
 
 ## Citations
 
-[PET-B-1791a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/c4f170ce7b/: 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+(PET-B-1791a)=
+
+[PET-B-1791a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/c4f170ce7b/ : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 52 of 357](http://www.archion.de/p/c4f170ce7b/)
 

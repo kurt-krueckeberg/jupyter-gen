@@ -23,13 +23,15 @@
 ```
 
 ```{important}
-We know from [her death record that she was born blind. This was also true of
-Sophie Marie Krückeberg](PET-D-1757b.md)[born in 1741, whose](PET-B-1741a.md)[death record states she was also born blind.](PET-D-1801a.md)
+We know from [her death record](PET-D-1757b.md) that she was born blind. This was also true of
+Sophie Marie Krückeberg [born in 1741](PET-B-1741a.md), whose [death record](PET-D-1801a.md)
+states she was also born blind.
 ```
 
 ## Citation
 
-The baptism appears on [image 174](PET-B-1746a)
+The baptism appears on [image 174](#PET-B-1746a) at the bottom of the left-hand
+page of the Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 ## Baptism Entry
 
@@ -51,7 +53,7 @@ Tochter aus Scheye
 ```
 
 ```{note}
-The village **Scheye** below is the same as [Scheie.](https://www.meyersgaz.org/place/20702058)
+The village **Scheye** below is the same as [Scheie](https://www.meyersgaz.org/place/20702058).
 ```
 
 Translation
@@ -65,8 +67,10 @@ daughter from Scheye
 
 ## Citations
 
+(PET-B-1746a)=
+
 [PET-B-1746a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/33af16da2f/: 30 April
+with images, *Archion* ([https://www.archion.de/p/33af16da2f/ : 30 April
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 174 of 322](https://www.archion.de/p/33af16da2f/)

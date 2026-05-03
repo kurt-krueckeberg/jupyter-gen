@@ -29,7 +29,8 @@
 ## Citation
 
 Anna Christina Maria Krückeberg’s baptism is on [image 246, right
-page, entry no. 10](PET-B-1775b)
+page, entry no. 10](#PET-B-1775b) from the Petzen Kirchenbuch volume "Verzeichnis der
+Getauften und Konfirmierten, 1641-1784".
 
 ## Image of Baptism
 
@@ -40,7 +41,6 @@ page, entry no. 10](PET-B-1775b)
 ## Transliteration and Translation
 
 ```{code-block} text
-:class: bordered
 
 Getaufte                                                    1775
 
@@ -52,7 +52,6 @@ Getaufte                                                    1775
 ```
 
 ```{code-block} text
-:class: bordered
 
 Baptisms                                                    1775
 
@@ -64,8 +63,10 @@ Baptisms                                                    1775
 
 ## Citations
 
+(PET-B-1775b)=
+
 [PET-B-1775b] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/3f3c8fb681/: 31 October
+with images, *Archion* ([https://www.archion.de/p/3f3c8fb681/ : 31 October
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 246 of 322](https://www.archion.de/p/3f3c8fb681/)

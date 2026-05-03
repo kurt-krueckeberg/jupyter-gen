@@ -2,7 +2,8 @@
 
 ## Citation
 
-The baptism Charlotte Loyse[Louise] Heiniette Bleecke occurred on 18 July 1760. It appears on [page 16, on image 11](FRI-B-1760a)
+The baptism Charlotte Loyse[Louise] Heiniette Bleecke occurred on 18 July 1760. It appears on [page 16, on image 11](#FRI-B-1760a), of
+Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ", on image 11 of 388.
 
 ## Images
 
@@ -12,7 +13,7 @@ The baptism and birth year of 1760 is written on page 13  (of the baptism pages)
 :class: image-override
 ```
 
-The birth and baptism of Charlotte Loyse(Louise) Heinriette Bleeckeis recorded on entry number 33 on [page 16](FRI-B-1760a)
+The birth and baptism of Charlotte Loyse(Louise) Heinriette Bleeckeis recorded on entry number 33 on [page 16](#FRI-B-1760a) (of the baptism pages).
 
 ```{image} images/frille-band2-img11-16.jpg
 :class: image-override
@@ -38,26 +39,22 @@ is identical to the Kurrent h, a practice used in the Petzen church records also
 
 ```{list-table} 18 July 1760 Baptism of Charlotte Louise Henriette Bleeke
 
-* - 
-                    16
-                  
-* - 
-                    33 den 18ten Jul[ii]: Charlotte Loyse Heinriette Bleeken
+* - 16
+* - 33 den 18ten Jul[ii]: Charlotte Loyse Heinriette Bleeken
         aus Frille P[pater / Vater]  der prueß[ische] Schulmesiter Daniel
         Heinrich Philip Bleke M[mater / Mutter] Amalia Wilhelmina
         Dunckern, Sspona / Patin]. die Frau KriegsRaetin[Kriegsraetin] Charlotte Loyse
         Henrieette [?Meier...? / Meier?]. gebohren Delius
-                  
-* - 
-                    33 On July 18th: Charlotte Loyse Heinriette Bleeken
+* - 33 On July 18th: Charlotte Loyse Heinriette Bleeken
         from Frille. Father: the Prussian schoolmaster Daniel
         Heinrich Philip Bleeke Mother: Amalia Wilhelmina
         Dunckern. Sponsor: Godmother the wife Krögerraetin Charlotte Loyse
         Henriette [?Meier...?] born Delius
-                  
 ```
 
 ## Citations
 
-[FRI-B-1760a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/11732ef7c6/: 12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille > Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 11 of 388](https://www.archion.de/p/11732ef7c6/)
+(FRI-B-1760a)=
+
+[FRI-B-1760a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/11732ef7c6/ : 12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille > Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 11 of 388](https://www.archion.de/p/11732ef7c6/)
 

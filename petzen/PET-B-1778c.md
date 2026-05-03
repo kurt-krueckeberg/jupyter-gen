@@ -4,7 +4,8 @@ This is the baptism record of varl Friderich Gottlieb Krückeberg from "database
 
 ## Citation
 
-Sophia Elonora Weiland’s baptism is on [image 261](PET-B-1778c)
+Sophia Elonora Weiland’s baptism is on [image 261](#PET-B-1778c), right page, entry no. 29, from the
+Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
 
 ## Baptism Record
 
@@ -26,5 +27,9 @@ Sophia Elonora Weiland’s baptism is on [image 261](PET-B-1778c)
     the godmother was the Sickmeier wife from Evese No. 2
 ```
 
-- [] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/fe8e5665ac/: 6 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 261 of 322](https://www.archion.de/p/fe8e5665ac/)
+## Citations
+
+(PET-B-1778c)=
+
+[PET-B-1778c] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/fe8e5665ac/ : 6 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 261 of 322](https://www.archion.de/p/fe8e5665ac/)
 

@@ -3,7 +3,7 @@
 This record is from the
 [Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
+Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003).
 
 ```{image} images/christian-friedrich-bleeke-1826-marriage.png
 :class: image-override
@@ -57,57 +57,31 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
   - Name des Predigers,
     der
     die Kopulation verrichtet.
-* - 
-                7
-              
-  - 
-                Christian Friede-
+* - 7
+  - Christian Friede-
     rich Bleeke, Ein-
     lieger in Leeteln
-              
-  - 
-                Christian
+  - Christian
     Friederich Blee-
     ke Col[o]n No. 1[3]
     in Leeteln
-              
-  - 
-                25 Ja.
-              
-  - 
-                Mündig
-              
-  - 
-                Unvereh-
+  - 25 Ja.
+  - Mündig
+  - Unvereh-
     licht
-              
-  - 
-                Luise Eleonore
+  - Luise Eleonore
     Krückeberg
-              
-  - 
-                Jobst Heinrich
+  - Jobst Heinrich
     Krückeberg colonist (farmstead holder) No.
     10 in Bärenbusch
-              
-  - 
-                30 Ja.
-              
-  - 
-                Mündig
-              
-  - 
-                Unvereh-
+  - 30 Ja.
+  - Mündig
+  - Unvereh-
     licht
-              
-  - 
-                Sechs und zwan-
+  - Sechs und zwan-
     zigsten (26)
     Novemb.
-              
-  - 
-                v. z. Pr. Schütz
-              
+  - v. z. Pr. Schütz
 ```
 
 ```{list-table} Translation of 1826 Marriage of Christian Friedrich Bleeke to Luise Leonore Krückeberg
@@ -147,5 +121,5 @@ Evangelische Gemeinde Frille, Kreis Minden, “Aufgebotene und Getraute im Jahr 
 entry for Christian Friederich Bleeke and Luise Eleonore Krückeberg, 26 Nov. 1826,
 Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
 Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
-Digital images: Landesarchiv NRW, [https://www.archive.nrw.de (accessed 6 December 2025).](https://www.archive.nrw.de)
+Digital images: Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
 

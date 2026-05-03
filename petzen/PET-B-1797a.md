@@ -28,13 +28,14 @@
 
 ```{note}
 Anne Marie Philippine nee Blecke Wilharm [died
-the day after giving birth.](PET-D-1797a.md)
+the day after giving birth](PET-D-1797a.md).
 ```
 
 ## Citation
 
 The birth record of Hans Heinrich Wilharm occurs on [image
-68](PET-B-1797a)[Archion digitial images of the Petzen](https:archion.de)*Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+68](#PET-B-1797a) of the [Archion](https:archion.de) digitial images of the Petzen
+*Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 1785-1827*.
 
 ## Images of Birth Record
@@ -106,8 +107,10 @@ The birth record of Hans Heinrich Wilharm occurs on [image
 
 ## Citations
 
+(PET-B-1797a)=
+
 [PET-B-1797a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/2de5cd5c3b/: 14 January
+with images, *Archion* ([https://www.archion.de/p/2de5cd5c3b/ : 14 January
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen

@@ -41,8 +41,9 @@
 ## Citation
 
 The death of Johann Hen. Krückeberg in 1805 is recorded on [image 243,
-pages 512 and 513](PET-D-1805a)[Archion
-.de Kirchenbücher database of digital images.](https://www.archion.de)
+pages 512 and 513](#PET-D-1805a), entry 8, of the Petzen Kirchenbuch "Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827" in the [Archion
+.de](https://www.archion.de) Kirchenbücher database of digital images.
 
 ## Image of Pages 512 and 513
 
@@ -53,13 +54,11 @@ pages 512 and 513](PET-D-1805a)[Archion
 ## Transliteration and Translation of Header for Pages 512 and 513
 
 ```{code-block} text
-:class: bordered
 
 512   Gestorbene in Kirchspiel Petzen                                        Schumb. Lipp. [???] in Jahr the 1805                    512
 ```
 
 ```{code-block} text
-:class: bordered
 
 512   Deaths in the Petzen Parish                                            Schumb. Lipp. [???] in the year 1805                    512
 ```
@@ -133,8 +132,10 @@ farmer.
 
 ## Citations
 
+(PET-D-1805a)=
+
 [PET-D-1805a] "Archion Protestant Kirchenbücher Portal", database with
-images, *Archion* ([http://www.archion.de/p/fcf567b28f/: 25 October 2023),
+images, *Archion* ([http://www.archion.de/p/fcf567b28f/ : 25 October 2023),
 path: Niedersachsen: Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis
 der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 243 of

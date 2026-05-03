@@ -15,7 +15,7 @@
 
 ## Citation
 
-The confirmation entry is on [image 313](PET-C-1764a)th entry for 1764, of the Petzen
+The confirmation entry is on [image 313](#PET-C-1764a), the 6th entry for 1764, of the Petzen
 "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 ## Image of Confirmation Record
@@ -72,8 +72,10 @@ Carl Krückeberg from Berenbusch
 
 ## Citations
 
+(PET-C-1764a)=
+
 [PET-C-1764a] "Archion Protestant Kirchenbücher Portal", database
-  with images, *Archion* ([https://www.archion.de/p/c2a37818bc/: 30 October
+  with images, *Archion* ([https://www.archion.de/p/c2a37818bc/ : 30 October
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322](https://www.archion.de/p/c2a37818bc/)

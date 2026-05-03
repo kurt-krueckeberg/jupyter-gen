@@ -6,5 +6,5 @@ This graphic by Steve Krueckeberg illustrates inferred prospective Krückeberg f
 :class: image-override
 ```
 
-Download [Prospective Krückeberg Relationships PDF.](attachment$prospective-krueckeberg-pedigree.pdf)
+Download [Prospective Krückeberg Relationships PDF](attachment$prospective-krueckeberg-pedigree.pdf).
 

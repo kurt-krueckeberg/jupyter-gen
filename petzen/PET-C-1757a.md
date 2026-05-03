@@ -16,7 +16,7 @@
 ## Citation
 
 The confirmation entry for Johann Heinrich Krückeberg from Berenbusch is on the
-[310th image](PET-C-1757a)th entry, of **Confirmati 1757** of
+[310th image](#PET-C-1757a), the right-hand page, the 5th entry, of **Confirmati 1757** of
 the Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 ## Confirmation Entry
@@ -66,6 +66,8 @@ Johan Heinrich Krückeberg from Bernbusch
 ```
 
 ## Citations
+
+(PET-C-1757a)=
 
 [PET-C-1757a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/c362c408ee/: 30 October 2023),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis

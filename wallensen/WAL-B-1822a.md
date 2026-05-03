@@ -1,6 +1,7 @@
 # 1822 Heinrich Friedrich August Krückeberg Baptism
 
-The birth record for Heinrich Friedrich August Krückeberg of Thüste is found on [image 114](WAL-B-1822a)
+The birth record for Heinrich Friedrich August Krückeberg of Thüste is found on [image 114](#WAL-B-1822a) of the Wallensen parishs church register volume for the
+years 1807 to 1848. Below is the image:
 
 ```{image} images/wallensen-krichenbuch-1807-1848-img114.jpg
 :class: image-override
@@ -30,6 +31,8 @@ The birth record for Heinrich Friedrich August Krückeberg of Thüste is found o
 
 ## Citations
 
-[WAL-B-1822a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/de0cff4510/: 26 October 2023), path: path: Niedersachsen >
+(WAL-B-1822a)=
+
+[WAL-B-1822a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/de0cff4510/ : 26 October 2023), path: path: Niedersachsen >
 Landeskirchliches Archiv der Evangelisch-lutherischen Landeskirche Hannovers > Kirchenkreis Elze-Coppenbrügge > Wallensen > Kirchenbuch 1807-1848 > Image 114 of 465](http://www.archion.de/p/de0cff4510/)
 

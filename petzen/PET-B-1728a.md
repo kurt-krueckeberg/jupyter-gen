@@ -38,19 +38,19 @@ earlier.
 Aslo the document **Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg
 und Arensburg, mit Nummerierung der sämtlichen Häuser ("List of names of
 all Kolons of the offices of Bückeburg and Arensburg, with numbering of the
-all houses")** shows, {external+nla:doc}`on page 17, us that in 1747
+all houses")** shows, [on page 17]({external+nla:doc}`140/page-17`), us that in 1747
 Johann Heinrich Krückeberg was the holder of no. 10 Berenbusch and Johann
-Tönnies Eggerding was a prior holder. <140/page-17>`
+Tönnies Eggerding was a prior holder.
 
 Apparently Friedrich Kuhlman had been the immediate prior holder and Johann
 Tönnnis Eggerding the holder before him. We learn this from the answer of
 Johann Heinrich Krücekberg to question #1 at
-{external+nla:doc}`nla:2741:index.xml. <2741/index>`
+[nla:2741:index.xml]({external+nla:doc}`2741/index`).
 ```
 
 ## Citation
 
-The baptism entry is found on [image 140](PET-B-1728a)**18**, and it is the
+The baptism entry is found on [image 140](#PET-B-1728a). It is labled **18**, and it is the
 18th birth and baptims in 1728. **Anno 1728** appears at the top of the prior
 page where the list of the baptisms for 1728 begin.
 
@@ -107,6 +107,8 @@ was baptized. Godfathers were Johann Tönnies Eggerding and H Herman Wiese
 
 ## Citations
 
-[PET-B-1728a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/d55015885d/: 23 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
+(PET-B-1728a)=
+
+[PET-B-1728a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/d55015885d/ : 23 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
 > Image 140 of 322](https://www.archion.de/p/d55015885d/)
 

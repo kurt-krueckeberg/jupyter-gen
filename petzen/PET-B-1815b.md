@@ -2,11 +2,12 @@
 
 ## FamilySearch Tree Entry
 
-[GSW7-L4K.](https://www.familysearch.org/en/tree/person/details/GSW7-L4K)
+[GSW7-L4K](https://www.familysearch.org/en/tree/person/details/GSW7-L4K).
 
 ## Citation
 
-The birth and baptism of Heinrich Wilhelm Weiland is entry 37 on [image 137, pages 266-267](PET-B-1815b)
+The birth and baptism of Heinrich Wilhelm Weiland is entry 37 on [image 137, pages 266-267](#PET-B-1815b) of Petzen Kichenbuch volume "Verzeichnis der
+Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 Immediately after entry 31 for Caroline Dorothee Krückeberg is the entry
 for a Weiland baptism.
@@ -20,7 +21,7 @@ for a Weiland baptism.
 ## Transliteration and Translation
 
 ```{note}
-See discussion of **Einlieger/Einlinger** at [Image 82.](PET-B-1803b.md)
+See discussion of **Einlieger/Einlinger** at [Image 82](PET-B-1803b.md).
 ```
 
 ```{list-table} 266 Geboren im Kirchspiele Petzen (births in Petzen church parish) im Jahr (in the year) 1815 267
@@ -108,5 +109,7 @@ See discussion of **Einlieger/Einlinger** at [Image 82.](PET-B-1803b.md)
 
 ## Citations
 
-[PET-B-1815b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/c4074e8f0f/: 4 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 137 of 357](https://www.archion.de/p/c4074e8f0f/)
+(PET-B-1815b)=
+
+[PET-B-1815b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/c4074e8f0f/ : 4 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 137 of 357](https://www.archion.de/p/c4074e8f0f/)
 

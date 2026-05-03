@@ -2,7 +2,7 @@
 
 ## Citation
 
-The baptism of Johann Heinrich Weiland, on 20 September 1789, is on [image 45](PET-B-1789a)
+The baptism of Johann Heinrich Weiland, on 20 September 1789, is on [image 45](#PET-B-1789a), the right page, entry #67.
 
 ### Image 45, page 85, entries 6
 
@@ -45,6 +45,8 @@ Möllern. Godfather was Johann Friederich Atlmeyer estate administrator at the [
 
 ## Citations
 
-[PET-B-1789a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/ee8298f89e/: 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+(PET-B-1789a)=
+
+[PET-B-1789a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/ee8298f89e/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 45 of 357](http://www.archion.de/p/ee8298f89e/)
 

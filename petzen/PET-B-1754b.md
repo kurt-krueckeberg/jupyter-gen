@@ -2,7 +2,7 @@
 
 ## Citation
 
-The baptism of Jobst Heinrich Weiland is on [image 191, left page, first entry](image191)
+The baptism of Jobst Heinrich Weiland is on [image 191, left page, first entry](#PET-B-1754b) from the "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"
 
 ```{important}
 The birth of Heinrich Wilhelm Bleeke from Evesen also appears on this image, on the right hand page (not shown).
@@ -28,6 +28,8 @@ The birth of Heinrich Wilhelm Bleeke from Evesen also appears on this image, on 
 ```
 
 ## Citations
+
+(PET-B-1754b)=
 
 [PET-B-1754b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (?????? : 5 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 191 of 322
 

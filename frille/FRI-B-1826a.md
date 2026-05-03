@@ -3,7 +3,7 @@
 This record is from the
 [Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
+Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003).
 
 ```{image} images/carl-f-bleeke/marie-christine-bleeke-1826-birth.png
 :class: image-override
@@ -44,46 +44,26 @@ Translation of page header: **Birth and Baptims in 1826**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                  4
-                
-  - 
-                  Marie Christine
+* - 4
+  - Marie Christine
     Bleeke
-                
-  - 
-                  Funfzehnten Januar
+  - Funfzehnten Januar
     Abds neun (9) Uhr zu
     Leeteln
-                
-  - 
-                  ehelich
-                
-  - 
-                  Carl Friederich Blee-
+  - ehelich
+  - Carl Friederich Blee-
     ke Col. v[on] N. 13 in Lee-
     teln
-                
-  - 
-                  Marie Luise Nie-
+  - Marie Luise Nie-
     mann aus Todten-
     hausen
-                
-  - 
-                  Leeteln
-                
-  - 
-                  Zwei und zwan-
+  - Leeteln
+  - Zwei und zwan-
     zigten (22) Jan.
-                
-  - 
-                  Schütz
-                
-  - 
-                  Christine Wilhelmine
+  - Schütz
+  - Christine Wilhelmine
     Niemann aus Todten-
     hausen
-                
 ```
 
 ```{list-table} Translation of Marie Christine Bleeke 1826 Birth
@@ -139,5 +119,5 @@ Translation of page header: **Birth and Baptims in 1826**.
 Evangelische Gemeinde Frille, Kreis Minden, “Gebohrne und Getaufte im Jahre 1826”, entry #4 for Marie Christine Bleeke,
 born 15 Jan. 1826, Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
 Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
-Digital images: Landesarchiv NRW, [https://www.archive.nrw.de (accessed 6 December 2025).](https://www.archive.nrw.de)
+Digital images: Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
 

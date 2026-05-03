@@ -34,14 +34,17 @@ their marriage. The bride was a **Jungfrau**, someone not previously
 married. The groom was a widower, whose first marriage was to Anne Marie
 Philippine Blecke of no. 11 Evesen. This strongly implies the bride was the
 sister of Hans Heinrich’s first wife, Anne Marie Philippine Blecke, who on
-[died on 11 Arpil 1779, the day after the](PET-D-1797a.md)[10 April 1797 birth of their first child
-Hans Heinrich Wilharm.](PET-B-1797a.md)
+[died on 11 Arpil 1779](PET-D-1797a.md), the day after the
+[10 April 1797 birth of their first child
+Hans Heinrich Wilharm](PET-B-1797a.md).
 ```
 
 ## Citation
 
 The 27 August 1797 marriage of Hans Heinrich Wilharm to Sophie Ernestine Blecke
-is found on [image 10](PET-M-1797a)[Archion digital images of the Petzen](https://archion.de)*Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+is found on [image 10](#PET-M-1797a) of the
+[Archion](https://archion.de) digital images of the Petzen
+*Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 1785-1827*.
 
 ## Images of Marriage Record
@@ -100,8 +103,10 @@ is found on [image 10](PET-M-1797a)[Archion digital images of the Petzen](https:
 
 ## Citations
 
+(PET-M-1797a)=
+
 [PET-M-1797a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/dbd615cd07/: 13
+with images, *Archion* ([https://www.archion.de/p/dbd615cd07/ : 13
 January 2026), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
 Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und

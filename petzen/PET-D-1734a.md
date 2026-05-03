@@ -16,16 +16,17 @@
 ## A Potential Corresponding Baptism Record Exists
 
 This could be the burial record for [Ruldolphine
-Margaretha Elisabeth Krückeberg. There is no baptism entry for a Krückeberg
+Margaretha Elisabeth Krückeberg](PET-B-1731a.md). There is no baptism entry for a Krückeberg
 in the February baptism records of the Petzen "Verzeichnis der Getauften und
-Konfimierten 1641-1784". If this is not](PET-B-1731a.md)[Ruldolphine
-Margaretha Elisabeth Krückeberg, then, this child was born alive (not
+Konfimierten 1641-1784". If this is not [Ruldolphine
+Margaretha Elisabeth Krückeberg](PET-B-1731a.md), then, this child was born alive (not
 marked “todtgeboren” in a baptism entry) but probably died very soon after birth,
-and her baptism was either not performed or not recorded.](PET-B-1731a.md)
+and her baptism was either not performed or not recorded.
 
 ## Citation
 
-The February 14th 1734 burial records are on [image 150](PET-D-1734a)[Archion.de.](https://www.archion.de)
+The February 14th 1734 burial records are on [image 150](#PET-D-1734a) of the
+"Verzeichnis der Getrauten und Gestorbenen 1641-1784" on [Archion.de](https://www.archion.de).
 
 ## Image 150
 
@@ -92,8 +93,10 @@ H. Sickmann from Nammen had a little daughter buried.
 
 ## Citations
 
+(PET-D-1734a)=
+
 [PET-D-1734a] "Archion Protestant Kirchenbücher Portal", database
-with images, ([https://www.archion.de/p/3d7f396aa6/: 13 Nov. 2025), path:
+with images, ([https://www.archion.de/p/3d7f396aa6/ : 13 Nov. 2025), path:
 Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getrauten und Gestorbenen 1641-1784 > Image 150 of 239](https://www.archion.de/p/3d7f396aa6/)

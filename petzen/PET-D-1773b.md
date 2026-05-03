@@ -31,7 +31,8 @@
 ## Citation
 
 The August 29, 1773, burial of Anna Christina Kruckeberg, age 36, wife of Johann Heinrich Krückeberg from Bernbusch,
-appears on [image 210](PET-D-1773b)
+appears on [image 210](#PET-D-1773b), on the right-hand page of the Petzen "Verzeichnis der Getrauten und Gestorbenen,
+1641-1784".
 
 ## Transliteration and Translation
 
@@ -64,6 +65,8 @@ On  Aug 29th is here buried Anna Christina
 ```
 
 ## Citations
+
+(PET-D-1773b)=
 
 [PET-D-1773b] "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* ([https://www.archion.de/p/a12d3a1f16/ 23 November

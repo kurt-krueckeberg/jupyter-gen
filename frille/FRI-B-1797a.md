@@ -3,7 +3,7 @@
 ## Citation
 
 Johann Heinrich Philip Bleeke’s baptism and birth is recorded on page 154 of of Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ",
-[image 136](FRI-B-1797a)th recorded in 1797.
+[image 136](#FRI-B-1797a) of 388. The birth and baptism year appears on page 248. His birth and baptism is the 46th recorded in 1797.
 
 ## Image
 
@@ -30,24 +30,20 @@ Perhaps these are the birth and baptism dates, respectively.
 
 ```{list-table} Baptism of Johann Heinrich Philip Bleeke
 
-* - 
-                    254
-                  
-* - 
-                    Pr.46) d. 3./5ten Nov. Joh. Henrich Philip Bleeke
+* - 254
+* - Pr.46) d. 3./5ten Nov. Joh. Henrich Philip Bleeke
      aus Leteln. [P for Vater(father)]. Christian Frid. Bleeke n. 13
      M[for Mutter]. Anne Margarethe Volckenings.
      Sp[for godmother]. Joh. Frid. Volckening
-                  
-* - 
-                    Pr.46) d. [perhaps born on 3rd and baptized on 5th] 5th Nov. Joh. Henrich Philip Bleeke
+* - Pr.46) d. [perhaps born on 3rd and baptized on 5th] 5th Nov. Joh. Henrich Philip Bleeke
     from Leteln. father Christian Frid. Bleeke n. 13
     mother Anne Margarethe Volckenings.
     godfather Joh. Frid. Volckening
-                  
 ```
 
 ## Citations
+
+(FRI-B-1797a)=
 
 [FRI-B-1797a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/34beed4934/: 11 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
 Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 136 of 388](https://www.archion.de/p/34beed4934/)

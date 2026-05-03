@@ -28,14 +28,16 @@
 ```{important}
 While the mother’s name is not given on the baptism record, we know that on
 on 29 Sep. 1758, [Ilse Margarethe Rösener from
-Evesen married Johann Heinrich Krückeberg from Berenbusch. The baptismal
-sponsor is also a](PET-M-1758a.md)**Rösener**.
+Evesen married Johann Heinrich Krückeberg from Berenbusch](PET-M-1758a.md). The baptismal
+sponsor is also a **Rösener**.
 ```
 
 ## Citation
 
 The March 24, 1765 baptism of Jobst Heinrich Krückeberg is on
-[image 211](PET-B-1765a)
+[image 211](#PET-B-1765a), left page, fourth entry from the top, of the
+"Verzeichnis der Getauften und Konfirmierten 1641-1784" (Register of
+Baptism and Confirmed of the Petzen Parish, 1641-1784).
 
 ## Image of Baptism Record
 
@@ -82,8 +84,10 @@ Translation
 
 ## Citations
 
+(PET-B-1765a)=
+
 [PET-B-1765a] "Archion Protestant Kirchenbücher Portal", database
-  with images, *Archion* ([https://www.archion.de/p/bac0cc3f24/: 2 November
+  with images, *Archion* ([https://www.archion.de/p/bac0cc3f24/ : 2 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 211 of 322](https://www.archion.de/p/bac0cc3f24/)

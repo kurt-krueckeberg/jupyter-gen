@@ -3,7 +3,9 @@
 ## Citation
 
 The baptism record for Anna Philippine Maria Blecken appears on
-[image 243](PET-B-1775a)
+[image 243](#PET-B-1775a), on the right-hand page, the first complete
+entry, of the Petzen "Verzeichnis der Getauften und Konfirmierten
+1641-1784".
 
 ## Baptism Record
 
@@ -81,8 +83,10 @@ Bleken of Evesen.
 
 ## Citations
 
+(PET-B-1775a)=
+
 [PET-B-1775a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/615ac16dc3/: 13 October
+with images, *Archion* ([https://www.archion.de/p/615ac16dc3/ : 13 October
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen  Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 243 of 322,

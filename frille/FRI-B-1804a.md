@@ -2,7 +2,8 @@
 
 ## Citation
 
-Marie Louise Bleeke’s baptism and birth is recorded on [page 317, entry 43](FRI-B-1804a)
+Marie Louise Bleeke’s baptism and birth is recorded on [page 317, entry 43](#FRI-B-1804a), of Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ",
+image 70 of 388.
 
 ## Image
 
@@ -26,21 +27,15 @@ Pr is presumably Protestant
 
 ```{list-table} Baptism of Christian Friderich Bleeke
 
-* - 
-                                                                    317
-                  
-* - 
-                    43) d 29ten Sept. Marie Louise Bleecken aus
+* -                                                 317
+* - 43) d 29ten Sept. Marie Louise Bleecken aus
     Pr.  Leteln. P[for Vater]. Christian Fridrich Bleccke. M[for Mutter].
          Anne Margarethe Volckenings. Sp[for godparent]. Catherine
          Louise Volckenings.
-                  
-* - 
-                    43) On 29th Sept. Marie Louise Bleecken from
+* - 43) On 29th Sept. Marie Louise Bleecken from
     Pr.  Leteln. Father Christian Fridrich Bleecke. Mother
          Anne Margarethe Volckenings. Godmother Catherine
          Louise Volckenings.
-                  
 ```
 
 ```{note}
@@ -50,6 +45,8 @@ added to the surname (Bleeke) when referring to a female daughter.
 
 ## Citations
 
-[FRI-B-1804a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/4ddfe3505c/:  12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
+(FRI-B-1804a)=
+
+[FRI-B-1804a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/4ddfe3505c/ :  12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
 Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 170 of 388](https://www.archion.de/p/4ddfe3505c/)
 

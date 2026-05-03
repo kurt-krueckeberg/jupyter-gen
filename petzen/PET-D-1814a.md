@@ -11,15 +11,16 @@ Ilsabey.**
 
 Ilse Marie Werkmeister, nee Möller, was the mother-in-law of Carl Friedrich
 Gottlieb Krückeberg, who married her daugher, Philippine Eleonore
-Werkmeister, on [13 March 1803.](PET-M-1803a.md)
+Werkmeister, on [13 March 1803](PET-M-1803a.md).
 
 Her husband Heinrich Tönnis Werkmeister [died on 7
-October 1798 at no. 11 Evesen age 59. He was a Leibzüchter. She died at
-age 73 as a Leibzüchterin at n. 11 Evesen.](PET-D-1798a.md)
+October 1798](PET-D-1798a.md) at no. 11 Evesen age 59. He was a Leibzüchter. She died at
+age 73 as a Leibzüchterin at n. 11 Evesen.
 
 The death of Ilse Marie Wermeister, nee Möller, on 26 January 1814, is
-found on [image 285](PET-D-1814a)[Archion images of the Petzen Kirchenbuch volume "Verzeichnis der Getauften,
-Konfirmierten, Getrauten und Gestorbenen 1785-1827".](https://archion.de)
+found on [image 285](#PET-D-1814a) of the [Archion](https://archion.de)
+images of the Petzen Kirchenbuch volume "Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ## Image
 
@@ -76,6 +77,8 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827".](https://archion.de)
 ```
 
 ## Citations
+
+(PET-D-1814a)=
 
 [PET-D-1814a] "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* ([https://www.archion.de/p/11dc0cac05/ : 25 October

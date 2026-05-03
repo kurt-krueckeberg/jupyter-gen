@@ -2,7 +2,7 @@
 
 ## Citation
 
-The birth and baptism of Louise Dorothee Weiland is on [image 115, pages 224 and 225](PET-B-1811a)
+The birth and baptism of Louise Dorothee Weiland is on [image 115, pages 224 and 225](#PET-B-1811a) of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 ## Pages 224 and 225
 
@@ -60,5 +60,7 @@ The birth and baptism of Louise Dorothee Weiland is on [image 115, pages 224 and
 
 ## Citations
 
-[PET-B-1811a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/fa860508cd/: 5 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 115 of 357](https://www.archion.de/p/fa860508cd/)
+(PET-B-1811a)=
+
+[PET-B-1811a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/fa860508cd/ : 5 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 115 of 357](https://www.archion.de/p/fa860508cd/)
 

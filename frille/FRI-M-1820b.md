@@ -3,7 +3,7 @@
 This record is from the
 [Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1815-1830.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003)
+Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003).
 
 ```{image} images/johann-heinrich-philip-bleeke-marriage.png
 :class: image-override
@@ -59,62 +59,36 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
   - Name des Predigers,
     der
     die Kopulation verrichtet.
-* - 
-                  9
-                
-  - 
-                  Johann Hein.
+* - 9
+  - Johann Hein.
     Bleeke
-                
-  - 
-                  Christian
+  - Christian
     Friederick
     Bleeke zu
     No 13 in Leteln
-                
-  - 
-                  22 Jahr
-                
-  - 
-                  Ausdrück-
+  - 22 Jahr
+  - Ausdrück-
     lich und per-
     sönlich
-                
-  - 
-                  Jungge-
+  - Jungge-
     selle
-                
-  - 
-                  Christine
+  - Christine
     Marie Schwier
-                
-  - 
-                  Christian
+  - Christian
     Friederich
     Schwier colonist (farmstead holder)
     No 27 in Wietersheim
-                
-  - 
-                  22 Jahr
-                
-  - 
-                  Stillschwei-
+  - 22 Jahr
+  - Stillschwei-
     gend
-                
-  - 
-                  Unverheÿra-
+  - Unverheÿra-
     thet, aber [von?]
     ihrem Bräutigam
     einen 2 jährigen
     Sohn
-                
-  - 
-                  den neunten
+  - den neunten
     (9) Julius
-                
-  - 
-                  Schütz
-                
+  - Schütz
 ```
 
 ```{list-table} Translation of 1820 Johann Heinrich Philip Bleeke Marriage to Christine Marie Schwier
@@ -155,5 +129,5 @@ Evangelische Gemeinde Frille, Kreis Minden, "Aufgebotene und Getraute im Jahr 18
 Bleeke and Christine Marie Schwier, married 9 July 1820,
 Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
 Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
-Digital images: Landesarchiv NRW, [https://www.archive.nrw.de (accessed 6 December 2025).](https://www.archive.nrw.de)
+Digital images: Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
 

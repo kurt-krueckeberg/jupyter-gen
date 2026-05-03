@@ -10,7 +10,7 @@ Marie Christine Kleinschmidt.
 
 ## Citation
 
-The baptism record is on [image 156, pages 152 and 153](image156)*Taufen
+The baptism record is on [image 156, pages 152 and 153](#image156), of the Windheim Kirchenbuch Volume 4: *Taufen
 1816-1836, Beerdigungen 1816-1827, Beerdigungen 1827-1838, Trauungen 1816-1837, Konfirmationen 1816-1837, Trauungen
 1837-1838 Band 4*.
 
@@ -128,6 +128,8 @@ The translitration of old German script into contemporary latin-based German is 
 
 ## Citations
 
-[image156] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/724fe7aa8f/: 12 October 2024), path: Nordrhein-Westfalen > Landeskirchliches Archiv der Evangelischen Kirche von Westfalen > Kirchenkreis Minden > Windheim > Taufen 1816-1836, Beerdigungen 1816-1827, Beerdigungen 1827-1838, Trauungen 1816-1837, Konfirmationen 1816-1837, Trauungen 1837-1838 Band 4
+(image156)=
+
+[image156] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/724fe7aa8f/ : 12 October 2024), path: Nordrhein-Westfalen > Landeskirchliches Archiv der Evangelischen Kirche von Westfalen > Kirchenkreis Minden > Windheim > Taufen 1816-1836, Beerdigungen 1816-1827, Beerdigungen 1827-1838, Trauungen 1816-1837, Konfirmationen 1816-1837, Trauungen 1837-1838 Band 4
 > Image 156 of 480](https://www.archion.de/p/724fe7aa8f/)
 

@@ -3,7 +3,7 @@
 This record is from the
 [Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1831-1845.](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763)
+Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763).
 
 ```{image} images/carl-f-bleeke/christine-friederike-marie-leonore-bleeke-1835-birth.png
 :class: image-override
@@ -44,48 +44,28 @@ Translation of page header: **Births and Baptims in 1835**.
   - Namen des Predigers,
     der es getauft.
   - Name der Taufzeugen
-* - 
-                  8
-                
-  - 
-                  Christine Friedrike
+* - 8
+  - Christine Friedrike
     Marie Leonoe Blee-
     ke
-                
-  - 
-                  Zwanzigsten (20) Febru-
+  - Zwanzigsten (20) Febru-
     ar Abds sieben (7)
     Uhr in Leeteln
-                
-  - 
-                  Ehelich
-                
-  - 
-                  Carl Friedrich Blee-
+  - Ehelich
+  - Carl Friedrich Blee-
     ke Col. v. No. 13
     in Leeteln
-                
-  - 
-                  Marie Luise geb.
+  - Marie Luise geb.
     Niemann aus
     Todtenhasuen
-                
-  - 
-                  Leeteln
-                
-  - 
-                  Einsten (1)
+  - Leeteln
+  - Einsten (1)
     März
-                
-  - 
-                  Schütz
-                
-  - 
-                  Friederike Wehmeÿer
+  - Schütz
+  - Friederike Wehmeÿer
     Maire Siemon
     Leonore Meÿer
     Leonore v. Behrend
-                
 ```
 
 ```{list-table} Translation of Christine Friederike Marie Leonore Bleeke 1835 Birth

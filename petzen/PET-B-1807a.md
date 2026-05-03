@@ -18,7 +18,7 @@
 ```{important}
 **†** — Carl Friedrich Krückeberg’s mother’s maiden name was **Werkmeister**.
 It was not **Bleeke**. Part of the explanation is
-[here.](../ancestry/proof-arg-philippine-eleonore-werkmeister.md)
+[here](../ancestry/proof-arg-philippine-eleonore-werkmeister.md).
 
 The mother of Philippine Eleonore Werkmesiter was Ilse Marie nee Möller, who
 had two marriages. The first was to Johann Heinrich Bleke, on 18
@@ -26,8 +26,8 @@ Februray 1770, with whom she had three daughters.
 
 When Johann Heinrich Bleke died in 1779, she married Heinrich Tönnis Werkmeister
 in 1780, and they had a daughter, Philippine Eleonore Werkmeister, who was
-[baptized on 4 May 1783. This was Carl
-Friedrich Krückeberg’s mother.](PET-B-1783a.md)
+[baptized on 4 May 1783](PET-B-1783a.md). This was Carl
+Friedrich Krückeberg’s mother.
 ```
 
 ```{list-table} Child Facts
@@ -91,21 +91,21 @@ The baptism sponsor,Hans Heinrich Wilharm of no. 11 Evesen, was Carl
 Friedrich Gottlieb’s brother-in-law. Technically he was his half
 brother-in-law. Here briefly is the explanation.
 
-Hans Heinrich Wilharm was born on [27 August 1760. On
-May 8, 1796, he](PET-B-1760a.md)[married Anne Marie Philippine
-Blecke, who lived at no. 11 Evesen. Her mother was Ilse Marie Möller, who
+Hans Heinrich Wilharm was born on [27 August 1760](PET-B-1760a.md). On
+May 8, 1796, he [married Anne Marie Philippine
+Blecke](PET-M-1796a.md), who lived at no. 11 Evesen. Her mother was Ilse Marie Möller, who
 married Johann Heinrich Bleke of no. 11 Evesen on 18 February 1770.
 Together they had three daughters together, the first daughter was Anne
 Marie Philippine Blecke, who was born on 11 July 1773. She married Hans
-Heinrich Wilharm on](PET-M-1796a.md)[27 August 1797.](PET-M-1797a.md)
+Heinrich Wilharm on [27 August 1797](PET-M-1797a.md).
 
-She [died on 11 April 1797, the day after their
-child, Hans Heinrich Wilharm was](PET-D-1797a.md)[born on 10 April
-1779.](PET-B-1797a.md)
+She [died on 11 April 1797](PET-D-1797a.md), the day after their
+child, Hans Heinrich Wilharm was [born on 10 April
+1779](PET-B-1797a.md).
 
 After Hans Heinrich Wilharms first wife, Anne Marie Philippine Blecke died,
 he married her sister, Sophie Ernestine Blecke, on [27
-August 1797.](PET-M-1797a.md)
+August 1797](PET-M-1797a.md).
 
 As mentioned earlier, the mother of both wives (the two Blecke sisters) of
 Hans Heinrich Wilharm was Ilse Marie Möller. Her husband Johann Heinrich
@@ -113,7 +113,7 @@ Bleeke was the father of both of the Blecke sisters who married Hans
 Heinrich Wilharm. He died in 1779, and she remarried, on 11 June 1780, to
 Heinrich Tönnis Werkmeister. Their daughter, born 4 May 1883, was
 Philippine Eleonore Werkmeister, who married Carl Friedrich Gottlieb
-Krückeberg on [13 March 1803.](PET-M-1803a.md)
+Krückeberg on [13 March 1803](PET-M-1803a.md).
 
 Thus Carl Friedrich Gottlieb Krückeberg’s mother-in-law, Ilse Marie nee
 Möller, was also the mother-in-law of Hans Heinrich Wilharm.
@@ -144,7 +144,9 @@ Colon/householder of No. 14 in Berenbusch.
 
 ## Citation
 
-The birth and baptism of Carl Friedrich Krückeberg is [on image 96, pages 186 and 187, entry 20,](PET-B-1807a)[Archion.de database of Kirchbücher digital images.](https://www.archion.de)
+The birth and baptism of Carl Friedrich Krückeberg is [on image 96, pages 186 and 187, entry 20,](#PET-B-1807a) of
+Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827" from the
+[Archion.de](https://www.archion.de) database of Kirchbücher digital images.
 
 ## Image of Pages 186 and 187
 
@@ -214,7 +216,7 @@ Translation of Header for Pages 186 and 187
 
 ```{note}
 As mentioned above, the maiden name **Bleeken** is in error in the church register. It should be **Werkmeister**. See the explanation
-[here.](../ancestry/proof-arg-philippine-eleonore-werkmeister.md)
+[here](../ancestry/proof-arg-philippine-eleonore-werkmeister.md).
 ```
 
 ```{list-table} Carl Friedrich Krückeberg Baptism
@@ -248,5 +250,7 @@ As mentioned above, the maiden name **Bleeken** is in error in the church regist
 
 ## Citations
 
-[PET-B-1807a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/4af33a94aa/: 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 96 of 357](http://www.archion.de/p/4af33a94aa/)
+(PET-B-1807a)=
+
+[PET-B-1807a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/4af33a94aa/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 96 of 357](http://www.archion.de/p/4af33a94aa/)
 

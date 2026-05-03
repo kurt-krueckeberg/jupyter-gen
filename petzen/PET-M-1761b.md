@@ -24,7 +24,8 @@
 ## Citation
 
 The June 28, 1761, marriage of Friedrich Wilhelm Weiland to Anna Ilsabei
-Deierberg on [image 52](PET-M-1761b)
+Deierberg on [image 52](#PET-M-1761b), the bottom of theright-hand page, of the
+Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
 ## Image of Marriage Record
 
@@ -54,8 +55,10 @@ the 28th June Friedrich Wilhelm Weiland from [Evesen]
 
 ## Citations
 
+(PET-M-1761b)=
+
 [PET-M-1761b] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/19a89943e7/: 24  Jan.
+with images, *Archion* ([https://www.archion.de/p/19a89943e7/ : 24  Jan.
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 52 of 239](https://www.archion.de/p/19a89943e7/)

@@ -91,7 +91,9 @@
 
 On 1 December 1816 Christine Louise Krückeberg, daughter of Johann Heinrich
 Krückeberg, married Johann Heinrich Klöpper.
-This marriage is found on [image 339, on pages 704 and 705](PET-M-1816a)
+This marriage is found on [image 339, on pages 704 and 705](#PET-M-1816a) in the
+Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen 1785-1827.
 
 ## Pages 704 and 705
 
@@ -116,7 +118,6 @@ Transliteration of pages 704 and 705 header
 The address of the bride is not actually given, only the adrress of her later father. She is described as:
 
 ```{code-block} text
-:class: bordered
 
 Maiden Christine Louise Krückebergs, the surving daugher of the late Johann Heinrich Krückeberg n. 19 in Evesen
 ```
@@ -146,7 +147,9 @@ Maiden Christine Louise Krückebergs, the surving daugher of the late Johann Hei
 
 On 1 December 1816 Christine Louise Krückeberg, daughter of Johann Heinrich
 Krückeberg, married Johann Heinrich Klöpper.
-This marriage is found on [image 339, on pages 704 and 705](PET-M-1816a)
+This marriage is found on [image 339, on pages 704 and 705](#PET-M-1816a) in the
+Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen 1785-1827.
 
 ## Pages 704 and 705
 
@@ -222,6 +225,8 @@ Transliteration of pages 704 and 705 header
 
 ## Citations
 
-[PET-M-1816a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/39e8241151/: 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+(PET-M-1816a)=
+
+[PET-M-1816a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/39e8241151/ : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 3397 of 357](http://www.archion.de/p/39e8241151/)
 

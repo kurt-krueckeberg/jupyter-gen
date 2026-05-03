@@ -15,7 +15,8 @@
 
 ## Citation
 
-The confirmation of Johanne Söphie Carlotte Krückeberg, in 1795, on the 2nd Sunday after Easter, is on [page 409](PET-C-1795a)
+The confirmation of Johanne Söphie Carlotte Krückeberg, in 1795, on the 2nd Sunday after Easter, is on [page 409](#PET-C-1795a), entry 2, Petzen Kirchenbuch:
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 ## Page 407, Knaben and Start of Mädchen
 
@@ -84,6 +85,8 @@ II. Girls
 
 ## Citations
 
-[PET-C-1795a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/f37a22ec43/: 10 October 2023),
+(PET-C-1795a)=
+
+[PET-C-1795a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/f37a22ec43/ : 10 October 2023),
 path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 192 of 357](https://www.archion.de/p/f37a22ec43/)
 

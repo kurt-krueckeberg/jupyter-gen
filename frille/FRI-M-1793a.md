@@ -2,7 +2,8 @@
 
 ## Citation
 
-Christian Fridrich Bleeke’s marriage in 1793 to Anne Margarthe Volckening is on [image 202, page 53](image202)
+Christian Fridrich Bleeke’s marriage in 1793 to Anne Margarthe Volckening is on [image 202, page 53](#FRI-M-1793a) of the listing of Copulierte
+(marriages) in the Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ".
 
 ## Image
 
@@ -45,6 +46,8 @@ are the Latin words starting with juv that Thode’s German-English Genealogical
 
 ## Citations
 
-[FRI-M-1793a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/f23f58a974/: 15 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
+(FRI-M-1793a)=
+
+[FRI-M-1793a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/f23f58a974/ : 15 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
 Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 202 of 388](https://www.archion.de/p/f23f58a974/)
 

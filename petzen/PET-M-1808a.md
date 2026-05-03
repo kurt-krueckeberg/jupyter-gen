@@ -9,7 +9,7 @@ What remains is written between them and is quite small.
 
 ## Reference
 
-This marriage is on the [17th image on Archion](PET-M-1808a)
+This marriage is on the [17th image on Archion](#PET-M-1808a) of Petzen Kirchenbuch volume 2.
 
 ## Jobst Heinrich Weiland 1808
 
@@ -64,11 +64,8 @@ Translation of header for pages 28 and 29
   - **Kopulations
     Zeungen**
   - **Bemerkungen**
-* - 
-                  3.
-                
-  - 
-                  Jobst Heinrich Weiland
+* - 3.
+  - Jobst Heinrich Weiland
     Luth Conf ein Witwe
     und Haus L[ir?] aus No. 28
     in Röcke und dritter ehelicher
@@ -77,9 +74,7 @@ Translation of header for pages 28 and 29
     Weiland Einlieger aus
     Nr. 21. in Evesen, jetzt
     48 Jahr alt.
-                
-  - 
-                  Marie
+  - Marie
     Elisabeth Raulfing
     des Albrecht Heinrich
     Raulfing, Einlieger
@@ -87,34 +82,24 @@ Translation of header for pages 28 and 29
     Meiers aus Schein
     eheliche Tochter jetzt
     45 Jahr alt
-                
-  - 
-                  Sind in der
+  - Sind in der
     Kirche zu Petzen
     proclamiert
     d.6ten 7ten 8ten
     p.[uncertain]
-                
-  - 
-                  u. Kopulirt
+  - u. Kopulirt
     d. 21ten Septbr
     in der Kirche
     zu Petzen
-                
-  - 
-                  von dem
+  - von dem
     zeitigen Pre
     diger
-                
-  - 
-                  In Gegen-
+  - In Gegen-
     wart der
     Beichenden
     u. des Küsters
     Crömer
-                
-  - 
-                  der Bräutigam
+  - der Bräutigam
     hat [??] 19 Jahren
     mit der Braut eine
     uneheliche Tochter
@@ -123,7 +108,6 @@ Translation of header for pages 28 and 29
     noch jetzt am Leben
     ist. [unclear phrases] Wilkening
     [??] 27 in Röcke
-                
 ```
 
 ```{list-table} column headers and marriage entry No. 3
@@ -142,11 +126,8 @@ Translation of header for pages 28 and 29
     ating Pastor**
   - **Marriage Witnesses**
   - **Remarks**
-* - 
-                  3.
-                
-  - 
-                  Jobst Heinrich Weiland
+* - 3.
+  - Jobst Heinrich Weiland
     Luth Conf a widower
     and [landlord] from No. 28
     in Röcke und third legitimate
@@ -155,9 +136,7 @@ Translation of header for pages 28 and 29
     Weiland free farm laborer from
     Nr. 21. in Evesen, now
     48 years old
-                
-  - 
-                  Marie
+  - Marie
     Elisabeth Raulfing 45
     years old the legitimate
     daughter of Albrecht
@@ -166,44 +145,35 @@ Translation of header for pages 28 and 29
     in Petzen and Charlotte
     Meier
     from Schein
-                
-  - 
-                  proclaimed in the
+  - proclaimed in the
     church at Petzen
     the 6th, 7th
     8th
     p. [uncertain]
-                
-  - 
-                  and married
+  - and married
     the 21th Septbr
     in the chruch
     at Petzen
-                
-  - 
-                  by the current
+  - by the current
     pastor
-                
-  - 
-                  in the
+  - in the
     presence of the
     confessing and
     the parish clerk
     Crömer
-                
-  - 
-                  the groom [at] age 19
+  - the groom [at] age 19
     sired a illegitimate
     daughter with the bride,
     named Philippine, who
     still now is
     alive. [unclear phrase] Wilkening
     27 in Röcke
-                
 ```
 
 ## Citations
 
-[PET-M-1808a] "Archion Protestant Kirchenbücher Portal", database with images, ([http://www.archion.de/p/851f901e19/: 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+(PET-M-1808a)=
+
+[PET-M-1808a] "Archion Protestant Kirchenbücher Portal", database with images, ([http://www.archion.de/p/851f901e19/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 17 of 357](http://www.archion.de/p/851f901e19/)
 

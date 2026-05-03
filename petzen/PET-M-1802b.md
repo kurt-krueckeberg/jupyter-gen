@@ -38,7 +38,8 @@ This is exactly what we expect after an **inter vivos Übergabe** (handover duri
 ## Citation
 
 The marriage occurred on April 11, 1802. It is [entry 10,
-page 19, on image 12](PET-M-1802b)
+page 19, on image 12](#PET-M-1802b) of Petzen Kirchenbuch Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 ## Page 19
 
@@ -64,8 +65,8 @@ the church regsiter.
 ```{important}
 The word "geschwächt" is ambigous in the image, but it does resemble in its
 wording another marriage record where **geschwächt** is clearer, that of
-[petzen:PET-M-1804a.xml. While "geschwächt" means "weakened", the
-sense is idomatic. It refers to premartial sexual relations.](PET-M-1804a.md)
+[petzen:PET-M-1804a.xml](PET-M-1804a.md). While "geschwächt" means "weakened", the
+sense is idomatic. It refers to premartial sexual relations.
 ```
 
 ```{list-table} Johann Heinrich Krückeberg Marriage, on 11 April 1802, entry number 10, page 19:
@@ -108,8 +109,10 @@ sense is idomatic. It refers to premartial sexual relations.](PET-M-1804a.md)
 
 ## Citations
 
+(PET-M-1802b)=
+
 [PET-M-1802b] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([http://www.archion.de/p/670cfbbaf6/: 22
+with images, *Archion* ([http://www.archion.de/p/670cfbbaf6/ : 22
 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
 Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und

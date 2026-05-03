@@ -2,7 +2,8 @@
 
 ## Citation
 
-The baptism of Hand Heinrich Weiland is on [image 1153](PET-B-1736b)
+The baptism of Hand Heinrich Weiland is on [image 1153](#PET-B-1736b), left-hand page, third to last entry, of the
+"Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 ## Baptism Record
 
@@ -33,7 +34,9 @@ Heinrich. Godfater Hardtung from Evesen shepherd. Weiland [M?]ön[ck]hof
 
 ## Citations
 
-[PET-B-1736b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/b55d55f890/: 12 May 2025),
+(PET-B-1736b)=
+
+[PET-B-1736b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/b55d55f890/ : 12 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 153 of 322, left hand page, 3](https://www.archion.de/p/b55d55f890/)rd entry.
 

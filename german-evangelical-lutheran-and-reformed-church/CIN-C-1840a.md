@@ -1,6 +1,7 @@
 # 1840 Carl Freidrich Wilhelm Bleeke Confirmation
 
-The confirmation is recorded on [page 172, of the PDF of volume 1](page172)
+The confirmation is recorded on [page 172, of the PDF of volume 1](#page172), of the Kirchenbuch of the
+Deutsche Evangelisch-Lutherische und Reformierte Kirche (North German Lutheran Church) of Cincinnati.
 
 ```{image} images/vol1-page172.jpg
 :class: image-override
@@ -27,9 +28,7 @@ Its translation:
 
 * - I Knaben
   - II Mädchen
-* - 
-                3. Carl, Friedr. Wilh. Bleeke.
-              
+* - 3. Carl, Friedr. Wilh. Bleeke.
   - 
 ```
 
@@ -38,15 +37,15 @@ Its translation:
 
 * - I boys
   - II girls
-* - 
-                3. Carl, Friedr. Wilh. Bleeke.
-              
+* - 3. Carl, Friedr. Wilh. Bleeke.
   - 
 ```
 
 ## References
 
+(page172)=
+
 [page172] German Evangelical Lutheran and Reformed Church(Nord deutschlische lutheranische Kirche), 1814-1848. Kirchenbuch 1814-1848, Volume 1.
-([http://hdl.handle.net/2374.UC/753629: 25 February 2025), path: The Archives and Rare Books Library, University of Cincinnati > Third German Protestant Church Records >
+([http://hdl.handle.net/2374.UC/753629 : 25 February 2025), path: The Archives and Rare Books Library, University of Cincinnati > Third German Protestant Church Records >
 German Evangelical Lutheran and Reformed Church, 1814-1848 >  page 172 of PDF](http://hdl.handle.net/2374.UC/753629)
 
