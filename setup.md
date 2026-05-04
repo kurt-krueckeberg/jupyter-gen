@@ -6,20 +6,27 @@ In a python virtual environment do:
 
 ```bash
 pip install "jupyter-book>=2.0.0"
+```
+
+If this is the a brand new project, do
+
+```bash
 jupyter book init
 ```
 
-Alter `mystl.yml`. See [Configuring your project](https://jupyterbook.org/stable/get-started/init/).
+Alter `mystl.yml` according toe [configuring your project](https://jupyterbook.org/stable/get-started/init/).
 
 ## `_static` changes
 
 The CSS code to increase the content area width and to add shadow borders
 to images is in `_static/css/overrides.css`.
 
+**Note:** There is also a way to automatically stle `<img>` tags using a
+mystl.yml setting.
+
 The sites logo is in the .svg files in `_static`.
 
-
-## How to View Built html Website
+## How to View Built HTML Website
 
 ```bash
 ~/jup main ❯ jupyter book build --hml
@@ -35,9 +42,93 @@ cd ~/jupyter-gen/_build/html
 python3 -m http.server 8000
 ```
 
-## Altering the Book Theme's Default Behavior
+## Make Images Clickable by Altering the Book Theme's Default Behavior
 
 See the [setup document](./setup.md)
+
+### Clone, Alter and Build MyST/JB2 Theme 
+
+1. Clone and build do the `npm run build`.
+
+```bash
+cd ~
+git clone https://github.com/jupyter-book/myst-theme.git
+cd ~/myst-theme
+npm install
+npm run build
+```
+
+2. Change a book theme file.
+
+The .adoc to .md converter `convert2jupbook2.py` added the class
+**image-override** to every image directive:
+
+``` {figure}
+:class: image-override
+```
+
+which this new version of the theme file below will detect.
+
+```bash
+# 3. Replace the contents of entry.client.tsx with the working code
+cat > ~/myst-theme/themes/book/app/entry.client.tsx <<'EOF'
+import { RemixBrowser } from '@remix-run/react';
+import { startTransition, StrictMode } from 'react';
+import { hydrateRoot } from 'react-dom/client';
+
+function initImageOverrideClicks() {
+  document.addEventListener('click', (event) => {
+    const target = event.target;
+    if (!(target instanceof Element)) return;
+
+    const img = target.closest(
+      'img.image-override, figure.image-override img, .image-override img'
+    ) as HTMLImageElement | null;
+
+    if (!img) return;
+
+    if (img.closest('a')) return;
+
+    const src = img.currentSrc || img.getAttribute('src');
+    if (!src) return;
+
+    window.open(src, '_blank', 'noopener,noreferrer');
+  });
+}
+
+function hydrate() {
+  startTransition(() => {
+    hydrateRoot(
+      document,
+      <StrictMode>
+        <RemixBrowser />
+      </StrictMode>,
+    );
+
+    initImageOverrideClicks();
+  });
+}
+
+if (window.requestIdleCallback) {
+  window.requestIdleCallback(hydrate);
+} else {
+  window.setTimeout(hydrate, 1);
+}
+EOF
+```
+
+3. Build the theme.
+
+```bash
+make build-book
+```
+
+4. Update the `mystl.yml` to use the local book theme by adding this:
+
+```yml
+site:
+  template: ../myst-theme/.deploy/book/template.yml
+```
 
 ## Referencing Other Jupyter Book 2 Sites
 
