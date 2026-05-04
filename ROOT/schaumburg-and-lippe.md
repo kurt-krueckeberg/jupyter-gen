@@ -1,2 +1,0 @@
-# Schaumburg and Schaumburg-Lippe
-
