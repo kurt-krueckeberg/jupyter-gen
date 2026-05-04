@@ -13,8 +13,8 @@ Marriage Banns or proclamations were announcements of an impending marriage betw
 
 ## Brief Notes on Gothic Script
 
-Chapter one of [Dechiphering Handingwriting in German Documents discusses German gothic script in depth. It is indispensible.
-For example, he mentions the gothic](https://rpmgrtpublications.wixsite.com/mysite-2)**R** and **K** displayed below in their canonical form
+Chapter one of [Dechiphering Handingwriting in German Documents](https://rpmgrtpublications.wixsite.com/mysite-2) discusses German gothic script in depth. It is indispensible.
+For example, he mentions the gothic **R** and **K** displayed below in their canonical form
 
 R and K
 
@@ -24,7 +24,7 @@ can be hard to distinguish, but it is very uncommon for **R** to start a word.
 
 - The + symbol denotes a death date.
 - Eod em means *on the same day* as the entry above.
-- The embellished Gothic d (ending in an elaborate descending inward loop) often appears immediately after the line number and preceding a date — as in the entries in the *Marriage Entry 3* figure [below](image3)
+- The embellished Gothic d (ending in an elaborate descending inward loop) often appears immediately after the line number and preceding a date — as in the entries in the *Marriage Entry 3* figure [below](image3). It means "den (the)".
 
 ### Differences in Spelling
 

@@ -1,0 +1,21 @@
+# Social-Historical Background
+
+## Books
+
+- Schmöe, Hermann. *800 Jahre Kirchspiel Petzen: Berenbusch, Evesen, Nordholz, Petzen, Röcke 1181-1981* (English title
+translation: "800 Years of the Parish of Petzen : Berenbusch, Evesen, Nordholz, Petzen, Röcke 1181–1981"), Library holdings:
+Niedersächsische Landesbibliothek, Hannover]
+- [Pictures of German Life in the
+Eighteenth and Nineteenth Centuries, vol. 1](https://www.gutenberg.org/ebooks/33818), Gustav Freytag, Translated by Mrs. Malcolm, on Gutenberg.org
+- [Pictures of German Life in the
+Eighteenth and Nineteenth Centuries, vol. 2](https://www.gutenberg.org/ebooks/33819), Gustav Freytag, Translated by Mrs. Malcolm, on Gutenberg.org
+
+## de.wikipedia.org
+
+[Schaumburg-Lippe](https://de.wikipedia.org/wiki/Schaumburg-Lippe).
+
+## Articles
+
+[From Peasant Society to Class Society: Some Aspects of Family and
+Class in a Northwest German Protoindustrial Parish, 17th-19th Centuries](https://doi.org/10.1177/036319909201700205), Journal of Family History, Vol. 17, Issue 2, April 1992.
+
