@@ -272,6 +272,9 @@ project:
         - file: petzen/PET-M-1797a.md
         - file: petzen/PET-B-1798c.md
         - file: petzen/PET-B-1810a.md
+
+    - file: ancestry/proof-arg-philippine-eleonore-werkmeister.md
+        
 #  exports:
 #    - format: pdf
 #      template: lapreprint-typst
