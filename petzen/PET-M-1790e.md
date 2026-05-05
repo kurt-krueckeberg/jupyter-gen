@@ -2,7 +2,7 @@
 
 ## Citation
 
-The marriage entry for  Anna Maria Weiland is on the [image 6, page 6, entry 8](image6-page7) of Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+The marriage entry for  Anna Maria Weiland is on the [image 6, page 6, entry 8](#image6-page7) of Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ```{image} images/petzen-band2-img6-page7.jpg
 :class: image-override
