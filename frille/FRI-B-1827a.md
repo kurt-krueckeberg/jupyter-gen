@@ -95,5 +95,5 @@ Translation of page header: **Births and Baptisms in the year 1827**.
 Evangelische Gemeinde Frille, Kreis Minden, "Geborne und Getaufte im Jahr 1827" [sic.], entry #49 for Christine Luise Bleeke,
 born 19 Dec. 1827, Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
 Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
-Digital images: Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
+Digital images: Landesarchiv NRW, [www.archive.nrw](https://www.archive.nrw.de) (accessed 6 December 2025).
 

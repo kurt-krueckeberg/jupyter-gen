@@ -176,8 +176,7 @@ Translation of Page Header
 ## Citations
 
 (PET-D-1822b)=
-
-[PET-D-1822b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/591dfa54f9/ :
+[PET-D-1822b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/591dfa54f9/) :
 25 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
-Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 314 of 357](http://www.archion.de/p/591dfa54f9/)
+Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 314 of 357
 

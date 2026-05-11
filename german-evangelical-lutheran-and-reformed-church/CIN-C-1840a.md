@@ -44,8 +44,7 @@ Its translation:
 ## References
 
 (page172)=
-
 [page172] German Evangelical Lutheran and Reformed Church(Nord deutschlische lutheranische Kirche), 1814-1848. Kirchenbuch 1814-1848, Volume 1.
-([http://hdl.handle.net/2374.UC/753629 : 25 February 2025), path: The Archives and Rare Books Library, University of Cincinnati > Third German Protestant Church Records >
-German Evangelical Lutheran and Reformed Church, 1814-1848 >  page 172 of PDF](http://hdl.handle.net/2374.UC/753629)
+([http:753629](http://hdl.handle.net/2374.UC/753629) : 25 February 2025), path: The Archives and Rare Books Library, University of Cincinnati > Third German Protestant Church Records >
+German Evangelical Lutheran and Reformed Church, 1814-1848 >  page 172 of PDF
 

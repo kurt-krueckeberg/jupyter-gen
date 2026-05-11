@@ -234,7 +234,6 @@ See this more detailed explantion: [What is a Lieftucht/Leibzucht?](https://chri
 ## Citations
 
 (PET-M-1812a)=
-
-[PET-M-1812a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/e8f8a097b9/ : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
-Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 27 of 357](http://www.archion.de/p/e8f8a097b9/)
+[PET-M-1812a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/e8f8a097b9/) : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 27 of 357
 

@@ -23,8 +23,7 @@ The marriage of Johann Heinrich Weiland shown occurred on 17 October 1790:
 ## Citations
 
 (PET-M-1790d)=
-
-[PET-M-1790d] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/68ee336254/ : 22 September 2023), path: Niedersachsen >
+[PET-M-1790d] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/68ee336254/) : 22 September 2023), path: Niedersachsen >
 Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und
-Gestorbenen 1785-1827 > Image 6 of 357](http://www.archion.de/p/68ee336254/)
+Gestorbenen 1785-1827 > Image 6 of 357
 

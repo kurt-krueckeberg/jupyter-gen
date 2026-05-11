@@ -27,7 +27,7 @@ getauft. Geb[Gev]. des Schäffers von der Höchersau Ehefrau
 ```
 
 ```{note}
-See [petzen:PET-B-1775c.xml](PET-B-1775c.md) for an explanation of **Höckersau**.
+See [1775 Anna Ilsa Margaretha Blecken Baptism](PET-B-1775c.md) for an explanation of **Höckersau**.
 ```
 
 Translation
@@ -41,11 +41,10 @@ was baptized. Godmother the wife of the shepherd of the Höchersau.
 ## Citations
 
 (PET-B-1716a)=
-
 [PET-B-1716a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/430f6ba187/ : 5 May
+with images, *Archion* (<https://www.archion.de/p/430f6ba187/> : 5 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 124 of 322,
-left hand page, 3](https://www.archion.de/p/430f6ba187/)rd entry from top.
+left hand page, 3rd entry from top.
 

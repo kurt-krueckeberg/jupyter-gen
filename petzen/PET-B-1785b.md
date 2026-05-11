@@ -35,6 +35,5 @@ The stillborn son of Johann Heinrich Weiland’s is on [image 34 page 63 on Arch
 ## Citations
 
 (PET-B-1785b)=
-
-[PET-B-1785b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/268214a4fd/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 34 of 357](http://www.archion.de/p/268214a4fd/)
+[PET-B-1785b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/268214a4fd/) : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 34 of 357
 

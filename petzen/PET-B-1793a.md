@@ -96,12 +96,10 @@ Female sponsors are [together?]
 ## Citations
 
 (PET-B-1793a-1)=
-
-[PET-B-1793a-1] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/f40c1c2ef5/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
-Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 59 of 357](http://www.archion.de/p/f40c1c2ef5/)
+[PET-B-1793a-1] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/f40c1c2ef5/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 59 of 357
 
 (PET-B-1793a-2)=
-
-[PET-B-1793a-2] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/de6854339c/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
-Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 59 of 357](https://www.archion.de/p/de6854339c/)
+[PET-B-1793a-2] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/de6854339c/> : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 59 of 357
 

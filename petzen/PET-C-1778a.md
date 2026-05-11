@@ -50,10 +50,9 @@ Page Header and Confimation Entry no. 2 for Jobst Heinrich Krückeberg
 ## Citations
 
 (PET-C-1778a)=
-
 [PET-C-1778a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([http://www.archion.de/p/d45f414805/: 22 September
+with images, *Archion* ([http:.md](http://www.archion.de/p/d45f414805/): 22 September
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 319 of 322](http://www.archion.de/p/d45f414805/)
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 319 of 322
 

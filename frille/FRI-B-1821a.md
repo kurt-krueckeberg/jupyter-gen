@@ -101,5 +101,5 @@ Translation of page header: **Born and Baptized in the year 1821**.
 “Evangelische Gemeinde Frille, Kreis Minden, Gebohrne im Jahre 1821 in Kirchspiel Frille” [sic],
 entry #15, Christian Friederich Bleeke, 7 May 1821, Kirchenbuchduplikat, B 168 (GHT 1815–1830),
 Personenstandsarchiv Westfalen-Lippe, Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
-Digital images: Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
+Digital images: Landesarchiv NRW, [www.archive.nrw](https://www.archive.nrw.de) (accessed 6 December 2025).
 

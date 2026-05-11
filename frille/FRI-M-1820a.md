@@ -128,5 +128,5 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
 Evangelische Gemeinde Frille, Kreis Minden, "Aufgebotene und Getraute im Jahr 1820", entry #4 for Carl Friederich Bleeke
 and Marie Luise Niemann, married 12 March 1820, Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv
 Westfalen-Lippe, Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold. Digital images:
-Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
+Landesarchiv NRW, [www.archive.nrw](https://www.archive.nrw.de) (accessed 6 December 2025).
 

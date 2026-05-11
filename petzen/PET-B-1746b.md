@@ -68,10 +68,9 @@ daughter from Scheye
 ## Citations
 
 (PET-B-1746a)=
-
 [PET-B-1746a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/33af16da2f/ : 30 April
+with images, *Archion* (<https://www.archion.de/p/33af16da2f/> : 30 April
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 174 of 322](https://www.archion.de/p/33af16da2f/)
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 174 of 322
 

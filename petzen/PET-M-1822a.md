@@ -155,8 +155,7 @@ people and too little land to go around.
 ## Citations
 
 (PET-M-1822a)=
-
 [PET-M-1822a] "Archion Protestant Kirchenbücher Portal", database with images,
-[http://www.archion.de/p/de1fdbc46c/ : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
- Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 3487 of 357](http://www.archion.de/p/de1fdbc46c/)
+[http:.md](http://www.archion.de/p/de1fdbc46c/) : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+ Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 3487 of 357
 

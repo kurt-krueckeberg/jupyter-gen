@@ -30,7 +30,6 @@ What does it stand for? There is no key or legend to consult.
 ## Citations
 
 (FRI-D-1800a)=
-
-[FRI-D-1800a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/2b8cceb2e2/ :  12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
-Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 331 of 388](https://www.archion.de/p/2b8cceb2e2/)
+[FRI-D-1800a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/2b8cceb2e2/> :  12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
+Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 331 of 388
 

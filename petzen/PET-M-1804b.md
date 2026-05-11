@@ -3,8 +3,7 @@
 ## Citation
 
 The 2 December 1808 marriage of Fridrich Weyland of Evesen no. 20 to
-Catharine Margaretha Drinkuth is found on [image 13, page 20,
-entry 7,](#PET-M-1804b) of the Petzen Kirchenbuch volume "Verzeichnis der Getauften,
+Catharine Margaretha Drinkuth is found on [image 13, page 20, entry 7,](#PET-M-1804b) of the Petzen Kirchenbuch volume "Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ## Images
@@ -60,11 +59,10 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 ## Citations
 
 (PET-M-1804b)=
-
 [PET-M-1804b] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([http://www.archion.de/p/de7d21d33d/ : 22
+with images, *Archion* ([http:.md](http://www.archion.de/p/de7d21d33d/) : 22
 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
 Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und
-Gestorbenen 1785-1827 > Image 13 of 357](http://www.archion.de/p/de7d21d33d/)
+Gestorbenen 1785-1827 > Image 13 of 357
 

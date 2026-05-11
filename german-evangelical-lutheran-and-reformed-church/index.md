@@ -16,7 +16,7 @@ TODO: add transliteration and translation of the page’s text.
 
 Two pieces of information link the Johann Heinrich Philip Bleeke family that settled in Adams County to the name of their church
 in Cincinnati Ohio. First, the name of their pastor in Cincinnati is mentioned in the Immaunel Lutheran, Decatur, Indiana,
-[biography]({external+immanuel:doc}`ROOT/DEC-BIO-Bleeke-01`) of Johann Heinrich Philip Bleeke, who was one of its founders. This pastor was
+{external+immanuel:doc}`biography <ROOT/DEC-BIO-Bleeke-01>` of Johann Heinrich Philip Bleeke, who was one of its founders. This pastor was
 Möllmann, and he appears in a article on the Hamilton County, Ohio, Genealogical Society’s website entitled
 [Genealogy
 of Some German Evangelical Churches in Cincinnati, Ohio](https://hcgsohio.org/upload/files/Local%20Records/Church%20Records/Rau_GENEALOGY_OF_SOME_GERMAN_EVANGELICAL_Churches_in_Cincy_and_history.pdf) written by Robert C. Rau:
@@ -33,7 +33,7 @@ of Some German Evangelical Churches in Cincinnati, Ohio](https://hcgsohio.org/up
 > --  Robert C. Rau
 > Genealogy of Some German Evangelical Churches in Cincinnati
 
-The aforementioned [biography]({external+immanuel:doc}`ROOT/DEC-BIO-Bleeke-01`) of Johann Heinrich Philip Bleeke mentions the
+The aforementioned {external+immanuel:doc}`biography <ROOT/DEC-BIO-Bleeke-01>` of Johann Heinrich Philip Bleeke mentions the
 names of two pastors in Cincinnati, Möllmann and Lauer:
 
 - his son Carl Fridrich Wilhelm, born 30 November 1825, was: "confirmiert um Ostern 1840 on Past. Möllmann in

@@ -176,6 +176,5 @@ This seems to be the date of his death, and it is likely prefixed with **ges** f
 ## Citations
 
 (PET-B-1812b)=
-
-[PET-B-1812b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/466353a0e4/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 125 of 357](https://www.archion.de/p/466353a0e4/)
+[PET-B-1812b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/466353a0e4/> : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 125 of 357
 

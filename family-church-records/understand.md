@@ -24,7 +24,7 @@ can be hard to distinguish, but it is very uncommon for **R** to start a word.
 
 - The + symbol denotes a death date.
 - Eod em means *on the same day* as the entry above.
-- The embellished Gothic d (ending in an elaborate descending inward loop) often appears immediately after the line number and preceding a date — as in the entries in the *Marriage Entry 3* figure [below](image3). It means "den (the)".
+- The embellished Gothic d (ending in an elaborate descending inward loop) often appears immediately after the line number and preceding a date — as in the entries in the *Marriage Entry 3* figure [below](#image3). It means "den (the)".
 
 ### Differences in Spelling
 

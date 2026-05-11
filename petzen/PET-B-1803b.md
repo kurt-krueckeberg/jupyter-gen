@@ -40,16 +40,16 @@
 
 ```{note}
 Sophie Ernestine Wilharm was the second wife of Hans Heinrich
-Wilharm, with whom a [Jobst Heinrich Krückeberg lodged
-at no. 11 Evesen]({external+nla:doc}`146/doc1`) while working as a tailor. However, the Jobst Heinrich
+Wilharm, with whom a {external+nla:doc}`Jobst Heinrich Krückeberg lodged
+at no. 11 Evesen <146/doc1>` while working as a tailor. However, the Jobst Heinrich
 Krückeberg, who mentioned in a petition before the Rentkammer on September
 29, 1808, that he was living as a tenant at the Wilharms in Evesen:
 
 > Up to now I have lived as a tenant with Wilharm No. 11
 > in Evesen, but I now wish to establish myself independently.
 
-was, according to a [Report by the Administrative offices of Bückeburg and
-Arensburg]({external+nla:doc}`146/doc2`), born in Evesen. Their report said:
+was, according to a {external+nla:doc}`Report by the Administrative offices of Bückeburg and
+Arensburg <146/doc2>`, born in Evesen. Their report said:
 
 > The tenant Jobst Henrich Krückeberg, as well as his wife, was born
 > in Evesen. His father later became Ackervogt (agricultural bailiff) at
@@ -167,7 +167,6 @@ administrative term.
 ## Citations
 
 (PET-B-1803b)=
-
-[PET-B-1803b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/037f8d4ae2/, ](http://www.archion.de/p/037f8d4ae2/)[http://www.archion.de/p/10fd9445da/ : 10 October 2023),
-path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357](http://www.archion.de/p/10fd9445da/)
+[PET-B-1803b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/037f8d4ae2/), [http:.md](http://www.archion.de/p/10fd9445da/) : 10 October 2023),
+path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357
 

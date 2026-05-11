@@ -56,10 +56,9 @@ the 28th June Friedrich Wilhelm Weiland from [Evesen]
 ## Citations
 
 (PET-M-1761b)=
-
 [PET-M-1761b] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/19a89943e7/ : 24  Jan.
+with images, *Archion* (<https://www.archion.de/p/19a89943e7/> : 24  Jan.
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 52 of 239](https://www.archion.de/p/19a89943e7/)
+Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 52 of 239
 

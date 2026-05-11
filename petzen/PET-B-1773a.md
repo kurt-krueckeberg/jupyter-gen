@@ -11,7 +11,7 @@
   - Father
   - Mother
 * - Anna Maria Phlippina
-  - [11 July 1773](PET-B-1773a.md)
+  - [11 July 1773](PET-B-1773a/)
   - no. 11 Evesen
   - Johann Heinrich Blecken
   - Anna Maarie Elisabeth Möller
@@ -67,10 +67,9 @@ Hartmann, of Evesen no. 9.
 ## Citations
 
 (PET-B-1773a)=
-
 [PET-B-1773a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/e7f03cfa7c/ : 2 February
+with images, *Archion* (<https://www.archion.de/p/e7f03cfa7c/> : 2 February
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen  Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 238 of 322](https://www.archion.de/p/e7f03cfa7c/)
+Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 238 of 322
 

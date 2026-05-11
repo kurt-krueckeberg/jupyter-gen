@@ -86,7 +86,6 @@ II. Girls
 ## Citations
 
 (PET-C-1795a)=
-
-[PET-C-1795a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/f37a22ec43/ : 10 October 2023),
-path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 192 of 357](https://www.archion.de/p/f37a22ec43/)
+[PET-C-1795a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/f37a22ec43/> : 10 October 2023),
+path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 192 of 357
 

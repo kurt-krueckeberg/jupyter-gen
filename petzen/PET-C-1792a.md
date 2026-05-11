@@ -48,11 +48,10 @@ Translation
 ## Citations
 
 (PET-C-1792a)=
-
 [PET-C-1792a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([http://www.archion.de/p/c62d7b4faa/ : 10 October
+with images, *Archion* ([http:.md](http://www.archion.de/p/c62d7b4faa/) : 10 October
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
-1785-1827 > Image 191 of 357](http://www.archion.de/p/c62d7b4faa/)
+1785-1827 > Image 191 of 357
 

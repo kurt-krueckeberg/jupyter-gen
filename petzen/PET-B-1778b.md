@@ -37,10 +37,9 @@ Translation
 ## Citations
 
 (PET-B-1778b)=
-
 [PET-B-1778b] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/8732d42d3a/ : 6 November
+with images, *Archion* (<https://www.archion.de/p/8732d42d3a/> : 6 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 261 of 322](https://www.archion.de/p/8732d42d3a/)
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 261 of 322
 

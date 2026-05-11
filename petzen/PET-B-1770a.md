@@ -54,10 +54,9 @@ Bleken, the brother of the child's father.
 ## Citations
 
 (PET-B-1770a)=
-
 [PET-B-1770a] "Archion Protestant KirchenbÃ¼cher Portal", database
-with images, *Archion* ([https://www.archion.de/p/cb78f2bd89/ : 2 Feb.
+with images, *Archion* (<https://www.archion.de/p/cb78f2bd89/> : 2 Feb.
 2026), path: Niedersachsen > NiedersÃ¤chsisches Landesarchiv > KirchenbÃ¼cher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 231 of 322](https://www.archion.de/p/cb78f2bd89/)
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 231 of 322
 

@@ -35,6 +35,5 @@ transparent. "Schulm" most likely is the word: Schulmeister (Schoolmaster).
 ## Citations
 
 (FRI-B-1739a)=
-
-[FRI-B-1739a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/e8aa91b948/: 12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille > Verzeichnis der Getauften, Getrauten, Gestorbenen 1664-1757, image 128 of 389](https://www.archion.de/p/e8aa91b948/)
+[FRI-B-1739a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/e8aa91b948/>: 12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille > Verzeichnis der Getauften, Getrauten, Gestorbenen 1664-1757, image 128 of 389
 

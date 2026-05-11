@@ -30,6 +30,5 @@ The birth of Heinrich Wilhelm Bleeke from Evesen also appears on this image, on 
 ## Citations
 
 (PET-B-1754b)=
-
 [PET-B-1754b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (?????? : 5 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 191 of 322
 

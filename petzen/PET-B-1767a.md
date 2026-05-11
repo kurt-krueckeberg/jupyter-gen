@@ -88,10 +88,9 @@ On the same day the son of Johann Heinrich Kruckeberg
 ## Citations
 
 (PET-B-1767a)=
-
 [PET-B-1767a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/c47579fcb0/ : 3 November
+with images, *Archion* (<https://www.archion.de/p/c47579fcb0/> : 3 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 220 of 322](https://www.archion.de/p/c47579fcb0/)
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 220 of 322
 

@@ -77,11 +77,10 @@ no. 11 Evesen.
 ## Citations
 
 (PET-D-1797a)=
-
 [PET-D-1797a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/1d65bd4485/ : 13 Jan.
+with images, *Archion* (<https://www.archion.de/p/1d65bd4485/> : 13 Jan.
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
-1785-1827 > Image 235 of 357](https://www.archion.de/p/1d65bd4485/)
+1785-1827 > Image 235 of 357
 

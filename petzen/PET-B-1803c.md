@@ -141,8 +141,7 @@ Translation of page header
 ## Citations
 
 (PET-B-1803c)=
-
-[PET-B-1803c] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/22ea40c7b6/ : 10 October 2023), path:
+[PET-B-1803c] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/22ea40c7b6/> : 10 October 2023), path:
 Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357](https://www.archion.de/p/22ea40c7b6/)
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357
 

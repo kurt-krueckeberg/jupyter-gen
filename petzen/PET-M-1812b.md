@@ -45,7 +45,7 @@
 * - Birth
   - 2nd Marriage
   - Death
-* - [1 Feb. 1792](PET-B-1792a.md)
+* - [1 Feb. 1792](PET-B-1792a/)
   - 11 May 1834
   - 26 Oct. 1870
 ```
@@ -149,7 +149,6 @@ Transliteration of page header
 ## Citations
 
 (PET-M-1812b)=
-
-[PET-M-1812b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/e8f8a097b9/ : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
-Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 27 of 357](http://www.archion.de/p/e8f8a097b9/)
+[PET-M-1812b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/e8f8a097b9/) : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 27 of 357
 

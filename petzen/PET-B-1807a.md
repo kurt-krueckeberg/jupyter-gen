@@ -251,6 +251,5 @@ As mentioned above, the maiden name **Bleeken** is in error in the church regist
 ## Citations
 
 (PET-B-1807a)=
-
-[PET-B-1807a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/4af33a94aa/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 96 of 357](http://www.archion.de/p/4af33a94aa/)
+[PET-B-1807a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/4af33a94aa/) : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 96 of 357
 

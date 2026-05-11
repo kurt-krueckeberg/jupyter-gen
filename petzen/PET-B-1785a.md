@@ -42,6 +42,5 @@ This entry of the birth of Philippine Louise Weiland, in 1785, occurs on the lef
 ## Citations
 
 (PET-B-1785a)=
-
-[PET-B-1785a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/5d50809b33/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 34 of 357](http://www.archion.de/p/5d50809b33/)
+[PET-B-1785a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/5d50809b33/) : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 34 of 357
 

@@ -81,11 +81,10 @@ Gestorbenen 1785-1827.
 ## Citations
 
 (PET-B-1798c)=
-
 [PET-B-1798c] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/bccf9c0762/ : 12 January
+with images, *Archion* (<https://www.archion.de/p/bccf9c0762/> : 12 January
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
-1785-1827, image 71 of 357](https://www.archion.de/p/bccf9c0762/)
+1785-1827, image 71 of 357
 

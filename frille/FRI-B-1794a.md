@@ -37,7 +37,6 @@ The birth and baptism of Carl Fridrich Bleeke is recorded on entry number 38 on 
 ## Citations
 
 (FRI-B-1794a)=
-
-[FRI-B-1794a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/2c53c25219/ : 12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
-Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 123 of 388](https://www.archion.de/p/2c53c25219/)
+[FRI-B-1794a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/2c53c25219/> : 12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
+Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 123 of 388
 

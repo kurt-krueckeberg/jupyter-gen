@@ -2,8 +2,7 @@
 
 ## Citation
 
-The birth of Catharine Elisabeth Drinkuht is on [image 62,
-pages 192-193](#KLE-B-1778a) of the Kleinenbremen parish volume "Trauungen 1763-1807,
+The birth of Catharine Elisabeth Drinkuht is on [image 62, pages 192-193](#KLE-B-1778a) of the Kleinenbremen parish volume "Trauungen 1763-1807,
 Taufen 1763-1807, Beerdigungen 1763-1807, Konfirmationen 1763-1803 Band 2".
 
 ## Image, Transliteration and Translation
@@ -51,12 +50,11 @@ Taufen 1763-1807, Beerdigungen 1763-1807, Konfirmationen 1763-1803 Band 2".
 ## Citations
 
 (KLE-B-1778a)=
-
 [KLE-B-1778a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/fe6af9f457/ : 25 Jan. 2025),
+with images, *Archion* (<https://www.archion.de/p/fe6af9f457/> : 25 Jan. 2025),
 path: Nordrhein-Westfalen > Landeskirchliches Archiv der Evangelischen
 Kirche von Westfalen > Kirchenkreis Minden > Kleinenbremen > Trauungen
 1763-1807, Taufen 1763-1807, Beerdigungen 1763-1807, Konfirmationen
 1763-1803 Band 2 >
-Image 62 of 215](https://www.archion.de/p/fe6af9f457/)
+Image 62 of 215
 

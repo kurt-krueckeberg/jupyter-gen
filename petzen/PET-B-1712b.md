@@ -27,10 +27,9 @@ little son, Anton Henrich, baptized. Sponsor Henrich Weitzenkorn.
 ## Citations
 
 (PET-B-1712b)=
-
 [PET-B-1712b] "Archion Protestant Kirchenbücher Portal", database
-with images, Archion ([https://www.archion.de/p/84a3ff6f9c/ : 16 February
+with images, Archion (<https://www.archion.de/p/84a3ff6f9c/> : 16 February
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten, 1641-1784 > Image 120 of 322](https://www.archion.de/p/84a3ff6f9c/)
+Verzeichnis der Getauften und Konfirmierten, 1641-1784 > Image 120 of 322
 

@@ -62,8 +62,7 @@ Baptized by Mrs. Gaden, the steward’s wife at Hökersau
 ## Citations
 
 (PET-B-1741a)=
-
-[PET-B-1741a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/63792c38f4/ : 10 May 2025),
+[PET-B-1741a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/63792c38f4/> : 10 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
-> Image 163 of 322, left hand page, 3](https://www.archion.de/p/63792c38f4/)rd to last entry on the left-hand page.
+> Image 163 of 322, left hand page, 3rd to last entry on the left-hand page.
 

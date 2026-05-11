@@ -104,11 +104,10 @@ is found on [image 10](#PET-M-1797a) of the
 ## Citations
 
 (PET-M-1797a)=
-
 [PET-M-1797a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/dbd615cd07/ : 13
+with images, *Archion* (<https://www.archion.de/p/dbd615cd07/> : 13
 January 2026), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
 Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und
-Gestorbenen 1785-1827 > Image 10 of 357](https://www.archion.de/p/dbd615cd07/)
+Gestorbenen 1785-1827 > Image 10 of 357
 

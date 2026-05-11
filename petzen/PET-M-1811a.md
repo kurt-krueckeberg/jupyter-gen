@@ -124,7 +124,6 @@ Translation of header for pages 46 and 47
 ## Citations
 
 (PET-M-1811a)=
-
-[PET-M-1811a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/d52c425e66/ : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
-Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 26 of 357](http://www.archion.de/p/d52c425e66/)
+[PET-M-1811a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/d52c425e66/) : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 26 of 357
 

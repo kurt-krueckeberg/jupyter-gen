@@ -26,7 +26,7 @@ have also been examined.
 
 ### How to Navigate to Frille Church Register Duplicates in NRW Detmold Archive
 
-From: [https://www.archive.nrw.de/archivsuche](https://www.archive.nrw.de/archivsuche)
+From: [https:archivsuche](https://www.archive.nrw.de/archivsuche)
 
 1. [Landesarchiv NRW Abteilung Ostwestfalen-Lippe](https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_a6fa801b-a7f8-46ae-b87c-3e1930f294b5) →
 2. [Personenstandsarchiv Westfalen-Lippe](https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_16ffdb05-f60a-47fa-848e-747a9921bb33) →

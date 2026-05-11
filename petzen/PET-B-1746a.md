@@ -37,10 +37,9 @@ Evesen and Jobst Heinrich Fahlsing from Evesen.
 ## Citations
 
 (PET-B-1746a)=
-
 [PET-B-1746a] "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([https://www.archion.de/p/319da3b516/ : 2 February
+with images, *Archion* (<https://www.archion.de/p/319da3b516/> : 2 February
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 173 of 322](https://www.archion.de/p/319da3b516/)
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 173 of 322
 

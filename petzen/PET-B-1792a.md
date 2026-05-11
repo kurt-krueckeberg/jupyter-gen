@@ -41,7 +41,7 @@ The baptism of Philippine Caroline Christine Kruckebergen 1792, page 105.
 * - Fact
   - Date
 * - Married
-  - [23 Feb. 1812](PET-M-1812b.md)
+  - [23 Feb. 1812](PET-M-1812b/)
 * - Married 2nd time
   - 11 May 1834
 * - Death
@@ -121,7 +121,6 @@ died 10/26/1870
 ## Citations
 
 (PET-B-1792a)=
-
-[PET-B-1792a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/75e10a88e0/ : 17 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
-Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 55 of 357](http://www.archion.de/p/75e10a88e0/)
+[PET-B-1792a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/75e10a88e0/) : 17 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 55 of 357
 

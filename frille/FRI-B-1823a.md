@@ -94,5 +94,5 @@ Translation of page header: **Births and Baptims in 1823**.
 Evangelische Gemeinde Frille, Kreis Minden, “Gebohrne u. Getaufte im Jahr 1823", entry #39 for "Carl Fried: Bleeke",
 12 Oct. 1823, Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
 Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
-Digital images: Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
+Digital images: Landesarchiv NRW, [www.archive.nrw](https://www.archive.nrw.de) (accessed 6 December 2025).
 

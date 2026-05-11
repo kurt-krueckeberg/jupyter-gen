@@ -38,14 +38,14 @@ earlier.
 Aslo the document **Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg
 und Arensburg, mit Nummerierung der sämtlichen Häuser ("List of names of
 all Kolons of the offices of Bückeburg and Arensburg, with numbering of the
-all houses")** shows, [on page 17]({external+nla:doc}`140/page-17`), us that in 1747
+all houses")** shows, {external+nla:doc}`on page 17 <140/page-17>`, us that in 1747
 Johann Heinrich Krückeberg was the holder of no. 10 Berenbusch and Johann
 Tönnies Eggerding was a prior holder.
 
 Apparently Friedrich Kuhlman had been the immediate prior holder and Johann
 Tönnnis Eggerding the holder before him. We learn this from the answer of
 Johann Heinrich Krücekberg to question #1 at
-[nla:2741:index.xml]({external+nla:doc}`2741/index`).
+{external+nla:doc}`Records of the questioning of the individual rural property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the context of the General Land Survey (land measurement). (1743-1744) <2741/index>`.
 ```
 
 ## Citation
@@ -108,7 +108,6 @@ was baptized. Godfathers were Johann Tönnies Eggerding and H Herman Wiese
 ## Citations
 
 (PET-B-1728a)=
-
-[PET-B-1728a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/d55015885d/ : 23 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
-> Image 140 of 322](https://www.archion.de/p/d55015885d/)
+[PET-B-1728a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/d55015885d/> : 23 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
+> Image 140 of 322
 

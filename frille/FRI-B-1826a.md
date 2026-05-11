@@ -119,5 +119,5 @@ Translation of page header: **Birth and Baptims in 1826**.
 Evangelische Gemeinde Frille, Kreis Minden, “Gebohrne und Getaufte im Jahre 1826”, entry #4 for Marie Christine Bleeke,
 born 15 Jan. 1826, Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,
 Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
-Digital images: Landesarchiv NRW, [https://www.archive.nrw.de](https://www.archive.nrw.de) (accessed 6 December 2025).
+Digital images: Landesarchiv NRW, [www.archive.nrw](https://www.archive.nrw.de) (accessed 6 December 2025).
 

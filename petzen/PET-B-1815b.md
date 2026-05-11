@@ -2,7 +2,7 @@
 
 ## FamilySearch Tree Entry
 
-[GSW7-L4K](https://www.familysearch.org/en/tree/person/details/GSW7-L4K).
+[https:GSW7-L4K](https://www.familysearch.org/en/tree/person/details/GSW7-L4K).
 
 ## Citation
 
@@ -110,6 +110,5 @@ See discussion of **Einlieger/Einlinger** at [Image 82](PET-B-1803b.md).
 ## Citations
 
 (PET-B-1815b)=
-
-[PET-B-1815b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/c4074e8f0f/ : 4 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 137 of 357](https://www.archion.de/p/c4074e8f0f/)
+[PET-B-1815b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/c4074e8f0f/> : 4 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 137 of 357
 

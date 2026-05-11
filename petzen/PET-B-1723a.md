@@ -33,10 +33,9 @@ Translationn
 ## Citations
 
 (image132)=
-
 [image132] "Archion Protestant Kirchenbücher Portal", database with
-images, *Archion* ,([https://www.archion.de/p/8e090f5b1a/ : 15 May 2025)
+images, *Archion* ,(<https://www.archion.de/p/8e090f5b1a/> : 15 May 2025)
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 132 of 322](https://www.archion.de/p/8e090f5b1a/)
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 132 of 322
 

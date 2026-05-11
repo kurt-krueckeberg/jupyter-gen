@@ -28,14 +28,14 @@ No page number is written on this page.
 ### Citation
 
 - Sophie Maria Krückeberg from Berenbush
-  Her confirmation entry is on the [310th image, page 17,](image310-left) of "database with images".
+  Her confirmation entry is on the [310th image, page 17,](#image310-left) of "database with images".
 It is the fifth entry for the year 1757 on page 18 (whose page number is in the lower left hand of the page).
 
 ## Johann Heinrich Krückeberg Confirmation 1757
 
 ### Citation
 
-The confirmation entry for Johann Heinrich Krückeberg from Berenbusch is on the [310th image, page 18, of Confirmati](image310-right) > ofthe Petzen Kirchenbuch volume "Verzeichnis der Getauften und Konfirmierten 1641-1784".
+The confirmation entry for Johann Heinrich Krückeberg from Berenbusch is on the [310th image, page 18, of Confirmati](#image310-right) > ofthe Petzen Kirchenbuch volume "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 ```{image} images/petzen-band1a-img310-right.jpg
 :class: image-override
@@ -59,6 +59,5 @@ No page number is written on this page.
 ## Citations
 
 (PET-C-1755b)=
-
-[PET-C-1755b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/881666c669/: 30 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322](https://www.archion.de/p/881666c669/)
+[PET-C-1755b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/881666c669/>: 30 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322
 
