@@ -65,7 +65,7 @@ project:
             - file: frille/FRI-B-1841a.md
             - file: frille/FRI-B-1843a.md
 
-    - title: Blecken in Petzen Parish
+    - title: Blecken in Petzen 
       children:
         - file: petzen/PET-B-1710a.md
         - file: petzen/PET-B-1712a.md
