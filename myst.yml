@@ -16,6 +16,7 @@ project:
     - file: family-church-records/nachträge.md
       children:
         - file: family-church-records/significance-of-nachträge.md
+
     - file: frille/frille-bleekes.md
       children:
         - file: frille/FRI-B-1739a.md
@@ -89,25 +90,25 @@ project:
         - file: petzen/PET-D-1779a.md
         - file: petzen/PET-D-1814a.md
 
-    - title: Buuck
+    - title: Buuck in Windheim
       children:
         - file: windheim/WIND-B-1831a.md
         - file: windheim/WIND-B-1833a.md
         - file: windheim/WIND-B-1836a.md
 
-    - title: Drinkuth
+    - title: Drinkuth in Kleinenbremen
       children:
         - file: kleinenbremen/KLE-B-1778a.md
 
-    - title: Eggerding
+    - title: Eggerding in Petzen
       children:
         - file: petzen/PET-M-1704a.md
 
-    - title: Kuhlmann
+    - title: Kuhlmann in Petzen
       children:
         - file: petzen/PET-B-1679a.md
 
-    - title: Kleinschmidt
+    - title: Kleinschmidt in Buchholz
       children:
         - file: buchholz/BUC-B-1804a.md
 
@@ -186,44 +187,47 @@ project:
         - file: petzen/PET-M-1826a.md
         - file: frille/FRI-M-1833a.md
 
-    - title: Krückeberg (Söst/Immanuel)
+    - title: Krückeberg in Wallensen
       children:
         - file: wallensen/WAL-B-1822a.md
 
-    - title: Möller
+    - title: Möller in Petzen
       children:
         - file: petzen/PET-B-1741b.md
         - file: petzen/PET-C-1754a.md
 
-    - title: Schäkel
+    - title: Schäkel in Frille
       children:
         - file: frille/FRI-B-1694a.md
         - file: frille/FRI-B-1742a.md
         - file: frille/FRI-D-1757a.md
 
-    - title: Schwier
+    - title: Schwier in Frille
       children:
         - file: frille/FRI-B-1798a.md
 
-    - title: Vahlsing
+    - title: Vahlsing in Wiedensahl    
       children:
         - file: wiedensahl/WIED-B-1670a.md
+
+    - title: Vahlsing in Petzen
+      children:
         - file: petzen/PET-M-1700a.md
         - file: petzen/PET-B-1712b.md
         - file: petzen/PET-M-1728a.md
         - file: petzen/PET-D-1731a.md
 
-    - title: Vogt
+    - title: Vogt in Petzen
       children:
         - file: petzen/PET-M-1812d.md
 
-    - title: Werkmeister
+    - title: Werkmeister in Petzen
       children:
         - file: petzen/PET-M-1780a.md
         - file: petzen/PET-B-1783a.md
         - file: petzen/PET-D-1798a.md
 
-    - title: Weiland
+    - title: Weiland in Petzen
       children:
         - file: petzen/PET-B-1736b.md
         - file: petzen/PET-B-1748a.md
@@ -263,7 +267,7 @@ project:
         - file: petzen/PET-B-1815a.md
         - file: petzen/PET-B-1815b.md
 
-    - title: Wilharm
+    - title: Wilharm in Petzen
       children:
         - file: petzen/PET-B-1760a.md
         - file: petzen/PET-M-1796a.md
