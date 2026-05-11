@@ -56,7 +56,7 @@ d 23  Jun. The stillborn little boy of Johann Heinrich Kruckeberg
 ## Citations
 
 (PET-D-1771a)=
-[PET-D-1771a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
   with images, *Archion* (<https://www.archion.de/p/e48cc6a752/> : 23 July
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

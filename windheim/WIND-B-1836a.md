@@ -96,7 +96,7 @@ The translation follows below:
 ## Citations
 
 (image9)=
-[image9] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (https:>>www.archion.de>p>de5d95854d> : 8 August 2024), path:
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (https:>>www.archion.de>p>de5d95854d> : 8 August 2024), path:
 Nordrhein-Westfalen > Landeskirchliches Archiv der Evangelischen Kirche von Westfalen > Kirchenkreis Minden > Windheim > Taufen für 1836 - 1850, Band 5
 > Image 9 of 240
 

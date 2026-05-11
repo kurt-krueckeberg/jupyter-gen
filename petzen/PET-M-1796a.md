@@ -112,7 +112,7 @@ Translation of Page Header
 ## Citations
 
 (PET-M-1796a)=
-[PET-M-1796a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/7854b85ad5/> : 13
 January 2025), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >

@@ -55,7 +55,7 @@ The 29th January was Johan Henr[ich] Krückeberg
 ## Citations
 
 (PET-M-1758a)=
-[PET-M-1758a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
   with images, *Archion* (<https://www.archion.de/p/64edb48ecf/> : 16 July
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >

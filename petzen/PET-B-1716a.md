@@ -41,7 +41,7 @@ was baptized. Godmother the wife of the shepherd of the Höchersau.
 ## Citations
 
 (PET-B-1716a)=
-[PET-B-1716a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/430f6ba187/> : 5 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

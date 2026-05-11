@@ -172,6 +172,6 @@ The translation follows below:
 ## Citations
 
 (image182)=
-[image182] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/29b057fc33/> : 8 August 2024), path: Nordrhein-Westfalen > Landeskirchliches Archiv der Evangelischen Kirche von Westfalen > Kirchenkreis Minden > Windheim > Taufen 1816-1836, Beerdigungen 1816-1827, Beerdigungen 1827-1838, Trauungen 1816-1837, Konfirmationen 1816-1837, Trauungen 1837-1838 Band 4
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/29b057fc33/> : 8 August 2024), path: Nordrhein-Westfalen > Landeskirchliches Archiv der Evangelischen Kirche von Westfalen > Kirchenkreis Minden > Windheim > Taufen 1816-1836, Beerdigungen 1816-1827, Beerdigungen 1827-1838, Trauungen 1816-1837, Konfirmationen 1816-1837, Trauungen 1837-1838 Band 4
 > Image 182 of 480
 

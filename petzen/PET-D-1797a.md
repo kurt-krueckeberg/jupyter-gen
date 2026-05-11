@@ -77,7 +77,7 @@ no. 11 Evesen.
 ## Citations
 
 (PET-D-1797a)=
-[PET-D-1797a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/1d65bd4485/> : 13 Jan.
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

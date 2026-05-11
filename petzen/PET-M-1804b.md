@@ -59,7 +59,7 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 ## Citations
 
 (PET-M-1804b)=
-[PET-M-1804b] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* ([http:.md](http://www.archion.de/p/de7d21d33d/) : 22
 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >

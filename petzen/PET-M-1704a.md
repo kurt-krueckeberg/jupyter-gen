@@ -48,7 +48,7 @@ Eberdings from Petzen married the 15ten October.
 ## Citations
 
 (image27)=
-[image27] "Archion Protestant Kirchenbücher Portal", database with
+"Archion Protestant Kirchenbücher Portal", database with
 images, *Archion* (<https://www.archion.de/p/e7c4ca518f/>: 26 Jan. 2026),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

@@ -66,7 +66,7 @@ was baptized. Sponsors 3 Mädgens, Wiesen, Engelking [un/um]
 ## Citations
 
 (PET-B-1759a)=
-[PET-B-1759a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/aeb69c46c5/> : 2 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

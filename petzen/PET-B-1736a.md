@@ -69,7 +69,7 @@ assume they are abbreviations for Berenbusch.
 ## Citations
 
 (PET-B-1736a)=
-[PET-B-1736a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
   with images, *Archion* (<https://www.archion.de/p/07af317ee9/> : 09 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

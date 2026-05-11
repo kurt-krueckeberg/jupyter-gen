@@ -68,7 +68,7 @@ Johan Heinrich Krückeberg from Bernbusch
 ## Citations
 
 (PET-C-1757a)=
-[PET-C-1757a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/c362c408ee/): 30 October 2023),
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/c362c408ee/): 30 October 2023),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis
 der Getauften und Konfirmierten 1641-1784, image 313 of 322
 

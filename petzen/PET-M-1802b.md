@@ -109,7 +109,7 @@ sense is idomatic. It refers to premartial sexual relations.
 ## Citations
 
 (PET-M-1802b)=
-[PET-M-1802b] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* ([http:.md](http://www.archion.de/p/670cfbbaf6/) : 22
 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >

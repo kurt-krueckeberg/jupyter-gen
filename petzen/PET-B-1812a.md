@@ -249,5 +249,5 @@ new Stätte no. 18 Berenbusch. See {external+nla:doc}`Document 1: Petition submi
 ## Citations
 
 (PET-B-1812a)=
-[PET-B-1812a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/466353a0e4/> : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 125 of 357
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/466353a0e4/> : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 125 of 357
 

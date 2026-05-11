@@ -35,7 +35,7 @@ at Nammen.
 ## Citations
 
 (PET-B-1679a)=
-[PET-B-1679a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/8cb2aa7364/> : 2 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

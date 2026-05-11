@@ -47,6 +47,6 @@ are the Latin words starting with juv that Thode’s German-English Genealogical
 ## Citations
 
 (FRI-M-1793a)=
-[FRI-M-1793a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/f23f58a974/> : 15 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/f23f58a974/> : 15 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
 Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 202 of 388
 

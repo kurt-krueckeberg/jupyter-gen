@@ -138,7 +138,7 @@ Baptisms                                                                1779
 ## Citations
 
 (PET-B-1779b)=
-[PET-B-1779b] "Archion Protestant Kirchenbücher Portal", database with
+"Archion Protestant Kirchenbücher Portal", database with
 images, *Archion* ([http:.md](http://www.archion.de/p/68d61bc772/): 31 October 2023),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis

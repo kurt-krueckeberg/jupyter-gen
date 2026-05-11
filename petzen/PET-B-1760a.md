@@ -71,7 +71,7 @@ Died: 2 May 1843.
 ## Citations
 
 (PET-M-1760a)=
-[PET-M-1760a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/544eb615a5/> : 12 January
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

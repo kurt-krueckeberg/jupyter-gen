@@ -104,7 +104,7 @@ Gestorbenen 1785-1827.
 ## Citations
 
 (PET-B-1810a)=
-[PET-B-1810a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/3a0eac5303/> : 12 January
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

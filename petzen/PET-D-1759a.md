@@ -51,7 +51,7 @@ the 26th Decemb. Johan Henrich Krückeberg
 ## Citations
 
 (PET-D-1759a)=
-[PET-D-1759a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/4c6819a9a9/> :
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/4c6819a9a9/> :
 18 July 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 183 of 239
 

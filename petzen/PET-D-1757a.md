@@ -54,7 +54,7 @@ d 28th Jan. Louisa Eleonore Krückeberg
 ## Citations
 
 (PET-D-1757a)=
-[PET-D-1757a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/b7729c7fe1/> :
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/b7729c7fe1/> :
 18 July 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 178 of 239
 

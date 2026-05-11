@@ -42,7 +42,7 @@ Ilsabey.**
 ## Citations
 
 (PET-C-1754a)=
-[PET-C-1754a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/a826667c20/> : 2 Feburary
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

@@ -50,7 +50,7 @@ Vahlsing from Eversen
 ## Citations
 
 (PET-B-1733a)=
-[PET-B-1733a] "Archion Protestant Kirchenbücher Portal", database with images, (<https://www.archion.de/p/8fe3950c2d/> : 13 Nov. 2025),
+"Archion Protestant Kirchenbücher Portal", database with images, (<https://www.archion.de/p/8fe3950c2d/> : 13 Nov. 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 149 of 322

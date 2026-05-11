@@ -132,7 +132,7 @@ farmer.
 ## Citations
 
 (PET-D-1805a)=
-[PET-D-1805a] "Archion Protestant Kirchenbücher Portal", database with
+"Archion Protestant Kirchenbücher Portal", database with
 images, *Archion* ([http:.md](http://www.archion.de/p/fcf567b28f/) : 25 October 2023),
 path: Niedersachsen: Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis

@@ -35,6 +35,6 @@ The baptism entry fo Christian Friderich Bleeke is on page 283 (of the baptism p
 ## Citations
 
 (FRI-B-1800a)=
-[FRI-B-1800a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/949fb9ec7c/> :  12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/949fb9ec7c/> :  12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
 Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 152 of 388
 

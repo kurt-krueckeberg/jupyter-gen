@@ -49,7 +49,7 @@ the 8th May Anna Maria Krückeberg
 ## Citations
 
 (PET-D-1757b)=
-[PET-D-1757b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/48477a9b72/> :
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/48477a9b72/> :
 18 July 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 178 of 239
 

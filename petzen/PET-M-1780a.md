@@ -64,7 +64,7 @@ was married to Ilse Marie nee Möller, widow of Bleke, from Evesen
 ## Citations
 
 (PET-M-1780a)=
-[PET-M-1780a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, Archion (<https://www.archion.de/p/daf56f4ddd/> : 1 Feb, 2026),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

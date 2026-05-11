@@ -33,7 +33,7 @@ Translationn
 ## Citations
 
 (image132)=
-[image132] "Archion Protestant Kirchenbücher Portal", database with
+"Archion Protestant Kirchenbücher Portal", database with
 images, *Archion* ,(<https://www.archion.de/p/8e090f5b1a/> : 15 May 2025)
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

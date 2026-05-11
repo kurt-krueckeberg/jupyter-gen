@@ -149,7 +149,7 @@ applies to her or the person in the entry following.
 ## Citations
 
 (PET-B-1803a)=
-[PET-B-1803a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/1bd2c084c3/>
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/1bd2c084c3/>
 : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 71 of 357
 

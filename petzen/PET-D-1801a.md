@@ -116,7 +116,7 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 ## Citations
 
 (PET-D-1801a)=
-[PET-D-1801a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/b7f0f6db65/> : 13 Julz 2025),
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/b7f0f6db65/> : 13 Julz 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis
 der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 239 of 357
 

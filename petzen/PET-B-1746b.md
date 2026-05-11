@@ -68,7 +68,7 @@ daughter from Scheye
 ## Citations
 
 (PET-B-1746a)=
-[PET-B-1746a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/33af16da2f/> : 30 April
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

@@ -226,6 +226,6 @@ Transliteration of pages 704 and 705 header
 ## Citations
 
 (PET-M-1816a)=
-[PET-M-1816a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/39e8241151/) : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/39e8241151/) : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 3397 of 357
 

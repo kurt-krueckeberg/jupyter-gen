@@ -69,7 +69,7 @@ Berenbusch
 ## Citations
 
 (PET-B-1731a)=
-[PET-B-1731a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
   with images, *Archion* (<https://www.archion.de/p/faa22597b6/> : 18 Nov.
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
