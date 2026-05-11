@@ -88,7 +88,7 @@ On the same day the son of Johann Heinrich Kruckeberg
 ## Citations
 
 (PET-B-1767a)=
-[PET-B-1767a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/c47579fcb0/> : 3 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

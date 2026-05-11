@@ -75,6 +75,6 @@ Boys
 ## Citations
 
 (PET-C-1820a)=
-[PET-C-1820a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/53c9d1e877/> : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/53c9d1e877/> : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 212 of 357, top of page, right column.
 

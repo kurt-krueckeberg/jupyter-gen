@@ -34,7 +34,7 @@ On 17 Decembr Sophia Margarethe, the little daugher of Heinrich Bleeck from Eves
 ## Citations
 
 (PET-B-1730b)=
-[PET-B-1730b] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/dbfb399164/> : 15 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

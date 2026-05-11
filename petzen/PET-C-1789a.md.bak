@@ -58,7 +58,7 @@ Translation
 ## Citations
 
 (PET-C-1789a)=
-[PET-C-1789a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* ([http:.md](http://www.archion.de/p/e8f6dc75b2/) : 10 October
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

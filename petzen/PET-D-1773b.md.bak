@@ -67,7 +67,7 @@ On  Aug 29th is here buried Anna Christina
 ## Citations
 
 (PET-D-1773b)=
-[PET-D-1773b] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/a12d3a1f16/> 23 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

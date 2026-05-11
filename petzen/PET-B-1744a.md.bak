@@ -80,7 +80,7 @@ son from Nordholz
 ## Citations
 
 (PET-B-1744a)=
-[PET-B-1744a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/6ebd3448c0/>: 23 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

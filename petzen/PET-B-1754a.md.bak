@@ -28,7 +28,7 @@ Baptism and Confirmed of the Petzen Parish) 1641-1784".
 ## Citations
 
 (PET-B-1754a)=
-[PET-B-1754a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (?????? : 5 November 2023), path: Niedersachsen >
 Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und

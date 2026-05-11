@@ -39,7 +39,7 @@ Heinrich P[a.?] Harm.
 ## Citations
 
 (WIED-B-1670a)=
-[WIED-B-1670a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion*
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion*
 (<https://www.archion.de/p/520e17591e/> : 28 December 2025), path:  Niedersachsen > Landeskirchliches Archiv der
 Evangelisch-lutherischen Landeskirche Hannovers > Kirchenkreis Stolzenau-Loccum > Wiedensahl > Kirchenbuch
 1666-1703, image 47 of 577

@@ -29,7 +29,7 @@ Johan Notmeyer
 ## Citations
 
 (PET-B-1710a)=
-[PET-B-1710a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/9cf65653e8/> : 4 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

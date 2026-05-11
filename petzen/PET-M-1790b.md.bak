@@ -67,7 +67,7 @@ Translation
 ## Citations
 
 (PET-M-1790b)=
-[PET-M-1790b] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* ([http:.md](http://www.archion.de/p/68ee336254/) : 22
 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >

@@ -139,7 +139,7 @@ Translation of Nachtrag dates written below her name
 ## Citations
 
 (PET-B-1798b)=
-[PET-B-1798b] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/ba3bed0468/), [http:.md](http://www.archion.de/p/dbf697fc6e/) :
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/ba3bed0468/), [http:.md](http://www.archion.de/p/dbf697fc6e/) :
 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 71 of 357 > Page 136
 

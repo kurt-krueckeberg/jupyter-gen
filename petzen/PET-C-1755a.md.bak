@@ -56,7 +56,7 @@ Charlotte Dieckmans, daughter of an Einlieger, Röcke
 ## Citations
 
 (PET-C-1755a)=
-[PET-C-1755a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/881666c669/>: 30 October
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

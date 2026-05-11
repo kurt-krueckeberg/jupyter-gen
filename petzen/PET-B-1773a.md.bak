@@ -67,7 +67,7 @@ Hartmann, of Evesen no. 9.
 ## Citations
 
 (PET-B-1773a)=
-[PET-B-1773a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/e7f03cfa7c/> : 2 February
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen  Landeskirche Schaumburg-Lippe > Petzen >

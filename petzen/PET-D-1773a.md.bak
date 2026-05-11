@@ -63,7 +63,7 @@ On  Aug[ust] 27 the stillborn son of Johann Heinrich Krückeberg from Berenbush
 ## Citations
 
 (PET-D-1773a)=
-[PET-D-1773a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/67abb81b75/>:
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/67abb81b75/>:
 23 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 210 of 239
 

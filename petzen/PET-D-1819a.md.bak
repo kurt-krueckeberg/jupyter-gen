@@ -164,7 +164,7 @@ labor, or they might have been "living in" as hired hands or with family.
 ## Citations
 
 (PET-D-1819a)=
-[PET-D-1819a] "Archion Protestant Kirchenbücher Portal", database with images,
+"Archion Protestant Kirchenbücher Portal", database with images,
 (<https://www.archion.de/p/52b5179fd4/> : 13 July 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 300 of 357
 

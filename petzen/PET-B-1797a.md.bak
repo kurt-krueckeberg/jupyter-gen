@@ -107,7 +107,7 @@ The birth record of Hans Heinrich Wilharm occurs on [image 68](#PET-B-1797a) of 
 ## Citations
 
 (PET-B-1797a)=
-[PET-B-1797a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/2de5cd5c3b/> : 14 January
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

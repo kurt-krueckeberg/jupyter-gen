@@ -32,6 +32,6 @@ years 1807 to 1848. Below is the image:
 ## Citations
 
 (WAL-B-1822a)=
-[WAL-B-1822a] "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/de0cff4510/) : 26 October 2023), path: path: Niedersachsen >
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/de0cff4510/) : 26 October 2023), path: path: Niedersachsen >
 Landeskirchliches Archiv der Evangelisch-lutherischen Landeskirche Hannovers > Kirchenkreis Elze-Coppenbrügge > Wallensen > Kirchenbuch 1807-1848 > Image 114 of 465
 

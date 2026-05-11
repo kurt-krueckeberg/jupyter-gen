@@ -50,7 +50,7 @@ Page Header and Confimation Entry no. 2 for Jobst Heinrich Krückeberg
 ## Citations
 
 (PET-C-1778a)=
-[PET-C-1778a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* ([http:.md](http://www.archion.de/p/d45f414805/): 22 September
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

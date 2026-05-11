@@ -53,7 +53,7 @@ the 28th Sept. Johann Henrich Krückeberg from
 ## Citations
 
 (PET-M-1727a)=
-[PET-M-1727a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/cc6dc9ac4e/>: 15 July
 2025) , path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >

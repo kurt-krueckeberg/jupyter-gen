@@ -59,7 +59,7 @@ The 14th June Johann Heinrich Krückeberg
 ## Citations
 
 (PET-M-1761a)=
-[PET-M-1761a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
   with images, *Archion* (<https://www.archion.de/p/ff12bc402d/> : 17 July
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

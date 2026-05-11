@@ -66,7 +66,7 @@ Konfirmierten, Getrauten und Gestorbenen 1785-1827."
 ## Citations
 
 (PET-B-1805a)=
-[PET-B-1805a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/76df4032e4/> : 4 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

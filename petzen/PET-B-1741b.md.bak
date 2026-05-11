@@ -30,7 +30,7 @@ mother [recently?] from Meissen
 ## Citations
 
 (PET-B-1741b)=
-[PET-B-1741b] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/dacf09edc0/> : 1 Feb.
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

@@ -23,7 +23,7 @@ Vaters Schwester auß Meißen und der Mutters Schwester aus Evesen
 ## Citations
 
 (PET-B-1713a)=
-[PET-B-1713a] "Archion Protestant Kirchenbücher Portal", database
+"Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* ([https:9aeae5801b](https://www.archion.de/p/9aeae5801b) : 4 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
