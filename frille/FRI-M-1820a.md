@@ -61,7 +61,7 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
   - Carl Friederich
     Bleeke, Anerbe
     von No 13 in Leteln
-  - colonist (farmstead holder) Christian Friederich
+  - Colon Christian Friederich
     Bleeke auf
     No 13 in Le-
     teln
@@ -110,12 +110,12 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
   - Name of the preacher performing the marriage.
 * - 4
   - Carl Friederich Bleeke, Anerbe from No 13 in Leteln
-  - colonist (farmstead holder) Christian Friederich Bleeke of No 13 in Leteln
+  - Colon Christian Friederich Bleeke of No 13 in Leteln
   - 25 years
   - Parents have given their verbal consent
   - Bachelor
   - Marie Luise Niemann from Todtenhausen
-  - Johann Heinrich Niemann colonist (farmstead holder) of No 35 in Todtenhausen
+  - Johann Heinrich Niemann Colon of No 35 in Todtenhausen
   - 24 years
   - Parents have tacitly consented
   - Unmarried, pregnant by her fiancé

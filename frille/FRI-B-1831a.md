@@ -83,7 +83,7 @@ Translation of page header: **Born and Baptized in the year 1831**.
     Leonore Bleeke
   - fourteenth (14) August 12 a.m. Uhr in Leeteln
   - legitimate
-  - Johann Heinrich Bleeke colonist (farmstead holder) No. 16 in Leeteln
+  - Johann Heinrich Bleeke Colon No. 16 in Leeteln
   - Christein Marie nee Schwier from Wietersheim
   - Leeteln
   - 21st August

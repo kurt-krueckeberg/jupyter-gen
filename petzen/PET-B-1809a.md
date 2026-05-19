@@ -90,7 +90,7 @@ The birth and baptism of Wilhelmine Leonore Weiland is on {ref}`image 108, pages
     24th Dec. in the
     church at Petzen
   - Friedrich Wilhelm
-    Weiland colonist (farmstead holder) from n. 31
+    Weiland Colon from n. 31
     in Röcke. Luth. Conf.
   - Caroliine Louise born
     Lauen from Röcke

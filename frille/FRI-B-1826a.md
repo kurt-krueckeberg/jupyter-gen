@@ -100,7 +100,7 @@ Translation of page header: **Birth and Baptims in 1826**.
     Leeteln
   - legitimate
   - Carl Friederich Blee-
-    ke colonist (farmstead holder). of N. 13 in Lee-
+    ke Colon. of N. 13 in Lee-
     teln
   - Marie Luise Nie-
     mann from Todten-

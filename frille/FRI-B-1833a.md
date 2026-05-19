@@ -82,7 +82,7 @@ Translation of page header: **Births and Baptims in 1833**.
   - Sophie Luise Leonore Bleeke
   - fourth (4) Marche three (3) a.m. in Leeteln
   - legitimage
-  - Carl Friederich Bleeke colonist (farmstead holder) of No. 13 in Leeteln
+  - Carl Friederich Bleeke Colon of No. 13 in Leeteln
   - Marie Luise nee Niemann aus Todtenhausen.
   - Leeteln No. 13
   - tenth (10) March

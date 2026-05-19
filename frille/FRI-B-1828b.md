@@ -86,7 +86,7 @@ Translation of page header: **Born and Baptized in the year 1828**.
   - fourteenth (14th) Aug. six (6) o’clock a.m. in Leeteln
   - legitimate
   - Johann Heinrich Philipp Bleeke
-    colonist (farmstead holder) No 16 in Leeteln
+    Colon No 16 in Leeteln
   - Christine Marie nee Schwier from Wietersheim
   - seventeenth (17) August
   - Leeteln

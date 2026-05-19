@@ -83,7 +83,7 @@ Translation of page header: **Births and Baptims in 1830**.
     in Leeteln
   - Ehelich
   - Carl Friederich Blee-
-    ke colonist (farmstead holder) of No. 13 in
+    ke Colon of No. 13 in
     Leeteln
   - Marie Luise geb.
     Niemann aus Todtenhausen

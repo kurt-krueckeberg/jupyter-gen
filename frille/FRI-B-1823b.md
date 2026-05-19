@@ -82,7 +82,7 @@ Translation of page header: **Born and Baptized in the year 1823**.
   - Carl Fried. Bleeke
   - on the seventeenth (17) of July at 9 o’clock in the morning in Leeteln
   - legitimate
-  - Johann Heinrich Bleeke, colonist (farmstead holder), No. 16 in Leeteln
+  - Johann Heinrich Bleeke, Colon, No. 16 in Leeteln
   - Christine Marie née Schwier from Wietersheim
   - Leeteln No. 16
   - twentieth (20) of July

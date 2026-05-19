@@ -73,7 +73,7 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
   - Luise Eleonore
     Krückeberg
   - Jobst Heinrich
-    Krückeberg colonist (farmstead holder) No.
+    Krückeberg Colon No.
     10 in Bärenbusch
   - 30 Ja.
   - Mündig
@@ -103,12 +103,12 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
   - Name of the preacher performing the marriage.
 * - 7
   - Christian Friederich Bleeke, Einlieger in Leeteln
-  - Christian Friederich Bleeke colonist (farmstead holder) No. 1[3] in Leeteln
+  - Christian Friederich Bleeke Colon No. 1[3] in Leeteln
   - 25 years
   - verbally
   - unmarried
   - Luise Eleonore Krückeberg
-  - Jobst Heinrich Krückeberg colonist (farmstead holder) No. 10 in Bärenbusch
+  - Jobst Heinrich Krückeberg Colon No. 10 in Bärenbusch
   - 30 years
   - verbaly
   - unmarried

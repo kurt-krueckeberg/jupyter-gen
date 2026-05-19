@@ -84,7 +84,7 @@ Translation of page header: **Born and Baptized in the year 1821**.
     in Wietersheim N. 27
   - legitimate
   - Johann Heinrich
-    Bleeke colonist (farmstead holder), No. 27
+    Bleeke Colon, No. 27
     at Wietersheim
   - Christine Marie
     Schwier from

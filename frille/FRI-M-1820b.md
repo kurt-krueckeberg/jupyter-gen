@@ -76,7 +76,7 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
     Marie Schwier
   - Christian
     Friederich
-    Schwier colonist (farmstead holder)
+    Schwier Colon
     No 27 in Wietersheim
   - 22 Jahr
   - Stillschwei-
@@ -115,7 +115,7 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
   - Consent given expressly and in person
   - bachelor
   - Christine Marie Schwier
-  - Christian Friederich Schwier colonist (farmstead holder) No 27 in Wietersheim
+  - Christian Friederich Schwier Colon No 27 in Wietersheim
   - 22 Jahr
   - by tacit consent
   - unmarried, but has a two-year-old son with her bridegroom

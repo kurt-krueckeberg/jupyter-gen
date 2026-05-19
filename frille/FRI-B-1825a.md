@@ -52,7 +52,7 @@ Translation of page header: **Born and Baptized in the year 1825**.
      zu Leeteln
   - ehelich
   - Johann Heinrich
-    Bleeke colonist (farmstead holder) No. 16 in
+    Bleeke Colon No. 16 in
     Leeteln
   - Christine Marie
     geb. Schwier aus
@@ -84,7 +84,7 @@ Translation of page header: **Born and Baptized in the year 1825**.
     6 o’clock a.m. in Leeteln
   - legitimate
   - Johann Heinrich
-    Bleeke colonist (farmstead holder) No. 16 in
+    Bleeke Colon No. 16 in
     Leeteln
   - Christine Marie nee Schwier from Wietersheim
   - Leeteln
