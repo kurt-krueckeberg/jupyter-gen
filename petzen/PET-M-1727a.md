@@ -23,7 +23,7 @@
 
 ## Citation
 
-The September 28, 1728, marriage of Johann Henrich Krückeberg to Anna Maria Vahlsing is on [image 36](#PET-M-1727a), the right-hand
+The September 28, 1728, marriage of Johann Henrich Krückeberg to Anna Maria Vahlsing is on {ref}`image 36 <PET-M-1727a>`, the right-hand
 page, of the Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
 ## Image of Marriage Record
@@ -53,6 +53,7 @@ the 28th Sept. Johann Henrich Krückeberg from
 ## Citations
 
 (PET-M-1727a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/cc6dc9ac4e/>: 15 July
 2025) , path: Niedersachsen > Niedersächsisches Landesarchiv >

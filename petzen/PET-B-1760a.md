@@ -34,7 +34,7 @@
 ## Citation
 
 The 29 Aug 1760 baptism record for Hans Heinrich Wilharm is on
-[image 202](#PET-M-1760a) of the Petzen Kirchenbuch volume " Verzeichnis
+{ref}`image 202 <PET-M-1760a>` of the Petzen Kirchenbuch volume " Verzeichnis
 der Getauften und Konfirmierten 1641-1784".
 
 ## Images of Marriage Record
@@ -71,6 +71,7 @@ Died: 2 May 1843.
 ## Citations
 
 (PET-M-1760a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/544eb615a5/> : 12 January
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

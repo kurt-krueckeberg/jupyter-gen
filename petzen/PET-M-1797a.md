@@ -42,7 +42,7 @@ Hans Heinrich Wilharm](PET-B-1797a.md).
 ## Citation
 
 The 27 August 1797 marriage of Hans Heinrich Wilharm to Sophie Ernestine Blecke
-is found on [image 10](#PET-M-1797a) of the
+is found on {ref}`image 10 <PET-M-1797a>` of the
 [Archion](https://archion.de) digital images of the Petzen
 *Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 1785-1827*.
@@ -104,6 +104,7 @@ is found on [image 10](#PET-M-1797a) of the
 ## Citations
 
 (PET-M-1797a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/dbd615cd07/> : 13
 January 2026), path: Niedersachsen > Niedersächsisches Landesarchiv >

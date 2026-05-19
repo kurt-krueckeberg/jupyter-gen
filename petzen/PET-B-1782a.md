@@ -33,7 +33,7 @@ The **"n"** on "Schäkeln" may be a inflected ending appended to the actual name
 
 ## Reference
 
-Johanna Sophie Charlotte Krückeberg’s baptism is on [image 279, left page, entry no. 2](#PET-B-1782a) from the
+Johanna Sophie Charlotte Krückeberg’s baptism is on {ref}`image 279, left page, entry no. 2 <PET-B-1782a>` from the
 "database with images (Register of Baptism and Confirmed of the Petzen Parish, 1641-1784)"
 
 ## Image of Johanna Sophie Charlotte Krückeberg Baptism 1782
@@ -98,6 +98,7 @@ from Petzen
 ## Citations
 
 (PET-B-1782a)=
+
 "Archion Protestant Kirchenbücher Portal", database with
 images, *Archion* ([http:.md](http://www.archion.de/p/e0eb15fb3e/): 31 October 2023),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der

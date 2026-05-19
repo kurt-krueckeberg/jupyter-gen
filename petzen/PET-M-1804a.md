@@ -3,7 +3,7 @@
 ## Citation
 
 The 22 April 1804 marriage of Fridrich Wilhem Weyland to Caroline Luise
-Lauen is found on [image 13, page 20, entry 3,](#PET-M-1804a) of the Petzen
+Lauen is found on {ref}`image 13, page 20, entry 3, <PET-M-1804a>` of the Petzen
 Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827".
 
@@ -60,8 +60,9 @@ Gestorbenen 1785-1827".
 ## Citations
 
 (PET-M-1804a)=
+
 "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* ([http:.md](http://www.archion.de/p/de7d21d33d/) : 22
+with images, *Archion* ([<http://www.archion.de/p/de7d21d33d/>](http://www.archion.de/p/de7d21d33d/) : 22
 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
 Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und

@@ -3,7 +3,7 @@
 ## Citation
 
 The death record of Anne Marie Philippine Wilharm is found on
-[image 235](#PET-D-1797a) of the [Archion](https://archion.de) digital
+{ref}`image 235 <PET-D-1797a>` of the [Archion](https://archion.de) digital
 images of the *Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen*.
 
@@ -77,6 +77,7 @@ no. 11 Evesen.
 ## Citations
 
 (PET-D-1797a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/1d65bd4485/> : 13 Jan.
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

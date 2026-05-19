@@ -30,7 +30,7 @@
 
 ## Citation
 
-The baptism of Ilse Margaretha Krückeberg is on [image 200, right page, first entry](#PET-B-1759a) from the
+The baptism of Ilse Margaretha Krückeberg is on {ref}`image 200, right page, first entry <PET-B-1759a>` from the
 "database with images (Register of Baptism and Confirmed of the Petzen Parish, 1641-1784)"
 
 ## Image of Ilse Margaretha Krückeberg Baptism 1759
@@ -66,6 +66,7 @@ was baptized. Sponsors 3 Mädgens, Wiesen, Engelking [un/um]
 ## Citations
 
 (PET-B-1759a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/aeb69c46c5/> : 2 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

@@ -33,7 +33,7 @@ FamilySearch Tree id:
 
 ## Citation
 
-The baptism of Friderich Wilhelm Weiland is on [image 253](#PET-B-1777a) of the Petzen Kirchenbuch: Verzeichnis der Getauften und Konfirmierten 1641-1784.
+The baptism of Friderich Wilhelm Weiland is on {ref}`image 253 <PET-B-1777a>` of the Petzen Kirchenbuch: Verzeichnis der Getauften und Konfirmierten 1641-1784.
 
 ## Image
 
@@ -48,9 +48,6 @@ The baptismal record is shown below:
 Transliteration
 
 ```{code-block} text
-
-           ANNO 1777
-
 2) d 26ten Jan: ist getauft Friderich Wilhelm Weiland
    des Friederich Wilhelm Weiland aus Evesen
    No 20 mit seiner Ehefrau Anna Maria geb[oren]
@@ -62,9 +59,6 @@ Transliteration
 Translation
 
 ```{code-block} text
-
-          Year 1777
-
 2) 26th Jan: Friderich Wilhelm Weiland baptized
    the begotten son of Friederich Wilhelm Weiland of Evesen
    No 20, by his wife Anna Maria born
@@ -75,5 +69,6 @@ Translation
 ## Citations
 
 (PET-B-1777a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/9269143a62/> : 22 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 253 of 322
 

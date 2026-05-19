@@ -6,7 +6,7 @@
 
 ## Citation
 
-The birth and baptism of Heinrich Wilhelm Weiland is entry 37 on [image 137, pages 266-267](#PET-B-1815b) of Petzen Kichenbuch volume "Verzeichnis der
+The birth and baptism of Heinrich Wilhelm Weiland is entry 37 on {ref}`image 137, pages 266-267 <PET-B-1815b>` of Petzen Kichenbuch volume "Verzeichnis der
 Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 Immediately after entry 31 for Caroline Dorothee Krückeberg is the entry
@@ -110,5 +110,6 @@ See discussion of **Einlieger/Einlinger** at [Image 82](PET-B-1803b.md).
 ## Citations
 
 (PET-B-1815b)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/c4074e8f0f/> : 4 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 137 of 357
 

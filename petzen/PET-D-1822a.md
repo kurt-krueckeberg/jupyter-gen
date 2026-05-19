@@ -67,7 +67,7 @@ farm and now lived under the terms of the Leibgeding.
 ## Citation
 
 The death of Johann Heinrich Krückeberg Death in 1822 is found on
-[image 313, on pages 652 and 652](#PET-D-1822a) of Petzen Kirchenbuch
+{ref}`image 313, on pages 652 and 652 <PET-D-1822a>` of Petzen Kirchenbuch
 volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 1785-1827".
 
@@ -164,6 +164,7 @@ source)
 ## Citations
 
 (PET-D-1822a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/f57385caa9/) : 25 October 2023), path: Niedersachsen > Niedersächsisches
 Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 5 of 357
 

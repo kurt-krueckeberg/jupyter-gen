@@ -2,7 +2,7 @@
 
 ## Reference
 
-The confirmation of Carl Friedrich Gottlieb Krückeberg is on [page 407 entry 2](#PET-C-1792a) of Petzen Kirchenbuch volume "V".
+The confirmation of Carl Friedrich Gottlieb Krückeberg is on {ref}`page 407 entry 2 <PET-C-1792a>` of Petzen Kirchenbuch volume "V".
 
 ## Image of Confirmation
 
@@ -48,6 +48,7 @@ Translation
 ## Citations
 
 (PET-C-1792a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* ([http:.md](http://www.archion.de/p/c62d7b4faa/) : 10 October
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher

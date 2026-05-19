@@ -2,7 +2,7 @@
 
 ## Citation
 
-The baptism record Anne Marie Christine Wilharm is found on [image 71](#PET-B-1798c) of the Petzen parish’s Verzeichnis der Getauften, Konfirmierten, Getrauten und
+The baptism record Anne Marie Christine Wilharm is found on {ref}`image 71 <PET-B-1798c>` of the Petzen parish’s Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827.
 
 ## Image of Baptism Record
@@ -81,6 +81,7 @@ Gestorbenen 1785-1827.
 ## Citations
 
 (PET-B-1798c)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/bccf9c0762/> : 12 January
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

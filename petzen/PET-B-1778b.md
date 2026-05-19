@@ -2,7 +2,7 @@
 
 ## Citation
 
-Sophia Ernestina Bleken’s baptism, on 11 September 1778, is on [image 261](#PET-B-1778b),
+Sophia Ernestina Bleken’s baptism, on 11 September 1778, is on {ref}`image 261 <PET-B-1778b>`,
 left page, entry no. 26, from the  Petzen "Verzeichnis der Getaufte und
 Konfirmirte, 1641-1784".:wq
 
@@ -37,6 +37,7 @@ Translation
 ## Citations
 
 (PET-B-1778b)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/8732d42d3a/> : 6 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

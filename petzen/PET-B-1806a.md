@@ -96,7 +96,7 @@ numbered property.
 
 ## Citation
 
-The baptism of Johann Heinrich Krückeberg is image [91 of 357 of the Archion.de images](#PET-B-1806a)
+The baptism of Johann Heinrich Krückeberg is image {ref}`91 of 357 of the Archion.de images <PET-B-1806a>`
 of the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 It is entry #22 on pages 176 and 177.
 
@@ -201,6 +201,7 @@ Pages 176-177 Header
 ## Citations
 
 (PET-B-1806a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:a4feffd4c0](http://www.archion.de/p/a4feffd4c0) : 10 October 2023), path:
 Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 91 of 357
 

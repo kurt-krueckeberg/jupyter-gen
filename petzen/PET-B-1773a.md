@@ -11,7 +11,7 @@
   - Father
   - Mother
 * - Anna Maria Phlippina
-  - [11 July 1773](PET-B-1773a/)
+  - [11 July 1773](PET-B-1773a.md)
   - no. 11 Evesen
   - Johann Heinrich Blecken
   - Anna Maarie Elisabeth Möller
@@ -31,7 +31,7 @@
 ## Citation
 
 The July 11, 1773, baptism record for Anna Philippine Maria Blecken appears on
-[image 238](#PET-B-1773a) of the Petzen "Verzeichnis der Getauften und Konfirmierten
+{ref}`image 238 <PET-B-1773a>` of the Petzen "Verzeichnis der Getauften und Konfirmierten
 1641-1784" on [Archion.de](https://archion.de).
 
 ## Image
@@ -67,6 +67,7 @@ Hartmann, of Evesen no. 9.
 ## Citations
 
 (PET-B-1773a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/e7f03cfa7c/> : 2 February
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

@@ -17,7 +17,7 @@ The baptism of Sophia Maria Krückeberg occurred on December 27th 1741.
 
 ## Citation
 
-The baptism entry is found on [image 163](#PET-B-1741a). It is the third to last entry near the bottom
+The baptism entry is found on {ref}`image 163 <PET-B-1741a>`. It is the third to last entry near the bottom
 of the left-hand page (the pages are unnumbered). It is the last entry in December of 1741, The year
 **1741** appears two pages previous.
 
@@ -62,6 +62,7 @@ Baptized by Mrs. Gaden, the steward’s wife at Hökersau
 ## Citations
 
 (PET-B-1741a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/63792c38f4/> : 10 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
 > Image 163 of 322, left hand page, 3rd to last entry on the left-hand page.

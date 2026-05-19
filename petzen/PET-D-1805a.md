@@ -40,7 +40,8 @@
 
 ## Citation
 
-The death of Johann Hen. Krückeberg in 1805 is recorded on [image 243, pages 512 and 513](#PET-D-1805a), entry 8, of the Petzen Kirchenbuch "Verzeichnis der Getauften,
+The death of Johann Hen. Krückeberg in 1805 is recorded on {ref}`image 243,
+pages 512 and 513 <PET-D-1805a>`, entry 8, of the Petzen Kirchenbuch "Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827" in the [Archion
 .de](https://www.archion.de) Kirchenbücher database of digital images.
 
@@ -132,6 +133,7 @@ farmer.
 ## Citations
 
 (PET-D-1805a)=
+
 "Archion Protestant Kirchenbücher Portal", database with
 images, *Archion* ([http:.md](http://www.archion.de/p/fcf567b28f/) : 25 October 2023),
 path: Niedersachsen: Niedersächsisches Landesarchiv > Kirchenbücher der

@@ -6,7 +6,7 @@
 :class: image-override
 ```
 
-Transliteration and Translation
+## Transliteration and Translation
 
 ```{code-block} text
 
@@ -16,6 +16,9 @@ Transliteration and Translation
     mit seiner Ehefrau Catherine Elisabeth geb.
     Bornemans erzeugte Tochter. Gavatterin war Maria
     Elisabeth Bornemans aus Evesen No. 7
+```
+
+```{code-block} text
 
 19) d 24th May: Christina Maria Weilands was baptized
     the begotten daughter of Johann Heinrich Weiland
@@ -23,4 +26,13 @@ Transliteration and Translation
     born Bornemans. Godmothers were Maria
     Elisabeth Bornemans from Evesen No. 7
 ```
+
+## Citations
+
+(PET-B-1789b)=
+
+"Archion Protestant Kirchenbücher Portal", database with images, **Archion**
+([<https://www.archion.de/p/ed0ebd924b/>](https://www.archion.de/p/ed0ebd924b/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 46 of 357
 

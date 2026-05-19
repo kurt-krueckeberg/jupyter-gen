@@ -3,7 +3,7 @@
 ## Citation
 
 The baptism of Catherina Margarethe Bleeck  is found on image
-[121](#PET-B-1713a), right side of the page, entry #3 for 1714:
+{ref}`121 <PET-B-1713a>`, right side of the page, entry #3 for 1714:
 
 ## Image
 
@@ -23,6 +23,7 @@ Vaters Schwester auß Meißen und der Mutters Schwester aus Evesen
 ## Citations
 
 (PET-B-1713a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* ([https:9aeae5801b](https://www.archion.de/p/9aeae5801b) : 4 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

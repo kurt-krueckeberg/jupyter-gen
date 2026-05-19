@@ -30,7 +30,7 @@ states she was also born blind.
 
 ## Citation
 
-The baptism appears on [image 174](#PET-B-1746a) at the bottom of the left-hand
+The baptism appears on {ref}`image 174 <PET-B-1746a>` at the bottom of the left-hand
 page of the Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 ## Baptism Entry
@@ -68,6 +68,7 @@ daughter from Scheye
 ## Citations
 
 (PET-B-1746a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/33af16da2f/> : 30 April
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

@@ -2,7 +2,7 @@
 
 ## Citation
 
-The June 19, 1712, baptism of Anthon Henrich Vahlsing is on [image 120](#PET-B-1712b), the first entry of the right-hand page in the
+The June 19, 1712, baptism of Anthon Henrich Vahlsing is on {ref}`image 120 <PET-B-1712b>`, the first entry of the right-hand page in the
 Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784" on
 [Archion.de](https://archion.de).
 
@@ -27,6 +27,7 @@ little son, Anton Henrich, baptized. Sponsor Henrich Weitzenkorn.
 ## Citations
 
 (PET-B-1712b)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, Archion (<https://www.archion.de/p/84a3ff6f9c/> : 16 February
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

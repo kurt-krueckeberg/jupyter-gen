@@ -4,7 +4,7 @@
 
 In 1812 Philippine Louise Weiland, illegitimate daughter of Jobst Heinrich Weiland, married Friedrich Wilkening.
 
-This is found on [image28](#PET-M-1812c) of the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+This is found on {ref}`image28 <PET-M-1812c>` of the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ## Philippine Louise Weiland 1812
 
@@ -123,6 +123,7 @@ Translation of page header
 ## Citations
 
 (PET-M-1812c)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/9c5e2c60a5/) : 7 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 28 of 357
 

@@ -38,7 +38,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 
 ## Citation
 
-The baptism of Johann Heinrich Wilhelm Krückeberg is on [image 220](#PET-B-1767a), left page, last entry, of the Petzen
+The baptism of Johann Heinrich Wilhelm Krückeberg is on {ref}`image 220 <PET-B-1767a>`, left page, last entry, of the Petzen
 "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 ## Baptism Record
@@ -88,6 +88,7 @@ On the same day the son of Johann Heinrich Kruckeberg
 ## Citations
 
 (PET-B-1767a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/c47579fcb0/> : 3 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

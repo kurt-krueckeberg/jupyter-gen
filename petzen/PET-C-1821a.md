@@ -1,6 +1,6 @@
 # 1821 Carl Friedrich Krückeberg Confirmation
 
-The confirmation of Carl Friedrich Krückeberg is on [image 212](#PET-C-1821a), on page 449. His name appears in the
+The confirmation of Carl Friedrich Krückeberg is on {ref}`image 212 <PET-C-1821a>`, on page 449. His name appears in the
 top left column of confirmed **Knaben** or boys. He is listed third.
 
 ## Family Relationship and Other Facts
@@ -79,6 +79,7 @@ Boys
 ## Citations
 
 (PET-C-1821a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/3c1cd8cdf1/>
 : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
  Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 212 of 357, top of page, right column.

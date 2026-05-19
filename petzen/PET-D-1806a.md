@@ -2,7 +2,7 @@
 
 ## Citation
 
-The death and burial of Friedrich Wilhelm Weiland appears on [image 247](#PET-D-1806a) of the [Archion.de](https://archion.de) digital images of
+The death and burial of Friedrich Wilhelm Weiland appears on {ref}`image 247 <PET-D-1806a>` of the [Archion.de](https://archion.de) digital images of
 the Petzen church register *Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827*.
 
@@ -66,6 +66,7 @@ Getrauten und Gestorbenen 1785-1827*.
 ## Citations
 
 (PET-D-1806a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/f8a5bc4535/> : 25 October
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

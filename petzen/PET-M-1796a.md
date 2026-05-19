@@ -34,7 +34,7 @@ and Berenbusch is my best guess for what is written underneath it.
 
 On 8 May 1796, Hans Heinrich Wilharm from Berenbuscha no. 9 married Anne
 Marie Philippine Blecke from Evesen No 19. The marriage is on
-[image 8](#PET-M-1796a), entry 4 for the year 1796, of the Petzen
+{ref}`image 8 <PET-M-1796a>`, entry 4 for the year 1796, of the Petzen
 Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827".
 
@@ -48,20 +48,6 @@ the 4th marriage of 1796:
 ```
 
 ## Transliteration and Translation
-
-Transliteration of Page Header
-
-```{code-block} text
-
-   [Getraute] im Jahre 1796
-```
-
-Translation of Page Header
-
-```{code-block} text
-
-  [Marriages] in the year 1796
-```
 
 ```{list-table} Transliteration
 :header-rows: 1
@@ -112,8 +98,9 @@ Translation of Page Header
 ## Citations
 
 (PET-M-1796a)=
+
 "Archion Protestant Kirchenbücher Portal", database
-with images, *Archion* (<https://www.archion.de/p/7854b85ad5/> : 13
+with images, *Archion* ([<https://www.archion.de/p/7854b85ad5/>](https://www.archion.de/p/7854b85ad5/) : 13
 January 2025), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
 Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und

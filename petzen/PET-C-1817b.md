@@ -20,7 +20,7 @@
 ## Citation
 
 The confirmation of Sophie Caroline Krückeberg in 1817, on the 1st Sunday After Easter,
-known as **Sonntag Qadsimodogeniti**, appears on [image 211](#PET-C-1817b), page 438,
+known as **Sonntag Qadsimodogeniti**, appears on {ref}`image 211 <PET-C-1817b>`, page 438,
 entry 12, among the list of Mädchen (girls) confirmed.
 
 ## Confirmation Record
@@ -67,6 +67,7 @@ Mädchen
 ## Citations
 
 (PET-C-1817b)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/f67951c5e7/> : 30 April 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 211 of 357, page 447, bottom half
 

@@ -3,7 +3,7 @@
 ## Citation
 
 The 17 December 1730 baptism of Sophia Margarthe Bleeck is found on
-[image 144](#PET-B-1730a), the left page, of the "Verzeichnis der
+{ref}`image 144 <PET-B-1730a>`, the left page, of the "Verzeichnis der
 Getauften und Konfirmierten 1641-1784".
 
 ## Baptism Record
@@ -34,6 +34,7 @@ On 17 Decembr Sophia Margarethe, the little daugher of Heinrich Bleeck from Eves
 ## Citations
 
 (PET-B-1730a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/dbfb399164/> : 15 May 2025), path: Niedersachsen >
 Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und
 Konfirmierten 1641-1784, image 144 of 322

@@ -17,7 +17,7 @@
 
 The baptism of a Johann Wilhelm Krückeberg occurred February 11th 1739.
 
-The baptism entry is found on [image 157](#PET-B-1739a). It is the last
+The baptism entry is found on {ref}`image 157 <PET-B-1739a>`. It is the last
 entry at the bottom of the right-hand page (the pages are unnumbered). The
 year 1739 appears in the middle of the right page.
 
@@ -63,6 +63,7 @@ His godfather Valsing
 ## Citations
 
 (PET-B-1739a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/ddcc12cae4/> : 09 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
 > Image 157 of 322, bottom enty on the right-hand page.

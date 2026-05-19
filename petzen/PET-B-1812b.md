@@ -12,7 +12,7 @@ This image gives extensive information:
 
 ## Citation
 
-The birth and baptism of Caroline Dorothee Krückeberg and Ernst Heinrich Weiland are on [image 125, pages 244 and 245](#PET-B-1812b) of the Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+The birth and baptism of Caroline Dorothee Krückeberg and Ernst Heinrich Weiland are on {ref}`image 125, pages 244 and 245 <PET-B-1812b>` of the Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 ## Pages 244 and 245
 
@@ -176,5 +176,6 @@ This seems to be the date of his death, and it is likely prefixed with **ges** f
 ## Citations
 
 (PET-B-1812b)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/466353a0e4/> : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 125 of 357
 

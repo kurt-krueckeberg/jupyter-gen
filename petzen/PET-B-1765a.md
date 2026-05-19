@@ -35,7 +35,7 @@ sponsor is also a **Rösener**.
 ## Citation
 
 The March 24, 1765 baptism of Jobst Heinrich Krückeberg is on
-[image 211](#PET-B-1765a), left page, fourth entry from the top, of the
+{ref}`image 211 <PET-B-1765a>`, left page, fourth entry from the top, of the
 "Verzeichnis der Getauften und Konfirmierten 1641-1784" (Register of
 Baptism and Confirmed of the Petzen Parish, 1641-1784).
 
@@ -85,6 +85,7 @@ Translation
 ## Citations
 
 (PET-B-1765a)=
+
 "Archion Protestant Kirchenbücher Portal", database
   with images, *Archion* (<https://www.archion.de/p/bac0cc3f24/> : 2 November
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

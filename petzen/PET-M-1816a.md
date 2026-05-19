@@ -62,7 +62,7 @@
 * - Event
   - Date
 * - Birth
-  - [26 April 1798](PET-B-1798b/)
+  - [26 April 1798](PET-B-1798b.md)
 * - Death
   - 11 Sept. 1878
 ```
@@ -91,7 +91,7 @@
 
 On 1 December 1816 Christine Louise Krückeberg, daughter of Johann Heinrich
 Krückeberg, married Johann Heinrich Klöpper.
-This marriage is found on [image 339, on pages 704 and 705](#PET-M-1816a) in the
+This marriage is found on {ref}`image 339, on pages 704 and 705 <PET-M-1816a>` in the
 Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827.
 
@@ -147,7 +147,7 @@ Maiden Christine Louise Krückebergs, the surving daugher of the late Johann Hei
 
 On 1 December 1816 Christine Louise Krückeberg, daughter of Johann Heinrich
 Krückeberg, married Johann Heinrich Klöpper.
-This marriage is found on [image 339, on pages 704 and 705](#PET-M-1816a) in the
+This marriage is found on {ref}`image 339, on pages 704 and 705 <PET-M-1816a>` in the
 Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827.
 
@@ -226,6 +226,7 @@ Transliteration of pages 704 and 705 header
 ## Citations
 
 (PET-M-1816a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/39e8241151/) : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 3397 of 357
 

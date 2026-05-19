@@ -4,13 +4,7 @@
 :class: image-override
 ```
 
-## TODO: Citation
-
 ## Transliteration and Translation
-
-Transliteration and Translation of page 85 Header
-
-92                                 Getauft(Baptized) 1790
 
 ```{note}
 Petzen is evidently spelled here as *Penzen*
@@ -37,4 +31,13 @@ Translation
      Philippine born Möller. Godmother was Mademoiselle
      Eleonore Louise Johann Gaden aus Petzen No. 1
 ```
+
+## Citations
+
+(PET-B-1790a)=
+
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion*
+([<https://www.archion.de/p/2ece47cbfb/>](https://www.archion.de/p/2ece47cbfb/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image ??? of 357
 

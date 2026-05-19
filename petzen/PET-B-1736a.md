@@ -25,7 +25,7 @@
 
 The baptism of a Dorothea Elisabeth Krückeberg occurred January 29th 1736.
 
-The baptism entry is found on [image 152](#PET-B-1736a). It is the third entry from the top
+The baptism entry is found on {ref}`image 152 <PET-B-1736a>`. It is the third entry from the top
 of the right-hand page (the pages being unnumbered). The year 1736 appears on the bottom
 entry of the prior page.
 
@@ -69,6 +69,7 @@ assume they are abbreviations for Berenbusch.
 ## Citations
 
 (PET-B-1736a)=
+
 "Archion Protestant Kirchenbücher Portal", database
   with images, *Archion* (<https://www.archion.de/p/07af317ee9/> : 09 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

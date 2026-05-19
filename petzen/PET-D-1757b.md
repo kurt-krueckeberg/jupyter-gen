@@ -17,7 +17,7 @@
 
 ## Citation
 
-The May 8, 1757, burial of Anna Maria Krückeberg from Berenbusch appears on [image 178](#PET-D-1757b), on the right-hand page, of the Petzen
+The May 8, 1757, burial of Anna Maria Krückeberg from Berenbusch appears on {ref}`image 178 <PET-D-1757b>`, on the right-hand page, of the Petzen
 "Verzeichnis der Getrauten und Gestorbenen, 1641-1784".
 
 ## Image of Burial Record
@@ -49,6 +49,7 @@ the 8th May Anna Maria Krückeberg
 ## Citations
 
 (PET-D-1757b)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/48477a9b72/> :
 18 July 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 178 of 239

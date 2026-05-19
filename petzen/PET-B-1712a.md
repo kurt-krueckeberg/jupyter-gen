@@ -2,7 +2,7 @@
 
 ## Citation
 
-The June 26, 1712, baptism of Maria Elisabeth Bleeke is on [image 120](#PET-B-1712a), the right-hand page, the 2nd entry from the top, of the
+The June 26, 1712, baptism of Maria Elisabeth Bleeke is on {ref}`image 120 <PET-B-1712a>`, the right-hand page, the 2nd entry from the top, of the
 Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 ## Image
@@ -36,6 +36,7 @@ Elisabeth baptized. [???] the father's mother.
 ## Citations
 
 (PET-B-1712a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/6b7431937b/> : 4 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

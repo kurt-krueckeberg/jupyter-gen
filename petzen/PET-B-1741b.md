@@ -8,7 +8,7 @@
 
 ## Citation
 
-The baptism entry is found on [image 163](#PET-B-1741b) on
+The baptism entry is found on {ref}`image 163 <PET-B-1741b>` on
 [ARchion.de](https://archion.de) of the images of the "Verzeichnis der
 Getauften und Konfirmierten 1641-1784".
 
@@ -30,6 +30,7 @@ mother [recently?] from Meissen
 ## Citations
 
 (PET-B-1741b)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/dacf09edc0/> : 1 Feb.
 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

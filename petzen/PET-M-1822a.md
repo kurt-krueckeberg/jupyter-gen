@@ -69,7 +69,7 @@ records.
 
 ## Citation
 
-The marriage record is on [image 348, on pages 722 and 723](#PET-M-1822a), of the Petzen Kirchenbuch "Verzeichnis der Getauften,
+The marriage record is on {ref}`image 348, on pages 722 and 723 <PET-M-1822a>`, of the Petzen Kirchenbuch "Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 ## Pages 722 and 723
@@ -155,6 +155,7 @@ people and too little land to go around.
 ## Citations
 
 (PET-M-1822a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images,
 [http:.md](http://www.archion.de/p/de1fdbc46c/) : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
  Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 3487 of 357

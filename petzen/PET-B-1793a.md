@@ -36,7 +36,7 @@
 ## Citation
 
 The baptism of Philippina Eloenora Kruckebergen 1793 is the last entry, entry 16, on page 113, and it is continued at the top of page 114.
-This entry appears on [image 59, page 113](#PET-B-1793a-1), and the top of [page 114, on image 60](#PET-B-1793a-2) of Petzen Kirchenbuch volume 2.
+This entry appears on {ref}`image 59, page 113 <PET-B-1793a-1>`, and the top of {ref}`page 114, on image 60 <PET-B-1793a-2>` of Petzen Kirchenbuch volume 2.
 
 ## Pages 112-113
 
@@ -96,10 +96,12 @@ Female sponsors are [together?]
 ## Citations
 
 (PET-B-1793a-1)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/f40c1c2ef5/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 59 of 357
 
 (PET-B-1793a-2)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/de6854339c/> : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 59 of 357
 

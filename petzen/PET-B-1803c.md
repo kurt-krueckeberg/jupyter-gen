@@ -31,7 +31,7 @@
 
 ## Citation
 
-The birth is recorded on [image 82](#PET-B-1803c), entry #40, on pages 158 and page 159 of the Petzen Kirchenbuch
+The birth is recorded on {ref}`image 82 <PET-B-1803c>`, entry #40, on pages 158 and page 159 of the Petzen Kirchenbuch
 "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827" from the
 [Archion.de](https://www.archion.de) database of Kirchenbücher digital images. The birth entries spans across
 pages 158 and 159. The birth month **Decbr** is written on page 159 between entries 39 and 40.
@@ -141,6 +141,7 @@ Translation of page header
 ## Citations
 
 (PET-B-1803c)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/22ea40c7b6/> : 10 October 2023), path:
 Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357

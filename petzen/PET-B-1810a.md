@@ -2,7 +2,7 @@
 
 ## Citation
 
-The baptism record of Carl Heinrich Wilharm is found on [image 112](#PET-B-1810a) of the Verzeichnis der Getauften, Konfirmierten, Getrauten und
+The baptism record of Carl Heinrich Wilharm is found on {ref}`image 112 <PET-B-1810a>` of the Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827.
 
 ## Image of Baptism Record
@@ -104,6 +104,7 @@ Gestorbenen 1785-1827.
 ## Citations
 
 (PET-B-1810a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/3a0eac5303/> : 12 January
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

@@ -32,7 +32,7 @@ and she was born on 1 Feb. 1792.
 
 ## Citation
 
-The confirmation of Philippine Caroline Christine Krückeberg Confirmation in 1805 is on [image 192](#PET-C-1805a),
+The confirmation of Philippine Caroline Christine Krückeberg Confirmation in 1805 is on {ref}`image 192 <PET-C-1805a>`,
 page 420, entry 13, of the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 1785-1827" in the [Archion.de](https://www.archion.de) database of Kirchenbücher digital images.
 
@@ -97,5 +97,6 @@ page 420, entry 13, of the Petzen "Verzeichnis der Getauften, Konfirmierten, Get
 ## Citations
 
 (PET-C-1805a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/c70f7cb090/) : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 198 of 357
 

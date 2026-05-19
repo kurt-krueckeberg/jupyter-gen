@@ -29,7 +29,7 @@ Vahlsing?
 
 ## Citation
 
-The baptism of Carl Philip Krückeberg is on [image 180](#PET-B-1750a),
+The baptism of Carl Philip Krückeberg is on {ref}`image 180 <PET-B-1750a>`,
 right page, 3rd entry from the bottom, of the "Register of Baptism and
 Confirmed of the Petzen Parish, 1641-1784".
 
@@ -62,6 +62,7 @@ was baptized; godfather: Fahlsing’s son from Evesen.
 ## Citations
 
 (PET-B-1750a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/4be42df888/>
 : 10 May 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 180 of 322, right-hand page,

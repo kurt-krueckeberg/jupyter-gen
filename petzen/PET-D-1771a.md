@@ -22,7 +22,7 @@
 ## Citation
 
 The June 23, 1771, interment of the stillborn son of Johann Heinrich Kruckeberg of Berenbusch
-appears on [image 204](#PET-D-1771a), on the left-hand page of the Petzen "Verzeichnis der
+appears on {ref}`image 204 <PET-D-1771a>`, on the left-hand page of the Petzen "Verzeichnis der
 Getrauten und Gestorbenen, 1641-1784".
 
 ## Image of Burial Record
@@ -56,6 +56,7 @@ d 23  Jun. The stillborn little boy of Johann Heinrich Kruckeberg
 ## Citations
 
 (PET-D-1771a)=
+
 "Archion Protestant Kirchenbücher Portal", database
   with images, *Archion* (<https://www.archion.de/p/e48cc6a752/> : 23 July
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

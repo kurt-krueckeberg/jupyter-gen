@@ -20,7 +20,7 @@
 ## Citation
 
 The confirmation of Christine Philippine Krückeberg in 1817, on the 1st Sunday After Easter,
-known as **Sonntag Qadsimodogeniti**, appears on [image 211](#PET-C-1817a), page 438, entry 6, among the list of Mädchen (girls) confirmed.
+known as **Sonntag Qadsimodogeniti**, appears on {ref}`image 211 <PET-C-1817a>`, page 438, entry 6, among the list of Mädchen (girls) confirmed.
 
 Transliteration of Header
 
@@ -67,6 +67,7 @@ Note: Entries 1-4 and those entries after #7 are ommited.
 ## Citations
 
 (PET-C-1817a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/f67951c5e7/> : 30 April 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 211 of 357, page 447, middle
 

@@ -39,7 +39,7 @@
 
 ## Citation
 
-The birth and baptism are recorded on [image 71](#PET-B-1798b) of pages 136 and page 137, entry #24, of the "Verzeichnis der
+The birth and baptism are recorded on {ref}`image 71 <PET-B-1798b>` of pages 136 and page 137, entry #24, of the "Verzeichnis der
 Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827". The birth entries span both pages 136 and 137.
 
 ## Confirming Birth Month of April
@@ -139,6 +139,7 @@ Translation of Nachtrag dates written below her name
 ## Citations
 
 (PET-B-1798b)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/ba3bed0468/), [http:.md](http://www.archion.de/p/dbf697fc6e/) :
 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 71 of 357 > Page 136

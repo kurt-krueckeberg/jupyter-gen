@@ -9,7 +9,7 @@ What remains is written between them and is quite small.
 
 ## Reference
 
-This marriage is on the [17th image on Archion](#PET-M-1808a) of Petzen Kirchenbuch volume 2.
+This marriage is on the {ref}`17th image on Archion <PET-M-1808a>` of Petzen Kirchenbuch volume 2.
 
 ## Jobst Heinrich Weiland 1808
 
@@ -173,6 +173,7 @@ Translation of header for pages 28 and 29
 ## Citations
 
 (PET-M-1808a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, ([http:.md](http://www.archion.de/p/851f901e19/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 17 of 357
 

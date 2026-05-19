@@ -2,10 +2,13 @@
 
 ## Citation
 
-The baptism of Jobst Heinrich Weiland is on [image 191, left page, first entry](#PET-B-1754b) from the "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"
+The baptism of Jobst Heinrich Weiland is on {ref}`image 191, left
+page, first entry <PET-B-1754b>` from the "Register of Baptism and Confirmed of the
+Petzen Parish, 1641-1784"
 
 ```{important}
-The birth of Heinrich Wilhelm Bleeke from Evesen also appears on this image, on the right hand page (not shown).
+The birth of Heinrich Wilhelm Bleeke from Evesen also appears on this
+image, on the right hand page (not shown).
 ```
 
 ## Image
@@ -16,19 +19,25 @@ The birth of Heinrich Wilhelm Bleeke from Evesen also appears on this image, on 
 
 ## Transliteration and Translation
 
-```{list-table} 1758 Baptism of Jobst Heinrich Weiland
+1758 Baptism of Jobst Heinrich Weiland
 
-* - 1754                  Getaufte (Baptisms)
-* - d 10ten Nov. Anna Ilse Margaret Weiland
-       getauft Parens[Latin for father] Jobst Heinrich Weiland zu Berenbusch
-       Gev. Witwe Mönchhofs zu Evesen
-* - d 10th Nov. Anna Ilse Margaret Weiland was baptized
-       Father Jobst Heinrich Weiland at Berenbusch
-       Godmother was the widow Mönchhof at Evesen
+```{code-block} text
+d 10ten Nov. Anna Ilse Margaret Weiland
+   getauft Parens[Latin for father] Jobst Heinrich Weiland zu Berenbusch
+   Gev. Witwe Mönchhofs zu Evesen
+```
+
+```{code-block} text
+d 10th Nov. Anna Ilse Margaret Weiland was baptized
+   Father Jobst Heinrich Weiland at Berenbusch
+   Godmother was the widow Mönchhof at Evesen
 ```
 
 ## Citations
 
 (PET-B-1754b)=
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (?????? : 5 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 191 of 322
 
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https://www.archion.de/p/940d0f89fc/](https://www.archion.de/p/940d0f89fc/) : 5 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv >
+Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
+Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 191
+of 322

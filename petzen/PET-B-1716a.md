@@ -2,7 +2,7 @@
 
 ## Citation
 
-The baptism of Anna Engel Bleecke is on [image 124](#PET-B-1716a),
+The baptism of Anna Engel Bleecke is on {ref}`image 124 <PET-B-1716a>`,
 left-hand page, 3nd entry from the top, of the Petzen "Verzeichnis der
 Getauften und Konfirmierten 1641-1784".
 
@@ -41,6 +41,7 @@ was baptized. Godmother the wife of the shepherd of the Höchersau.
 ## Citations
 
 (PET-B-1716a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/430f6ba187/> : 5 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

@@ -20,7 +20,7 @@
 ## Citation
 
 The confirmation of Sophie Wilhelmine Krückeberg on 21 April 1816, on Sonntag
-Quadsimodogeniti (the 1st Sunday After Easter), appears on [image 211](#PET-C-1816a), on page 446, entry 16, of the "Verzeichnis der Getauften,
+Quadsimodogeniti (the 1st Sunday After Easter), appears on {ref}`image 211 <PET-C-1816a>`, on page 446, entry 16, of the "Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827"
 
 ## Page 446, Header Transliteration and Translation
@@ -74,6 +74,7 @@ Transliteration of Entries 8, 9 and 10
 ## Citations
 
 (PET-C-1816a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion*
   (<https://www.archion.de/p/1922294e60/> : 30 April 2025), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften,

@@ -144,7 +144,7 @@ Colon/householder of No. 14 in Berenbusch.
 
 ## Citation
 
-The birth and baptism of Carl Friedrich Krückeberg is [on image 96, pages 186 and 187, entry 20,](#PET-B-1807a) of
+The birth and baptism of Carl Friedrich Krückeberg is {ref}`on image 96, pages 186 and 187, entry 20, <PET-B-1807a>` of
 Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827" from the
 [Archion.de](https://www.archion.de) database of Kirchbücher digital images.
 
@@ -251,5 +251,6 @@ As mentioned above, the maiden name **Bleeken** is in error in the church regist
 ## Citations
 
 (PET-B-1807a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/4af33a94aa/) : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 96 of 357
 

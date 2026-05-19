@@ -18,7 +18,7 @@
 ## Citation
 
 The October 7, 1770, baptism of Johann Heinrich Blecken is on
-[image 231](#PET-B-1770a) of the "Verzeichnis der Getauften und
+{ref}`image 231 <PET-B-1770a>` of the "Verzeichnis der Getauften und
 Konfirmierten 1641-1784" available on the Protestant Kirchenbücher portal
 [Archion.de](https://archion.de).
 
@@ -54,6 +54,7 @@ Bleken, the brother of the child's father.
 ## Citations
 
 (PET-B-1770a)=
+
 [PET-B-1770a] "Archion Protestant KirchenbÃ¼cher Portal", database
 with images, *Archion* (<https://www.archion.de/p/cb78f2bd89/> : 2 Feb.
 2026), path: Niedersachsen > NiedersÃ¤chsisches Landesarchiv > KirchenbÃ¼cher

@@ -2,7 +2,7 @@
 
 ## Citation
 
-The baptism of is Johann Tönnis Kuhlmann is on [image 58](#PET-B-1679a),
+The baptism of is Johann Tönnis Kuhlmann is on {ref}`image 58 <PET-B-1679a>`,
 right-hand page, from the Petzen "Register of Baptism and Confirmed of the
 Petzen Parish, 1641-1784".
 
@@ -35,6 +35,7 @@ at Nammen.
 ## Citations
 
 (PET-B-1679a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* (<https://www.archion.de/p/8cb2aa7364/> : 2 May
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

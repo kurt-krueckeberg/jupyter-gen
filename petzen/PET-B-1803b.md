@@ -62,7 +62,7 @@ baptismal sponsor of [Carl Friedrich Krückeberg](PET-B-1807a.md) in
 
 ## Citation
 
-The birth is recorded on image 82, entry 23, on [image 82](#PET-B-1803b) pages 158 159 of the Petzen Kirchenbuch
+The birth is recorded on image 82, entry 23, on {ref}`image 82 <PET-B-1803b>` pages 158 159 of the Petzen Kirchenbuch
 "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827". It spans across both pages 158 and 159.
 The birth month of **Jul** is written on page 159 slightly above the text of entry 22.
 
@@ -167,6 +167,7 @@ administrative term.
 ## Citations
 
 (PET-B-1803b)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/037f8d4ae2/), [http:.md](http://www.archion.de/p/10fd9445da/) : 10 October 2023),
 path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357
 

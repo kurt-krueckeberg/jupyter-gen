@@ -40,7 +40,7 @@
 
 The June 11, 1780 marriage of Heinrich Tönnes Werkmeister from Wülpke
 to Ilse Maria Elisabeth née Möller, widow of Bleken, from Evesen, is on
-[image 65](#PET-M-1780a)  of the Petzen "Verzeichnis der Getrauten und Gestorbenen,
+{ref}`image 65 <PET-M-1780a>`  of the Petzen "Verzeichnis der Getrauten und Gestorbenen,
 1641-1784" on [Archion.de](https://archion.de).
 
 ## Transliteration and Translation
@@ -64,6 +64,7 @@ was married to Ilse Marie nee Möller, widow of Bleke, from Evesen
 ## Citations
 
 (PET-M-1780a)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, Archion (<https://www.archion.de/p/daf56f4ddd/> : 1 Feb, 2026),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der

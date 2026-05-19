@@ -52,7 +52,7 @@
 
 ## Citation
 
-The marriage record is on [image 27, on pages 48 and 49](#PET-M-1812d) of
+The marriage record is on {ref}`image 27, on pages 48 and 49 <PET-M-1812d>` of
 Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827" found on [Archion.de](https://archion.de).
 
@@ -113,6 +113,7 @@ Gestorbenen 1785-1827" found on [Archion.de](https://archion.de).
 ## Citations
 
 (PET-M-1812d)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/35cc3dfe9f/>
 : 22 Feb. 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827

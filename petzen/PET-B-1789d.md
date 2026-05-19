@@ -4,7 +4,7 @@
 
 ### Citatioin
 
-Entry is on [image 45, on entry 7](#image45).
+Entry is on {ref}`image 45, on entry 7 <image45>`.
 
 ### Image 45, page 85, entry 7
 
@@ -39,6 +39,7 @@ to five.
 ## Citations
 
 (image45)=
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/ee8298f89e/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http://www.archion.de/p/ee8298f89e/](http://www.archion.de/p/ee8298f89e/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 45 of 357
 

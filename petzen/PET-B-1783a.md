@@ -3,7 +3,7 @@
 ## Citation
 
 The May 4, 1783, baptism record for Phlippina Eleonore Werkmeister Baptism is on
-[image 287](#PET-B-1783a), left page, the first entry, of the "Verzeichnis
+{ref}`image 287 <PET-B-1783a>`, left page, the first entry, of the "Verzeichnis
 der Getauften und Konfirmierten 1641-1784".
 
 ## Baptism Record
@@ -55,6 +55,7 @@ the "n" ending indicative of a female’s surname.117
 ## Citations
 
 (PET-B-1783a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, Archion (<https://www.archion.de/p/e7573f3c3e/> : 8 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 287 of 322, left hand page, first entry.

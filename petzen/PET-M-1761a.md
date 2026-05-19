@@ -23,7 +23,7 @@
 
 ## Citation
 
-The June 14, 1761, marriage of Johann Henirch Krückeberg to Anne Christine Elisebet Seeger is on [image 52](#PET-M-1761a),
+The June 14, 1761, marriage of Johann Henirch Krückeberg to Anne Christine Elisebet Seeger is on {ref}`image 52 <PET-M-1761a>`,
 the top, right-hand page, of the Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
 ## Image of Marriage Record
@@ -59,6 +59,7 @@ The 14th June Johann Heinrich Krückeberg
 ## Citations
 
 (PET-M-1761a)=
+
 "Archion Protestant Kirchenbücher Portal", database
   with images, *Archion* (<https://www.archion.de/p/ff12bc402d/> : 17 July
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher

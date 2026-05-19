@@ -86,7 +86,7 @@ records.
 
 ## Citation
 
-The marriage record is on [image 27, on pages 48 and 49](#PET-M-1812a) of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+The marriage record is on {ref}`image 27, on pages 48 and 49 <PET-M-1812a>` of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 ## Pages 48 and 49
 
@@ -234,6 +234,7 @@ See this more detailed explantion: [What is a Lieftucht/Leibzucht?](https://chri
 ## Citations
 
 (PET-M-1812a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/e8f8a097b9/) : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 27 of 357
 

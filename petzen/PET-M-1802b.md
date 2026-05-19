@@ -37,7 +37,8 @@ This is exactly what we expect after an **inter vivos Übergabe** (handover duri
 
 ## Citation
 
-The marriage occurred on April 11, 1802. It is [entry 10, page 19, on image 12](#PET-M-1802b) of Petzen Kirchenbuch Verzeichnis der Getauften,
+The marriage occurred on April 11, 1802. It is {ref}`entry 10,
+page 19, on image 12 <PET-M-1802b>` of Petzen Kirchenbuch Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 ## Page 19
@@ -109,6 +110,7 @@ sense is idomatic. It refers to premartial sexual relations.
 ## Citations
 
 (PET-M-1802b)=
+
 "Archion Protestant Kirchenbücher Portal", database
 with images, *Archion* ([http:.md](http://www.archion.de/p/670cfbbaf6/) : 22
 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv >
