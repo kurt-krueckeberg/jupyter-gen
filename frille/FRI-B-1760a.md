@@ -2,7 +2,7 @@
 
 ## Citation
 
-The baptism Charlotte Loyse[Louise] Heiniette Bleecke occurred on 18 July 1760. It appears on [page 16, on image 11](#FRI-B-1760a), of
+The baptism Charlotte Loyse[Louise] Heiniette Bleecke occurred on 18 July 1760. It appears on {ref}`page 16, on image 11 <FRI-B-1760a>`, of
 Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ", on image 11 of 388.
 
 ## Images
@@ -13,7 +13,7 @@ The baptism and birth year of 1760 is written on page 13  (of the baptism pages)
 :class: image-override
 ```
 
-The birth and baptism of Charlotte Loyse(Louise) Heinriette Bleeckeis recorded on entry number 33 on [page 16](#FRI-B-1760a) (of the baptism pages).
+The birth and baptism of Charlotte Loyse(Louise) Heinriette Bleeckeis recorded on entry number 33 on {ref}`page 16 <FRI-B-1760a>` (of the baptism pages).
 
 ```{image} images/frille-band2-img11-16.jpg
 :class: image-override
@@ -55,5 +55,6 @@ is identical to the Kurrent h, a practice used in the Petzen church records also
 ## Citations
 
 (FRI-B-1760a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/11732ef7c6/> : 12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille > Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 11 of 388
 

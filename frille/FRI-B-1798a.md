@@ -2,7 +2,7 @@
 
 ## Citation
 
-The baptism of Christine Marie Schwier occured on 13 May 1798. It is [image 138, page 259](#FRI-B-1798a) of the
+The baptism of Christine Marie Schwier occured on 13 May 1798. It is {ref}`image 138, page 259 <FRI-B-1798a>` of the
 Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804".
 
 ## Images
@@ -38,6 +38,7 @@ Thus, the baptism date is **13 May 1798**.
 ## Citations
 
 (FRI-B-1798a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/a595935a48/>:
 7 November 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
 Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 138 of 388

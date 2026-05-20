@@ -3,7 +3,7 @@
 ## Citation
 
 Christian Friderich Bleeke’s baptism and birth is recorded on page 283 of of Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ", image 152 of 388
-It is on [image 152](#FRI-B-1800a). The birth and baptism year appears on page 283. His birth and baptism is the 70th of the year.
+It is on {ref}`image 152 <FRI-B-1800a>`. The birth and baptism year appears on page 283. His birth and baptism is the 70th of the year.
 
 ## Image
 
@@ -35,6 +35,7 @@ The baptism entry fo Christian Friderich Bleeke is on page 283 (of the baptism p
 ## Citations
 
 (FRI-B-1800a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/949fb9ec7c/> :  12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
 Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 152 of 388
 

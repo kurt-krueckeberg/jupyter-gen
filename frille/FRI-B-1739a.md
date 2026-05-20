@@ -2,7 +2,7 @@
 
 ## Citation
 
-The baptism/birth of Carl Friedrich Bleke[Bleeke] occurred on 18 March 1739. It appears on [image 128, on the left page, entry #10](#FRI-B-1739a) in
+The baptism/birth of Carl Friedrich Bleke[Bleeke] occurred on 18 March 1739. It appears on {ref}`image 128, on the left page, entry #10 <FRI-B-1739a>` in
 Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1664-1757.
 
 ## Images
@@ -14,26 +14,35 @@ Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, 
 ### Transliteration and Translation
 
 ```{note}
-The occupation given for the father Henrich Philipp Bleke is truncated. The remaioder
-of the word "Schulm" is not visible in the digitize image. Perhaps it was too close
-to center margin, which appears to have been reinforced with a material only partially
-transparent. "Schulm" most likely is the word: Schulmeister (Schoolmaster).
+- The occupation given for the father Henrich Philipp Bleke is truncated. The remainder
+  of the word "Schulm" is not visible in the digitize image. It appears to have been taped over.
+- **Brandenb.** (or brandenb.) is likely the abbreviation for *brandenburgischer*. Frille was divided
+  into a Brandenburg and a Prussian side. Cord Heinrich Bleke was a schoolmaster on the Brandenburg-
+  side of Frille.
+- **vulgo** means "commonly called" or "known as".
+
 ```
 
-```{list-table} 18th March 1739 Birth of Carl Friedrich Bleke
+```text
+10.) d. 18ten Mart. Carl Friedrich Bleke. P. Henrich Philipp Bleke Schulm[eister].
+zu Leteln. M. Catharina Margaretha Viehuß. S. 1.) Cord Henrich Bleke
+hiesiger Brandenb. Schulmeister. 2.) Tönnies Bakenieger vulgo Rodenberg. 3.)
+Henrich Volkening beÿde aus Leteln.
+```
 
-* - 10.) d 18ten Mart. Carl Friedrich Bleke. P. Heinrich Philipp Bleke Schulm[eister. 'eister' is not visible because the it is covered over by tape]
-          zu Leteln. M. Catharine Margarethe Viehuß S. 1) Cord Henrich Bleke ... to be completed
-          hiesiger [possible locality name?] Schulmeister 2.)  Tönnies [...be completed] Rodenberg 3.) Heinrich Volkening beide[both] aus Leteln
-* - 10.) On March 18th Carl Friedrich Bleke. Father Heinrich Philipp Bleke schoolmaster
-          [is the text is truncated at the center margin, Schulmeister is the likely word]
-          at Leteln. Mother Catharine Margarethe Viehuß Sponsors: 1) Cord Henrich Bleke ... to be completed
-          local [locality name?] schoolmaster 2.)  Tönnies...[tbe completed] Rodenberg 3.) ..
-          Heinrich Volkening both from Leteln
+```code
+10.) On the 18th of March, Carl Friedrich Bleke was baptized. Father:
+Henrich Philipp Bleke, schoolmaster at Leteln. Mother: Catharina Margaretha
+Viehuß. Sponsors: 1.) Cord Henrich Bleke, local Brandenburg-side
+schoolmaster. 2.) Tönnies Bakenieger, commonly called Rodenberg. 3.)
+Henrich Volkening, both from Leteln.
 ```
 
 ## Citations
 
 (FRI-B-1739a)=
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/e8aa91b948/>: 12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille > Verzeichnis der Getauften, Getrauten, Gestorbenen 1664-1757, image 128 of 389
+
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/e8aa91b948/> : 12 November 2023),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
+Frille > Verzeichnis der Getauften, Getrauten, Gestorbenen 1664-1757, image 128 of 389
 

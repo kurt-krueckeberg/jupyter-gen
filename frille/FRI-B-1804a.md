@@ -2,7 +2,7 @@
 
 ## Citation
 
-Marie Louise Bleeke’s baptism and birth is recorded on [page 317, entry 43](#FRI-B-1804a), of Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ",
+Marie Louise Bleeke’s baptism and birth is recorded on {ref}`page 317, entry 43 <FRI-B-1804a>`, of Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ",
 image 70 of 388.
 
 ## Image
@@ -46,6 +46,7 @@ added to the surname (Bleeke) when referring to a female daughter.
 ## Citations
 
 (FRI-B-1804a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/4ddfe3505c/> :  12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
 Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 170 of 388
 
