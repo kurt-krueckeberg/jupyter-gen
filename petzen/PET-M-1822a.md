@@ -67,7 +67,7 @@ records.
   - Widower at time of marriage
 ```
 
-## Citation
+## Record
 
 The marriage record is on {ref}`image 348, on pages 722 and 723 <PET-M-1822a>`, of the Petzen Kirchenbuch "Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827".

@@ -2,7 +2,7 @@
 
 On 19 September 1790, Jobst Heinrich Weiland from Berenbush No 1 married Anna Catharina Margaretha Mohtin from Berenbush No 7.
 
-## Citation
+## Record
 
 The marriage is on {ref}`page 5, entry 10 <PET-M-1790b>` of Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 

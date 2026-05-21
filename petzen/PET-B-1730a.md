@@ -1,6 +1,6 @@
 # 1730 Sophia Margarthe Bleeck Baptism
 
-## Citation
+## Record
 
 The 17 December 1730 baptism of Sophia Margarthe Bleeck is found on
 {ref}`image 144 <PET-B-1730a>`, the left page, of the "Verzeichnis der

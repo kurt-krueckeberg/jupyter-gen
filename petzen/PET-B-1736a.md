@@ -21,7 +21,7 @@
 * - wife of soldier Weiland
 ```
 
-## Citation
+## Record
 
 The baptism of a Dorothea Elisabeth Krückeberg occurred January 29th 1736.
 
@@ -37,8 +37,10 @@ entry of the prior page.
 
 :::{admonition} Explanations
 
-- **Berenbusch** is not mentioned explicitly. It is assumed img152 abbrev is
-an abbreviation for it.
+**Berenbusch** does not appear in the record. It is assumed this is an abbreviation for it:
+```{image} images/img152-abbrev.jpg
+:width: 150
+```
 
 :::
 

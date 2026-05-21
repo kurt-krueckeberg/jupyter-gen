@@ -1,6 +1,6 @@
 # 1815 Stillborn daughter of Friedrich Wilhelm Weiland
 
-## Citation
+## Record
 
 The birth of a stillborn daughter of Heinrich Wilhelm Weiland is entry 17 on {ref}`image 133, pages 260-261 <PET-B-1815a>`.
 

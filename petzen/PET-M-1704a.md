@@ -15,13 +15,13 @@
   - Petzen
 ```
 
-## Citation
+## Record
 
 The 15 October 1704 marriage of Johann Tönnis Eggerding to Anna Catharina
 Eberding is on {ref}`image 27 <image27>`, the right-hand page, of the Petzen
 "Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
-## Image
+## Marriage Image
 
 ```{image} images/petzen-band1b-img27.png
 :class: image-override

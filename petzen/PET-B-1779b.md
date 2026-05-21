@@ -35,7 +35,7 @@ Carl Friedrich Gottlieb Kruckeberg was baptized on April 18, 1779, in Petzen.
   - Höcker’s estate
 ```
 
-## Citation
+## Record
 
 Carl Friderich Gottlieb Kruckeberg’s (this is how the surname was spelled in
 his baptism entry) baptism is on {ref}`image 264, right page, entry no.

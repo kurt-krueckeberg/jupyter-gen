@@ -60,7 +60,7 @@ baptismal sponsor of [Carl Friedrich Krückeberg](PET-B-1807a.md) in
 1807.
 ```
 
-## Citation
+## Record
 
 The birth is recorded on image 82, entry 23, on {ref}`image 82 <PET-B-1803b>` pages 158 159 of the Petzen Kirchenbuch
 "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827". It spans across both pages 158 and 159.

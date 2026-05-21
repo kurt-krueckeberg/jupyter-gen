@@ -21,7 +21,7 @@
   - Ephesen[= Evesen]
 ```
 
-## Citation
+## Record
 
 The June 28, 1761, marriage of Friedrich Wilhelm Weiland to Anna Ilsabei
 Deierberg on {ref}`image 52 <PET-M-1761b>`, the bottom of theright-hand page, of the

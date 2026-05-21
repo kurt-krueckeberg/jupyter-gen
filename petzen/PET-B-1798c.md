@@ -1,6 +1,6 @@
 # 1798 Anne Marie Christine Wilharm Baptism
 
-## Citation
+## Record
 
 The baptism record Anne Marie Christine Wilharm is found on {ref}`image 71 <PET-B-1798c>` of the Petzen parish’s Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827.

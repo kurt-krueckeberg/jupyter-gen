@@ -45,7 +45,7 @@ understood in a social/household sense. Her biological father was almost
 certainly Johann Heinrich Krückeberg (†1759).
 ```
 
-## Citation
+## Record
 
 The death of Sophie Marie Krückeberg, March 17, 1801, {ref}`image
 239, on page 504 <PET-D-1801a>`, of the Petzen Kirchenbuch "Verzeichnis der Getauften,

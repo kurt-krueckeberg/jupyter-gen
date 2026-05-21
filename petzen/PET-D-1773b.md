@@ -28,7 +28,7 @@
   - Died from complications of childbirth
 ```
 
-## Citation
+## Record
 
 The August 29, 1773, burial of Anna Christina Kruckeberg, age 36, wife of Johann Heinrich Krückeberg from Bernbusch,
 appears on {ref}`image 210 <PET-D-1773b>`, on the right-hand page of the Petzen "Verzeichnis der Getrauten und Gestorbenen,

@@ -26,7 +26,7 @@
   - Berenbusch
 ```
 
-## Citation
+## Record
 
 Anna Christina Maria Krückeberg’s baptism is on {ref}`image 246, right
 page, entry no. 10 <PET-B-1775b>` from the Petzen Kirchenbuch volume "Verzeichnis der

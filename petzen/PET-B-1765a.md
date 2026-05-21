@@ -32,7 +32,7 @@ Evesen married Johann Heinrich Krückeberg from Berenbusch](PET-M-1758a.md). The
 sponsor is also a **Rösener**.
 ```
 
-## Citation
+## Record
 
 The March 24, 1765 baptism of Jobst Heinrich Krückeberg is on
 {ref}`image 211 <PET-B-1765a>`, left page, fourth entry from the top, of the

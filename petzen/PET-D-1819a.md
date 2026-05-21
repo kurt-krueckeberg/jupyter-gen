@@ -43,7 +43,7 @@ Philippine Dorothee nee Beuke Krückeberg was survived by a daughter, but it is 
 was her daugher’s father. We don’t have a baptism record yet.
 ```
 
-## Citation
+## Record
 
 On January 6, 1819, Philippine Dorothee Krückeberg, nee Beucken (or Beucke) died and was buried on January 9, 1819.
 The death and burial record is on {ref}`image 300 <PET-D-1819a>`, entry #1, of the Petzen Kirchenbuch "Verzeichnis der Getauften,

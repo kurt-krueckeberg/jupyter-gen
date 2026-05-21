@@ -28,7 +28,7 @@
 * - Engelking [um/un]
 ```
 
-## Citation
+## Record
 
 The baptism of Ilse Margaretha Krückeberg is on {ref}`image 200, right page, first entry <PET-B-1759a>` from the
 "database with images (Register of Baptism and Confirmed of the Petzen Parish, 1641-1784)"

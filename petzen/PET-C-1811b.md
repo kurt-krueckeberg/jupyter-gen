@@ -19,7 +19,7 @@
   - no. 19 Evesen
 ```
 
-## Citation
+## Record
 
 The confirmation of Christine Louise Krückeberg, on the 1st Sunday After Easter(Quadsimodogeniti), was registered
 on {ref}`pages 438 and 439, entry 28, <PET-C-1811b>`, on entry #28, of the Petzen Kirchenbuch "Verzeichnis

@@ -31,12 +31,11 @@ FamilySearch Tree id:
   - Evesen
 ```
 
-## Citation
+## Record
 
 The baptism of Friderich Wilhelm Weiland is on {ref}`image 253 <PET-B-1777a>` of the Petzen Kirchenbuch: Verzeichnis der Getauften und Konfirmierten 1641-1784.
 
-## Image
-
+## Baptism Image
 The baptismal record is shown below:
 
 ```{image} images/petzen-band1a-img253.jpg

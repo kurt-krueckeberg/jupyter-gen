@@ -1,13 +1,12 @@
 # 1806 Sophie Dorothee Weiland Death
 
-## Citation
+## Record
 
 The death and burial of Sophie Dorothee Weiland appears on {ref}`image 247 <PET-D-1806b>` of the [Archion.de](https://archion.de) digital images of
 the Petzen church register *Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827*.
 
-## Image
-
+## Burial Image
 ```{image} images/petzen-band2-img247-3.jpg
 :class: image-override
 ```

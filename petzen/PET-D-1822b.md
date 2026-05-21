@@ -90,18 +90,12 @@ The pastor could have written simply “Schuster”. The fact that he did not, i
 
 :::
 
-## Citation
+## Record
 
 The death of Jobst Heinrich Krückeberg, on October 21, 1822, is recorded on {ref}`image 314, on pages 654 and 654 <PET-D-1822b>` of Petzen Kirchenbuch:
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 ## Death Record Pages 654 and 655
-
-Page overview:
-
-```{image} images/petzen-band2-img314-header.jpg
-:class: image-override
-```
 
 Page 654:
 
@@ -116,20 +110,6 @@ Page 655:
 ```
 
 ## Transliteration and Translation of Pages 654 and 655
-
-Transliteration of Page Header
-
-```{code-block} text
-
-654   Gestorbene in Kirchspiel Petzen                                     im Jahr 1822                      655
-```
-
-Translation of Page Header
-
-```{code-block} text
-
-654   Deaths in the Petzen Parish                                         in the year 1822                  655
-```
 
 ```{list-table} entry 14, in year 1822, for Johann Heinrich Krückeberg
 :header-rows: 1

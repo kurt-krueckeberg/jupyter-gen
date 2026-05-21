@@ -19,7 +19,7 @@
   - no. 19 Evesen
 ```
 
-## Citation
+## Record
 
 The burial of Friderich Wilhelm Krückeberg-Croemer, on May 29 1794, is on
 {ref}`page 485 <PET-D-1794a>` entry 16, of Petzen "Verzeichnis der Getauften,

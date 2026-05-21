@@ -17,14 +17,13 @@
   - no. 11 Evesen
 ```
 
-## Citation
+## Record
 
 The death of Heinrich Töns Werkmeister, October 17, 1801, {ref}`image
 236 <PET-D-1798a>`, of the Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827".
 
-## Image
-
+## Burial Image
 ```{image} images/petzen-band2-img236.jpg
 :class: image-override
 ```

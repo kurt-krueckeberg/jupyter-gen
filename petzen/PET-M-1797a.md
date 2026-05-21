@@ -39,7 +39,7 @@ sister of Hans Heinrich’s first wife, Anne Marie Philippine Blecke, who on
 Hans Heinrich Wilharm](PET-B-1797a.md).
 ```
 
-## Citation
+## Record
 
 The 27 August 1797 marriage of Hans Heinrich Wilharm to Sophie Ernestine Blecke
 is found on {ref}`image 10 <PET-M-1797a>` of the

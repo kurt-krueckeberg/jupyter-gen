@@ -31,7 +31,7 @@ Anne Marie Philippine nee Blecke Wilharm [died
 the day after giving birth](PET-D-1797a.md).
 ```
 
-## Citation
+## Record
 
 The birth record of Hans Heinrich Wilharm occurs on {ref}`image
 68 <PET-B-1797a>` of the [Archion](https:archion.de) digitial images of the Petzen

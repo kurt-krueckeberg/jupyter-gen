@@ -39,17 +39,15 @@
 * - 2 sons
 ```
 
-:::{admonition} What is a Leibzüchter?
+:::{note} What is a Leibzüchter?
 
 **Historical and Legal Context**
 
-```{note}
 The term **„Leibzüchter“** is an old and regionally specific German term,
 particularly used in areas like Schaumburg-Lippe, that refers to a retired
 farmer who retains a life estate on a farm—​someone who has passed the
 working operation of the holding to a successor (usually a son) but continues
 to live on the farm with guaranteed rights.
-```
 
 In traditional German rural inheritance customs, especially under Anerbenrecht,
 the farm was passed on intact to a single heir (the Anerbe). The parents would:
@@ -64,7 +62,7 @@ farm and now lived under the terms of the Leibgeding.
 
 :::
 
-## Citation
+## Record
 
 The death of Johann Heinrich Krückeberg Death in 1822 is found on
 {ref}`image 313, on pages 652 and 652 <PET-D-1822a>` of Petzen Kirchenbuch
@@ -72,12 +70,6 @@ volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 1785-1827".
 
 ### Pages 652 and 653
-
-Header and Column Headings:
-
-```{image} images/petzen-band2-img313-header.jpg
-:class: image-override
-```
 
 Page 652:
 
@@ -165,6 +157,6 @@ source)
 
 (PET-D-1822a)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([http:.md](http://www.archion.de/p/f57385caa9/) : 25 October 2023), path: Niedersachsen > Niedersächsisches
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([<http://www.archion.de/p/f57385caa9/>](http://www.archion.de/p/f57385caa9/) : 25 October 2023), path: Niedersachsen > Niedersächsisches
 Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 5 of 357
 

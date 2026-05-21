@@ -1,13 +1,12 @@
 # 1731 Heinrich Arend Vahlsing Death
 
-## Citation
+## Record
 
 The 3 Jan. 1730 burial record of Heinrich (Arends) Vahlsing is found on
 {ref}`image 147 <PET-D-1730a>` of the Petzen Kirchenbuch "Verzeichnis der
 Getrauten und Gestorbenen 1641-1784".
 
-## Image
-
+## Burial Image
 ```{image} images/petzen-band1b-img147.png
 :class: image-override
 ```

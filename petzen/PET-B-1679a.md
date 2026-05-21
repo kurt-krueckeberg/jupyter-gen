@@ -1,12 +1,12 @@
 # 1679 Johann Tönnis Kuhlmann Baptism
 
-## Citation
+## Record
 
 The baptism of is Johann Tönnis Kuhlmann is on {ref}`image 58 <PET-B-1679a>`,
 right-hand page, from the Petzen "Register of Baptism and Confirmed of the
 Petzen Parish, 1641-1784".
 
-## Image
+## Baptism Image
 
 ```{image} images/petzen-band1a-img58.png
 :class: image-override

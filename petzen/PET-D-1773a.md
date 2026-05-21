@@ -26,7 +26,7 @@ a widower, remarries, his **Stand** in the [1802 marriage record](PET-M-1802b.md
 is **Leibzüchter**
 ```
 
-## Citation
+## Record
 
 The August 27, 1773, burial of the stillborn sone of Johann Heinrich Krückeberg from No. 10 Berenbusch,
 appears on {ref}`image 210 <PET-D-1773a>`, on the right-hand page of the Petzen "Verzeichnis der Getrauten und Gestorbenen,

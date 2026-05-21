@@ -19,7 +19,7 @@
   - 
 ```
 
-## Citation
+## Record
 
 The June 23, 1771, interment of the stillborn son of Johann Heinrich Kruckeberg of Berenbusch
 appears on {ref}`image 204 <PET-D-1771a>`, on the left-hand page of the Petzen "Verzeichnis der

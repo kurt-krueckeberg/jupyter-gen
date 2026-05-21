@@ -29,7 +29,7 @@
 * - F[meaning Frauen?] Kruckeberg and Weiland from Berenbusch
 ```
 
-## Citation
+## Record
 
 The birth is recorded on {ref}`image 82 <PET-B-1803c>`, entry #40, on pages 158 and page 159 of the Petzen Kirchenbuch
 "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827" from the

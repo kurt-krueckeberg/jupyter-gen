@@ -1,6 +1,6 @@
 # 1790 Johann Heinrich Weiland Marriage
 
-## Citation
+## Record
 
 The marriage entry for Johann Heinrich Weiland is on the {ref}`image 6, page 6, entry 14 <PET-M-1790d>` of Petzen Kirchenbuch volume
 "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".

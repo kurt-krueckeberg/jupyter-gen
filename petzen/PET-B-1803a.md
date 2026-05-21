@@ -31,7 +31,7 @@
   - n. 4 Evesen
 ```
 
-## Citation
+## Record
 
 The birth is recorded on image 81, on pages {ref}`156 and 157 <PET-B-1803a>`, of the
 Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und

@@ -33,7 +33,7 @@
   - Evesen
 ```
 
-## Citation
+## Record
 
 The baptism of Philippina Eloenora Kruckebergen 1793 is the last entry, entry 16, on page 113, and it is continued at the top of page 114.
 This entry appears on {ref}`image 59, page 113 <PET-B-1793a-1>`, and the top of {ref}`page 114, on image 60 <PET-B-1793a-2>` of Petzen Kirchenbuch volume 2.

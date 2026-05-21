@@ -1,6 +1,6 @@
 # 1808 Caroline Sophie Weiland Baptism
 
-## Citation
+## Record
 
 The birth of Caroline Sophie Weiland is entry 4 on {ref}`image 99,
 pages 192-193 <PET-B-1808a>` of the Petzen Kirchenbuch volume "Verzeichnis der

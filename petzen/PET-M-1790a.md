@@ -16,7 +16,7 @@
   - no. 19 Evesen
 ```
 
-## Citation
+## Record
 
 On 2 August 1790, Johann Heinrich Krückeberg from Berenbusch No 10 married
 Anna Catharine Sophia Krömer from Evesen No 19. The marriage is entry 8 on

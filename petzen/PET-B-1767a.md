@@ -36,7 +36,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
   - Berenbusch
 ```
 
-## Citation
+## Record
 
 The baptism of Johann Heinrich Wilhelm Krückeberg is on {ref}`image 220 <PET-B-1767a>`, left page, last entry, of the Petzen
 "Verzeichnis der Getauften und Konfirmierten 1641-1784".

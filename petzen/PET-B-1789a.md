@@ -1,6 +1,6 @@
 # 1789 Johann Heinrich Weiland Baptism
 
-## Citation
+## Record
 
 The baptism of Johann Heinrich Weiland, on 20 September 1789, is on
 {ref}`image 45 <PET-B-1789a>`, the right page, entry #67.

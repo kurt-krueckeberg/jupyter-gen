@@ -2,7 +2,7 @@
 
 ## Family Relationship
 
-## Citation
+## Record
 
 The baptism appears on {ref}`image 173 <PET-B-1746a>` of the
 Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten 1641-1784".

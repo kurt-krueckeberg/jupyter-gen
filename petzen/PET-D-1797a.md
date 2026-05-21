@@ -1,6 +1,6 @@
 # 1797 Anne Marie Philippine Wilharm Death
 
-## Citation
+## Record
 
 The death record of Anne Marie Philippine Wilharm is found on
 {ref}`image 235 <PET-D-1797a>` of the [Archion](https://archion.de) digital

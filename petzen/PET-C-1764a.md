@@ -13,7 +13,7 @@
   - Berenbusch
 ```
 
-## Citation
+## Record
 
 The confirmation entry is on {ref}`image 313 <PET-C-1764a>`, the 6th entry for 1764, of the Petzen
 "Verzeichnis der Getauften und Konfirmierten 1641-1784".

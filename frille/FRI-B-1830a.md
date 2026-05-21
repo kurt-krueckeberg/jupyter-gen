@@ -67,7 +67,7 @@ Translation of page header: **Births and Baptims in 1830**.
 :header-rows: 1
 
 * - Num.
-  - Baptism-Name of the child.
+  - Baptism Name of the child.
   - Day and Hour of the Birth (in words and numbers).
   - Whether it is legitimate or illegitimate
   - Given and Surname of the Father, and his Status.

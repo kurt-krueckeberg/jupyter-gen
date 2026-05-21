@@ -1,6 +1,6 @@
 # 1754 Anna Maria Weiland Baptism
 
-## Citation
+## Record
 
 The baptism of Anna Maria Weiland is on {ref}`image 190, right hand
 page <PET-B-1754a>` from the "Verzeichnis der Getauften und Konfirmierten (Register of

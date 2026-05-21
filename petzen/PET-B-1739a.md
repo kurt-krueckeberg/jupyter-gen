@@ -13,7 +13,7 @@
   - Valsing
 ```
 
-## Citation
+## Record
 
 The baptism of a Johann Wilhelm Krückeberg occurred February 11th 1739.
 

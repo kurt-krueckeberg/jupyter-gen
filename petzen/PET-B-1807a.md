@@ -142,7 +142,7 @@ Colon/householder of No. 14 in Berenbusch.
 
 :::
 
-## Citation
+## Record
 
 The birth and baptism of Carl Friedrich Krückeberg is {ref}`on image 96, pages 186 and 187, entry 20, <PET-B-1807a>` of
 Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827" from the

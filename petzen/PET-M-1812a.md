@@ -84,7 +84,7 @@ records.
   - Pensioner allowed to live on the property
 ```
 
-## Citation
+## Record
 
 The marriage record is on {ref}`image 27, on pages 48 and 49 <PET-M-1812a>` of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 

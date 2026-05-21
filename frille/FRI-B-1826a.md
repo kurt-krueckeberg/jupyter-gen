@@ -70,7 +70,7 @@ Translation of page header: **Birth and Baptims in 1826**.
 :header-rows: 1
 
 * - Num.
-  - Baptism-Name
+  - Baptism Name
     of the child.
   - Day and Hour
     of the Birth

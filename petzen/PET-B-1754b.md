@@ -1,6 +1,6 @@
 # 1754 Anna Ilse Margaret Weiland Baptism
 
-## Citation
+## Record
 
 The baptism of Jobst Heinrich Weiland is on {ref}`image 191, left
 page, first entry <PET-B-1754b>` from the "Register of Baptism and Confirmed of the
@@ -11,8 +11,7 @@ The birth of Heinrich Wilhelm Bleeke from Evesen also appears on this
 image, on the right hand page (not shown).
 ```
 
-## Image
-
+## Baptism Image
 ```{image} images/petzen-band1a-img191-left-1754.jpg
 :class: image-override
 ```

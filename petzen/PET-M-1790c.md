@@ -33,7 +33,7 @@
 * - 1849
 ```
 
-## Citation
+## Record
 
 On 12 October 1790, Jobst Heinrich Krückeberg, a cobbler from Berenbusch No
 10, married Philippine Christine Eleonore Tegtmeyern from Meissen No 4.

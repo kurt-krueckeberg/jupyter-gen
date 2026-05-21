@@ -2,7 +2,7 @@
 
 ## Christine Eleonore Weiland 1789
 
-## Citation
+## Record
 
 The baptism record is on image 45, [page 85](#cite-PET-B-1789c), entry 7.
 

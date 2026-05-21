@@ -1,6 +1,6 @@
 # 1809 Wilhelmine Leonore Weiland Baptism
 
-## Citation
+## Record
 
 The birth and baptism of Wilhelmine Leonore Weiland is on {ref}`image 108, pages 210 and 211 <PET-B-1809a>`, of the Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 

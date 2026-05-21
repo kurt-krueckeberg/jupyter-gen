@@ -2,14 +2,9 @@
 
 In 1833 Ernst Friedrich Conrad Buuck, son of Ernst Diedrich Buuck and Christine Wilhelmine Dörmann, was born at Windheim 78.
 
-```{important}
-In addition to Ernst Diedrich Buuck, who married Christine Wilhelmine Dörmann, there was Carl Friedrich Buuck, who married
-Marie Christine Kleinschmidt.
-```
+## Record
 
-## Citation
-
-The baptism record is on [image 182, pages 178 and 179,](#image182) of the Windheim Kirchenbuch Volume 4: *Taufen
+The baptism record is on {ref}`image 182, pages 178 and 179, <image182>` of the Windheim Kirchenbuch Volume 4: *Taufen
 1816-1836, Beerdigungen 1816-1827, Beerdigungen 1827-1838, Trauungen 1816-1837, Konfirmationen 1816-1837, Trauungen
 1837-1838 Band 4*.
 
@@ -103,8 +98,7 @@ The translitration of old German script into contemporary latin-based German is 
 ```
 
 ```{note}
-I believe—​though I’m not certain, since the header does not denote this—​that the "fourth" written above the date and time of birth
-may indicate the birth order of the child.
+**fourth** written above the date and time of birth may indicate the birth order of the child.
 ```
 
 The translation follows below:
@@ -172,6 +166,7 @@ The translation follows below:
 ## Citations
 
 (image182)=
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/29b057fc33/> : 8 August 2024), path: Nordrhein-Westfalen > Landeskirchliches Archiv der Evangelischen Kirche von Westfalen > Kirchenkreis Minden > Windheim > Taufen 1816-1836, Beerdigungen 1816-1827, Beerdigungen 1827-1838, Trauungen 1816-1837, Konfirmationen 1816-1837, Trauungen 1837-1838 Band 4
-> Image 182 of 480
+
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([https:.md](https://www.archion.de/p/29b057fc33/) : 8 August 2024), path: Nordrhein-Westfalen > Landeskirchliches Archiv der Evangelischen Kirche von Westfalen > Kirchenkreis Minden > Windheim > Taufen 1816-1836, Beerdigungen 1816-1827, Beerdigungen 1827-1838, Trauungen 1816-1837, Konfirmationen 1816-1837, Trauungen 1837-1838 Band 4
+\> Image 182 of 480
 

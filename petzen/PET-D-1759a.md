@@ -15,7 +15,7 @@
   - Dec. 26, 1759
 ```
 
-## Citation
+## Record
 
 The December 26, 1759, burial of Johan Henrich Krückeberg from Berenbusch appears on {ref}`image 183 <PET-D-1759a>`, on the right-hand page, of the Petzen
 "Verzeichnis der Getrauten und Gestorbenen, 1641-1784".

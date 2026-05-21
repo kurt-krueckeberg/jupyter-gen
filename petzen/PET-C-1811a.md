@@ -30,7 +30,7 @@
   - April 7, 1811
 ```
 
-## Citation
+## Record
 
 The confirmation of Chrisinte Louise Krückeberg, on 14 April 1811, on the
 2nd Sunday after Easter(Qadsimodogeniti) is entry 20, on {ref}`pages 438 and 439 <PET-C-1811a>`, on entry #20, of Petzen Kirchenbuch "Verzeichnis der

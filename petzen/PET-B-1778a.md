@@ -1,6 +1,6 @@
 # 1778 Stillborn son of Johann Christian Weiland
 
-## Citation
+## Record
 
 The stillbirth of the little son of Johann Christian Weiland in 1778 is on {ref}`image 259, right page <PET-B-1778a>`, of the
 Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"

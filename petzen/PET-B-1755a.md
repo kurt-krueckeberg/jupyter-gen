@@ -1,6 +1,6 @@
 # 1755 Henrich Wilhelm Bleeke Baptism
 
-## Citation
+## Record
 
 This is the baptism record of Henrich Wilhelm Bleeke is found on
 {ref}`image 191 <PET-B-1755d>`, the right page, 3rd entry from top, of the

@@ -1,8 +1,7 @@
 # 1670 Heinrich Arends Vahlsing Baptism
 
-## Image
-
-The 1670 baptism entry is found on [image 47](#WIED-B-1670a), the first entry of the Wiedensahl parish *Kirchenbuch
+## Baptism Image
+The 1670 baptism entry is found on {ref}`image 47 <WIED-B-1670a>`, the first entry of the Wiedensahl parish *Kirchenbuch
 1666-1703*.
 
 ```{image} images/wiedensahl-1670-img47.png
@@ -39,6 +38,7 @@ Heinrich P[a.?] Harm.
 ## Citations
 
 (WIED-B-1670a)=
+
 "Archion Protestant Kirchenbücher Portal", database with images, *Archion*
 (<https://www.archion.de/p/520e17591e/> : 28 December 2025), path:  Niedersachsen > Landeskirchliches Archiv der
 Evangelisch-lutherischen Landeskirche Hannovers > Kirchenkreis Stolzenau-Loccum > Wiedensahl > Kirchenbuch

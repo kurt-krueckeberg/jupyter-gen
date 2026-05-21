@@ -98,7 +98,7 @@ that:
 
 :::
 
-## Citation
+## Record
 
 The marriage record is on {ref}`image 355, pages 736 and 737, <PET-M-1826a>` of the Petzen Kirchenbuch *Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827*.

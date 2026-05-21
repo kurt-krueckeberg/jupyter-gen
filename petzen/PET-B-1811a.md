@@ -1,6 +1,6 @@
 # 1811 Louise Dorothee Weiland Baptism
 
-## Citation
+## Record
 
 The birth and baptism of Louise Dorothee Weiland is on {ref}`image 115, pages 224 and 225 <PET-B-1811a>` of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 

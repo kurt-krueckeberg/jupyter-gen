@@ -28,7 +28,7 @@ the Nachtrag (addenda) that accompanies her 1812 marriage record, which states s
 Steinbergen, although a search of the 1796 Steinbergen parish register did not list her 1794 birth.
 ```
 
-## Citation
+## Record
 
 There is no separate birth record for the birth of Marie Philippine Krückeberg, rather her birth is mentioned in the Nachtrag (addenda) that
 accompanies her marriage record, which is on {ref}`image 27, on pages 48 and 49 <PET-B-1794a>` of the Petzen "Verzeichnis der Getauften, Konfirmierten,

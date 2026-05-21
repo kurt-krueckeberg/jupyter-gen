@@ -1,6 +1,6 @@
 # 1712 Anthon Henrich Vahlsing Baptism
 
-## Citation
+## Record
 
 The June 19, 1712, baptism of Anthon Henrich Vahlsing is on {ref}`image 120 <PET-B-1712b>`, the first entry of the right-hand page in the
 Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784" on

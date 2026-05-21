@@ -1,13 +1,12 @@
 # 1721 Catharine Elisabeth Bleeck Baptism
 
-## Citation
+## Record
 
 The baptism of Catherine Elisabeth Bleeck is on {ref}`image 129 <PET-B-1721a>`,
 right-hand page, 4th entry from the top, of the Petzen "Verzeichnis der
 Getauften und Konfirmierten 1641-1784".
 
-## Image
-
+## Baptism Image
 ```{image} images/petzen-band1a-img129.jpg
 :class: image-override
 ```

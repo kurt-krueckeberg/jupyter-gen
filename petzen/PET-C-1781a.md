@@ -15,7 +15,7 @@
   - Berenbusch
 ```
 
-## Citation
+## Record
 
 This confirmation entry is on the {ref}`320th image on Archion <PET-C-1781a>` of Petzen Kirchenbuch "database with images".
 

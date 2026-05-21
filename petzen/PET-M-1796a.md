@@ -30,7 +30,7 @@ and Berenbusch is my best guess for what is written underneath it.
   - not previously married
 ```
 
-## Citation
+## Record
 
 On 8 May 1796, Hans Heinrich Wilharm from Berenbuscha no. 9 married Anne
 Marie Philippine Blecke from Evesen No 19. The marriage is on

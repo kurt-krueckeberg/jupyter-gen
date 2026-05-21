@@ -31,7 +31,7 @@
   - 2 May 1843
 ```
 
-## Citation
+## Record
 
 The 29 Aug 1760 baptism record for Hans Heinrich Wilharm is on
 {ref}`image 202 <PET-M-1760a>` of the Petzen Kirchenbuch volume " Verzeichnis

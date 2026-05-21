@@ -5,8 +5,7 @@
 Christian Friderich Bleeke’s baptism and birth is recorded on page 283 of of Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ", image 152 of 388
 It is on {ref}`image 152 <FRI-B-1800a>`. The birth and baptism year appears on page 283. His birth and baptism is the 70th of the year.
 
-## Image
-
+## Baptism Image
 The baptism year of 1800 is written on the top of page 275 (of the baptism pages), which on image 148:
 
 ```{image} images/frille-band2-img148-275.jpg

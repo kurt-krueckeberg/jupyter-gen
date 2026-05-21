@@ -1,6 +1,6 @@
 # 1775 Anna Ilsa Margaretha Blecken Baptism
 
-## Citation
+## Record
 
 The December 17, 1775, baptism record for Anna Ilse Blecken appears on
 {ref}`image 247 <PET-B-1775c>`, on the right-hand page, entry #43, the third entry

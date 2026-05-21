@@ -13,7 +13,7 @@
   - Bärenbusch
 ```
 
-## Citation
+## Record
 
 The confirmation of Johanne Söphie Carlotte Krückeberg, in 1795, on the 2nd Sunday after Easter, is on {ref}`page 409 <PET-C-1795a>`, entry 2, Petzen Kirchenbuch:
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.

@@ -1,6 +1,6 @@
 # 1778 Sophia Ernestine Bleken Baptism
 
-## Citation
+## Record
 
 Sophia Ernestina Bleken’s baptism, on 11 September 1778, is on {ref}`image 261 <PET-B-1778b>`,
 left page, entry no. 26, from the  Petzen "Verzeichnis der Getaufte und

@@ -18,7 +18,7 @@ This is prospectively [Anna Louisa Eleonore Kruekeberg who was born
   - Jan. 26, 1757
 ```
 
-## Citation
+## Record
 
 The January 16, 1757, burial of the born-blind Louisa Eleonore Krückeberg
 of the "Krückebergs at Berenbusch" appears on {ref}`image 178 <PET-D-1757a>`,

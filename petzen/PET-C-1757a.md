@@ -13,7 +13,7 @@
   - Bernbusch
 ```
 
-## Citation
+## Record
 
 The confirmation entry for Johann Heinrich Krückeberg from Berenbusch is on the
 {ref}`310th image <PET-C-1757a>`, the right-hand page, the 5th entry, of **Confirmati 1757** of

@@ -17,7 +17,7 @@
   - 1802-1804
 ```
 
-## Citation
+## Record
 
 The confirmation of Christine Philippine Krückeberg in 1817, on the 1st Sunday After Easter,
 known as **Sonntag Qadsimodogeniti**, appears on {ref}`image 211 <PET-C-1817a>`, page 438, entry 6, among the list of Mädchen (girls) confirmed.

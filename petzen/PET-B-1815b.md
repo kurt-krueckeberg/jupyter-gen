@@ -4,7 +4,7 @@
 
 [https:GSW7-L4K](https://www.familysearch.org/en/tree/person/details/GSW7-L4K).
 
-## Citation
+## Record
 
 The birth and baptism of Heinrich Wilhelm Weiland is entry 37 on {ref}`image 137, pages 266-267 <PET-B-1815b>` of Petzen Kichenbuch volume "Verzeichnis der
 Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".

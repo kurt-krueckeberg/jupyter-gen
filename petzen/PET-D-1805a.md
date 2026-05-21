@@ -38,7 +38,7 @@
   - wife and 3 children
 ```
 
-## Citation
+## Record
 
 The death of Johann Hen. Krückeberg in 1805 is recorded on {ref}`image 243,
 pages 512 and 513 <PET-D-1805a>`, entry 8, of the Petzen Kirchenbuch "Verzeichnis der Getauften,

@@ -35,7 +35,7 @@ This is exactly what we expect after an **inter vivos Übergabe** (handover duri
 
 :::
 
-## Citation
+## Record
 
 The marriage occurred on April 11, 1802. It is {ref}`entry 10,
 page 19, on image 12 <PET-M-1802b>` of Petzen Kirchenbuch Verzeichnis der Getauften,

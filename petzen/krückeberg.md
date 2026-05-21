@@ -1,4 +1,4 @@
-# Krückeberg
+# Krückeberg in Petzen
 
 These transliterations and translations of the Krückeberg records found in the Petzen church registers
 are based on the online the digitized versions of the [Petzen

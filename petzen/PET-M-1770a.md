@@ -21,7 +21,7 @@
   - Heeßen
 ```
 
-## Citation
+## Record
 
 The February 18, 1770, marriage of Johann Heinrich Bleke from no. Evesen to
 Anna Maria Elisabeth Moeller is on {ref}`image 58 <PET-M-1770a>` of the Petzen

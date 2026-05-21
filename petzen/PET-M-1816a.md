@@ -87,7 +87,7 @@
   - Deceased
 ```
 
-## Citation
+## Record
 
 On 1 December 1816 Christine Louise Krückeberg, daughter of Johann Heinrich
 Krückeberg, married Johann Heinrich Klöpper.
@@ -143,7 +143,7 @@ Maiden Christine Louise Krückebergs, the surving daugher of the late Johann Hei
   - Deceased
 ```
 
-## Citation
+## Record
 
 On 1 December 1816 Christine Louise Krückeberg, daughter of Johann Heinrich
 Krückeberg, married Johann Heinrich Klöpper.

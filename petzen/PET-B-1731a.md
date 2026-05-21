@@ -30,7 +30,7 @@
   - Berenbusch
 ```
 
-## Citation
+## Record
 
 The baptism of Rudolphina Margaretha Elisabeth Krückeberg is on {ref}`image 144 <PET-B-1731a>`, left-hand page,
 last entry on the page, of the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784" from the

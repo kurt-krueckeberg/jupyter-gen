@@ -21,7 +21,7 @@
 :class: image-override
 ```
 
-## Citation
+## Record
 
 The September 6th 1733 baptism of Jobst Hinrich Krückeberg, the son of Johann
 Hinrich Krückeberg Hinrich of Berenbusch, is on {ref}`image 149 <PET-B-1733a>` of the Petzen Kirchenbuch "Verzeichnis

@@ -28,7 +28,7 @@ Sophie Marie Krückeberg [born in 1741](PET-B-1741a.md), whose [death record](PE
 states she was also born blind.
 ```
 
-## Citation
+## Record
 
 The baptism appears on {ref}`image 174 <PET-B-1746a>` at the bottom of the left-hand
 page of the Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten 1641-1784".

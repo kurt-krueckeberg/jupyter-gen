@@ -1,6 +1,6 @@
 # 1736 Hans Heinrich Weiland Baptism
 
-## Citation
+## Record
 
 The baptism of Hand Heinrich Weiland is on {ref}`image 1153 <PET-B-1736b>`, left-hand page, third to last entry, of the
 "Verzeichnis der Getauften und Konfirmierten 1641-1784".

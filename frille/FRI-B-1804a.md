@@ -5,8 +5,7 @@
 Marie Louise Bleeke’s baptism and birth is recorded on {ref}`page 317, entry 43 <FRI-B-1804a>`, of Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ",
 image 70 of 388.
 
-## Image
-
+## Baptism Image
 The baptism year of 1804 is written on the top of page 302 (of the baptism pages), which on image 168:
 
 ```{image} images/frille-band2-img168-302.jpg

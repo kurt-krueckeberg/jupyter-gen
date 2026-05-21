@@ -7,8 +7,7 @@ appears on [image 384, entry #48](FRI-D-1757a) in the Frille "Verzeichnis
 der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages,
 Deaths) 1664-1757.
 
-## Image
-
+## Burial Image
 ```{image} images/frille-band1-img384.jpg
 :class: image-override
 ```

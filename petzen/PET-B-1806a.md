@@ -94,7 +94,7 @@ numbered property.
 
 :::
 
-## Citation
+## Record
 
 The baptism of Johann Heinrich Krückeberg is image {ref}`91 of 357 of the Archion.de images <PET-B-1806a>`
 of the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".

@@ -1,6 +1,6 @@
 # 1783 Phlippina Eleonore Werkmeister Baptism
 
-## Citation
+## Record
 
 The May 4, 1783, baptism record for Phlippina Eleonore Werkmeister Baptism is on
 {ref}`image 287 <PET-B-1783a>`, left page, the first entry, of the "Verzeichnis

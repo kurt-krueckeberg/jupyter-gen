@@ -71,7 +71,7 @@ professions.
 with the father in these records.
 ```
 
-## Citation
+## Record
 
 The February 23, 1812, marriage record is on {ref}`image 27, on pages 48 and 49 <PET-M-1812b>` of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 

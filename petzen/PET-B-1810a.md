@@ -1,6 +1,6 @@
 # 1810 Carl Heinrich Wilharm Baptism
 
-## Citation
+## Record
 
 The baptism record of Carl Heinrich Wilharm is found on {ref}`image 112 <PET-B-1810a>` of the Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827.

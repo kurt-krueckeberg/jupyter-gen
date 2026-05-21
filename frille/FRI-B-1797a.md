@@ -5,8 +5,7 @@
 Johann Heinrich Philip Bleeke’s baptism and birth is recorded on page 154 of of Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ",
 {ref}`image 136 <FRI-B-1797a>` of 388. The birth and baptism year appears on page 248. His birth and baptism is the 46th recorded in 1797.
 
-## Image
-
+## Baptism Image
 The baptims year 1797 is written at the top of page 248 (of the baptism pages), which is on image 133:
 
 ```{image} images/frille-band2-img133-248.jpg

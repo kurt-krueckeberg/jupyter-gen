@@ -1,6 +1,6 @@
 # 1755 Sophie Maria Krückeberg Confirmation
 
-## Citation
+## Record
 
 The confirmation is found on {ref}`image 310 <PET-C-1755b>` of the Petzen
 Kirchenbuch volume "Verzeichnis der Getauften und Konfirmierten 1641-1784".

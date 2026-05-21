@@ -30,7 +30,7 @@
   - shepherd
 ```
 
-## Citation
+## Record
 
 The October 21, 1728, marriage of Henrich Vahlsing to Anna Margaretha Bruns
 is on {ref}`image 37 <PET-M-1728a>`, the right-hand page, of the Petzen

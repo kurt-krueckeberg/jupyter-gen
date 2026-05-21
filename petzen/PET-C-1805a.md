@@ -30,7 +30,7 @@ parish. Philippine Caroline Christine’s baptism occurred on [3 Feb. 1792](PET-
 and she was born on 1 Feb. 1792.
 ```
 
-## Citation
+## Record
 
 The confirmation of Philippine Caroline Christine Krückeberg Confirmation in 1805 is on {ref}`image 192 <PET-C-1805a>`,
 page 420, entry 13, of the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen

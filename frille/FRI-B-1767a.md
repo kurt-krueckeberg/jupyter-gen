@@ -16,7 +16,7 @@ Baptism, Marriages, Deaths) 1758-1804 ".
 ### Transliteration and Translation
 
 ```{note}
-After the baby’s name, followed by her place of birth, three names occur
+After the infant’s name, followed by her place of birth, three names occur
 preceded, respecitvely, by the following single-letter abbreviations:
 
 - P — Pater = father

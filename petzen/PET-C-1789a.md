@@ -14,7 +14,7 @@
   - Berenbusch
 ```
 
-## Citation
+## Record
 
 The confirmation of Christina Krückeberg, on 19 April 1789, on
 Quasimodogeniti (the 1st Sunday After Easter), is found on {ref}`page 415 entry 10 <PET-C-1789a>` of Petzen Kirchenbuch volume Verzeichnis der Getauften,

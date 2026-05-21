@@ -1,4 +1,4 @@
-# 1760 Charlotte Lou[i]se Henriette Bleeke Baptism
+# 1760 Charlotte Louse Henriette Bleeke Baptism
 
 ## Record
 

@@ -17,7 +17,7 @@
   - 1802 to 1804
 ```
 
-## Citation
+## Record
 
 The confirmation of Sophie Caroline Krückeberg in 1817, on the 1st Sunday After Easter,
 known as **Sonntag Qadsimodogeniti**, appears on {ref}`image 211 <PET-C-1817b>`, page 438,

@@ -75,7 +75,7 @@
   - no. 4 Evesen
 ```
 
-## Citation
+## Record
 
 The birth and baptism of Caroline Dorothee Krückeberg and Ernst Heinrich
 Weiland are on {ref}`image 125, pages 244 and 245 <PET-B-1812a>` of the Petzen

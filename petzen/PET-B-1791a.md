@@ -26,7 +26,7 @@
   - Berenbusch
 ```
 
-## Citation
+## Record
 
 This baptism is recorded on {ref}`image 52 on Archion <PET-B-1791a>` of Petzen Kirchenbuch volume 2.
 

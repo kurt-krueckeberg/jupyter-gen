@@ -5,8 +5,7 @@
 Christian Fridrich Bleeke’s marriage in 1793 to Anne Margarthe Volckening is on {ref}`image 202, page 53 <FRI-M-1793a>` of the listing of Copulierte
 (marriages) in the Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ".
 
-## Image
-
+## Marriage Image
 Overview of pages 52 and 53 showing the marriages of two Bleekes:
 
 ```{image} images/frille-band2-img202-52-53.jpg

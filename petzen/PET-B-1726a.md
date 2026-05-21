@@ -1,14 +1,13 @@
 # 1726 Annna Maria Elisabeth Bleek[e] Baptism
 
-## Citation
+## Record
 
 The baptism of Annna Maria Elisabeth Bleek[e] is on {ref}`image
 132 <image136>`, right hand page, 5th entry from the top, of the "Verzeichnis der
 Getauften und Konfirmierten (Register of Baptism and Confirmed of the
 Petzen Parish) 1641-1784".
 
-## Image
-
+## Baptism Image
 ```{image} images/petzen-band1a-img136.jpg
 :class: image-override
 ```

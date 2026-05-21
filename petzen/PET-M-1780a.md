@@ -30,13 +30,12 @@
   - widow of Bleke
 ```
 
-## Image
-
+## Marriage Image
 ```{image} images/petzen-band1b-img65.jpg
 :class: image-override
 ```
 
-## Citation
+## Record
 
 The June 11, 1780 marriage of Heinrich Tönnes Werkmeister from Wülpke
 to Ilse Maria Elisabeth née Möller, widow of Bleken, from Evesen, is on

@@ -1,12 +1,12 @@
 # 1696 Hans Otto Kuckeberg/Krickeberg/Kruckeberg Baptism
 
-## Citation
+## Record
 
 The baptism of Hans Otto is on {ref}`image 89 <PET-B-1696a>`, right-hand page,
 2nd entry from the "Register of Baptism and Confirmed of the Petzen
 Parish, 1641-1784".
 
-## Image of Baptism Record
+## Baptism Image
 
 ```{image} images/petzen-band1a-img89.jpg
 :class: image-override

@@ -14,7 +14,7 @@
     Dominica Quasimodogeniti
 ```
 
-## Citation
+## Record
 
 This confirmation entry is on the {ref}`319th image <PET-C-1778a>`, entry #2, of the Petzen
 "Verzeichnis der Getauften und Konfirmierten 1641-1784".

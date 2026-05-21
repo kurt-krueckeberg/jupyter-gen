@@ -29,7 +29,7 @@
   - 20 March 30 1806
 ```
 
-## Citation
+## Record
 
 The confirmation of Philippine Louise Leonore Krückeberg Confirmation on Sunday
 Quasimodogeniti 1806 is entry 12, on {ref}`image 201 <PET-C-1806a>`, pages 426 and 427 of

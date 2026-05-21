@@ -37,7 +37,7 @@
   - Bärenbusch
 ```
 
-## Citation
+## Record
 
 The birth and baptism are recorded on {ref}`image 71 <PET-B-1798b>` of pages 136 and page 137, entry #24, of the "Verzeichnis der
 Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827". The birth entries span both pages 136 and 137.

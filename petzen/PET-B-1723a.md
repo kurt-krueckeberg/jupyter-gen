@@ -1,6 +1,6 @@
 # 1723 Johann Daniel Bleeck Baptism
 
-## Citation
+## Record
 
 The baptism of Johann Daniel Bleeck is on {ref}`image 132 <image132>`, right
 hand page. of the "Verzeichnis der Getauften und Konfirmierten (Register of

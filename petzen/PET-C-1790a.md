@@ -1,6 +1,6 @@
 # 1790 Friderich Wilhelm Weiland Confirmation
 
-## Citation
+## Record
 
 The confirmation of Friderich Wilhelm Weiland, in 1790, on Quasimodogeniti
 (the 1st Sunday After Easter), is found on {ref}`ANNO 1790 entry

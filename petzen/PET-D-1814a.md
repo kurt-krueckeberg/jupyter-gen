@@ -1,6 +1,6 @@
 # 1814 Ilse (Elisabeth) Marie nee Möller, married 1st Blecke, married 2nd Werkmeister, Death
 
-## Citation
+## Record
 
 ```{note}
 - **Ilsabey** is a **regional, phonetic compound form of Elisabeth**
@@ -22,8 +22,7 @@ found on {ref}`image 285 <PET-D-1814a>` of the [Archion](https://archion.de)
 images of the Petzen Kirchenbuch volume "Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
-## Image
-
+## Burial Image
 ```{image} images/petzen-band2-img285.jpg
 :class: image-override
 ```

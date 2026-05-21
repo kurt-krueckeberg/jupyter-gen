@@ -1,6 +1,6 @@
 # 1716 Anna Engel Bleeke Baptism
 
-## Citation
+## Record
 
 The baptism of Anna Engel Bleecke is on {ref}`image 124 <PET-B-1716a>`,
 left-hand page, 3nd entry from the top, of the Petzen "Verzeichnis der

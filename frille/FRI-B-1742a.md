@@ -7,7 +7,7 @@ appears on {ref}`image 131, on the right  page, entry #450 <FRI-B-1742a>` in
 Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of
 Baptism, Marriages, Deaths) 1664-1757.
 
-## Image
+## Baptism Image
 
 ```{image} images/frille-band1-img131.jpg
 :class: image-override

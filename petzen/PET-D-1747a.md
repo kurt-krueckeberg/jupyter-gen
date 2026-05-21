@@ -19,7 +19,7 @@
   - 
 ```
 
-## Citation
+## Record
 
 The November 5, 1747, interment of the Johann Wilhelm Krückeberg son of Johann Heinrich Krückeberg of Berenbusch
 appears on {ref}`image 167 <PET-D-1747a>`, on the right-hand page of the Petzen "Verzeichnis der

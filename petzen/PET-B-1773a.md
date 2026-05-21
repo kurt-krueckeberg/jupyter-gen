@@ -28,14 +28,13 @@
   - no. 9 Evesen
 ```
 
-## Citation
+## Record
 
 The July 11, 1773, baptism record for Anna Philippine Maria Blecken appears on
 {ref}`image 238 <PET-B-1773a>` of the Petzen "Verzeichnis der Getauften und Konfirmierten
 1641-1784" on [Archion.de](https://archion.de).
 
-## Image
-
+## Baptism Image
 ```{image} images/petzen-band1a-img238.jpg
 :class: image-override
 ```

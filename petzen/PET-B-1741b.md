@@ -1,16 +1,17 @@
 # 1741 Anna Catharina Möller Baptism
 
-## Image
+## Record
+
+The baptism entry is found on {ref}`image 163 <PET-B-1741b>` on
+[ARchion.de](https://archion.de) of the images of the "Verzeichnis der
+Getauften und Konfirmierten 1641-1784".
+
+## Baptism Image
 
 ```{image} images/petzen-band1a-img163-möller.jpg
 :class: image-override
 ```
 
-## Citation
-
-The baptism entry is found on {ref}`image 163 <PET-B-1741b>` on
-[ARchion.de](https://archion.de) of the images of the "Verzeichnis der
-Getauften und Konfirmierten 1641-1784".
 
 ## Transliteration and Translation
 
