@@ -1,19 +1,24 @@
 # 1760 Charlotte Lou[i]se Henriette Bleeke Baptism
 
-## Citation
+## Record
 
-The baptism Charlotte Loyse[Louise] Heiniette Bleecke occurred on 18 July 1760. It appears on {ref}`page 16, on image 11 <FRI-B-1760a>`, of
-Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ", on image 11 of 388.
+The baptism Charlotte Loyse[Louise] Heiniette Bleecke occurred on 18 July
+1760. It appears on {ref}`page 16, on image 11 <FRI-B-1760a>`, of Frille
+"Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism,
+Marriages, Deaths) 1758-1804 ", on image 11 of 388.
 
 ## Images
 
-The baptism and birth year of 1760 is written on page 13  (of the baptism pages), just below the middle of the page, on image 9:
+The baptism and birth year of 1760 is written on page 13  (of the baptism
+pages), just below the middle of the page, on image 9:
 
 ```{image} images/frille-band2-img9-13.jpg
 :class: image-override
 ```
 
-The birth and baptism of Charlotte Loyse(Louise) Heinriette Bleeckeis recorded on entry number 33 on {ref}`page 16 <FRI-B-1760a>` (of the baptism pages).
+The birth and baptism of Charlotte Loyse(Louise) Heinriette Bleeckeis
+recorded on entry number 33 on {ref}`page 16 <FRI-B-1760a>` (of the baptism
+pages).
 
 ```{image} images/frille-band2-img11-16.jpg
 :class: image-override
@@ -23,38 +28,37 @@ The birth and baptism of Charlotte Loyse(Louise) Heinriette Bleeckeis recorded o
 
 :::{admonition} Remarks on Entry 33
 
-After the baby’s name, followed by her place of birth, three names occur preceded, respecitvely, by the following single-letter abbreviations:
+After the infant’s name, followed by her place of birth, three names occur
+preceded, respecitvely, by the following single-letter abbreviations:
 
-- P — indicates the father. Perhaps from the Latin Pater = father
-- M — for  mother;`Mutter` = mother
-- S — for apparently the godparent.
+- P — Pater = father
+- M — Mater =  mother
+- S — Sponsor/Gevatterin 
+- KriegesRätin - the wife or widow of a **Kriegsrat**, a war councillor.
 
-The godmother’s name is challenging because "Kröger", while a surname, also means "innkeeper". Her married surname
-appears to be Meier. The maiden name is more challenging.
+```text
+33) On 18 July: Charlotte Loyse Henriette Bleke,
+from Frille. Father: the Prussian schoolmaster Daniel
+Heinrich Philip Bleke. Mother: Amalia Wilhelmina
+Dünker. Sponsor: Mrs. War Councillor Charlotte Loyse
+Henriette Meirre, née Delius.
+```
 
-The u in Louse is resembles the laten character y — but one assumes this is an diiosyncratically drawn u. The s following it
-is identical to the Kurrent h, a practice used in the Petzen church records also.
-
-:::
-
-```{list-table} 18 July 1760 Baptism of Charlotte Louise Henriette Bleeke
-
-* - 16
-* - 33 den 18ten Jul[ii]: Charlotte Loyse Heinriette Bleeken
-        aus Frille P[pater / Vater]  der prueß[ische] Schulmesiter Daniel
-        Heinrich Philip Bleke M[mater / Mutter] Amalia Wilhelmina
-        Dunckern, Sspona / Patin]. die Frau KriegsRaetin[Kriegsraetin] Charlotte Loyse
-        Henrieette [?Meier...? / Meier?]. gebohren Delius
-* - 33 On July 18th: Charlotte Loyse Heinriette Bleeken
-        from Frille. Father: the Prussian schoolmaster Daniel
-        Heinrich Philip Bleeke Mother: Amalia Wilhelmina
-        Dunckern. Sponsor: Godmother the wife Krögerraetin Charlotte Loyse
-        Henriette [?Meier...?] born Delius
+```text
+33) On 18 July: Charlotte Louise Henriette Bleke,
+    from Frille. Father: the Prussian schoolmaster Daniel
+    Heinrich Philip Bleke. Mother: Amalia Wilhelmina
+    Dünker. Sponsor: the War Councillor’s wife Charlotte Louise
+    Henriette Meirre, née Delius.
 ```
 
 ## Citations
 
 (FRI-B-1760a)=
 
-"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/11732ef7c6/> : 12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille > Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 11 of 388
-
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion*
+(<https://www.archion.de/p/11732ef7c6/> : 12 November 2023), path:
+Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
+Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 11 of
+388

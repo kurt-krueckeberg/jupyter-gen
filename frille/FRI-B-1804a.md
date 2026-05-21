@@ -1,6 +1,6 @@
 # 1804 Marie Louise Bleeke Baptism
 
-## Citation
+## Record
 
 Marie Louise Bleeke’s baptism and birth is recorded on {ref}`page 317, entry 43 <FRI-B-1804a>`, of Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ",
 image 70 of 388.
@@ -25,17 +25,18 @@ The baptism entry for Marie Louise Bleeke is entry 44, on page 317 (of the bapti
 Pr is presumably Protestant
 ```
 
-```{list-table} Baptism of Christian Friderich Bleeke
+```text
+43)  d 29ten Sept. Marie Louise Bleecken aus
+Pr.  Leteln. P. Christian Fridrich Bleccke. M.
+     Anne Margarethe Volckenings. Sp. Catherine
+     Louise Volckenings.
+```
 
-* -                                                 317
-* - 43) d 29ten Sept. Marie Louise Bleecken aus
-    Pr.  Leteln. P[for Vater]. Christian Fridrich Bleccke. M[for Mutter].
-         Anne Margarethe Volckenings. Sp[for godparent]. Catherine
-         Louise Volckenings.
-* - 43) On 29th Sept. Marie Louise Bleecken from
-    Pr.  Leteln. Father Christian Fridrich Bleecke. Mother
-         Anne Margarethe Volckenings. Godmother Catherine
-         Louise Volckenings.
+```text
+43)  On 29th Sept. Marie Louise Bleecken from
+Pr.  Leteln. Father: Christian Fridrich Bleecke. Mother:
+     Anne Margarethe Volckenings. Sponsor: Catherine
+     Louise Volckenings.
 ```
 
 ```{note}

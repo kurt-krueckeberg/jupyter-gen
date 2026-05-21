@@ -93,7 +93,7 @@ Translation of page header: **Born and Baptized in the year 1843**.
   - Christine Sophie Leonore Backemeier
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Geborne und Getaufte im Jahr
 1843 in Kirchspiel Frille" [sic.], Nr. 56, Chrsitine Marie Leonore Bleeke, born 24 Dec. 1843, baptized 31 Dec. 1841;

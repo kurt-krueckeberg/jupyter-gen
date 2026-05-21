@@ -91,7 +91,7 @@ Translation of page header: **Born and Baptized in the year 1831**.
   - Christine Luise Leonore Bleeke
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Gebohrne und Getaufte im
 Kirchspiel königlich Preußlich Anteils im Jahre 1831" [sic.], Nr. 28, Christine Sophie Leonore Bleeke, born 14 Aug. 1831,

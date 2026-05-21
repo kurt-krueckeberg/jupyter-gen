@@ -93,7 +93,7 @@ Translation of page header: **Births and Baptims in 1830**.
   - Johann Hartwig Wehmeÿer Schul[lehrer] in Leeteln
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed “Gebohrne und Getaufte im Jahr
 1830 Kirchspiel Frille”, Nr. 65, Johann Hartweg Gottlieb Leberecht Bleeke, born 9 Dec. 1830, baptized 19 Dec. 1830,

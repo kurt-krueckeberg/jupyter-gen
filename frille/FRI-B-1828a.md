@@ -88,7 +88,7 @@ Translation of page header: **Births and Baptims in 1828**.
   - Johann Heinrich Bleeke
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille, Kreis Minden, “Geborne und Getaufte im Jahr 1828 Kirchspiel Frille”, entry #9 for
 Christian Friederich Bleeke, 28 Feb. 1828,

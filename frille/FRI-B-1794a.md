@@ -1,19 +1,14 @@
 # 1794 Carl Fridrich Bleeke Baptism
 
-## Citation
+## Record
 
 Carl Fridrich Bleeke’s birth and baptism is recorded on {ref}`page 229 <FRI-B-1794a>` of Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ",
 on image 123 of 388.
 
 ## Images
 
-The birth year 1794 is written in the upper right corner of image 121:
-
-```{image} images/frille-band2-img121-225.jpg
-:class: image-override
-```
-
-The birth and baptism of Carl Fridrich Bleeke is recorded on entry number 38 on {ref}`page 229 <FRI-B-1794a>` (of the baptism pages).
+The birth and baptism of Carl Fridrich Bleeke is recorded on entry number
+38 on {ref}`page 229 <FRI-B-1794a>` (of the baptism pages).
 
 ```{image} images/frille-band2-img123-229.jpg
 :class: image-override
@@ -21,17 +16,19 @@ The birth and baptism of Carl Fridrich Bleeke is recorded on entry number 38 on 
 
 ### Transliteration and Translation
 
-```{list-table} Baptism of Carl Fridrich Bleeke
+```text
+38) [Pr.] d. 2ten Nov. Carl Frid. Bleecke in Leteln
+P. Christian Frid. Bleecke. M. Anne
+Margarethe Volckenings. Sp. Carl Frid.
+Bleecke u. Jobst Heinr. Adolph Volckening.
+```
 
-* -                                                       229
-* - 38) d. 30 Oct./2ten Nov. Carl Frid Bleecke in Leteln
-    Pr. P. Christian Frid. Bleeke. M. Anne
-        Margarethe Volckenings. Sp. Carl Frid.
-        Bleeke u. Jobst Heinr Adolph Volckening.
-* - 38) On.30th Oct./2ndn Nov. Carl Frid Bleecke in Leteln
-    Pr. Father: Christian Fridrich. Bleeke. Mother: Anne
-        Margarrethe Volckening. Godfathers: Carl Fridrich
-        Bleeke u. Jobst Heinrich Adolph Volckening.
+```text
+38) [Pr.] On 2 November, Carl Friedrich Bleecke in Leteln.
+
+Father: Christian Friedrich Bleecke.
+Mother: Anne Margarethe Volckening.
+Sponsors: Carl Friedrich Bleecke and Jobst Heinrich Adolph Volckening.
 ```
 
 ## Citations

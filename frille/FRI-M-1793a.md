@@ -1,6 +1,6 @@
 # 1793 Christian Fridrich Bleeke Marriage
 
-## Citation
+## Record
 
 Christian Fridrich Bleeke’s marriage in 1793 to Anne Margarthe Volckening is on {ref}`image 202, page 53 <FRI-M-1793a>` of the listing of Copulierte
 (marriages) in the Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ".
@@ -29,19 +29,20 @@ All brides names are followed by a Latin phrase in which abbreviations are somet
 - juv. cum stuprata — young man (juvenculus; juvenca is young woman) with (cum) pregnant out of wedlock (stuprata)
 - juv. cum virg — young man with maiden, virgin
 
-If the first latin word is abbreviated juv., then the possible meaning imply a youth, or youthful or unmarried youth. These
-are the Latin words starting with juv that Thode’s German-English Genealogical Dictionary has:
+If the first latin word is abbreviated juv., then the possible meaning
+imply a youth, or youthful or unmarried youth. 
 ```
 
-```{list-table} Marriage of Christian Fridrich Bleeke to Anne Margarethe Volckening
+```text
+2) d. 22 Febr. Christian Frid. Bleeke mit
+      Anne Margarethe Volckenings beide
+      aus Leteln, juv. cum virg.
+```
 
-* - 53
-* - 2) d. 22 Febr. Christian Frid. Bleeke mit
-           Anne Margarethe Volckenings beide
-           aus Leteln, juv. cum virg.
-* - 2) On 22 February Christian Fridrich Bleeke married
-           Anne Margarethe Volckening both
-           from Leteln. young man with maiden (virgin)
+```text
+2) On 22 February Christian Fridrich Bleeke married
+   Anne Margarethe Volckening both from Leteln, young man with
+   maiden (virgin)
 ```
 
 ## Citations

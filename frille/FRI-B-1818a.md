@@ -110,7 +110,7 @@ Translation: **Born and Baptized in the year 1818**
     No. 27 Wietersheim
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Getaufte im Jahre 1818 im
 Kirchspiel Frille königlich Preussischen Anhteils" [sic], Nr. 16, Carl Heinrich Bleeke, born 27 Apr 1818, baptized

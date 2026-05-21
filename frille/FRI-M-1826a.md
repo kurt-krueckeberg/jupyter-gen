@@ -115,7 +115,7 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
   - v. z. Pr. Schütz
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille, Kreis Minden, “Aufgebotene und Getraute im Jahr 1826, Kirchspiel Frille,”
 entry for Christian Friederich Bleeke and Luise Eleonore Krückeberg, 26 Nov. 1826,

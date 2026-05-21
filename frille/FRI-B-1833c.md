@@ -90,7 +90,7 @@ Translation of page header: **Born and Baptized in the year 1833**.
   - Marie Luise Bleeke; Christine Luise Schwier
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Gebohrne und Getaufte im
 Jahre 1833 Kirchspiel Frille königlich Preußlich Anteils" [sic.], Nr. 28, Marie Luise Leonore Bleeke, born 15 Nov.

@@ -1,6 +1,6 @@
 # 1742 Ann Maria Elisabeth Schäkel Baptism
 
-## Citation
+## Record
 
 The baptism of Ann Maria Elisabeth Schäkel occurred on 9 October 1742. It
 appears on {ref}`image 131, on the right  page, entry #450 <FRI-B-1742a>` in

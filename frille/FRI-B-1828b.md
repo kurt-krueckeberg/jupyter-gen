@@ -96,7 +96,7 @@ Translation of page header: **Born and Baptized in the year 1828**.
     Schwier
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille, Kreis Minden, "Geborne und Getaufte im Jahre 1828 Kirchspiel Frille", entry #28,
 Christine Marie Bleeke, born 14 Aug. 1828, Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,

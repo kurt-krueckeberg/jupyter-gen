@@ -89,7 +89,7 @@ Translation of page header: **Births and Baptims in 1823**.
   - Carl Fried: Hartmann from Frille
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille, Kreis Minden, “Gebohrne u. Getaufte im Jahr 1823", entry #39 for "Carl Fried: Bleeke",
 12 Oct. 1823, Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,

@@ -91,7 +91,7 @@ Translation of page header: **Born and Baptized in the year 1836**.
     2. Christian Ko[hlm]eier
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Geborne und Getaufte
 im Jahr 1836 Kirchspiel Frille" [sic.], Nr. 19, Christian Heinrich Bleeke, born

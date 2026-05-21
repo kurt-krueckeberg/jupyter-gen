@@ -90,7 +90,7 @@ Translation of page header: **Born and Baptized in the year 1823**.
   - Christian Fried. Bleeke of Leeteln
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Gebohrne u Getaufte im Jahre
 1823" [sic], entry #29 for Carl Fried. Bleeke, born 10 July 1823, Kirchenbuchduplikat, B 168 (GHT 1815–1830),

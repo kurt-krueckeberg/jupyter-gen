@@ -1,6 +1,6 @@
 # 1792 Carl Fridrich Bleeke Marriage
 
-## Citation
+## Record
 
 Carl Fridrich Bleeke’s marriage in 1792 to Anne Marie Rieckmann is on {ref}`image 202, page 52 <FRI-M-1792a>` (of the listing of Copulierte
 (marriages) of the Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ".
@@ -22,26 +22,30 @@ View of marriage of Carl Fridrich Bleeke, page 52 (of the pages devoted to listi
 ### Transliteration and Translation
 
 ```{important}
-All brides names are followed by a Latin phrase in which abbreviations are sometimes used. Example Latin phrases are:
+All brides names are followed by a Latin phrase in which abbreviations are sometimes used.
+Examples of these Latin phrases are:
 
 - viduus cum stuprata — widower (viduus) with (cum) pregnant out of wedlock (stuprata)
 - viduus cum virg — widower (viduus) with virgo (young woman; virgin; maiden)
-- juv. cum stuprata — young man (juvenculus; juvenca is young woman) with (cum) pregnant out of wedlock (stuprata)
-- juv. cum virg — young man with maiden, virgin
+- juv. cum stuprata — young man (juvenculus; juvenca is young woman) with (cum) 
+  pregnant out of wedlock (stuprata)
+- juv. cum virg — young man (juv.) with (cum) maiden, virgin (virg)
 
-If the first latin word is abbreviated juv., then the possible meaning imply a youth, or youthful or unmarried youth. These
-are the Latin words starting with juv that Thode’s German-English Genealogical Dictionary has:
+If the first latin word is abbreviated juv., then the possible meanings
+imply a youth, or youthful or unmarried youth.
 ```
 
-```{list-table} Marriage of [?] Carl Fridrich Bleeke to Anne Marie Rieckmanns
+```text
+15) d. 23ten Nov. Carl Frid. Bleecke
+Schulmeister in Leteln mit Anne Marie
+Riechmanns aus Leteln. juv. cum stuprata
+```
 
-* - 52
-* - 15) d. 23ten Nov. [?] Carl Frid. Bleeke Schul-
-    meister in Leteln mit Anne Marie
-    [D/B/K/R]iechmanns aus Leteln. jur[juv]. cum. stuprata
-* - 15) On 23rd November [?possible 1st initial] Carl Fridrich Bleeke
-    Schoolmaster in Leteln married Anne Marie
-    [D/R]iechmann from Leteln. young man with pregnant out of wedlock (bride).
+```text
+15) On 23 November, Carl Friedrich Bleecke,
+schoolmaster in Leteln, [was married] to Anne Marie
+Riechmann from Leteln, a maiden, with the woman having been deflowered
+ / made pregnant.
 ```
 
 ## Citations

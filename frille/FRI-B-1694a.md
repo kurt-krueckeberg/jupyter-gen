@@ -1,6 +1,6 @@
 # 1694 Johann Heinrich Vahlsing Baptism
 
-## Citation
+## Record
 
 The baptism of Johann Heinrich Vahlsing occurred on 29 April 1694. It
 appears on {ref}`image 67, entry #15 <FRI-B-1694a>` in the Frille "Verzeichnis

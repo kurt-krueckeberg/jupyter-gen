@@ -1,6 +1,6 @@
 # 1798 Christine Marie Schwier Baptism
 
-## Citation
+## Record
 
 The baptism of Christine Marie Schwier occured on 13 May 1798. It is {ref}`image 138, page 259 <FRI-B-1798a>` of the
 Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804".

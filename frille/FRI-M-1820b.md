@@ -123,7 +123,7 @@ Translation of page header: **Proclaimed (banns) and Married in the year 1820**.
   - Schütz
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille, Kreis Minden, "Aufgebotene und Getraute im Jahr 1820", entry #9 for Johann Heinrich
 Bleeke and Christine Marie Schwier, married 9 July 1820,

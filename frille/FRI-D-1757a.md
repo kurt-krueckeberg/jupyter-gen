@@ -1,6 +1,6 @@
 # 1757 Johann Heinrich Vahlsing Death
 
-## Citation
+## Record
 
 The death of Johann Heinrich Vahlsing occurred on 11 September 1757. It
 appears on [image 384, entry #48](FRI-D-1757a) in the Frille "Verzeichnis

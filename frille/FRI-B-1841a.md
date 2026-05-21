@@ -90,7 +90,7 @@ Translation of page header: **Born and Baptized in the year 1841**.
     2) Christine Sophie H[?]menah
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Geborne und Getaufte im Jahr
 1841 in Kirchspiel Frille" [sic.], Nr. 16, Christine Sophie Leonore Bleeke, born 7 April 1841, baptized 12 April

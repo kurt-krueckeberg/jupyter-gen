@@ -91,7 +91,7 @@ Translation of page header: **Births and Baptims in 1833**.
     2) Sophie Luise Friedericke Steinmeier
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed “Geborne und Getaufte im Jahr
 1833 Kirchspiel Frille königlich Preussichen Anteil” [sic.], Nr. 8, Sophie Luise Leonore Bleeke, born 4 March 1833,

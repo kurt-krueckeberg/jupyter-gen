@@ -99,7 +99,7 @@ Translation of page header: **Born and Baptized in the year 1839**.
     6) Fried. Marks.
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Geborne und Getaufte
 in Kirchspiel Frille im Jahr 1839" [sic.], Nr. 31, Heinrich Friederich Christian Bleeke, born

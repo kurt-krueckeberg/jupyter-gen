@@ -95,7 +95,7 @@ Translation of page header: **Born and Baptized in the year 1825**.
     Fried: Wilm: Schildmeier
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille, Kreis Minden, “Gebohrne im Jahre 1825”, entry #15 for Carl Friederich Wilhelm Bleeke, born 30 Nov. 1825,
 Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,

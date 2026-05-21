@@ -93,7 +93,7 @@ Translation of page header: **Births and Baptisms in the year 1830**.
     Sophie Dorothea Krückeberg
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Gebohrne und Getaufte
 im Jahr 1830" [sic.], Nr. 41, Sophie Christine Leonore Bleeke, born 27 July 1830, baptized 1 Aug. 1830;

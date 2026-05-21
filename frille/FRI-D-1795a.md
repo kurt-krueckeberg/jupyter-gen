@@ -1,6 +1,6 @@
 # 1795 Johann Fridrich Bleecke Burial
 
-## Citation
+## Record
 
 The death of Johann Fridirch Bleecke occurred on 22 April 1795. It is {ref}`image 313, page 185 of the listing of deaths <FRI-D-1795a>`.
 
@@ -13,21 +13,23 @@ The death of Johann Fridirch Bleecke occurred on 22 April 1795. It is {ref}`imag
 ### Transliteration and Translation
 
 ```{note}
-Many entries have written immediatly below that date what seems to be the abbrviation **Pr.**. Some entries have a longer abbreviation.
-What does it stand for? There is no key or legend to consult.
-
-This entry has Pr. P.
+Many entries have written immediatly below the entry number an
+abbreviation, which is either "Pr." or "Sch".  The border between
+Prussia/Brandenburg and Schaumburg-Lippe ran through Frille, so a likely
+explanation is that **Pr.** = Prussian side and **Sch** = Schaumburg-Lippe
+side.
 ```
 
-```{list-table} Burial of Johann Fridrich Bleecke 22 April 1795
+```text
+17)    d 22ten April Joh. Frid. Bleecke
+Pr. P. Altermann in Frille, starb von Schlag[e]
+       alt 70 Jar. Man. maritus.
+```
 
-* -                                                 185
-* - 17) d 22ten April Joh, Frid. Bleecke
-    Pr. P. Altermann in Frille, starb von Schlag[e]
-    alt 70 Jar. Man. maritus.
-* - 17) On 22nd April Johann Fridrich Bleecke
-    Pr. P. Head of a guild;head of chamber of commerces[or judge] in Frille, died from stroke
-           age 70. Man.[possibly: mane (Latin) = in the morning] husband
+```text
+17) On 22 April, Johann Friedrich Bleecke, [Pr. P.],
+an alderman/local judge in Frille, died of a stroke,
+aged 70 years; male, married.
 ```
 
 ## Citations

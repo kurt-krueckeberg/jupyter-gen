@@ -117,7 +117,7 @@ Translation of page header: **Deaths in 1825**.
   - Frille
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille, Kreis Minden, "Verstorbene im Jarh 1825", entry #14 for Carl Friederich Bleeke, died
 11 May 1825, Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe,

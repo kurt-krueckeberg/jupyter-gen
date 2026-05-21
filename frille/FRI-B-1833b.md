@@ -97,7 +97,7 @@ Translation of page header: **Births and Baptisms in the year 1833**.
     3. Philippine Caroline Krückeberg
 ```
 
-## Citation
+## Record
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Geborne und Getaufte
 im Jahr 1833 Kirchspiel Frille köngilich Preußischen Anteil" [sic.], Nr. 19, Philippine Luise Leonore Bleeke, born
